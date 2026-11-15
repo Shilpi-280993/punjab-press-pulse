@@ -67,6 +67,10 @@ From the sentiment judge, 15 Nov 2026:
 6. New case: a non-party protest front (for example the Qaumi Insaaf Morcha for Bandi Singhs) is relevant, not `Opposition internal`. If its headline only states its own stance (such as staying out of elections), it is Neutral; it is Negative only when the attack on the government is the headline's lead.
 7. New case: a protest against a private employer becomes relevant when the item says the police acted for the employer (detaining protesters, removing their tent). Code it Negative under `Crime & law and order`, not `Schools, health & employees`, since the workers are not government staff.
 
+From owner review, 15 Nov 2026:
+
+8. `Court rebukes & govt finances` is for court rebukes, fines and strain on state finances, so it is never Positive. A court ruling in the government's favour (for example a penalty upheld in an illegal mining case) goes to `Governance, Assembly & politics` with detailed theme `Anti-corruption`, or to the group of its subject. Neutral finance items (bond issues, borrowing) may stay in the group.
+
 ## Daily commentary (data/notes/<date>.json)
 
 ```

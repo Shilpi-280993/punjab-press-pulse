@@ -145,7 +145,7 @@
 
   <section id="themes">
     <div class="pp-sec-head"><span class="pp-num">2</span><h2 class="pp-h2">Themes: positive vs negative</h2></div>
-    <p class="pp-note">Ranked by space: the total newspaper space the theme's stories took, in pages (each story's size is estimated as a share of its page). Size is measured from 16 Nov 2026; earlier dates show – and are ranked by number of stories.</p>
+    <p class="pp-note">Top 10 themes on each side, ranked by space: the total newspaper space the theme's stories took, in pages (each story's size is estimated as a share of its page). Size is measured from 16 Nov 2026; earlier dates show – and are ranked by number of stories.</p>
     <div class="pp-grid">
       <div class="pp-card accent-pos" id="pos-themes-card">
         <h3 class="pp-h3 pp-pos">Positive themes</h3>
@@ -281,7 +281,7 @@ dash.calc('pos_themes', { inputs: ['stories'], title: 'Positive themes ranked', 
     if (Number(r.page_weight) === 3) t.front_pages += 1;
   });
   return Object.values(g).sort((a, b) => b.space - a.space || b.stories - a.stories)
-    .map((t, i) => ({ rank: i + 1, theme_group: t.theme_group, stories: t.stories, papers: t.papers.size, front_pages: t.front_pages, space: t.sized ? Math.round(t.space * 10) / 10 : null }));
+    .map((t, i) => ({ rank: i + 1, theme_group: t.theme_group, stories: t.stories, papers: t.papers.size, front_pages: t.front_pages, space: t.sized ? Math.round(t.space * 10) / 10 : null })).slice(0, 10);
 } });
 dash.calc('neg_themes', { inputs: ['stories'], title: 'Negative themes ranked', description: 'Negative stories grouped by theme; space = sum of each story\'s estimated share of its page, in pages (measured from 16 Nov 2026).', fn: (stories) => {
   const g = {};
@@ -292,7 +292,7 @@ dash.calc('neg_themes', { inputs: ['stories'], title: 'Negative themes ranked', 
     if (Number(r.page_weight) === 3) t.front_pages += 1;
   });
   return Object.values(g).sort((a, b) => b.space - a.space || b.stories - a.stories)
-    .map((t, i) => ({ rank: i + 1, theme_group: t.theme_group, stories: t.stories, papers: t.papers.size, front_pages: t.front_pages, space: t.sized ? Math.round(t.space * 10) / 10 : null }));
+    .map((t, i) => ({ rank: i + 1, theme_group: t.theme_group, stories: t.stories, papers: t.papers.size, front_pages: t.front_pages, space: t.sized ? Math.round(t.space * 10) / 10 : null })).slice(0, 10);
 } });
 
 dash.calc('papers', {
