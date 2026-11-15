@@ -555,7 +555,7 @@ dash.onData(() => {
   document.getElementById('date-chip').textContent = longDate(day);
   document.getElementById('hero-title').textContent = day === 'all' ? 'How the press covered AAP and the Punjab government, all dates' : `How the press covered AAP and the Punjab government on ${d3.timeFormat('%-d %B')(new Date(day + 'T00:00:00'))}`;
   document.title = `Punjab Press Pulse · ${day === 'all' ? 'All dates' : shortDate(day) + ' ' + day.slice(0, 4)}`;
-  document.getElementById('numbers-note').textContent = note ? note.sources : `All ${dash.dates().length} dates combined. Each day is the monitoring deck plus a full-edition sweep; relevant = about AAP, the Punjab government or a state matter.`;
+  document.getElementById('numbers-note').textContent = note ? note.sources + (note.validation ? ' ' + note.validation : '') : `All ${dash.dates().length} dates combined. Each day is the monitoring deck plus a full-edition sweep; relevant = about AAP, the Punjab government or a state matter.`;
   fillList('well', note ? note.well : Object.values(NOTES).flatMap((n) => n.well.slice(0, 1)).concat([['Pick a date above for that day\'s detail.', 'The combined view adds up every story across dates.']]));
   fillList('improve', note ? note.improve : Object.values(NOTES).flatMap((n) => n.improve.slice(0, 1)));
   if (k.status === 'ok') {

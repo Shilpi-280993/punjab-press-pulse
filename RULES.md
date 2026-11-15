@@ -25,6 +25,7 @@ These rules reproduce the analysis built for 27 and 28 Oct 2026 (951 stories, au
 | detailed_theme | Finer label (see examples). |
 | aap_voice | true when an AAP leader or minister is the speaker making the point (including the CM attacking the BJP or the Centre) |
 | story | Optional. Short label for a news event that ran in several papers, e.g. `Punjab Da Crorepati quiz launch`. Use the same label on every row of that event. Label the 10 to 15 biggest events of the day. |
+| ref | Where the clipping is, so the judge can find it: `deck slide 41` or `<edition file name> p.7`. Required from 15 Nov 2026. |
 | date | YYYY-MM-DD |
 
 ## Relevance
@@ -46,7 +47,11 @@ Event groups: when one event or controversy runs in many papers, give it its own
 
 Detailed theme examples: `Opposition attack: BJP` / `: Congress` / `: SAD` / `: Other` (always Negative; the dashboard counts share of voice from these), `Assembly uproar`, `Defections from AAP`, `Police action vs drugs` / `vs arms` / `vs gangs` / `vs crime`, `Law & order / crime`, `Murder`, `Attack on police`, `Custodial/drug death protest`, `Paddy procurement`, `Agriculture & stubble`, `Employee protests`, `Health services`, `Civic issues`, `Development works`, `Social welfare`, `AAP attack on opposition (drugs)`, `AAP attack on BJP (national)`, `Election Commission`, `Anti-corruption`, `Own MLAs' complaints`.
 
-## Audit rules from 31 Oct (apply when coding, not after)
+## Lessons from audits and the sentiment judge (apply when coding, not after)
+
+The daily sentiment judge (VALIDATION.md) adds a dated rule here whenever the same kind of correction appears 3 or more times in a day, or it finds a case these rules do not cover. Read the last 7 days of `data/audit/*.csv` as worked examples before coding.
+
+From the 31 Oct audit:
 
 1. Police seizures, raids and arrests are Positive, theme `Police action on gangs, arms & drugs`.
 2. The CM or an AAP leader attacking the BJP, Congress or SAD is `aap_voice: true` and Positive (`AAP leaders' counter-attacks`, or `Punjab's rights` when about water, PU or Chandigarh).

@@ -17,14 +17,18 @@ Places:
 
 3. Deck: `python3 scripts/deck_text.py "<deck>.pdf" /tmp/deck.json`. Slides have the typed English headlines; slides with `needs_visual: true` have only a header, so read their clippings from the slide image (`pdftoppm -r 90 -f N -l N -png`). Look at the image whenever the typed text is ambiguous or seems to merge two headlines. One row per clipping, coded by RULES.md. The deck sections (AAP / BJP / INC / SAD / Others coverage) help with who is speaking but do not decide sentiment.
 
+Before coding, read RULES.md including its Lessons, and the last 7 days of `data/audit/*.csv` as worked examples of past corrections; pass both to every coding subagent.
+
 4. Full editions (all 15 papers): for each edition PDF, render every page at about 70 to 90 dpi and read it. Add every Punjab-government, AAP or state-matter story that is not already a deck row for that paper (`source: "Full edition"`), including Dainik Savera's district pages. Identify unnamed files by their masthead. Split this across subagents, one per edition (give each the RULES.md text and that paper's deck headlines so it does not duplicate them), and have each return rows as JSON.
 
-5. Merge: one list for D, deck rows first, story_id from 1, set `story` labels on the biggest 10 to 15 events (same label across papers), check event theme groups against earlier days in `data/stories/`. Write `data/stories/D.json` and `data/notes/D.json` (format in RULES.md; every number in the notes must be counted from the rows).
+5. Merge: one list for D, deck rows first, every row with its `ref`, story_id from 1, set `story` labels on the biggest 10 to 15 events (same label across papers), check event theme groups against earlier days in `data/stories/`. Write `data/stories/D.json` and `data/notes/D.json` (format in RULES.md; every number in the notes must be counted from the rows).
 
-6. Build and check: `python3 scripts/build.py` (it validates fields), then open `index.html` headlessly (playwright) and confirm: no console errors, D appears first in the date picker, the takeaway and the "Biggest stories" table show D's data, and "All dates" still works.
+6. Sentiment judge (VALIDATION.md): `python3 scripts/judge.py prep D`, run the blind Claude Fable 5.2 judges (Agent tool, `model: "fable"`, one per batch, in parallel), `python3 scripts/judge.py compare D`, run the Fable adjudication on the disagreements, then `python3 scripts/judge.py apply D`. Turn any correction pattern seen 3 or more times, and every "new case", into a dated rule under Lessons in RULES.md, and recount the notes text if the changes affect it.
 
-7. Publish: commit `data/`, `exports/`, `index.html`, `stories.json` with message `Add D` and push to `main` (`git -c push.negotiate=true push`).
+7. Build and check: `python3 scripts/build.py` (it validates fields), then open `index.html` headlessly (playwright) and confirm: no console errors, D appears first in the date picker, the takeaway and the "Biggest stories" table show D's data, and "All dates" still works.
 
-8. Save to the Mac: commit `exports/AAP_media_analysis_D.csv` into `D/`, and `index.html` + `stories.json` into `Dashboard/` (overwrite).
+8. Publish: commit `data/` (stories, notes, judge, audit), `RULES.md`, `exports/`, `index.html`, `stories.json` with message `Add D` and push to `main` (`git -c push.negotiate=true push`).
 
-9. Push notification (one line): relevant stories, negative and positive shares, the top event, missing files if any, and the dashboard link.
+9. Save to the Mac: commit `exports/AAP_media_analysis_D.csv` and `data/audit/D.csv` (as `judge_audit_D.csv`) into `D/`, and `index.html` + `stories.json` into `Dashboard/` (overwrite).
+
+10. Push notification (one line): relevant stories, negative and positive shares, the judge's agreement rate and number of labels changed, the top event, missing files if any, and the dashboard link.
