@@ -1,6 +1,6 @@
 # Daily run: Punjab print media monitor
 
-Run once a day (scheduled 10:23 IST, after the morning files land in WhatsApp). Date D = today in IST unless the run is told another date.
+Run once a day (scheduled 10:26 IST, after the morning files land in WhatsApp). Date D = today in IST unless the run is told another date.
 
 Places:
 - Mac folder: `~/Documents/Personal/PB Print Media Monitor/` (dated subfolders `D/`, scripts in `_system/scripts/`, live copy of the dashboard in `Dashboard/`). On the device shell it is `$HOME/mnt/Documents/Personal/PB Print Media Monitor` (or `$HOME/mnt/PB Print Media Monitor` if only that folder is connected).
