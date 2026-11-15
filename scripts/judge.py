@@ -16,7 +16,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 LABELS = {"Positive", "Neutral", "Negative", "Not about AAP/Govt", "Govt ad"}
 JUDGE = "Claude Fable 5.2"
 BATCH = 50
-SAMPLE = 100  # rows judged per day: every low-confidence row plus a random sample up to this total
+SAMPLE = 100  # random rows judged per day, on top of every low-confidence row
 
 
 def p(*a):
@@ -43,13 +43,13 @@ def judged_rows(d):
 
 
 def pick_sample(d, rows):
-    """Every row the coder marked low confidence, plus a random sample (seeded by date, spread across
-    papers) of the rest, up to SAMPLE rows in total."""
+    """Every row the coder marked low confidence, plus a random sample of SAMPLE rows (seeded by date,
+    spread across papers) from the rest."""
     import random
     low = [r for r in rows if str(r.get("confidence", "")).lower() == "low"]
     rest = [r for r in rows if r not in low]
     rng = random.Random(d)
-    k = max(0, min(len(rest), SAMPLE - len(low)))
+    k = min(len(rest), SAMPLE)
     by_paper = collections.defaultdict(list)
     for r in rest:
         by_paper[r["newspaper"]].append(r)

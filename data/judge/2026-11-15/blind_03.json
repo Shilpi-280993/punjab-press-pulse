@@ -1,0 +1,240 @@
+[
+ {
+  "story_id": 27,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Fatal crash of a Mukh Mantri Tirth Yatra scheme bus; headline leads with 5 pilgrims dead."
+ },
+ {
+  "story_id": 28,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "2004-05 FCI rice scam convicted by CBI court; no Punjab govt angle."
+ },
+ {
+  "story_id": 31,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Minister Sond extends tubewell load regularisation deadline: delivery/relief for farmers."
+ },
+ {
+  "story_id": 32,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "AAP state chief Aman Arora hits back at opposition: AAP counter-attack (Lesson 2)."
+ },
+ {
+  "story_id": 216,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Congress chief Pargat Singh campaign questioning state and Centre: opposition attack."
+ },
+ {
+  "story_id": 239,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "SAD leader Cheema demands govt clarify power bills: opposition attack."
+ },
+ {
+  "story_id": 261,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "BJP leader Jakhar blames state govt for cutting procurement target, farmers suffering: opposition attack."
+ },
+ {
+  "story_id": 262,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "BJP leader Khanna says ground situation on drugs unchanged: opposition attack."
+ },
+ {
+  "story_id": 104,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Fresh CBI FIR against CM's OSD: damaging to the govt."
+ },
+ {
+  "story_id": 106,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "2004-05 FCI rice scam convicted by CBI court; no Punjab govt angle."
+ },
+ {
+  "story_id": 107,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Fatal crash of a Mukh Mantri Tirth Yatra scheme bus; headline leads with 5 pilgrims dead."
+ },
+ {
+  "story_id": 108,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Police bust arms and drug networks, 9 arrests, seizures: police action is always Positive."
+ },
+ {
+  "story_id": 110,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Police arrest smuggler-influencer with ice drug and pistols: police action."
+ },
+ {
+  "story_id": 113,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "CM Mann on govt making youth job-givers: delivery claim in AAP voice."
+ },
+ {
+  "story_id": 269,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "BJP leader Khanna says ground situation on drugs unchanged: opposition attack."
+ },
+ {
+  "story_id": 75,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Teachers protest at CM's house and scuffle with police: protest against the govt."
+ },
+ {
+  "story_id": 331,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Short factual notice of bhog and antim ardas; no tilt in the headline itself."
+ },
+ {
+  "story_id": 332,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Editorial asks 'political relief or administrative failure?' about the power-bill settlement: critical of govt."
+ },
+ {
+  "story_id": 789,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "Headline leads with recovery of mobile phones from undertrials: seizure rule."
+ },
+ {
+  "story_id": 793,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Employees hand over demand letter for the govt: employee grievance, mild."
+ },
+ {
+  "story_id": 794,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Armed gang ransacks house, cash and jewellery stolen: crime."
+ },
+ {
+  "story_id": 795,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "20 kg poppy husk seized, case registered: police seizure."
+ },
+ {
+  "story_id": 800,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "Police seize Fortuner with liquor and fake number: seizure rule."
+ },
+ {
+  "story_id": 801,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Stubble smoke raising road accident risk: stubble/civic failure."
+ },
+ {
+  "story_id": 804,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "Cases registered against six for stubble burning: enforcement action."
+ },
+ {
+  "story_id": 810,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Street lights off for a month, commuters upset: civic failure.",
+  "headline_fix": "Street lights on Mudki road off for a month, commuters upset"
+ },
+ {
+  "story_id": 817,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Employee leaders say new salary payment policy will add to difficulties: criticism of govt policy."
+ },
+ {
+  "story_id": 823,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Speculation as AAP minister Dr Ravjot Singh's ticket is not announced: AAP internal trouble.",
+  "headline_fix": "Buzz in halqa as Dr Ravjot Singh's ticket not announced"
+ },
+ {
+  "story_id": 824,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Headline leads to Multani's rebellion as a challenge for AAP: dissent in AAP."
+ },
+ {
+  "story_id": 825,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Drug recovery from jail 'exposes' the anti-drug campaign: headline frames govt failure."
+ },
+ {
+  "story_id": 831,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Half-built flyover hurting trade: civic/infrastructure failure."
+ },
+ {
+  "story_id": 833,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "Cane Commissioner meets sugarcane growers: govt outreach to farmers."
+ },
+ {
+  "story_id": 837,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Forest dept arrests 4 poachers: enforcement action.",
+  "headline_fix": "Forest dept arrests 4 poachers with live tortoises"
+ },
+ {
+  "story_id": 845,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "District-wide CASO search operation: police action."
+ },
+ {
+  "story_id": 852,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Operators protest with black badges over demands: employee protest."
+ },
+ {
+  "story_id": 853,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Motorcycle theft: crime item."
+ },
+ {
+  "story_id": 859,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "Case against two after positive dope test: police action vs drugs."
+ },
+ {
+  "story_id": 865,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "AAP leaders show black flags to Channi's yatra: AAP counter-attack on opposition."
+ },
+ {
+  "story_id": 867,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Govt cancels transfers of 4 SDEs: routine administrative item, no tilt.",
+  "headline_fix": "Govt cancels transfers of 4 SDEs"
+ }
+]

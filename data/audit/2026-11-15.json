@@ -1,0 +1,88 @@
+{
+ "date": "2026-11-15",
+ "judge": "Claude Fable 5.2",
+ "rows_judged": 181,
+ "blind_agreement": 144,
+ "agreement_rate": 0.7956,
+ "disagreements": 37,
+ "sentiment_changed": 15,
+ "coder_kept": 22,
+ "patterns": [
+  {
+   "before": "Neutral",
+   "after": "Not about AAP/Govt",
+   "rule": "Relevance: Others",
+   "count": 5
+  },
+  {
+   "before": "Not about AAP/Govt",
+   "after": "Neutral",
+   "rule": "new case",
+   "count": 1
+  },
+  {
+   "before": "Neutral",
+   "after": "Negative",
+   "rule": "Negative: shortages / headline's lead",
+   "count": 1
+  },
+  {
+   "before": "Neutral",
+   "after": "Positive",
+   "rule": "Lesson 2 (AAP counter-attack)",
+   "count": 1
+  },
+  {
+   "before": "Neutral",
+   "after": "Negative",
+   "rule": "Negative: crime / headline's lead",
+   "count": 1
+  },
+  {
+   "before": "Positive",
+   "after": "Not about AAP/Govt",
+   "rule": "Relevance: Others",
+   "count": 1
+  },
+  {
+   "before": "Negative",
+   "after": "Neutral",
+   "rule": "Headline's lead",
+   "count": 1
+  },
+  {
+   "before": "Not about AAP/Govt",
+   "after": "Negative",
+   "rule": "Negative: defections from AAP",
+   "count": 1
+  },
+  {
+   "before": "Neutral",
+   "after": "Negative",
+   "rule": "Negative: civic failures",
+   "count": 1
+  },
+  {
+   "before": "Negative",
+   "after": "Neutral",
+   "rule": "Neutral: factual items / headline's lead",
+   "count": 1
+  },
+  {
+   "before": "Neutral",
+   "after": "Positive",
+   "rule": "Positive: delivery",
+   "count": 1
+  }
+ ],
+ "new_cases": [
+  {
+   "story_id": 43,
+   "reason": "Headline leads with the morcha staying out of the elections, a factual item. It is relevant (not Opposition internal): the morcha is a Bandi Singh protest front, not a party, and the strap and body condemn the Centre's and the Punjab government's attitude and the CM's unkept assurance. The attack is not the headline's lead, so Neutral."
+  },
+  {
+   "story_id": 700,
+   "reason": "The protest is against a private gas agency owner, but the body says the owner used influence in government circles to get Tripri police to detain the union leaders and dismantle the protest tent, after which SKM leaders went to the police station. Police conduct is a state matter, so the story is relevant and Negative, as in the Tibba land dispute (story 495). The theme should not be employees, since these are not government staff."
+  }
+ ]
+}

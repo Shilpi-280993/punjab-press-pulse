@@ -1,0 +1,33 @@
+{
+  "validation": "Sentiment checked by Claude Fable 5.2 as an independent judge on a sample of 181 of the 944 stories (every low-confidence row plus 100 at random): it agreed with the coding on 144 (80%, and 90 of the 100 random rows); after review 17 labels were changed.",
+  "sources": "The monitoring deck's 307 clippings (slides 18 to 319), plus 639 stories the deck missed: every page of Dainik Savera (including its district pages), The Savera Times (including its district editions) and the District Front Page file (Rozana Spokesman, Punjabi Jagran, Dainik Jagran and Punjabi Tribune city pages), and a one-off sweep of the other 11 papers' main editions. The State Front Page file only repeated the main editions and was skipped. Relevant = about AAP, the Punjab government or a state matter.",
+  "takeaway": "{negative_share} of the {relevant} relevant stories were negative and {positive_share} positive. The CM's 'Punjab Da Crorepati' quiz launch led the day with 12 front pages across 14 papers, and district pages carried 171 police seizures and arrests. Against that, the Tarn Taran collision of Tirth Yatra scheme buses ran in 14 papers with 9 front pages, and opposition statements numbered 96.",
+  "well": [
+    [
+      "Punjab Da Crorepati owned the front pages.",
+      "The quiz launch ran in 14 papers, 12 of them on page 1, and all 15 rows were positive."
+    ],
+    [
+      "Police action is again the largest positive theme.",
+      "171 stories on seizures, arrests and busts, including the arrest of the man who threatened Kejriwal (7 papers) and the Amritsar arms and drug networks bust (6 papers)."
+    ],
+    [
+      "Farm relief and campus events landed well.",
+      "The tubewell load VDS extension ran in 12 papers and the CM at the SBS University convocation in Ferozepur in 10, all positive."
+    ]
+  ],
+  "improve": [
+    [
+      "A welfare scheme became the day's main bad news.",
+      "The collision of Tirth Yatra scheme buses near Tarn Taran ran 19 times in 14 papers with 9 front pages; 15 of the 19 rows were negative."
+    ],
+    [
+      "Opposition statements stayed high.",
+      "96 attacks (BJP 48, Congress 24, SAD 18, others 6) against 12 stories with an AAP voice. SAD's attack on the power OTS scheme ran in 7 papers and Kewal Dhillon's 'law and order has collapsed' in 6."
+    ],
+    [
+      "Crime and the OSD case keep law and order in the news.",
+      "98 crime stories, 85 of them negative, and the FIR against the CM's OSD Rajbir ran in 8 papers, 7 of them negative."
+    ]
+  ]
+}

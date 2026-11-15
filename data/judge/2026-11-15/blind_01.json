@@ -1,0 +1,281 @@
+[
+ {
+  "story_id": 3,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Headline leads with the CM directing better treatment for the injured: government response."
+ },
+ {
+  "story_id": 17,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "AAP candidate honoured on his announcement: AAP organisation and outreach."
+ },
+ {
+  "story_id": 20,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "AAP leader says the AAP candidate will win by a big margin: AAP voice, outreach."
+ },
+ {
+  "story_id": 299,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Headline is only a tribute-ceremony notice, but the item is the Jhota murder (crime and murders are Negative, Jhota event group); Neutral is the alternative."
+ },
+ {
+  "story_id": 301,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Akali Dal (Waris Punjab De) leader presses the Punjab government for compensation: opposition demand on the government."
+ },
+ {
+  "story_id": 308,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Same Ajit p.3 item as deck slide 311 (a duplicate of story 299); murder-linked Jhota coverage, headline itself is a ceremony notice.",
+  "headline_fix": "Tribute ceremony for Parvinder Singh Jhota today"
+ },
+ {
+  "story_id": 310,
+  "sentiment": "Neutral",
+  "confidence": "low",
+  "reason": "Op-ed headline 'need to strengthen Punjab economically' carries no clear tilt; body text not legible enough to find an attack."
+ },
+ {
+  "story_id": 312,
+  "sentiment": "Govt ad",
+  "confidence": "high",
+  "reason": "Punjab State Lotteries Diwali Bumper display advertisement."
+ },
+ {
+  "story_id": 314,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "'Dance of death' resumes: banned China dor being sold secretly, an enforcement failure."
+ },
+ {
+  "story_id": 317,
+  "sentiment": "Neutral",
+  "confidence": "high",
+  "reason": "Routine posting: new SDM takes charge, no tilt."
+ },
+ {
+  "story_id": 319,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Administration fines 18 farmers for stubble burning: factual enforcement item, cuts both ways."
+ },
+ {
+  "story_id": 320,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "New classroom inaugurated at a government school: delivery."
+ },
+ {
+  "story_id": 321,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "Municipal council passes Rs 11 lakh grant for gaushala: grant."
+ },
+ {
+  "story_id": 134,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Punjab Police arrest the man who threatened Kejriwal and he is jailed: police action."
+ },
+ {
+  "story_id": 135,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "CBI widens corruption probe against the CM's OSD Ghumman."
+ },
+ {
+  "story_id": 141,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Headline leads with an undertrial escaping from custody; recapture is only in the body."
+ },
+ {
+  "story_id": 142,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "2 kg heroin seized on the border: seizures are always Positive (recovery was by BSF, hence medium)."
+ },
+ {
+  "story_id": 143,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Meri Rasoi ration kits reach 31 lakh families: scheme delivery."
+ },
+ {
+  "story_id": 228,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Congress chief Pargat attacks AAP: 'feared leaders would flee'. Opposition attack."
+ },
+ {
+  "story_id": 229,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Bajwa attacks use of public money to polish the CM's image. Opposition attack."
+ },
+ {
+  "story_id": 869,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "AAP candidate's road show, a 'show of strength': AAP outreach.",
+  "headline_fix": "Election heat rises: AAP shows strength with Salaria's road show in Sujanpur"
+ },
+ {
+  "story_id": 878,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Headline pairs the deadline extension with 'sluggish MSeva adds to confusion' and a slow server as the main hurdle: service failure."
+ },
+ {
+  "story_id": 880,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Government blood bank built two years ago still awaiting departmental sanction: service failure."
+ },
+ {
+  "story_id": 882,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "Case registered after a positive dope test: police action on drugs."
+ },
+ {
+  "story_id": 886,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "BJP leader demands aid for farmers and tells the government to do its job instead of blaming others: opposition statement."
+ },
+ {
+  "story_id": 888,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Court rejects Vigilance closure report and orders re-investigation: court rebuke."
+ },
+ {
+  "story_id": 890,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Harsimrat 'corners state government' on drugs: opposition attack (SAD)."
+ },
+ {
+  "story_id": 893,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "Drug inspector says licences follow rules and warns sellers of banned medicines: enforcement; Neutral is the alternative."
+ },
+ {
+  "story_id": 895,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "AAP MLA Dhos praises Anganwadi workers at a Govt of Punjab programme: welfare outreach."
+ },
+ {
+  "story_id": 897,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Police recover Rs 1.89 lakh lost in a cyber fraud: police action."
+ },
+ {
+  "story_id": 901,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Unemployed protest outside the CM's office in Dhuri: protest against the government."
+ },
+ {
+  "story_id": 906,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Protesters demand answers on drugs outside minister Aman Arora's residence: protest."
+ },
+ {
+  "story_id": 907,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Rice millers' association demand on paddy linking: a trade demand with no attack in the headline."
+ },
+ {
+  "story_id": 911,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Rs 1 crore extortion demand to a market committee vice-chairman: crime and law and order."
+ },
+ {
+  "story_id": 912,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Youth's body found with a syringe nearby: suspected drug death, law and order."
+ },
+ {
+  "story_id": 913,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Health director reviews arrangements so the sangat gets health facilities: delivery."
+ },
+ {
+  "story_id": 915,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "Underpass planned at Aujla phatak and encroachments being cleared: development work."
+ },
+ {
+  "story_id": 916,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Ex-commando alleges beating by a policeman: allegation against police."
+ },
+ {
+  "story_id": 917,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "Arrest with intoxicants is police action (always Positive by rule), though the accused is a jail OAT centre employee."
+ },
+ {
+  "story_id": 918,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "Police probing the jail drug supply network: police action on drugs."
+ },
+ {
+  "story_id": 923,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "CM to attend Lok Milni in village Sohal: CM outreach (advance notice, so medium)."
+ },
+ {
+  "story_id": 925,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "Headline says rivals' candidature is stuck in claims while AAP is already campaigning: favourable to AAP.",
+  "headline_fix": "Rivals' candidates stuck in ticket claims, AAP already campaigning in Batala"
+ },
+ {
+  "story_id": 930,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "'Serious questions' over the ambulance service in Faridkot: service failure."
+ },
+ {
+  "story_id": 931,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "Chitta being smuggled to jail inmates caught and case registered against six: seizure and police action."
+ },
+ {
+  "story_id": 942,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Fireworks at AAP ticket celebration set the Patti tehsil office on fire, 1947 records destroyed."
+ },
+ {
+  "story_id": 946,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "medium",
+  "reason": "NHAI tender for Delhi-Amritsar-Katra expressway connectivity: central project, no Punjab government angle."
+ }
+]

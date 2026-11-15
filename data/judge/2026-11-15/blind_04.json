@@ -1,0 +1,204 @@
+[
+ {
+  "story_id": 43,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Headline lead is the morcha staying out of the elections, a factual item; criticism of governments is only in the strap."
+ },
+ {
+  "story_id": 50,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "'March against the government' by employees and pensioners: protest against the govt."
+ },
+ {
+  "story_id": 54,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Mohali police arrest the man who threatened Kejriwal: police action/arrest rule."
+ },
+ {
+  "story_id": 63,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "AAP candidate's temple visit and padyatra: AAP outreach."
+ },
+ {
+  "story_id": 217,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Channi's Congress yatra tells people of the AAP govt's 'failures': opposition attack (Congress)."
+ },
+ {
+  "story_id": 322,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "AAP workers show black flags to the Congress yatra: AAP counter-attack on the opposition."
+ },
+ {
+  "story_id": 326,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "CBI court sentence in a 2004-05 FCI procurement scam: no current Punjab govt angle."
+ },
+ {
+  "story_id": 709,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Ashirwad scheme aid reaching beneficiaries, announced by the minister: welfare delivery.",
+  "headline_fix": "Ashirwad scheme: 2.86 lakh beneficiaries helped"
+ },
+ {
+  "story_id": 712,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Youth's death in suspicious circumstances, suspected overdose: crime/drug death."
+ },
+ {
+  "story_id": 717,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Motorcycle seized at a naka 'missing from police station': police lapse."
+ },
+ {
+  "story_id": 720,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Dharna outside the CM's residence by cook-cum-helpers: protest against the govt."
+ },
+ {
+  "story_id": 726,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Protest leader in the ethanol factory agitation freed after 17 days in jail and felicitated, strap notes a police raid: protest against the govt."
+ },
+ {
+  "story_id": 86,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Minister tours villages and 'hears people's problems': outreach/delivery."
+ },
+ {
+  "story_id": 89,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "CM's claim 'making youth job givers': AAP voice, delivery."
+ },
+ {
+  "story_id": 729,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "AAP candidate for Patti launches campaign with gurdwara visit: AAP outreach."
+ },
+ {
+  "story_id": 730,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "NHM employees' union presses 'burning demands' on the govt via the AAP candidate: employee demands."
+ },
+ {
+  "story_id": 731,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "'Mera Ghar Mere Naam' registries handed to families by the AAP MLA: scheme delivery."
+ },
+ {
+  "story_id": 734,
+  "sentiment": "Neutral",
+  "confidence": "low",
+  "reason": "Announcement that BKU Lakhowal will join the Bathinda farmers' rally; headline names no target or attack on the govt."
+ },
+ {
+  "story_id": 737,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "Narcotics 'recovered' in Faridkot jail and six booked: seizure rule (police action)."
+ },
+ {
+  "story_id": 742,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Medical practitioners to send a 'warning letter' to the CM via DCs on the 19th: protest against the govt."
+ },
+ {
+  "story_id": 745,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Akali leaders at an Akhand Path vowing an Akali govt: opposition internal."
+ },
+ {
+  "story_id": 747,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "AAP MLA Sidhu's name 'missing' from inauguration plaques again while the chairman inaugurates: AAP infighting."
+ },
+ {
+  "story_id": 752,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "BJP leader's protest: 'Buddha Dariya not pollution-free despite Rs 650 crore', garbage heaps: opposition attack (BJP)/civic failure.",
+  "headline_fix": "Buddha Dariya not pollution-free despite Rs 650 crore spent: Sunil Modgil (BJP leader protests garbage heaps and filth in city)"
+ },
+ {
+  "story_id": 753,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "116 families made owners of their homes with property cards: scheme delivery."
+ },
+ {
+  "story_id": 763,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Administration 'strict' on overloaded vehicles, 7 challans: enforcement action."
+ },
+ {
+  "story_id": 764,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "medium",
+  "reason": "Headline is advice on what the BJP must do in Punjab: opposition internal."
+ },
+ {
+  "story_id": 767,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Village gathering discusses the tirath yatra scheme and 'govt's achievements': AAP outreach."
+ },
+ {
+  "story_id": 770,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Body says the dozens joining the BJP in Sanaur were AAP leaders and workers: defections from AAP."
+ },
+ {
+  "story_id": 771,
+  "sentiment": "Neutral",
+  "confidence": "low",
+  "reason": "Govt paddy procurement resumes, but credited to a BJP leader's protest: mixed, no clear tilt."
+ },
+ {
+  "story_id": 777,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Police hold one accused with intoxicant pills: police action vs drugs."
+ },
+ {
+  "story_id": 778,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "Jail employee caught on duty with drugs and a mobile phone: arrest rule, though it is a staff member.",
+  "headline_fix": "Hoshiarpur central jail employee caught on duty with large quantity of drugs and a mobile phone"
+ },
+ {
+  "story_id": 779,
+  "sentiment": "Neutral",
+  "confidence": "high",
+  "reason": "Election Commission official reviews EVM/VVPAT first-level checking: Election Commission item."
+ },
+ {
+  "story_id": 782,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Child mysteriously missing from the street, family distressed: crime/law and order.",
+  "headline_fix": "Two-and-a-half-year-old child playing in street goes missing mysteriously in Lalru, family worried"
+ }
+]

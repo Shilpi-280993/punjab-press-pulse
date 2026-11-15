@@ -59,6 +59,12 @@ From the 31 Oct audit:
 3. An AAP halqa in-charge's public meeting is `AAP outreach`, Positive.
 4. Announcements of opposition rallies and opposition-versus-opposition rows are `Not about AAP/Govt` (`Opposition internal`).
 
+From the sentiment judge, 15 Nov 2026:
+
+5. Central agencies and central projects with no Punjab government role are `Not about AAP/Govt` (`Others`), even when Punjab places are named: CBI raids in national cases (Mahadev betting app), CBI court verdicts on FCI officials and millers, NHAI tenders, private bodies' office-bearer appointments and features on private enterprise. Seen 6 times (Neutral or Positive changed to Not about).
+6. New case: a non-party protest front (for example the Qaumi Insaaf Morcha for Bandi Singhs) is relevant, not `Opposition internal`. If its headline only states its own stance (such as staying out of elections), it is Neutral; it is Negative only when the attack on the government is the headline's lead.
+7. New case: a protest against a private employer becomes relevant when the item says the police acted for the employer (detaining protesters, removing their tent). Code it Negative under `Crime & law and order`, not `Schools, health & employees`, since the workers are not government staff.
+
 ## Daily commentary (data/notes/<date>.json)
 
 ```

@@ -1,0 +1,164 @@
+[
+ {
+  "story_id": 212,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Headline leads with 4 pilgrims killed in a crash of buses run under the state's pilgrimage scheme; CM's condolence is secondary."
+ },
+ {
+  "story_id": 648,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "National CBI action in the Mahadev betting case; no Punjab government angle (Others)."
+ },
+ {
+  "story_id": 651,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Government's Yudh Nashian Virudh bike rally flagged off by a minister: delivery and outreach."
+ },
+ {
+  "story_id": 652,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Snatching of a 750 g gold bangle with the accused fleeing: crime is Negative."
+ },
+ {
+  "story_id": 657,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "Trade expo held with the Punjab Government and DC reviewing arrangements: delivery, no negative tilt."
+ },
+ {
+  "story_id": 659,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "12 thefts and snatchings in 24 hours raising safety concerns: crime and law and order."
+ },
+ {
+  "story_id": 669,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Dowry harassment case registered with no arrest: crime item, Negative."
+ },
+ {
+  "story_id": 674,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "AAP MLA Raman Arora, denied the ticket, alleges conspiracy: dissent inside AAP."
+ },
+ {
+  "story_id": 676,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Tension as residents confront alleged prostitution racket: law and order problem, no police action in the lead."
+ },
+ {
+  "story_id": 678,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "'Two held' and stolen valuables recovered: police arrests are always Positive."
+ },
+ {
+  "story_id": 679,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Administration and police launch sports and jobs initiatives in drug hotspot villages under Yudh Nashea Virudh: delivery."
+ },
+ {
+  "story_id": 692,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "Headline leads with 'Husband arrested': police arrest is Positive under Lesson 1, though the event is a death."
+ },
+ {
+  "story_id": 700,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "medium",
+  "reason": "Workers' sit-in is against a private gas agency owner over wages and reinstatement, not against the government."
+ },
+ {
+  "story_id": 155,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "medium",
+  "reason": "CBI court convicts central FCI officials in a 2004-05 scam; no Punjab government or AAP angle."
+ },
+ {
+  "story_id": 156,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "'Govt offers fresh relief' to farmers on tubewell load with charges slashed: delivery."
+ },
+ {
+  "story_id": 157,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Kicker 'CBI probes CM's OSD' leads; story keeps the corruption probe into the CM's OSD in focus even though the state's step is procedural."
+ },
+ {
+  "story_id": 159,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Family told to pay for Amritpal's Punjab Police escort and an opposition MLA objects: criticism of the arrangement."
+ },
+ {
+  "story_id": 161,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "medium",
+  "reason": "CBI court verdict against FCI officials and millers in a 20-year-old central procurement scam; no state government angle."
+ },
+ {
+  "story_id": 284,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "BJP veterans versus a tie-up with the Akalis: Opposition internal (Lesson 4)."
+ },
+ {
+  "story_id": 286,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Announcement of a BJP yatra: Opposition internal (Lesson 4)."
+ },
+ {
+  "story_id": 175,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "AAP MLA denied ticket says honesty is not valued and vows to contest: rebellion inside AAP."
+ },
+ {
+  "story_id": 182,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Police detain influencer and seize ICE and 3 pistols: seizures and arrests are always Positive."
+ },
+ {
+  "story_id": 183,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Snatchers injure two women and a toddler; SHO unaware: crime, Negative."
+ },
+ {
+  "story_id": 233,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Congress chief Pargat Singh says law and order has deteriorated and raises drugs and illegal mining: opposition attack, always Negative."
+ },
+ {
+  "story_id": 289,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Same clipping as deck slide 244 (duplicate of story 233); opposition attack by Congress, always Negative."
+ },
+ {
+  "story_id": 641,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "Punjab angle in the strap is 'Pb's joblessness eases', youth unemployment down to 20.5% from 22.3%: favourable to the government."
+ },
+ {
+  "story_id": 642,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Headline leads with the death of a man shot in a gurdwara dispute (murder); the 3 arrests come second."
+ }
+]

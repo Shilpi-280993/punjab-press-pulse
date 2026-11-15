@@ -1,0 +1,252 @@
+[
+ {
+  "story_id": 43,
+  "final": "Neutral",
+  "reason": "Headline leads with the morcha staying out of the elections, a factual item. It is relevant (not Opposition internal): the morcha is a Bandi Singh protest front, not a party, and the strap and body condemn the Centre's and the Punjab government's attitude and the CM's unkept assurance. The attack is not the headline's lead, so Neutral.",
+  "rule": "new case",
+  "theme_group": "Governance, Assembly & politics",
+  "detailed_theme": "Qaumi Insaaf Morcha / Bandi Singhs"
+ },
+ {
+  "story_id": 157,
+  "final": "Neutral",
+  "reason": "Main headline is 'State steps in, makes Personnel Dept nodal agency': a procedural step to cooperate with the CBI. The kicker 'CBI probes CM's OSD' only labels the running story; no new charge, rebuke or opposition attack leads. Factual, no clear tilt.",
+  "rule": "Neutral: factual items / headline's lead"
+ },
+ {
+  "story_id": 159,
+  "final": "Neutral",
+  "reason": "Headline states that the family must bear Amritpal's travel and escort costs; Ayali's objection is in the body and is aimed at the arrangement, not an attack on the government in the headline. The body also notes the Punjab government supported the plea. Factual.",
+  "rule": "Neutral: factual items / headline's lead"
+ },
+ {
+  "story_id": 193,
+  "final": "Negative",
+  "reason": "The headline itself questions the government ('Granted Rs 42,787 crore, why is Punjab asking Centre for extra funds'), and the explainer is built around closed procurement centres, unsold paddy and 'Why are farmers and the Opposition blaming the government?'. Shortage and blame lead, so Negative.",
+  "rule": "Negative: shortages / headline's lead"
+ },
+ {
+  "story_id": 216,
+  "final": "Not about AAP/Govt",
+  "reason": "Headline is Pargat Singh describing the Congress campaign ('a fight for Punjab's identity, existence and future'); no attack on the AAP government in the headline. The questions to state and Centre are in the body only. Same item in Punjab Kesari (story 224) and the related rows 220, 222, 227 are Opposition internal; kept consistent.",
+  "rule": "Lesson 4 (opposition campaign) / headline's lead",
+  "theme_group": "",
+  "detailed_theme": "Opposition internal"
+ },
+ {
+  "story_id": 217,
+  "final": "Not about AAP/Govt",
+  "reason": "Headline and strap are Congress self-promotion ('Congress is fighting for the rights of Punjab', yatra reaches Nakodar and Shahkot). The reference to the AAP government's 'failures' is in the body, not the lead. The black-flag box in the same clipping is coded separately as story 322.",
+  "rule": "Lesson 4 (opposition campaign) / headline's lead",
+  "theme_group": "",
+  "detailed_theme": "Opposition internal"
+ },
+ {
+  "story_id": 308,
+  "final": "Negative",
+  "reason": "Label confirmed as both classifiers had it, under the Jhota murder event group. Headline fix is right: the printed headline is only 'Tribute ceremony for Parvinder Singh Jhota today'; 'whose murder remains a protest issue' is not printed. Note: this is the same Ajit p.3 item as story 299 (deck slide 311), so it should be marked Duplicate; and the same notice in other papers (stories 44, 331, 564) is Neutral, so 299 should be checked for consistency.",
+  "rule": "Negative: crime and murders (event group)"
+ },
+ {
+  "story_id": 322,
+  "final": "Positive",
+  "reason": "AAP workers showing black flags to Channi's Congress yatra is an AAP counter-attack on the opposition. The same event is Positive in stories 23, 410 and 865.",
+  "rule": "Lesson 2 (AAP counter-attack)",
+  "theme_group": "AAP leaders' counter-attacks",
+  "detailed_theme": "AAP attack on opposition (Congress)"
+ },
+ {
+  "story_id": 326,
+  "final": "Not about AAP/Govt",
+  "reason": "CBI court convictions in a 2004-05 FCI paddy procurement scam: a central agency case about FCI officials and millers from two decades ago, no current Punjab government angle. Same event is Not about AAP/Govt in stories 7 and 132.",
+  "rule": "Relevance: Others",
+  "theme_group": "",
+  "detailed_theme": "Others"
+ },
+ {
+  "story_id": 392,
+  "final": "Not about AAP/Govt",
+  "reason": "Headline is bookies and gamblers panicking at news of CBI raids in the Mahadev app case: central agency action, no Punjab government or police angle. Consistent with the other Mahadev rows.",
+  "rule": "Relevance: Others",
+  "theme_group": "",
+  "detailed_theme": "Others"
+ },
+ {
+  "story_id": 402,
+  "final": "Negative",
+  "reason": "Printed headline is about the illegal CBM betting-software trade growing from Rs 5,000 to Rs 30,000, with a strap saying a police probe is needed and a sub-head asking whether police know or are ignoring it. No police action has happened, so the arrest rule does not apply; it is a thriving racket and a question over the police. Headline fix is right.",
+  "rule": "Negative: crime / headline's lead",
+  "theme_group": "Crime & law and order",
+  "detailed_theme": "Law & order / crime"
+ },
+ {
+  "story_id": 438,
+  "final": "Neutral",
+  "reason": "Label confirmed. Printed headline says medical store licences are being issued as per drug department and High Court orders; drug inspectors answer public doubts. Factual clarification with no clear tilt. Headline fix is right (the coder's 'licences being checked' is not what is printed).",
+  "rule": "Neutral: factual items"
+ },
+ {
+  "story_id": 447,
+  "final": "Not about AAP/Govt",
+  "reason": "The body says Nandlal Sahni was made Punjab president of the traders' cell of Pravasi Ekta Manch, a private body; nothing in the item links it to AAP or the government. Headline fix is right.",
+  "rule": "Relevance: Others",
+  "theme_group": "",
+  "detailed_theme": "Others"
+ },
+ {
+  "story_id": 464,
+  "final": "Negative",
+  "reason": "Headline announces a farm union mobilising in large numbers for the 26 Nov Bathinda kisan rally, and the body condemns the Punjab government's decision to stop paddy procurement and demands it restart. This is a protest against the government, not an opposition party's rally, so Lesson 4 does not apply. Consistent with story 616 and the DTF 'to join morcha' rows.",
+  "rule": "Negative: protests against the government"
+ },
+ {
+  "story_id": 486,
+  "final": "Neutral",
+  "reason": "Printed headline is only 'Bharatiya Kisan Union Krantikari held a meeting': no protest, demand or attack in the lead. The procurement criticism is one passage in the body of a routine organisational meeting. Headline fix is right.",
+  "rule": "Headline's lead"
+ },
+ {
+  "story_id": 495,
+  "final": "Negative",
+  "reason": "Label confirmed: firing in a land dispute with both sides levelling serious allegations, including police not acting under political pressure. Headline fix is right; the printed headline says both sides are face to face and level serious allegations at press conferences, it does not mention police pressure.",
+  "rule": "Negative: crime"
+ },
+ {
+  "story_id": 645,
+  "final": "Not about AAP/Govt",
+  "reason": "Feature on a Patiala farmer's private seed enterprise, felicitated by PAU; no Punjab government scheme, decision or AAP angle.",
+  "rule": "Relevance: Others",
+  "theme_group": "",
+  "detailed_theme": "Others"
+ },
+ {
+  "story_id": 646,
+  "final": "Negative",
+  "reason": "The item's heading 'Punjab puzzle: insiders vs outsiders' leads with AAP's problem: anti-incumbency, the charge that Delhi outsiders Sisodia and Jain run the campaign, Delhi team taking ministerial bungalows, 'erratic CM'. The head start and rivals' troubles come second.",
+  "rule": "Headline's lead"
+ },
+ {
+  "story_id": 648,
+  "final": "Not about AAP/Govt",
+  "reason": "National CBI raids in the Mahadev betting case; Amritsar is one of 33 locations. No Punjab government angle. Consistent with stories 4, 25, 64, 102, 103, 117, 173.",
+  "rule": "Relevance: Others",
+  "theme_group": "",
+  "detailed_theme": "Others"
+ },
+ {
+  "story_id": 700,
+  "final": "Negative",
+  "reason": "The protest is against a private gas agency owner, but the body says the owner used influence in government circles to get Tripri police to detain the union leaders and dismantle the protest tent, after which SKM leaders went to the police station. Police conduct is a state matter, so the story is relevant and Negative, as in the Tibba land dispute (story 495). The theme should not be employees, since these are not government staff.",
+  "rule": "new case",
+  "theme_group": "Crime & law and order",
+  "detailed_theme": "Law & order / crime"
+ },
+ {
+  "story_id": 709,
+  "final": "Positive",
+  "reason": "Label confirmed: Ashirwad scheme aid reaching beneficiaries. Headline fix is right: the printed headline reads 'Ashirwad scheme: 2.86 lakh beneficiaries helped', not Rs 2.86 lakh.",
+  "rule": "Positive: schemes reaching people"
+ },
+ {
+  "story_id": 734,
+  "final": "Negative",
+  "reason": "Same item as story 464: BKU Lakhowal mobilising for the Bathinda farmers' protest rally. A farm union's protest mobilisation is a protest against the government, not an opposition rally announcement.",
+  "rule": "Negative: protests against the government"
+ },
+ {
+  "story_id": 752,
+  "final": "Negative",
+  "reason": "Label confirmed: BJP leader's attack. Headline fix is right: the printed main headline is 'Buddha Dariya not pollution-free despite Rs 650 crore spent: Sunil Modgil', with the garbage protest as the strap.",
+  "rule": "Negative: opposition attacks"
+ },
+ {
+  "story_id": 770,
+  "final": "Negative",
+  "reason": "The body says the dozens who joined the BJP in Sanaur were leaders and workers of the Aam Aadmi Party, including councillors, who bid farewell to AAP. Defections from AAP are Negative even though the headline does not name the party.",
+  "rule": "Negative: defections from AAP",
+  "theme_group": "Governance, Assembly & politics",
+  "detailed_theme": "Defections from AAP"
+ },
+ {
+  "story_id": 778,
+  "final": "Positive",
+  "reason": "Label confirmed: an employee posted at the jail's de-addiction centre was caught on duty with 91 g of an intoxicant, capsules and a mobile phone, booked and arrested. Headline fix is right; it was a staff member, not inmates.",
+  "rule": "Lesson 1 (seizures and arrests)"
+ },
+ {
+  "story_id": 782,
+  "final": "Negative",
+  "reason": "Label confirmed: child missing mysteriously, family worried. Headline fix is right: two-and-a-half years old, Lalru.",
+  "rule": "Negative: crime"
+ },
+ {
+  "story_id": 810,
+  "final": "Negative",
+  "reason": "Label confirmed: street lights off for a month. Headline fix is right: the road is Mudki road, not Muktsar road.",
+  "rule": "Negative: civic failures"
+ },
+ {
+  "story_id": 823,
+  "final": "Negative",
+  "reason": "Label confirmed: speculation in the halqa because minister Dr Ravjot Singh's ticket has not been announced, an AAP internal trouble. Headline fix is right. Note: the theme should be Governance, Assembly & politics (AAP ticket dissent, as in story 59), not Opposition attacks on the govt.",
+  "rule": "Negative: AAP internal dissent"
+ },
+ {
+  "story_id": 833,
+  "final": "Neutral",
+  "reason": "The caption identifies Dr Amrik Singh as a former Cane Commissioner meeting cane harvester owners and growers about mechanisation; it is not a government outreach event and nothing is delivered or announced by the government. Factual.",
+  "rule": "Neutral: factual items"
+ },
+ {
+  "story_id": 837,
+  "final": "Positive",
+  "reason": "Label confirmed: forest department arrests 4 poachers. Headline fix is right: the printed headline says live tortoises, not a porcupine.",
+  "rule": "Lesson 1 (seizures and arrests)"
+ },
+ {
+  "story_id": 867,
+  "final": "Neutral",
+  "reason": "Label confirmed: routine administrative order. Headline fix is right: 4 SDEs.",
+  "rule": "Neutral: factual items"
+ },
+ {
+  "story_id": 869,
+  "final": "Positive",
+  "reason": "Label confirmed: AAP candidate Salaria's road show as a show of strength in Sujanpur. Headline fix is right.",
+  "rule": "Lesson 3 (AAP outreach)"
+ },
+ {
+  "story_id": 878,
+  "final": "Negative",
+  "reason": "Headline pairs the extension with 'sluggish MSeva adds to confusion', and the extension itself is because of pendency; the sub-head calls the slow server the biggest hurdle. A service failure leads.",
+  "rule": "Negative: civic failures"
+ },
+ {
+  "story_id": 907,
+  "final": "Neutral",
+  "reason": "Headline is the rice millers' association asking that paddy linking be raised as the procurement target rises: a trade demand that takes the higher target as given, with no attack, protest or shortage in the lead.",
+  "rule": "Neutral: factual items / headline's lead"
+ },
+ {
+  "story_id": 915,
+  "final": "Positive",
+  "reason": "Headline leads with an underpass being prepared at Aujla phatak, and the strap with the corporation ordering encroachments removed by 17 Nov: development work and enforcement by the civic body.",
+  "rule": "Positive: delivery",
+  "theme_group": "Civic services & infrastructure",
+  "detailed_theme": "Development works"
+ },
+ {
+  "story_id": 925,
+  "final": "Positive",
+  "reason": "Label confirmed. Headline fix is right: the printed headline says candidature is stuck in rival claims while AAP is busy campaigning in Batala.",
+  "rule": "Lesson 3 (AAP outreach)"
+ },
+ {
+  "story_id": 946,
+  "final": "Not about AAP/Govt",
+  "reason": "The Rs 669 crore tender is NHAI's, for connectivity to the Delhi-Amritsar-Katra expressway: a central project with no Punjab government role in the item.",
+  "rule": "Relevance: Others",
+  "theme_group": "",
+  "detailed_theme": "Others"
+ }
+]

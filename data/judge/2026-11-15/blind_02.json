@@ -1,0 +1,223 @@
+[
+ {
+  "story_id": 280,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Opposition attack: BJP's Sunil Jakhar says Mann govt harassed farmers by cutting paddy target."
+ },
+ {
+  "story_id": 362,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "AAP organisation: chairman honours and congratulates AAP candidate Jassa Patti on getting the ticket."
+ },
+ {
+  "story_id": 377,
+  "sentiment": "Negative",
+  "confidence": "low",
+  "reason": "Headline is a demand that the govt 'clarify its position' on obeying Akal Takht orders and staying the Satkar Act; pressure on the govt, though Neutral could also fit."
+ },
+ {
+  "story_id": 379,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Headline ends 'questions raised over police working' after locals, not police, caught the youth throwing drugs into jail."
+ },
+ {
+  "story_id": 391,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Delivery: 'AAP speeds up development works in Majitha'."
+ },
+ {
+  "story_id": 392,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "medium",
+  "reason": "CBI (central agency) raid alert and bookies' panic; no Punjab govt or police angle in the headline."
+ },
+ {
+  "story_id": 397,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "Column headline says announcing candidates early 'will surely benefit' AAP."
+ },
+ {
+  "story_id": 402,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Illegal match-betting software racket thriving; strap and text question whether police knew or ignored it, no action yet (crime and law and order).",
+  "headline_fix": "CBM betting software trade that began at Rs 5,000 25 years ago now at Rs 30,000, hefty sums charged yearly for updates; police probe into multi-state network needed"
+ },
+ {
+  "story_id": 410,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "AAP leaders' counter-attack: AAP shows black flags to Congress's Channi yatra (Lesson 2)."
+ },
+ {
+  "story_id": 428,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Opposition attack: Channi backs murdered Congress leader's family and blames drugs for the killing."
+ },
+ {
+  "story_id": 429,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Demand on Punjab govt for Rs 2 crore compensation after deaths in the govt pilgrimage bus accident."
+ },
+ {
+  "story_id": 438,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Drug inspectors' clarification that licences are issued by the rules, answering public doubts; factual, no clear tilt.",
+  "headline_fix": "Medical store licences being issued as per drug department and High Court orders (drug inspectors rebut doubts in Moga)"
+ },
+ {
+  "story_id": 447,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Appointment is by Pravasi Ekta Manch, not AAP or the govt.",
+  "headline_fix": "Nandlal Sahni made Punjab president of Pravasi Ekta Manch's traders' cell"
+ },
+ {
+  "story_id": 463,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Police action: arrest with 90 intoxicating pills (Lesson 1)."
+ },
+ {
+  "story_id": 464,
+  "sentiment": "Neutral",
+  "confidence": "low",
+  "reason": "Headline leads only with a farm union joining a kisan rally; the criticism of the govt stopping paddy procurement is in the body, so Negative could also fit."
+ },
+ {
+  "story_id": 465,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Scheme reaching people: 347 families get ownership papers under Mera Ghar Mere Naam."
+ },
+ {
+  "story_id": 486,
+  "sentiment": "Neutral",
+  "confidence": "low",
+  "reason": "Printed headline is only 'BKU Krantikari held a meeting'; concern over paddy procurement stoppage is in the body, so Negative could also fit.",
+  "headline_fix": "Bharatiya Kisan Union Krantikari holds meeting"
+ },
+ {
+  "story_id": 494,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "AAP leader Baltej Pannu inaugurates kabaddi cup: sports and outreach."
+ },
+ {
+  "story_id": 495,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Firing in land dispute with both sides making 'serious allegations', including police not acting under political pressure (crime and law and order).",
+  "headline_fix": "Tibba village land dispute: both sides face off over firing case, level serious allegations at press conferences"
+ },
+ {
+  "story_id": 498,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Scheme delivery praised: Mera Ghar Mere Naam 'fulfilling decades-old dreams'."
+ },
+ {
+  "story_id": 517,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Civic failure: children selling groundnuts roadside, 'concerned department unaware'."
+ },
+ {
+  "story_id": 518,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Firing incident (crime); only a case registered, no arrest or seizure, so not police action."
+ },
+ {
+  "story_id": 166,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Five dead as two Punjab govt Mukh Mantri Tirath Yatra buses collide; a fatal accident on a govt scheme, no positive lead."
+ },
+ {
+  "story_id": 167,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Police action: nine held with pistols and 4 kg heroin (Lesson 1)."
+ },
+ {
+  "story_id": 168,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Police action: 1.8 kg heroin seized by BSF and Punjab Police."
+ },
+ {
+  "story_id": 170,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Relief for farmers: PSPCL extends voluntary disclosure scheme with lower charges."
+ },
+ {
+  "story_id": 288,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Opposition attack: BJP's Saini pitches 'double-engine' govt and attacks AAP over drugs and jobs."
+ },
+ {
+  "story_id": 639,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Murder; only a case registered, no arrest."
+ },
+ {
+  "story_id": 640,
+  "sentiment": "Govt ad",
+  "confidence": "high",
+  "reason": "Public notice issued by Director, Punjab State Lotteries: government advertisement."
+ },
+ {
+  "story_id": 188,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Launch: CM Mann launches Punjab da Crorepati quiz for youth."
+ },
+ {
+  "story_id": 191,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Police action: 9 held, arms and drugs networks busted (Lesson 1)."
+ },
+ {
+  "story_id": 192,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Five killed as two govt pilgrimage-scheme buses collide; fatal accident, no positive lead."
+ },
+ {
+  "story_id": 193,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Questioning headline on why Punjab needs extra funds; piece covers cut targets, unsold paddy and farmers and Opposition blaming the govt."
+ },
+ {
+  "story_id": 194,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Dropped AAP MLA vows to contest 'at any cost': revolt inside AAP (own MLAs' complaints / defection)."
+ },
+ {
+  "story_id": 645,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "medium",
+  "reason": "Farmer's private seed enterprise success story; no Punjab govt or AAP angle."
+ },
+ {
+  "story_id": 646,
+  "sentiment": "Neutral",
+  "confidence": "low",
+  "reason": "Column item says AAP has a head start but fights anti-incumbency and the Delhi 'outsiders' charge, while BJP and Congress also struggle; mixed."
+ }
+]
