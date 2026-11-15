@@ -1,0 +1,32 @@
+{
+  "sources": "The monitoring deck's 263 clippings plus every page of the full editions. Relevant = about AAP, the Punjab government or a state matter.",
+  "takeaway": "{negative_share} of the {relevant} relevant stories were negative and {positive_share} positive; opposition statements drive most of the negative share. Government delivery stories (mini buses, Valmiki Tirath, police action) got good placement, while drugs, Moga and Jhota dominated the criticism.",
+  "well": [
+    [
+      "Government events led front pages in its own words.",
+      "The 100 mini buses made the most front pages of any story; the Valmiki Tirath grant ran in 12 papers."
+    ],
+    [
+      "Police action is the largest positive theme.",
+      "Seizures and arrests, many in district editions, with DGP and SSP quotes."
+    ],
+    [
+      "The water and federal-rights line is landing.",
+      "River-water resolutions on TOI's front page; \"BJP wants to snatch Punjab's water\" in all three languages."
+    ]
+  ],
+  "improve": [
+    [
+      "The opposition dominates the conversation.",
+      "Opposition attacks are the top negative theme; AAP's own replies are about a third of their volume."
+    ],
+    [
+      "Drugs is becoming the opposition's main weapon.",
+      "No government answer to the drug-survey demand; the chemists' halt is now a patient-access story."
+    ],
+    [
+      "Moga, Jhota and the OSD need responses.",
+      "Crime and drugs each made front pages; Jhota is in its third week with Akal Takht prayers on 28 October."
+    ]
+  ]
+}

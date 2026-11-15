@@ -1,0 +1,593 @@
+<style>
+.pp{display:flex;flex-direction:column;gap:var(--cds-gap-xl);font-family:var(--font-anthropic-sans);max-width:1200px;margin-inline:auto}
+.pp-hero{position:relative;overflow:hidden;border-radius:var(--cds-radius);border:1px solid var(--color-border-line);padding:var(--cds-pad-xl);background:
+  radial-gradient(120% 140% at 100% 0%, color-mix(in srgb, var(--color-ok) 16%, transparent) 0%, transparent 55%),
+  radial-gradient(90% 120% at 0% 100%, color-mix(in srgb, var(--color-bad) 12%, transparent) 0%, transparent 60%),
+  var(--color-panel)}
+.pp-eyebrow{display:flex;flex-wrap:wrap;gap:var(--cds-gap-xs) var(--cds-gap-sm);align-items:center;font-size:var(--cds-font-size-caption);color:var(--color-fg-muted);text-transform:uppercase;letter-spacing:.06em}
+.pp-chip{display:inline-block;padding:2px 10px;border-radius:999px;border:1px solid var(--color-border-line);background:var(--color-bg);text-transform:none;letter-spacing:0}
+.pp-hero h1{font-family:var(--font-anthropic-serif);font-weight:400;font-size:calc(var(--cds-font-size-title) * 1.35);line-height:1.15;margin:var(--cds-gap-sm) 0 0;text-wrap:balance;max-width:28ch}
+.pp-hero p{color:var(--color-fg);margin:var(--cds-gap-md) 0 0;max-width:72ch;font-size:var(--cds-font-size-body);line-height:1.55}
+.pp-sec-head{display:flex;align-items:baseline;gap:var(--cds-gap-sm);margin-bottom:var(--cds-gap-xs)}
+.pp-num{display:inline-grid;place-items:center;width:1.7rem;height:1.7rem;border-radius:50%;background:var(--color-fg);color:var(--color-bg);font-size:var(--cds-font-size-caption);font-weight:var(--cds-font-weight-medium);flex:none;transform:translateY(-2px)}
+.pp-h2{font-family:var(--font-anthropic-serif);font-weight:400;font-size:var(--cds-font-size-title);margin:0}
+.pp-h3{font-size:var(--cds-font-size-heading);font-weight:var(--cds-font-weight-medium);margin:0 0 var(--cds-gap-xs)}
+.pp-note{color:var(--color-fg-muted);font-size:var(--cds-font-size-caption);margin:0 0 var(--cds-gap-md)}
+.pp-card{background:var(--color-panel);border:1px solid var(--color-border-line);border-radius:var(--cds-radius);padding:var(--cds-pad-lg);min-width:0}
+.pp-card.accent-pos{border-top:4px solid var(--color-ok)}
+.pp-card.accent-neg{border-top:4px solid var(--color-bad)}
+.pp-tiles{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,10rem),1fr));gap:var(--cds-gap-md)}
+.pp-tile{display:flex;flex-direction:column;gap:var(--cds-gap-xs);background:var(--color-panel);border:1px solid var(--color-border-line);border-radius:var(--cds-radius);padding:var(--cds-pad-md) var(--cds-pad-lg);position:relative;overflow:hidden}
+.pp-tile::before{content:"";position:absolute;inset:0 auto 0 0;width:4px;background:var(--tc,var(--cds-chart-muted))}
+.pp-tile .v{font-family:var(--font-anthropic-serif);font-size:calc(var(--cds-font-size-title) * 1.4);font-variant-numeric:tabular-nums;line-height:1.05}
+.pp-tile .l{color:var(--color-fg-muted);font-size:var(--cds-font-size-caption)}
+.pp-pos{color:var(--color-ok)} .pp-neg{color:var(--color-bad)}
+.pp-splitwrap{margin-top:var(--cds-gap-md)}
+.pp-split{display:flex;height:28px;border-radius:var(--cds-radius);overflow:hidden;background:var(--cds-chart-grid)}
+.pp-split i{display:flex;align-items:center;justify-content:center;height:100%;font-style:normal;font-size:var(--cds-font-size-caption);color:var(--color-bg);font-weight:var(--cds-font-weight-medium);white-space:nowrap;overflow:hidden}
+.pp-legend{display:flex;gap:var(--cds-gap-md);flex-wrap:wrap;font-size:var(--cds-font-size-caption);color:var(--color-fg-muted);margin-top:var(--cds-gap-xs)}
+.pp-legend span::before{content:"";display:inline-block;width:10px;height:10px;border-radius:2px;margin-right:6px;vertical-align:-1px;background:var(--c)}
+.pp-callout{margin-top:var(--cds-gap-md);padding:var(--cds-pad-sm) var(--cds-pad-md);border-radius:var(--cds-radius);background:color-mix(in srgb, var(--color-bad) 8%, transparent);font-size:var(--cds-font-size-body)}
+.pp-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,24rem),1fr));gap:var(--cds-gap-md)}
+.pp table{width:100%;border-collapse:collapse;font-size:var(--cds-font-size-body);font-variant-numeric:tabular-nums}
+.pp th,.pp td{text-align:left;padding:var(--cds-pad-xs) var(--cds-pad-sm);border-bottom:1px solid var(--color-border-line);vertical-align:middle}
+.pp th{font-size:var(--cds-font-size-caption);color:var(--color-fg-muted);font-weight:var(--cds-font-weight-medium)}
+.pp tbody tr{transition:background var(--cds-dur-slow)}
+.pp tbody tr:hover{background:color-mix(in srgb, var(--color-fg) 5%, transparent)}
+.pp td.n,.pp th.n{text-align:right}
+.pp .rk{width:2rem}
+.pp .rk span{display:inline-grid;place-items:center;width:1.4rem;height:1.4rem;border-radius:50%;font-size:var(--cds-font-size-caption);background:color-mix(in srgb, var(--rc) 16%, transparent);color:var(--rc);font-weight:var(--cds-font-weight-medium)}
+.pp .tname{font-weight:var(--cds-font-weight-medium)}
+.pp .bar{height:6px;border-radius:3px;margin-top:5px;opacity:.85}
+.pp-wrap{overflow-x:auto}
+.pp-papers{display:flex;flex-direction:column;gap:var(--cds-gap-sm)}
+.pp-prow{display:grid;grid-template-columns:minmax(7rem,10rem) 1fr 6rem;gap:var(--cds-gap-sm);align-items:center;font-size:var(--cds-font-size-body)}
+.pp-pbar{display:flex;height:20px;border-radius:4px;overflow:hidden}
+.pp-pbar i{display:block;height:100%}
+.pp-ptally{font-size:var(--cds-font-size-caption);color:var(--color-fg-muted);text-align:right;font-variant-numeric:tabular-nums}
+.pp-lean{display:inline-block;padding:1px 8px;border-radius:999px;font-size:var(--cds-font-size-caption)}
+.pp-lean.neg{background:color-mix(in srgb, var(--color-bad) 14%, transparent);color:var(--color-bad)}
+.pp-lean.pos{background:color-mix(in srgb, var(--color-ok) 14%, transparent);color:var(--color-ok)}
+.pp-lean.mix{background:color-mix(in srgb, var(--color-fg) 8%, transparent);color:var(--color-fg-muted)}
+.pp-pie{position:relative;display:flex;flex-wrap:wrap;gap:var(--cds-gap-lg);align-items:center;justify-content:center;min-height:15rem}
+.pp-pie svg{width:min(100%,15rem);height:auto;flex:none}
+.pp-pie-legend{display:flex;flex-direction:column;gap:var(--cds-gap-sm);min-width:10rem}
+.pp-pie-legend div{display:grid;grid-template-columns:12px 1fr auto;gap:var(--cds-gap-sm);align-items:center;font-size:var(--cds-font-size-body)}
+.pp-pie-legend i{width:12px;height:12px;border-radius:3px}
+.pp-pie-legend b{font-family:var(--font-anthropic-serif);font-weight:400;font-variant-numeric:tabular-nums}
+.pp-tip{position:absolute;pointer-events:none;background:var(--cds-surface-popover);border:1px solid var(--cds-border);border-radius:var(--cds-radius);box-shadow:var(--cds-shadow-popover);padding:var(--cds-pad-xs) var(--cds-pad-sm);font-size:var(--cds-font-size-caption);white-space:nowrap}
+.pp-tip span{color:var(--cds-text-secondary)}
+.pp-tone{display:inline-block;width:.6rem;height:.6rem;border-radius:50%;margin-right:6px;vertical-align:0}
+.pp-scroll{max-height:32rem;overflow:auto}
+.pp-scroll th{position:sticky;top:0;background:var(--color-panel);z-index:1}
+.pp th button{all:unset;cursor:pointer}
+.pp th button:focus-visible{outline:2px solid var(--color-fg)}
+.pp-search{display:flex;gap:var(--cds-gap-sm);flex-wrap:wrap;margin-bottom:var(--cds-gap-sm);align-items:center}
+.pp-search input,.pp-search select{font:inherit;padding:var(--cds-pad-xs) var(--cds-pad-sm);border:1px solid var(--color-border-line);border-radius:var(--cds-radius);background:var(--color-bg);color:var(--color-fg);min-width:0}
+.pp-search input{flex:1 1 14rem}
+.pp-count{font-size:var(--cds-font-size-caption);color:var(--color-fg-muted)}
+.pp-list{margin:0;padding:0;list-style:none;display:flex;flex-direction:column;gap:var(--cds-gap-md)}
+.pp-list li{padding-left:var(--cds-pad-md);border-left:3px solid var(--lc)}
+.pp-list b{font-weight:var(--cds-font-weight-medium)}
+.pp-list span{display:block;color:var(--color-fg-muted);font-size:var(--cds-font-size-caption);margin-top:2px}
+[data-dash-source-state=empty]{color:transparent}
+[data-dash-source-state=refreshing]{opacity:.5;transition:opacity var(--cds-dur-slow)}
+@media (prefers-reduced-motion: no-preference){
+  .pp-anim{animation:pp-rise var(--cds-dur-slow) var(--cds-ease-out) both}
+  @keyframes pp-rise{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
+}
+.pp-dates{display:flex;flex-wrap:wrap;gap:var(--cds-gap-sm);margin-top:var(--cds-gap-md)}
+.pp-dates button{font:inherit;cursor:pointer;padding:6px 14px;border-radius:999px;border:1px solid var(--color-border-line);background:var(--color-bg);color:var(--color-fg);transition:background var(--cds-dur-slow),color var(--cds-dur-slow)}
+.pp-dates button:hover{border-color:var(--color-fg-muted)}
+.pp-dates button[aria-checked=true]{background:var(--color-fg);color:var(--color-bg);border-color:var(--color-fg)}
+.pp-dates button:focus-visible{outline:2px solid var(--color-ok);outline-offset:2px}
+.pp-trend{display:flex;gap:var(--cds-gap-md);align-items:flex-end;min-height:13rem;padding-top:var(--cds-gap-sm)}
+.pp-tcol{flex:1 1 0;display:flex;flex-direction:column;align-items:stretch;gap:6px;cursor:pointer;min-width:3.5rem;max-width:9rem;border-radius:var(--cds-radius);padding:6px;border:1px solid transparent}
+.pp-tcol:hover{background:color-mix(in srgb, var(--color-fg) 5%, transparent)}
+.pp-tcol.on{border-color:var(--color-fg)}
+.pp-tstack{display:flex;flex-direction:column-reverse;height:10rem;border-radius:6px;overflow:hidden}
+.pp-tstack i{display:flex;align-items:center;justify-content:center;font-style:normal;font-size:11px;color:var(--color-bg);font-weight:var(--cds-font-weight-medium)}
+.pp-tlab{text-align:center;font-size:var(--cds-font-size-caption);color:var(--color-fg-muted)}
+.pp-tlab b{display:block;color:var(--color-fg);font-weight:var(--cds-font-weight-medium)}
+.pp-delta{font-size:var(--cds-font-size-caption);margin-left:4px}
+.pp-delta.up{color:var(--color-ok)} .pp-delta.down{color:var(--color-bad)} .pp-delta.flat{color:var(--color-fg-muted)}
+#trend[hidden]{display:none}
+@media (max-width:560px){.pp-prow{grid-template-columns:1fr}.pp-ptally{text-align:left}.pp-hero{padding:var(--cds-pad-lg)}}
+</style>
+
+<div class="pp">
+  <header class="pp-hero" id="top">
+    <div class="pp-eyebrow"><span>Punjab print media monitor</span><span class="pp-chip" id="date-chip">—</span><span class="pp-chip">15 newspapers</span><span class="pp-chip">Punjabi · Hindi · English</span></div>
+    <h1 id="hero-title">How the press covered AAP and the Punjab government</h1>
+    <div class="pp-dates" role="radiogroup" aria-label="Choose a date" id="date-picker"></div>
+    <p id="takeaway" data-source="kpis" class="dash-skeleton">—</p>
+  </header>
+
+  <section id="trend">
+    <div class="pp-sec-head"><span class="pp-num">↗</span><h2 class="pp-h2">Day over day</h2></div>
+    <p class="pp-note">Every date side by side. Click a column to open that day. Shares are of relevant stories.</p>
+    <div class="pp-grid">
+      <div class="pp-card">
+        <h3 class="pp-h3">Sentiment by date</h3>
+        <div id="trend-bars" class="pp-trend"></div>
+        <div class="pp-legend"><span style="--c:var(--color-ok)">Positive</span><span style="--c:var(--cds-chart-muted)">Neutral</span><span style="--c:var(--color-bad)">Negative</span></div>
+      </div>
+      <div class="pp-card">
+        <h3 class="pp-h3">Key figures</h3>
+        <div class="pp-wrap"><table id="trend-table"><thead></thead><tbody></tbody></table></div>
+      </div>
+    </div>
+    <div class="pp-card" style="margin-top:var(--cds-gap-md)">
+      <h3 class="pp-h3">Themes that moved</h3>
+      <p class="pp-note" style="margin-bottom:var(--cds-gap-sm)">Stories per theme on each date, positive and negative counted separately. Sorted by the biggest change between the last two dates.</p>
+      <div class="pp-wrap"><table id="theme-move"><thead></thead><tbody></tbody></table></div>
+    </div>
+  </section>
+
+  <section id="numbers">
+    <div class="pp-sec-head"><span class="pp-num">1</span><h2 class="pp-h2">The numbers</h2></div>
+    <p class="pp-note" id="numbers-note">—</p>
+    <div class="pp-tiles">
+        <div class="pp-tile" style="--tc:var(--color-fg)"><span class="v dash-skeleton" data-source="kpis" data-field="relevant">—</span><span class="l">relevant stories</span></div>
+        <div class="pp-tile" style="--tc:var(--color-ok)"><span class="v pp-pos dash-skeleton" data-source="kpis" data-field="positive">—</span><span class="l">positive · <span data-source="kpis" data-field="positive_share">—</span></span></div>
+        <div class="pp-tile" style="--tc:var(--cds-chart-muted)"><span class="v dash-skeleton" data-source="kpis" data-field="neutral">—</span><span class="l">neutral · <span data-source="kpis" data-field="neutral_share">—</span></span></div>
+        <div class="pp-tile" style="--tc:var(--color-bad)"><span class="v pp-neg dash-skeleton" data-source="kpis" data-field="negative">—</span><span class="l">negative · <span data-source="kpis" data-field="negative_share">—</span></span></div>
+        <div class="pp-tile" style="--tc:var(--color-warn)"><span class="v dash-skeleton" data-source="kpis" data-field="front_pages">—</span><span class="l">on front pages</span></div>
+        <div class="pp-tile" style="--tc:var(--color-warn)"><span class="v dash-skeleton" data-source="kpis" data-field="govt_ads">—</span><span class="l">government ads</span></div>
+      </div>
+    <div class="pp-card pp-splitwrap">
+      <h3 class="pp-h3">Sentiment of relevant stories</h3>
+      <div class="pp-split" id="split" data-source="kpis" role="img" aria-label="Sentiment split"></div>
+      <div class="pp-legend"><span style="--c:var(--color-ok)">Positive</span><span style="--c:var(--cds-chart-muted)">Neutral</span><span style="--c:var(--color-bad)">Negative</span></div>
+      <p class="pp-callout"><span data-source="kpis" data-field="opposition_statements">—</span> of the negative stories are opposition press statements. Without them the coverage is <span data-source="kpis" data-field="positive_share_ex_opp">—</span> positive and <span data-source="kpis" data-field="negative_share_ex_opp">—</span> negative.</p>
+    </div>
+  </section>
+
+  <section id="themes">
+    <div class="pp-sec-head"><span class="pp-num">2</span><h2 class="pp-h2">Themes: positive vs negative</h2></div>
+    <p class="pp-note">Ranked by importance: each story scores 3 on a front page, 2 on pages 2–3 or a district edition's front page, 1 inside. Column space was not measured.</p>
+    <div class="pp-grid">
+      <div class="pp-card accent-pos" id="pos-themes-card">
+        <h3 class="pp-h3 pp-pos">Positive themes</h3>
+        <div class="pp-wrap"><table id="pos-themes" data-source="pos_themes" data-row-key="theme_group">
+          <thead><tr><th data-field="rank">#</th><th data-field="theme_group">Theme</th><th class="n" data-field="stories">Stories</th><th class="n" data-field="papers">Papers</th><th class="n" data-field="front_pages">Front</th><th class="n" data-field="importance">Score</th></tr></thead>
+          <tbody></tbody></table></div>
+      </div>
+      <div class="pp-card accent-neg" id="neg-themes-card">
+        <h3 class="pp-h3 pp-neg">Negative themes</h3>
+        <div class="pp-wrap"><table id="neg-themes" data-source="neg_themes" data-row-key="theme_group">
+          <thead><tr><th data-field="rank">#</th><th data-field="theme_group">Theme</th><th class="n" data-field="stories">Stories</th><th class="n" data-field="papers">Papers</th><th class="n" data-field="front_pages">Front</th><th class="n" data-field="importance">Score</th></tr></thead>
+          <tbody></tbody></table></div>
+      </div>
+    </div>
+    <div class="pp-grid" style="margin-top:var(--cds-gap-md)">
+      <div class="pp-card">
+        <h3 class="pp-h3">What is going well</h3>
+        <ol class="pp-list" style="--lc:var(--color-ok)" id="well"></ol>
+      </div>
+      <div class="pp-card">
+        <h3 class="pp-h3">What needs improvement</h3>
+        <ol class="pp-list" style="--lc:var(--color-bad)" id="improve"></ol>
+      </div>
+    </div>
+  </section>
+
+  <section id="more">
+    <div class="pp-sec-head"><span class="pp-num">3</span><h2 class="pp-h2">Top stories and who is talking</h2></div>
+    <p class="pp-note">Single stories by how many papers carried them, and political statements about the government by who made them.</p>
+    <div class="pp-grid">
+      <div class="pp-card" id="reach-card">
+        <h3 class="pp-h3">Biggest stories of the day</h3>
+        <table id="reach" data-source="reach" data-row-key="story">
+          <thead><tr><th data-field="story">Story</th><th class="n" data-field="papers">Papers</th><th class="n" data-field="front_pages">Front</th><th data-field="tone">Tone</th></tr></thead>
+          <tbody></tbody></table>
+      </div>
+      <div class="pp-card" id="voice-card">
+        <h3 class="pp-h3">Share of voice</h3>
+        <div class="pp-pie" id="voice" data-source="voice"><svg id="voice-svg" viewBox="0 0 240 240" width="100%" role="img" aria-label="Share of voice pie chart"></svg><div class="pp-pie-legend" id="voice-legend"></div><div class="pp-tip" id="voice-tip" hidden></div></div>
+      </div>
+    </div>
+  </section>
+
+  <section id="newspapers">
+    <div class="pp-sec-head"><span class="pp-num">4</span><h2 class="pp-h2">Newspaper by newspaper</h2></div>
+    <p class="pp-note">Relevant stories per paper, split by sentiment. Dainik Savera prints 13 district editions, so on days its full edition is swept it has the most stories.</p>
+    <div class="pp-card">
+      <div class="pp-papers" id="paper-bars" data-source="papers"></div>
+      <div class="pp-legend" style="margin-top:var(--cds-gap-sm)"><span style="--c:var(--color-ok)">Positive</span><span style="--c:var(--cds-chart-muted)">Neutral</span><span style="--c:var(--color-bad)">Negative</span></div>
+      <div class="pp-wrap" style="margin-top:var(--cds-gap-md)"><table id="paper-table" data-source="papers" data-row-key="newspaper">
+        <thead><tr><th data-field="newspaper">Newspaper</th><th data-field="language">Language</th><th class="n" data-field="relevant">Relevant</th><th class="n" data-field="front_pages">Front page</th><th class="n" data-field="positive">Positive</th><th class="n" data-field="neutral">Neutral</th><th class="n" data-field="negative">Negative</th><th class="n" data-field="govt_ads">Govt ads</th><th data-field="lean">Lean</th></tr></thead>
+        <tbody></tbody></table></div>
+    </div>
+  </section>
+
+
+  <section id="stories">
+    <div class="pp-sec-head"><span class="pp-num">5</span><h2 class="pp-h2">All stories</h2></div>
+    <div class="pp-card">
+      <div class="pp-search">
+        <input type="search" id="q" placeholder="Search headline, paper or theme" aria-label="Search stories">
+        <select id="fsent" aria-label="Sentiment"><option value="">All sentiments</option><option>Positive</option><option>Neutral</option><option>Negative</option><option>Not about AAP/Govt</option><option>Govt ad</option></select>
+        <span class="pp-count" id="count"></span>
+      </div>
+      <div class="pp-scroll"><table id="story-table" data-source="stories" data-row-key="story_id">
+        <thead><tr><th data-field="date"><button type="button" data-k="date">Date</button></th><th class="n" data-field="story_id"><button type="button" data-k="story_id">#</button></th><th data-field="newspaper"><button type="button" data-k="newspaper">Paper</button></th><th data-field="page"><button type="button" data-k="page_weight">Page</button></th><th data-field="headline"><button type="button" data-k="headline">Headline</button></th><th data-field="sentiment"><button type="button" data-k="sentiment">Sentiment</button></th><th data-field="theme_group"><button type="button" data-k="theme_group">Theme</button></th></tr></thead>
+        <tbody></tbody></table></div>
+    </div>
+  </section>
+</div>
+
+<script>
+const REL = ['Positive', 'Neutral', 'Negative'];
+const isOppRow = (r) => String(r.detailed_theme).startsWith('Opposition attack');
+
+// Per-date commentary. Add a new key for each day that is published.
+const NOTES = Object.fromEntries(Object.entries(window.NOTES_DATA || {}).map(([d, n]) => [d, { ...n,
+  takeaway: (r) => String(n.takeaway || '').replace(/\{(\w+)\}/g, (m, k) => (k in r ? (typeof r[k] === 'number' ? fmt(r[k]) : r[k]) : m)) }]));
+const DATE_FMT = d3.timeFormat('%a %-d %b %Y');
+const shortDate = (d) => d ? d3.timeFormat('%-d %b')(new Date(d + 'T00:00:00')) : '';
+const longDate = (d) => d === 'all' ? 'All dates' : DATE_FMT(new Date(d + 'T00:00:00'));
+function fillList(id, items) {
+  const ol = document.getElementById(id); ol.replaceChildren();
+  items.forEach(([b, s]) => { const li = document.createElement('li'); const bb = document.createElement('b'); bb.textContent = b; const sp = document.createElement('span'); sp.textContent = s; li.append(bb, sp); ol.appendChild(li); });
+}
+function initDates() {
+  const ds = dash.dates(), box = document.getElementById('date-picker');
+  const opts = [...ds.slice().reverse(), ...(ds.length > 1 ? ['all'] : [])];
+  opts.forEach((d) => {
+    const b = document.createElement('button'); b.type = 'button'; b.setAttribute('role', 'radio'); b.dataset.d = d;
+    b.textContent = d === 'all' ? 'All dates' : DATE_FMT(new Date(d + 'T00:00:00'));
+    b.addEventListener('click', () => pickDate(d));
+    box.appendChild(b);
+  });
+  const h = (location.hash.match(/d=([\d-]+|all)/) || [])[1];
+  pickDate(opts.includes(h) ? h : ds[ds.length - 1], true);
+  window.addEventListener('hashchange', () => { const x = (location.hash.match(/d=([\d-]+|all)/) || [])[1]; if (x && x !== dash.date() && opts.includes(x)) pickDate(x, true); });
+}
+function pickDate(d, quiet) {
+  document.querySelectorAll('#date-picker button').forEach((b) => b.setAttribute('aria-checked', String(b.dataset.d === d)));
+  if (!quiet) history.replaceState(null, '', '#d=' + d);
+  dash.setDate(d);
+}
+
+dash.calc('kpis', {
+  inputs: ['stories'],
+  title: 'Headline figures',
+  description: 'Counts of relevant stories by sentiment, front pages and government ads, with shares.',
+  fn: (stories) => {
+    const rel = stories.filter((r) => ['Positive', 'Neutral', 'Negative'].includes(r.sentiment));
+    const n = (s) => rel.filter((r) => r.sentiment === s).length;
+    const opp = rel.filter((r) => String(r.detailed_theme).startsWith('Opposition attack')).length;
+    const exOpp = rel.length - opp;
+    const pos = n('Positive'), neu = n('Neutral'), neg = n('Negative');
+    const pct = (a, b) => Math.round((a / b) * 100) + '%';
+    return [{
+      relevant: rel.length, positive: pos, neutral: neu, negative: neg,
+      positive_share: pct(pos, rel.length), neutral_share: pct(neu, rel.length), negative_share: pct(neg, rel.length),
+      front_pages: rel.filter((r) => r.front_page === true || r.front_page === 'true').length,
+      govt_ads: stories.some((r) => r.sentiment === 'Govt ad') ? stories.filter((r) => r.sentiment === 'Govt ad').length : 'not logged',
+      opposition_statements: opp,
+      positive_share_ex_opp: pct(pos, exOpp), negative_share_ex_opp: pct(neg - opp, exOpp),
+    }];
+  },
+});
+
+dash.calc('pos_themes', { inputs: ['stories'], title: 'Positive themes ranked', description: 'Positive stories grouped by theme; importance = sum of page weights (front 3, pages 2–3 or district front 2, inside 1).', fn: (stories) => {
+  const g = {};
+  stories.filter((r) => r.sentiment === 'Positive' && r.theme_group).forEach((r) => {
+    const t = g[r.theme_group] || (g[r.theme_group] = { theme_group: r.theme_group, stories: 0, papers: new Set(), front_pages: 0, importance: 0 });
+    t.stories += 1; t.papers.add(r.newspaper); t.importance += Number(r.page_weight);
+    if (Number(r.page_weight) === 3) t.front_pages += 1;
+  });
+  return Object.values(g).sort((a, b) => b.importance - a.importance || b.stories - a.stories)
+    .map((t, i) => ({ rank: i + 1, theme_group: t.theme_group, stories: t.stories, papers: t.papers.size, front_pages: t.front_pages, importance: t.importance }));
+} });
+dash.calc('neg_themes', { inputs: ['stories'], title: 'Negative themes ranked', description: 'Negative stories grouped by theme; importance = sum of page weights (front 3, pages 2–3 or district front 2, inside 1).', fn: (stories) => {
+  const g = {};
+  stories.filter((r) => r.sentiment === 'Negative' && r.theme_group).forEach((r) => {
+    const t = g[r.theme_group] || (g[r.theme_group] = { theme_group: r.theme_group, stories: 0, papers: new Set(), front_pages: 0, importance: 0 });
+    t.stories += 1; t.papers.add(r.newspaper); t.importance += Number(r.page_weight);
+    if (Number(r.page_weight) === 3) t.front_pages += 1;
+  });
+  return Object.values(g).sort((a, b) => b.importance - a.importance || b.stories - a.stories)
+    .map((t, i) => ({ rank: i + 1, theme_group: t.theme_group, stories: t.stories, papers: t.papers.size, front_pages: t.front_pages, importance: t.importance }));
+} });
+
+dash.calc('papers', {
+  inputs: ['stories'],
+  title: 'Stories by newspaper',
+  description: 'Relevant stories per newspaper by sentiment, front pages and government ads.',
+  fn: (stories) => {
+    const g = {};
+    stories.forEach((r) => {
+      const p = g[r.newspaper] || (g[r.newspaper] = { newspaper: r.newspaper, language: r.language, relevant: 0, front_pages: 0, positive: 0, neutral: 0, negative: 0, govt_ads: 0 });
+      if (r.sentiment === 'Govt ad') p.govt_ads += 1;
+      if (!['Positive', 'Neutral', 'Negative'].includes(r.sentiment)) return;
+      p.relevant += 1; p[r.sentiment.toLowerCase()] += 1;
+      if (Number(r.page_weight) === 3) p.front_pages += 1;
+    });
+    return Object.values(g).sort((a, b) => b.relevant - a.relevant).map((p) => {
+      const d = (p.negative - p.positive) / (p.relevant || 1);
+      return { ...p, lean: d >= 0.15 ? 'leans negative' : d <= -0.15 ? 'leans positive' : 'mixed' };
+    });
+  },
+});
+
+dash.calc('reach', {
+  inputs: ['stories'],
+  title: 'Biggest stories by reach',
+  description: 'Single news events (rows sharing a story label), counted by newspapers carrying them.',
+  fn: (stories) => {
+    // Each row may carry a 'story' label (set during coding) that groups one news event across papers.
+    const rel = stories.filter((r) => ['Positive', 'Neutral', 'Negative'].includes(r.sentiment) && r.story);
+    const groups = new Map();
+    rel.forEach((r) => { const key = r.date + '|' + r.story; if (!groups.has(key)) groups.set(key, { day: r.date, story: r.story, h: [] }); groups.get(key).h.push(r); });
+    const out = [...groups.values()].map(({ day, story, h }) => ({ story: dash.date() === 'all' ? `${story} (${shortDate(day)})` : story, h }));
+    return out.map(({ story, h }) => {
+      const pos = h.filter((r) => r.sentiment === 'Positive').length, neg = h.filter((r) => r.sentiment === 'Negative').length;
+      return { story, papers: new Set(h.map((r) => r.newspaper)).size, front_pages: h.filter((r) => Number(r.page_weight) === 3).length,
+        tone: pos > neg * 1.5 ? 'positive' : neg > pos * 1.5 ? 'negative' : 'mixed' };
+    }).filter((x) => x.papers > 0).sort((a, b) => b.papers - a.papers || b.front_pages - a.front_pages).slice(0, 12);
+  },
+});
+
+dash.calc('voice', {
+  inputs: ['stories'],
+  title: 'Share of voice',
+  description: 'Opposition attacks on the government by party, against statements by AAP leaders.',
+  fn: (stories) => {
+    const c = { BJP: 0, Congress: 0, SAD: 0, 'AAP leaders': 0 };
+    stories.forEach((r) => {
+      if (r.detailed_theme === 'Opposition attack: BJP') c.BJP += 1;
+      else if (r.detailed_theme === 'Opposition attack: Congress') c.Congress += 1;
+      else if (r.detailed_theme === 'Opposition attack: SAD') c.SAD += 1;
+      else if (r.detailed_theme === 'Opposition attack: Other') c.Others = (c.Others || 0) + 1;
+      else if (r.aap_voice === true || r.aap_voice === 'true') c['AAP leaders'] += 1;
+    });
+    return Object.entries(c).map(([speaker, statements]) => ({ speaker, statements })).sort((a, b) => b.statements - a.statements);
+  },
+});
+
+const fmt = d3.format(',');
+const COL = { Positive: 'var(--color-ok)', Neutral: 'var(--cds-chart-muted)', Negative: 'var(--color-bad)' };
+const clearSkel = () => document.querySelectorAll('.dash-skeleton').forEach((e) => e.classList.remove('dash-skeleton'));
+
+function fillThemes(id, tableId, color) {
+  const d = dash.data(id), tb = document.querySelector(`#${tableId} tbody`);
+  tb.replaceChildren();
+  if (d.status !== 'ok') return;
+  const max = d3.max(d.data, (r) => r.importance) || 1;
+  d.data.forEach((r) => {
+    const tr = document.createElement('tr');
+    const cells = [r.rank, r.theme_group, fmt(r.stories), fmt(r.papers), fmt(r.front_pages), fmt(r.importance)];
+    cells.forEach((v, i) => {
+      const td = document.createElement('td');
+      if (i === 0) { td.className = 'rk'; const s = document.createElement('span'); s.style.setProperty('--rc', color); s.textContent = v; td.appendChild(s); }
+      else if (i === 1) { const n = document.createElement('div'); n.className = 'tname'; n.textContent = v; const b = document.createElement('div'); b.className = 'bar'; b.style.background = color; b.style.width = (r.importance / max * 100) + '%'; td.append(n, b); }
+      else { td.textContent = v; td.className = 'n'; }
+      tr.appendChild(td);
+    });
+    tb.appendChild(tr);
+  });
+}
+
+function simpleTable(id, tableId, cols) {
+  const d = dash.data(id), tb = document.querySelector(`#${tableId} tbody`);
+  tb.replaceChildren();
+  if (d.status !== 'ok') return;
+  d.data.forEach((r) => {
+    const tr = document.createElement('tr');
+    cols.forEach(([k, num]) => { const td = document.createElement('td'); td.textContent = num ? fmt(r[k]) : r[k]; if (num) td.className = 'n'; tr.appendChild(td); });
+    tb.appendChild(tr);
+  });
+}
+
+// All-stories table: search, sentiment filter and sortable headers
+let sortK = 'story_id', sortDir = 1;
+const qEl = document.getElementById('q'), sEl = document.getElementById('fsent');
+function fillStories() {
+  const d = dash.data('stories'), tb = document.querySelector('#story-table tbody');
+  tb.replaceChildren();
+  if (d.status !== 'ok') { document.getElementById('count').textContent = ''; return; }
+  const q = qEl.value.trim().toLowerCase(), s = sEl.value;
+  const rows = d.data.filter((r) => (!s || r.sentiment === s) && (!q || `${r.headline} ${r.newspaper} ${r.theme_group} ${r.detailed_theme}`.toLowerCase().includes(q)))
+    .sort((a, b) => { if (sortK === 'story_id' && a.date !== b.date) return (a.date > b.date ? -1 : 1); let x = a[sortK], y = b[sortK]; if (typeof x === 'number' || sortK === 'page_weight' || sortK === 'story_id') { x = Number(x); y = Number(y); } return (x > y ? 1 : x < y ? -1 : 0) * sortDir; });
+  rows.forEach((r) => {
+    const tr = document.createElement('tr');
+    [shortDate(r.date), r.story_id, r.newspaper, r.page, r.headline, r.sentiment, r.theme_group || r.detailed_theme].forEach((v, i) => {
+      const td = document.createElement('td'); td.textContent = v;
+      if (i === 1) td.className = 'n';
+      if (i === 0) td.style.whiteSpace = 'nowrap';
+      if (i === 5 && COL[v]) td.style.color = v === 'Neutral' ? 'var(--color-fg-muted)' : COL[v];
+      tr.appendChild(td);
+    });
+    tb.appendChild(tr);
+  });
+  document.getElementById('count').textContent = `${fmt(rows.length)} of ${fmt(d.data.length)} stories`;
+}
+qEl.addEventListener('input', fillStories);
+sEl.addEventListener('change', fillStories);
+document.querySelectorAll('#story-table th button').forEach((b) => b.addEventListener('click', () => {
+  const k = b.dataset.k; sortDir = sortK === k ? -sortDir : (k === 'page_weight' ? -1 : 1); sortK = k;
+  document.querySelectorAll('#story-table th').forEach((th) => th.removeAttribute('aria-sort'));
+  b.parentElement.setAttribute('aria-sort', sortDir === 1 ? 'ascending' : 'descending');
+  fillStories();
+}));
+
+const TONE = { positive: 'var(--color-ok)', negative: 'var(--color-bad)', mixed: 'var(--cds-chart-muted)' };
+function fillReach() {
+  const d = dash.data('reach'), tb = document.querySelector('#reach tbody');
+  tb.replaceChildren();
+  if (d.status !== 'ok') return;
+  const max = d3.max(d.data, (r) => r.papers) || 1;
+  d.data.forEach((r) => {
+    const tr = document.createElement('tr');
+    const a = document.createElement('td'); const nm = document.createElement('div'); nm.className = 'tname'; nm.textContent = r.story;
+    const b = document.createElement('div'); b.className = 'bar'; b.style.background = TONE[r.tone]; b.style.width = (r.papers / max * 100) + '%'; a.append(nm, b);
+    const p = document.createElement('td'); p.className = 'n'; p.textContent = fmt(r.papers);
+    const f = document.createElement('td'); f.className = 'n'; f.textContent = fmt(r.front_pages);
+    const t = document.createElement('td'); const dot = document.createElement('span'); dot.className = 'pp-tone'; dot.style.background = TONE[r.tone]; t.append(dot, document.createTextNode(r.tone));
+    tr.append(a, p, f, t); tb.appendChild(tr);
+  });
+}
+const VOICE_COL = { 'AAP leaders': 'var(--color-ok)', BJP: dash.colors[1], Congress: dash.colors[0], SAD: dash.colors[3] };
+function drawVoice() {
+  const d = dash.data('voice'), svg = d3.select('#voice-svg'), leg = document.getElementById('voice-legend'), tip = document.getElementById('voice-tip');
+  svg.selectAll('*').remove(); leg.replaceChildren(); tip.hidden = true;
+  if (d.status !== 'ok') return;
+  const total = d3.sum(d.data, (r) => r.statements) || 1;
+  const g = svg.append('g').attr('transform', 'translate(120,120)');
+  const arcs = d3.pie().sort(null).value((r) => r.statements).padAngle(0.02)(d.data);
+  const arc = d3.arc().innerRadius(62).outerRadius(112).cornerRadius(4);
+  const box = document.getElementById('voice');
+  g.selectAll('path').data(arcs).join('path').attr('d', arc).attr('fill', (a) => VOICE_COL[a.data.speaker] || 'var(--cds-chart-muted)')
+    .on('mousemove', (event, a) => {
+      tip.hidden = false; tip.replaceChildren();
+      const s = document.createElement('span'); s.textContent = a.data.speaker + ' ';
+      tip.append(s, document.createTextNode(`${fmt(a.data.statements)} statements · ${d3.format('.0%')(a.data.statements / total)}`));
+      const rb = box.getBoundingClientRect(); let x = event.clientX - rb.left + 12, y = event.clientY - rb.top + 12;
+      x = Math.min(x, rb.width - tip.offsetWidth - 4); tip.style.left = x + 'px'; tip.style.top = y + 'px';
+    })
+    .on('mouseleave', () => { tip.hidden = true; });
+  const aap = d.data.find((r) => r.speaker === 'AAP leaders');
+  g.append('text').attr('text-anchor', 'middle').attr('dy', '-0.1em').style('font-family', 'var(--font-anthropic-serif)').style('font-size', '30px').attr('fill', 'var(--color-fg)').text(d3.format('.0%')((total - (aap ? aap.statements : 0)) / total));
+  g.append('text').attr('text-anchor', 'middle').attr('dy', '1.4em').style('font-size', '11px').attr('fill', 'var(--color-fg-muted)').text('opposition');
+  d.data.forEach((r) => {
+    const row = document.createElement('div'); const sw = document.createElement('i'); sw.style.background = VOICE_COL[r.speaker] || 'var(--cds-chart-muted)';
+    const nm = document.createElement('span'); nm.textContent = r.speaker === 'AAP leaders' ? 'AAP leaders' : r.speaker === 'Others' ? 'Other parties' : r.speaker + ' attacks';
+    const v = document.createElement('b'); v.textContent = fmt(r.statements);
+    row.append(sw, nm, v); leg.appendChild(row);
+  });
+}
+VOICE_COL.Others = dash.colors[5];
+
+// Day over day: computed from every date regardless of the picker.
+function dayStats(rows) {
+  const rel = rows.filter((r) => REL.includes(r.sentiment));
+  const n = (s) => rel.filter((r) => r.sentiment === s).length;
+  const opp = rel.filter(isOppRow).length;
+  return { relevant: rel.length, positive: n('Positive'), neutral: n('Neutral'), negative: n('Negative'), opp,
+    front: rel.filter((r) => r.front_page === true).length, aap: rows.filter((r) => r.aap_voice === true).length, rel };
+}
+function drawTrend() {
+  const all = dash.data('all_stories').data, ds = dash.dates(), sec = document.getElementById('trend');
+  sec.hidden = ds.length < 2;
+  if (ds.length < 2) return;
+  const st = ds.map((d) => ({ d, ...dayStats(all.filter((r) => r.date === d)) }));
+  const bars = document.getElementById('trend-bars'); bars.replaceChildren();
+  st.forEach((s) => {
+    const col = document.createElement('div'); col.className = 'pp-tcol' + (dash.date() === s.d ? ' on' : ''); col.tabIndex = 0; col.setAttribute('role', 'button');
+    col.setAttribute('aria-label', `${longDate(s.d)}: ${s.positive} positive, ${s.neutral} neutral, ${s.negative} negative. Open this day.`);
+    const stack = document.createElement('div'); stack.className = 'pp-tstack';
+    [['positive', 'Positive'], ['neutral', 'Neutral'], ['negative', 'Negative']].forEach(([f, k]) => {
+      const i = document.createElement('i'); i.style.flex = s[f]; i.style.background = COL[k];
+      const p = s[f] / (s.relevant || 1); if (p > 0.1) i.textContent = d3.format('.0%')(p); stack.appendChild(i);
+    });
+    const lab = document.createElement('div'); lab.className = 'pp-tlab'; const b = document.createElement('b'); b.textContent = shortDate(s.d);
+    lab.append(b, document.createTextNode(`${fmt(s.relevant)} stories`));
+    col.append(stack, lab);
+    const go = () => pickDate(s.d);
+    col.addEventListener('click', go); col.addEventListener('keydown', (e) => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); go(); } });
+    bars.appendChild(col);
+  });
+  // Key figures with change versus the previous date
+  const pc = (a, b) => (b ? a / b : 0);
+  const metrics = [
+    ['Relevant stories', (s) => s.relevant, 'n', 0],
+    ['Positive share', (s) => pc(s.positive, s.relevant), '%', 1],
+    ['Negative share', (s) => pc(s.negative, s.relevant), '%', -1],
+    ['Negative excl. opposition statements', (s) => pc(s.negative - s.opp, s.relevant - s.opp), '%', -1],
+    ['Opposition statements', (s) => s.opp, 'n', -1],
+    ['AAP replies to opposition', (s) => s.aap, 'n', 1],
+    ['Relevant front-page stories', (s) => s.front, 'n', 0],
+  ];
+  const tt = document.getElementById('trend-table');
+  const hr = document.createElement('tr'); ['', ...st.map((s) => shortDate(s.d))].forEach((h, i) => { const th = document.createElement('th'); th.textContent = h; if (i) th.className = 'n'; hr.appendChild(th); });
+  tt.tHead.replaceChildren(hr); tt.tBodies[0].replaceChildren();
+  metrics.forEach(([name, f, kind, good]) => {
+    const tr = document.createElement('tr'); const td0 = document.createElement('td'); td0.textContent = name; tr.appendChild(td0);
+    st.forEach((s, i) => {
+      const v = f(s), td = document.createElement('td'); td.className = 'n';
+      td.textContent = kind === '%' ? d3.format('.0%')(v) : fmt(v);
+      if (i > 0) {
+        const prev = f(st[i - 1]), diff = v - prev, sp = document.createElement('span');
+        const shown = kind === '%' ? Math.round(diff * 100) : diff;
+        sp.className = 'pp-delta ' + (shown === 0 || !good ? 'flat' : (diff > 0) === (good > 0) ? 'up' : 'down');
+        sp.textContent = shown === 0 ? '·' : (shown > 0 ? '▲' : '▼') + Math.abs(shown) + (kind === '%' ? ' pts' : '');
+        td.appendChild(sp);
+      }
+      tr.appendChild(td);
+    });
+    tt.tBodies[0].appendChild(tr);
+  });
+  // Themes that moved between the last two dates
+  const keyOf = (r) => `${r.sentiment}|${r.theme_group}`;
+  const cnt = st.map((s) => d3.rollup(s.rel.filter((r) => r.sentiment !== 'Neutral' && r.theme_group), (v) => v.length, keyOf));
+  const keys = [...new Set(cnt.flatMap((m) => [...m.keys()]))];
+  const last = cnt.length - 1;
+  const rows = keys.map((k) => ({ k, vals: cnt.map((m) => m.get(k) || 0) })).map((x) => ({ ...x, delta: x.vals[last] - x.vals[last - 1] }))
+    .sort((a, b) => Math.abs(b.delta) - Math.abs(a.delta) || b.vals[last] - a.vals[last]).slice(0, 12);
+  const tm = document.getElementById('theme-move');
+  const h2 = document.createElement('tr'); ['Theme', 'Tone', ...st.map((s) => shortDate(s.d)), 'Change'].forEach((h, i) => { const th = document.createElement('th'); th.textContent = h; if (i > 1) th.className = 'n'; h2.appendChild(th); });
+  tm.tHead.replaceChildren(h2); tm.tBodies[0].replaceChildren();
+  rows.forEach((x) => {
+    const [sent, theme] = x.k.split('|'); const tr = document.createElement('tr');
+    const a = document.createElement('td'); a.className = 'tname'; a.textContent = theme;
+    const t = document.createElement('td'); const dot = document.createElement('span'); dot.className = 'pp-tone'; dot.style.background = COL[sent]; t.append(dot, document.createTextNode(sent.toLowerCase()));
+    tr.append(a, t);
+    x.vals.forEach((v) => { const td = document.createElement('td'); td.className = 'n'; td.textContent = fmt(v); tr.appendChild(td); });
+    const c = document.createElement('td'); c.className = 'n'; const sp = document.createElement('span');
+    const good = sent === 'Positive' ? x.delta > 0 : x.delta < 0;
+    sp.className = 'pp-delta ' + (x.delta === 0 ? 'flat' : good ? 'up' : 'down'); sp.style.marginLeft = '0';
+    sp.textContent = x.delta === 0 ? '·' : (x.delta > 0 ? '+' : '−') + Math.abs(x.delta); c.appendChild(sp); tr.appendChild(c);
+    tm.tBodies[0].appendChild(tr);
+  });
+}
+
+let animated = false;
+dash.onData(() => {
+  const k = dash.data('kpis');
+  const set = (f) => document.querySelectorAll(`[data-source="kpis"][data-field="${f}"]`).forEach((e) => { e.textContent = k.status === 'ok' ? (typeof k.data[0][f] === 'number' ? fmt(k.data[0][f]) : k.data[0][f]) : '—'; });
+  ['relevant', 'positive', 'neutral', 'negative', 'positive_share', 'neutral_share', 'negative_share', 'front_pages', 'govt_ads', 'opposition_statements', 'positive_share_ex_opp', 'negative_share_ex_opp'].forEach(set);
+  const split = document.getElementById('split'); split.replaceChildren();
+  const tk = document.getElementById('takeaway');
+  const day = dash.date(), note = NOTES[day];
+  document.getElementById('date-chip').textContent = longDate(day);
+  document.getElementById('hero-title').textContent = day === 'all' ? 'How the press covered AAP and the Punjab government, all dates' : `How the press covered AAP and the Punjab government on ${d3.timeFormat('%-d %B')(new Date(day + 'T00:00:00'))}`;
+  document.title = `Punjab Press Pulse · ${day === 'all' ? 'All dates' : shortDate(day) + ' ' + day.slice(0, 4)}`;
+  document.getElementById('numbers-note').textContent = note ? note.sources : `All ${dash.dates().length} dates combined. Each day is the monitoring deck plus a full-edition sweep; relevant = about AAP, the Punjab government or a state matter.`;
+  fillList('well', note ? note.well : Object.values(NOTES).flatMap((n) => n.well.slice(0, 1)).concat([['Pick a date above for that day\'s detail.', 'The combined view adds up every story across dates.']]));
+  fillList('improve', note ? note.improve : Object.values(NOTES).flatMap((n) => n.improve.slice(0, 1)));
+  if (k.status === 'ok') {
+    const r = k.data[0];
+    [['positive', 'Positive', 'positive_share'], ['neutral', 'Neutral', 'neutral_share'], ['negative', 'Negative', 'negative_share']].forEach(([f, s, sh]) => { const i = document.createElement('i'); i.style.flex = r[f]; i.style.background = COL[s]; if (r[f] / r.relevant > 0.08) i.textContent = `${s} ${r[sh]}`; split.appendChild(i); });
+    tk.textContent = note ? note.takeaway(r) : `Across all ${dash.dates().length} dates: ${fmt(r.relevant)} relevant stories, ${r.negative_share} negative and ${r.positive_share} positive. Opposition statements are the single biggest source of negative coverage on every day.`;
+  } else tk.textContent = '—';
+  drawTrend();
+  clearSkel();
+
+  fillThemes('pos_themes', 'pos-themes', 'var(--color-ok)');
+  fillThemes('neg_themes', 'neg-themes', 'var(--color-bad)');
+
+  const p = dash.data('papers'), box = document.getElementById('paper-bars');
+  box.replaceChildren();
+  if (p.status === 'ok') {
+    const max = d3.max(p.data, (r) => r.relevant) || 1;
+    p.data.forEach((r) => {
+      const row = document.createElement('div'); row.className = 'pp-prow';
+      const name = document.createElement('div'); name.textContent = r.newspaper;
+      const bar = document.createElement('div'); bar.className = 'pp-pbar'; bar.style.width = (r.relevant / max * 100) + '%';
+      [['positive', 'Positive'], ['neutral', 'Neutral'], ['negative', 'Negative']].forEach(([f, s]) => { const i = document.createElement('i'); i.style.flex = r[f]; i.style.background = COL[s]; bar.appendChild(i); });
+      bar.setAttribute('role', 'img'); bar.setAttribute('aria-label', `${r.newspaper}: ${r.positive} positive, ${r.neutral} neutral, ${r.negative} negative`);
+      const t = document.createElement('div'); t.className = 'pp-ptally'; t.textContent = `${r.positive} · ${r.neutral} · ${r.negative}`;
+      row.append(name, bar, t); box.appendChild(row);
+    });
+  }
+  simpleTable('papers', 'paper-table', [['newspaper'], ['language'], ['relevant', 1], ['front_pages', 1], ['positive', 1], ['neutral', 1], ['negative', 1], ['govt_ads', 1], ['lean']]);
+  fillReach();
+  drawVoice();
+  document.querySelectorAll('#paper-table tbody tr').forEach((tr) => { const td = tr.lastElementChild; const v = td.textContent; td.textContent = ''; const s = document.createElement('span'); s.className = 'pp-lean ' + (v === 'leans negative' ? 'neg' : v === 'leans positive' ? 'pos' : 'mix'); s.textContent = v; td.appendChild(s); });
+  fillStories();
+  if (!animated && k.status === 'ok') { animated = true; document.querySelectorAll('.pp > *').forEach((el, i) => { el.classList.add('pp-anim'); el.style.animationDelay = (i * 60) + 'ms'; }); }
+});
+</script>
