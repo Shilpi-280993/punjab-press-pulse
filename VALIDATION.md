@@ -1,12 +1,12 @@
 # Sentiment judge: validating the day's classification
 
-After the day's rows are coded (DAILY_RUN.md step 5) and before the dashboard is built, every row's sentiment is checked by the strongest model available as an independent judge. Use the Agent tool with `model: "fable"` (Claude Fable 5.2). The judge never sees the coders' work while forming its own view.
+After the day's rows are coded (DAILY_RUN.md step 5, by Sonnet subagents) and before the dashboard is built, a sample of rows is checked by the strongest model available as an independent judge. Use the Agent tool with `model: "fable"` (Claude Fable 5.2). The judge never sees the coders' work while forming its own view.
 
 Judged labels: `Positive`, `Neutral`, `Negative`, `Not about AAP/Govt`, `Govt ad`. Rows already marked `Duplicate` are skipped.
 
 ## Stage 1: blind labelling
 
-1. `python3 scripts/judge.py prep D` writes `data/judge/D/batch_NN.json`: about 60 rows each, grouped by newspaper, with story_id, newspaper, page, headline, ref and source only. Sentiment and theme are removed.
+1. `python3 scripts/judge.py prep D` picks the rows to judge (from 15 Nov 2026, to save usage): every row the coder marked `confidence: "low"`, plus a random sample of the rest spread across papers (seeded by the date), about 100 rows in all. The list is in `data/judge/D/sample.json`. It writes `data/judge/D/batch_NN.json`: about 50 rows each, grouped by newspaper, with story_id, newspaper, page, headline, ref and source only. Sentiment and theme are removed.
 2. Start one judge subagent per batch, all with `model: "fable"`, in parallel. Give each: the full text of RULES.md, the batch file contents, and the path of the staged PDFs so it can look at each clipping (`pdftoppm -r 90 -f N -l N -png` on the deck for `deck slide N`; the edition page for full-edition rows). Prompt:
 
    > You are the judge of sentiment for a Punjab newspaper monitor. For each row, look at the clipping and decide its label from the Punjab government's and AAP's point of view, strictly by the rules given. Judge the headline's lead, not the whole article. Return only JSON: a list of {"story_id", "sentiment", "confidence" (high/medium/low), "reason" (one short sentence naming the rule or the words that decide it)}. If the English headline is a wrong translation of the clipping, add "headline_fix" with a corrected headline.

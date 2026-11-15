@@ -15,7 +15,8 @@ import sys
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 LABELS = {"Positive", "Neutral", "Negative", "Not about AAP/Govt", "Govt ad"}
 JUDGE = "Claude Fable 5.2"
-BATCH = 60
+BATCH = 50
+SAMPLE = 100  # rows judged per day: every low-confidence row plus a random sample up to this total
 
 
 def p(*a):
@@ -41,8 +42,38 @@ def judged_rows(d):
     return [r for r in load(p("data", "stories", f"{d}.json")) if r["sentiment"] != "Duplicate"]
 
 
+def pick_sample(d, rows):
+    """Every row the coder marked low confidence, plus a random sample (seeded by date, spread across
+    papers) of the rest, up to SAMPLE rows in total."""
+    import random
+    low = [r for r in rows if str(r.get("confidence", "")).lower() == "low"]
+    rest = [r for r in rows if r not in low]
+    rng = random.Random(d)
+    k = max(0, min(len(rest), SAMPLE - len(low)))
+    by_paper = collections.defaultdict(list)
+    for r in rest:
+        by_paper[r["newspaper"]].append(r)
+    for v in by_paper.values():
+        rng.shuffle(v)
+    picked = []
+    while len(picked) < k:  # round-robin across papers so every paper is checked
+        for v in by_paper.values():
+            if v and len(picked) < k:
+                picked.append(v.pop())
+    return low + picked, len(low)
+
+
+def sampled_ids(d):
+    sp = p("data", "judge", d, "sample.json")
+    return set(load(sp)["story_ids"]) if os.path.exists(sp) else None
+
+
 def prep(d):
-    rows = sorted(judged_rows(d), key=lambda r: (r["newspaper"], r["story_id"]))
+    rows, n_low = pick_sample(d, judged_rows(d))
+    save(p("data", "judge", d, "sample.json"), {"story_ids": sorted(int(r["story_id"]) for r in rows), "low_confidence": n_low,
+                                               "of_rows": len(judged_rows(d))})
+    print(f"Sample: {n_low} low-confidence rows + {len(rows) - n_low} random rows = {len(rows)} of {len(judged_rows(d))}")
+    rows = sorted(rows, key=lambda r: (r["newspaper"], r["story_id"]))
     out_dir = p("data", "judge", d)
     for old in glob.glob(os.path.join(out_dir, "batch_*.json")):
         os.remove(old)
@@ -72,6 +103,9 @@ def blind_labels(d):
 
 def compare(d):
     rows = {int(r["story_id"]): r for r in judged_rows(d)}
+    sample = sampled_ids(d)
+    if sample is not None:
+        rows = {k: v for k, v in rows.items() if k in sample}
     lab = blind_labels(d)
     missing = sorted(set(rows) - set(lab))
     bad = [sid for sid, x in lab.items() if x.get("sentiment") not in LABELS]
@@ -159,8 +193,10 @@ def apply(d):
     notes_p = p("data", "notes", f"{d}.json")
     notes = load(notes_p, {})
     if judged:
-        notes["validation"] = (f"Sentiment checked by {JUDGE} as an independent judge: it agreed with the coding on "
-                               f"{agree_n:,} of {len(judged):,} stories ({agree_n / len(judged):.0%}); after review "
+        total = len([r for r in stories if r["sentiment"] != "Duplicate"])
+        scope = f"a sample of {len(judged):,} of the {total:,} stories" if len(judged) < total else f"all {len(judged):,} stories"
+        notes["validation"] = (f"Sentiment checked by {JUDGE} as an independent judge on {scope}: it agreed with the "
+                               f"coding on {agree_n:,} ({agree_n / len(judged):.0%}); after review "
                                f"{changed_sent} labels were changed.")
         save(notes_p, notes)
     print(json.dumps({k: v for k, v in summary.items() if k not in ("patterns", "new_cases")}, indent=1))

@@ -26,6 +26,7 @@ These rules reproduce the analysis built for 27 and 28 Oct 2026 (951 stories, au
 | aap_voice | true when an AAP leader or minister is the speaker making the point (including the CM attacking the BJP or the Centre) |
 | story | Optional. Short label for a news event that ran in several papers, e.g. `Punjab Da Crorepati quiz launch`. Use the same label on every row of that event. Label the 10 to 15 biggest events of the day. |
 | ref | Where the clipping is, so the judge can find it: `deck slide 41` or `<edition file name> p.7`. Required from 15 Nov 2026. |
+| confidence | `high`, `medium` or `low`: the coder's confidence in the sentiment. Use `low` when the clipping is hard to read or two labels could fit; every low row goes to the judge. From 15 Nov 2026. |
 | date | YYYY-MM-DD |
 
 ## Relevance
