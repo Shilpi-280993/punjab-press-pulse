@@ -5,6 +5,8 @@ Runs on the Mac side (device_bash VM). Reads WhatsApp Desktop's local database (
 live file) to find the group's media for the date, then copies every file that WhatsApp has already
 downloaded into <dest>/<YYYY-MM-DD>/ with its real file name. Files WhatsApp has not downloaded are
 listed as missing in _manifest.json (turn on Documents auto-download in WhatsApp to avoid this).
+Files saved into the dated folder by hand count as present (matched by exact file size), so they are
+neither reported missing nor copied twice.
 
 Usage: python3 wa_copy.py [--date YYYY-MM-DD] [--wa DIR] [--dest DIR] [--group NAME]
 """
@@ -85,11 +87,20 @@ def main():
     day_dir = os.path.join(dest_root, a.date)
     os.makedirs(day_dir, exist_ok=True)
     copied, missing, existing = [], [], []
+    # files already in the folder (copied earlier or saved by hand), matched by exact byte size
+    sizes = {}
+    for f in os.listdir(day_dir):
+        fp = os.path.join(day_dir, f)
+        if os.path.isfile(fp) and not f.startswith(("_", ".")):
+            sizes[os.path.getsize(fp)] = f
     for ts, text, title, local, size in rows:
         if not size:
             continue  # stickers / empty items
         t = dt.datetime.fromtimestamp(ts + APPLE_EPOCH, IST).strftime("%H:%M:%S")
         label = (text or title or "").strip()
+        if size in sizes:
+            existing.append(sizes[size])
+            continue
         src = os.path.join(wa, "Message", local) if local else None
         if not src or not os.path.exists(src):
             missing.append({"time": t, "name": label or "(no name)", "bytes": size})
@@ -111,6 +122,7 @@ def main():
             existing.append(os.path.basename(target))
             continue
         shutil.copy2(src, target)
+        sizes[size] = os.path.basename(target)
         copied.append({"time": t, "file": os.path.basename(target), "bytes": size})
 
     manifest = {
