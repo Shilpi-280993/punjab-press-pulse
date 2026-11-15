@@ -14,7 +14,7 @@ import sys
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 LABELS = {"Positive", "Neutral", "Negative", "Not about AAP/Govt", "Govt ad"}
-JUDGE = "Claude Fable 5.2"
+JUDGE = "Claude Fable 5.2"  # final adjudicator; the blind check is run on Sonnet
 BATCH = 50
 SAMPLE = 100  # random rows judged per day, on top of every low-confidence row
 
@@ -195,7 +195,7 @@ def apply(d):
     if judged:
         total = len([r for r in stories if r["sentiment"] != "Duplicate"])
         scope = f"a sample of {len(judged):,} of the {total:,} stories" if len(judged) < total else f"all {len(judged):,} stories"
-        notes["validation"] = (f"Sentiment checked by {JUDGE} as an independent judge on {scope}: it agreed with the "
+        notes["validation"] = (f"Sentiment checked blind by a second model (Sonnet) on {scope}, with {JUDGE} ruling on every disagreement: the check agreed with the "
                                f"coding on {agree_n:,} ({agree_n / len(judged):.0%}); after review "
                                f"{changed_sent} labels were changed.")
         save(notes_p, notes)

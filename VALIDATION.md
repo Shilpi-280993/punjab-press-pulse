@@ -7,7 +7,7 @@ Judged labels: `Positive`, `Neutral`, `Negative`, `Not about AAP/Govt`, `Govt ad
 ## Stage 1: blind labelling
 
 1. `python3 scripts/judge.py prep D` picks the rows to judge (from 15 Nov 2026, to save usage): every row the coder marked `confidence: "low"`, plus a random sample of 100 of the other rows, spread across papers (seeded by the date). The list is in `data/judge/D/sample.json`. It writes `data/judge/D/batch_NN.json`: about 50 rows each, grouped by newspaper, with story_id, newspaper, page, headline, ref and source only. Sentiment and theme are removed.
-2. Start one judge subagent per batch, all with `model: "fable"`, in parallel. Give each: the full text of RULES.md, the batch file contents, and the path of the staged PDFs so it can look at each clipping (`pdftoppm -r 90 -f N -l N -png` on the deck for `deck slide N`; the edition page for full-edition rows). Prompt:
+2. Start one blind judge subagent per batch, all with `model: "sonnet"` (from 16 Nov 2026, to save usage; Claude Fable 5.2 is kept for the final ruling in Stage 3), in parallel. Give each: the full text of RULES.md, the batch file contents, and the path of the staged PDFs so it can look at each clipping (`pdftoppm -r 90 -f N -l N -png` on the deck for `deck slide N`; the edition page for full-edition rows). Prompt:
 
    > You are the judge of sentiment for a Punjab newspaper monitor. For each row, look at the clipping and decide its label from the Punjab government's and AAP's point of view, strictly by the rules given. Judge the headline's lead, not the whole article. Return only JSON: a list of {"story_id", "sentiment", "confidence" (high/medium/low), "reason" (one short sentence naming the rule or the words that decide it)}. If the English headline is a wrong translation of the clipping, add "headline_fix" with a corrected headline.
 
@@ -19,7 +19,7 @@ Judged labels: `Positive`, `Neutral`, `Negative`, `Not about AAP/Govt`, `Govt ad
 
 ## Stage 3: adjudication (judge has the final word)
 
-Start one more `model: "fable"` subagent with RULES.md, the disagreements file and the staged PDFs. Prompt:
+Start one `model: "fable"` (Claude Fable 5.2) subagent with RULES.md, the disagreements file and the staged PDFs. Prompt:
 
 > Two classifiers disagreed on these rows. For each, look at the clipping again and give the final label by the rules. You may keep either label. Return only JSON: a list of {"story_id", "final", "reason", "rule" (rule name or "new case"), and, if the sentiment change also changes the theme, "theme_group" and "detailed_theme" from the RULES.md lists}.
 
