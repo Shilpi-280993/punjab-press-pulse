@@ -1,558 +1,558 @@
-﻿Story #,Source,Newspaper,Page,Front page,Headline (English),Relevant to AAP/Govt,Sentiment,Theme (ranked group),Detailed theme,AAP spokesperson voice,Page weight,Story
-18,Monitoring deck,Ajit,1,Yes,Asian Hockey Champions Trophy opens in Punjab for first time; CM inaugurates,Yes,Positive,Hockey & sports,Sports,,3,Asian Champions Trophy hockey
-19,Monitoring deck,Ajit,1,Yes,EC orders transfer of officers posted in home districts in Punjab and 4 states,Yes,Neutral,"Governance, Assembly & politics",Election Commission,,3,EC orders officer transfers
-20,Monitoring deck,Ajit,1,Yes,"Assembly unanimously passes 8 resolutions, 5 on river waters",Yes,Positive,"Punjab's rights: water, PU, Chandigarh",Assembly resolutions,,3,"River-water resolutions, Rajasthan royalty"
-21,Monitoring deck,Ajit,1,Yes,Uproar on last day of session: Congress and AAP MLAs clash outside House,Yes,Negative,Opposition attacks on the govt,Assembly uproar,,3,"Assembly scuffle, Congress walkout"
-22,Monitoring deck,Ajit,1,Yes,Uproar on last day of session (continued),No,Duplicate,,Duplicate,,3,
-23,Monitoring deck,Ajit,2,No,Welfare schemes won't stop over opposition threats: Harpal Cheema,Yes,Positive,AAP leaders' counter-attacks,AAP minister rebuts opposition,Yes,2,
-24,Monitoring deck,Ajit,3,No,"DA case: HC raps Punjab govt, Rs 1 lakh fine on Chief Secretary",Yes,Negative,Court rebukes & govt finances,Employees DA case,,2,HC fines Chief Secretary over DA
-25,Monitoring deck,Ajit,3,No,Uproar after youth's death in Mansa; Lakha Sidhana and others detained,Yes,Negative,Crime & law and order,Custodial/drug death protest,,2,"Mansa drug death, police seize body"
-26,Monitoring deck,Ajit,3,No,"CM's OSD Rajbir Ghuman questioned 4 hrs by CBI, asked to return Oct 31",Yes,Negative,CM's OSD questioned by CBI,CBI probe,,2,CM's OSD before the CBI
-27,Monitoring deck,Ajit,3,No,Jhota murder: dharna continues on 15th day,Yes,Negative,Jhota murder protest,Jhota murder protest,,2,
-28,Monitoring deck,Ajit,3,No,20-year-old youth murdered in broad daylight in Ferozepur,Yes,Negative,Crime & law and order,Murder,,2,
-29,Monitoring deck,Ajit,5,No,"Indira Colony sewer blocked for 2 months, residents wade through dirty water",Yes,Negative,Civic services & infrastructure,Civic issues,,1,"River-water resolutions, Rajasthan royalty"
-30,Monitoring deck,Ajit,7,No,"Tubewell shut, severe water shortage in Master Tara Singh Nagar",Yes,Negative,Civic services & infrastructure,Civic issues,,1,"River-water resolutions, Rajasthan royalty"
-31,Monitoring deck,Ajit,7,No,Illegal colonies regularisation stuck; thousands await notification,Yes,Negative,Civic services & infrastructure,Illegal colonies,,1,
-32,Monitoring deck,Ajit,7,No,Street vendors protest MC's monthly fee slip,Yes,Negative,Civic services & infrastructure,Civic issues,,1,
-33,Monitoring deck,Ajit,9,No,IKGPTU convocation: Governor Kataria addresses graduates,No,Not about AAP/Govt,,Others,,1,
-34,Monitoring deck,Ajit,9,No,Govt owes PSPCL thousands of crores in power dues; HC seeks Chief Secretary's reply,Yes,Negative,Court rebukes & govt finances,Power dues,,1,
-35,Monitoring deck,Ajit,9,No,SKM unhappy written water promises don't match Assembly resolutions; dharnas from Nov 2,Yes,Negative,"Farmers, stubble & paddy",Farmers' demands,,1,"River-water resolutions, Rajasthan royalty"
-36,Monitoring deck,Ajit,10,No,3 lakh solar street lights to be installed in Punjab villages,Yes,Positive,Civic services & infrastructure,Rural development,,1,
-37,Monitoring deck,Ajit,10,No,Jhota murder: main accused's wife sent to 14-day judicial custody,Yes,Neutral,Jhota murder protest,Court/police action,,1,
-38,Monitoring deck,Ajit,12,No,Grand opening of Asian Champions Trophy (photo feature),Yes,Positive,Hockey & sports,Sports,,1,Asian Champions Trophy hockey
-39,Monitoring deck,Ajit,E3,No,Valmiki Pragat Diwas shobha yatra in Malsian; AAP leaders join,Yes,Positive,"Religious outreach: Valmiki, Kartarpur",Religious outreach,,1,
-40,Monitoring deck,Ajit,E3,No,AAP halqa in-charge Pala Jalalpur meets kabaddi commentator Makhan Ali,Yes,Positive,AAP organisation & outreach,AAP outreach,,1,
-41,Monitoring deck,Jagbani,1,Yes,EC: officers in post 3+ years to be transferred in 5 states incl Punjab,Yes,Neutral,"Governance, Assembly & politics",Election Commission,,3,EC orders officer transfers
-42,Monitoring deck,Jagbani,1,Yes,Kartarpur corridor should reopen: CM Mann,Yes,Positive,"Religious outreach: Valmiki, Kartarpur",Kartarpur corridor,,3,Kartarpur corridor resolution
-43,Monitoring deck,Jagbani,3,No,"7 held incl army jawan in Amritsar; 14 pistols, 20 kg heroin seized",Yes,Positive,"Police action on gangs, arms & drugs",Police action vs drugs/arms,,2,"Army jawan among 7 held, 14 pistols"
-44,Monitoring deck,Jagbani,3,No,Assembly passes 8 resolutions incl water rights; Rs 1.44 lakh cr sought from Rajasthan,Yes,Positive,"Punjab's rights: water, PU, Chandigarh",Assembly resolutions,,2,"River-water resolutions, Rajasthan royalty"
-45,Monitoring deck,Jagbani,5,No,MLAs scuffle in Assembly; Congress boycotts session,Yes,Negative,Opposition attacks on the govt,Assembly uproar,,1,"Assembly scuffle, Congress walkout"
-46,Monitoring deck,Jagbani,5,No,"Family protests after youth's suspicious death in Mansa; Warring, Chugh slam govt",Yes,Negative,Crime & law and order,Custodial/drug death protest,,1,"Mansa drug death, police seize body"
-47,Monitoring deck,Jagbani,5,No,6 kg heroin dropped by drone recovered from fields,Yes,Positive,"Police action on gangs, arms & drugs",Police action vs drugs,,1,
-48,Monitoring deck,Jagbani,5,No,OSD Ghuman appears before CBI for 4th time,Yes,Negative,CM's OSD questioned by CBI,CBI probe,,1,CM's OSD before the CBI
-49,Monitoring deck,Jagbani,6,No,Youth abducted and murdered in Ferozepur,Yes,Negative,Crime & law and order,Murder,,1,
-50,Monitoring deck,Jagbani,6,No,Bomb-threat emails to Vidhan Sabha and schools cause panic,Yes,Neutral,Crime & law and order,Hoax threats,,1,
-51,Monitoring deck,Jagbani,6,No,Patiala MC polls in 28 wards on Nov 18,Yes,Neutral,"Governance, Assembly & politics",Civic polls,,1,
-52,Monitoring deck,Jagbani,6,No,Centre should talk to Pakistan on reopening Kartarpur corridor: Harjot Bains,Yes,Positive,"Religious outreach: Valmiki, Kartarpur",Kartarpur corridor,Yes,1,Kartarpur corridor resolution
-53,Monitoring deck,Jagbani,6,No,205 security guards to be posted in govt hospitals,Yes,Positive,"Schools, health & employees",Health services,,1,
-54,Monitoring deck,Jagbani,6,No,OSD Ghuman sends legal notice to Majithia,Yes,Neutral,CM's OSD questioned by CBI,Legal notice,,1,CM's OSD before the CBI
-55,Monitoring deck,Jagbani,6,No,Jhota murder: Ashwani Kumar's wife sent to 14-day judicial custody,Yes,Neutral,Jhota murder protest,Court/police action,,1,
-56,Monitoring deck,Punjabi Tribune,1,Yes,HC raps Punjab govt for not paying DA arrears,Yes,Negative,Court rebukes & govt finances,Employees DA case,,3,HC fines Chief Secretary over DA
-57,Monitoring deck,Punjabi Tribune,1,Yes,Last session: 5 resolutions on river waters passed,Yes,Positive,"Punjab's rights: water, PU, Chandigarh",Assembly resolutions,,3,"River-water resolutions, Rajasthan royalty"
-58,Monitoring deck,Punjabi Tribune,1,Yes,Kartarpur corridor resolution passed for 4th time,Yes,Positive,"Religious outreach: Valmiki, Kartarpur",Kartarpur corridor,,3,Kartarpur corridor resolution
-59,Monitoring deck,Punjabi Tribune,1,Yes,Order to stop paddy procurement in 30+ mandis,Yes,Negative,"Farmers, stubble & paddy",Paddy procurement,,3,
-60,Monitoring deck,Punjabi Tribune,1,Yes,Police snatch body from protesters after Mansa youth's drug death,Yes,Negative,Crime & law and order,Custodial/drug death protest,,3,"Mansa drug death, police seize body"
-61,Monitoring deck,Punjabi Tribune,1,Yes,Last session ends amid clashes; opposition uproar inside and outside House,Yes,Negative,Opposition attacks on the govt,Assembly uproar,,3,"Assembly scuffle, Congress walkout"
-62,Monitoring deck,Punjabi Tribune,2,No,Zero Hour: demand for probe into use of 'drug money' in elections,Yes,Negative,Opposition attacks on the govt,Assembly uproar,,2,
-63,Monitoring deck,Punjabi Tribune,2,No,AAP and Congress MLAs clash outside Vidhan Sabha,Yes,Negative,Opposition attacks on the govt,Assembly uproar,,2,"Assembly scuffle, Congress walkout"
-64,Monitoring deck,Punjabi Tribune,2,No,AAP leader's brother shot dead in Amritsar village,Yes,Negative,Crime & law and order,Murder,,2,AAP sarpanch's son shot in Amritsar
-65,Monitoring deck,Punjabi Tribune,2,No,Question Hour: demand to increase number of chemical labs,Yes,Neutral,"Schools, health & employees",Assembly question,,2,
-66,Monitoring deck,Punjabi Tribune,2,No,AAP MLAs corner own govt in Assembly over stalled development works,Yes,Negative,"Governance, Assembly & politics",Own MLAs' complaints,,2,
-67,Monitoring deck,Punjabi Tribune,2,No,Toll tax on Himachal vehicles under consideration: Minister Sond,Yes,Neutral,"Governance, Assembly & politics",Assembly answer,,2,
-68,Monitoring deck,Punjabi Tribune,2,No,Rajbir Ghuman sends legal notice to Majithia,Yes,Neutral,CM's OSD questioned by CBI,Legal notice,,2,CM's OSD before the CBI
-69,Monitoring deck,Punjabi Tribune,2,No,Seven held with 20 kg heroin and 14 pistols,Yes,Positive,"Police action on gangs, arms & drugs",Police action vs drugs/arms,,2,"Army jawan among 7 held, 14 pistols"
-70,Monitoring deck,Punjabi Tribune,2,No,Stubble burnt at 684 places in Punjab,Yes,Negative,"Farmers, stubble & paddy",Stubble burning,,2,
-71,Monitoring deck,Punjabi Tribune,3,No,Election Commission delegation visits Punjab,Yes,Neutral,"Governance, Assembly & politics",Election Commission,,2,EC orders officer transfers
-72,Monitoring deck,Punjabi Tribune,3,No,Jhota murder: no talks with action committee for 4 days,Yes,Negative,Jhota murder protest,Jhota murder protest,,2,
-73,Monitoring deck,Punjabi Tribune,3,No,HC seeks Chief Secretary's reply on Powercom dues and loans,Yes,Negative,Court rebukes & govt finances,Power dues,,2,
-74,Monitoring deck,Punjabi Tribune,3,No,BKU Ugrahan to gherao police stations today over Mansa youth's death,Yes,Negative,Crime & law and order,Custodial/drug death protest,,2,"Mansa drug death, police seize body"
-75,Monitoring deck,Punjabi Tribune,6,No,MLA Kulwant Singh raises mid-day meal issue in House,Yes,Neutral,"Schools, health & employees",Assembly question,,1,
-76,Monitoring deck,Punjabi Tribune,6,No,Deepa Dubey appointed Chandigarh AAP vice-president,Yes,Positive,AAP organisation & outreach,AAP organisation,,1,
-77,Monitoring deck,Punjabi Tribune,6,No,Doctors and medical staff demand security at Kharar hospital,Yes,Negative,"Schools, health & employees",Health services,,1,
-78,Monitoring deck,Punjabi Tribune,6,No,Paddy procurement closed in 5 mandis; Akalis warn of agitation,Yes,Negative,"Farmers, stubble & paddy",Paddy procurement,,1,
-79,Monitoring deck,Punjabi Tribune,6,No,Women employees of school education dept protest,Yes,Negative,"Schools, health & employees",Employee protests,,1,
-80,Monitoring deck,Punjabi Tribune,6,No,Farmers hit by urea shortage,Yes,Negative,"Farmers, stubble & paddy",Fertiliser shortage,,1,
-81,Monitoring deck,Punjabi Tribune,7,No,Development of area is top priority: AAP's Goldy starts road work,Yes,Positive,Civic services & infrastructure,Development works,,1,
-82,Monitoring deck,Punjabi Tribune,7,No,Social worker has filled road potholes himself for eight years,Yes,Negative,Civic services & infrastructure,Roads,,1,
-83,Monitoring deck,Punjabi Jagran,1,Yes,Congress and AAP MLAs scuffle on last day of Assembly,Yes,Negative,Opposition attacks on the govt,Assembly uproar,,3,"Assembly scuffle, Congress walkout"
-84,Monitoring deck,Punjabi Jagran,1,Yes,Kartarpur corridor should reopen: CM Mann,Yes,Positive,"Religious outreach: Valmiki, Kartarpur",Kartarpur corridor,,3,Kartarpur corridor resolution
-85,Monitoring deck,Punjabi Jagran,1,Yes,Legal steps sought to recover Rs 1.44 lakh cr water dues from Rajasthan; 8 resolutions passed,Yes,Positive,"Punjab's rights: water, PU, Chandigarh",Assembly resolutions,,3,"River-water resolutions, Rajasthan royalty"
-86,Monitoring deck,Punjabi Jagran,1,Yes,"AAP MLA Manuke raises banned-drug sales in House, waving newspaper",Yes,Negative,Drugs & medicine access,Banned drugs,,3,
-87,Monitoring deck,Punjabi Jagran,1,Yes,EC tells state to move officers posted 3+ years at one place,Yes,Neutral,"Governance, Assembly & politics",Election Commission,,3,EC orders officer transfers
-88,Monitoring deck,Punjabi Jagran,2,No,CM Mann launches Asian Hockey Championship,Yes,Positive,Hockey & sports,Sports,,2,Asian Champions Trophy hockey
-89,Monitoring deck,Punjabi Jagran,2,No,HC fines Punjab Chief Secretary,Yes,Negative,Court rebukes & govt finances,Employees DA case,,2,
-90,Monitoring deck,Punjabi Jagran,2,No,Bomb threats to several places incl Diljit's concert,Yes,Neutral,Crime & law and order,Hoax threats,,2,
-91,Monitoring deck,Punjabi Jagran,2,No,CM's OSD sends legal notice to Majithia,Yes,Neutral,CM's OSD questioned by CBI,Legal notice,,2,CM's OSD before the CBI
-92,Monitoring deck,Punjabi Jagran,2,No,Govt owes power corporation thousands of crores,Yes,Negative,Court rebukes & govt finances,Power dues,,2,
-93,Monitoring deck,Punjabi Jagran,2,No,EC holds review meeting on election preparations,Yes,Neutral,"Governance, Assembly & politics",Election Commission,,2,EC orders officer transfers
-94,Monitoring deck,Punjabi Jagran,2,No,Jhota murder: Ashwani's wife sent to judicial custody,Yes,Neutral,Jhota murder protest,Court/police action,,2,
-95,Monitoring deck,Punjabi Jagran,2,No,AAP MLA Dinesh Chadha files affidavit rebutting Majithia's claim,Yes,Positive,AAP leaders' counter-attacks,AAP rebuts Akalis,Yes,2,
-96,Monitoring deck,Punjabi Jagran,3,No,Tension again in Mansa as police take youth's body from dharna,Yes,Negative,Crime & law and order,Custodial/drug death protest,,2,"Mansa drug death, police seize body"
-97,Monitoring deck,Punjabi Jagran,3,No,Seven held with 14 pistols and 20 kg heroin,Yes,Positive,"Police action on gangs, arms & drugs",Police action vs drugs/arms,,2,"Army jawan among 7 held, 14 pistols"
-98,Monitoring deck,Punjabi Jagran,3,No,Anti-drug activist shot dead in Amritsar village,Yes,Negative,Crime & law and order,Murder,,2,
-99,Monitoring deck,Punjabi Jagran,3,No,6 kg heroin recovered from fields,Yes,Positive,"Police action on gangs, arms & drugs",Police action vs drugs,,2,
-100,Monitoring deck,Rozana Spokesman,1,Yes,Assembly session ends after 8 key resolutions on Yamuna share and Rajasthan dues,Yes,Positive,"Punjab's rights: water, PU, Chandigarh",Assembly resolutions,,3,"River-water resolutions, Rajasthan royalty"
-101,Monitoring deck,Rozana Spokesman,1,Yes,Will fight from streets to courts for Punjab's waters: CM Mann,Yes,Positive,"Punjab's rights: water, PU, Chandigarh",River waters,Yes,3,"River-water resolutions, Rajasthan royalty"
-102,Monitoring deck,Rozana Spokesman,1,Yes,EC directive to poll-bound states incl Punjab on transfers,Yes,Neutral,"Governance, Assembly & politics",Election Commission,,3,EC orders officer transfers
-103,Monitoring deck,Rozana Spokesman,2,No,Yudh Nashian Virudh: drug smuggler's illegal construction razed in Sant Nagar,Yes,Positive,"Police action on gangs, arms & drugs",Police action vs drugs,,2,
-104,Monitoring deck,Rozana Spokesman,3,No,Kartarpur corridor should reopen: CM Mann,Yes,Positive,"Religious outreach: Valmiki, Kartarpur",Kartarpur corridor,,2,Kartarpur corridor resolution
-105,Monitoring deck,Rozana Spokesman,3,No,Kartarpur corridor a matter of religious freedom: Harjot Bains,Yes,Positive,"Religious outreach: Valmiki, Kartarpur",Kartarpur corridor,Yes,2,Kartarpur corridor resolution
-106,Monitoring deck,Rozana Spokesman,3,No,CM Mann inaugurates Asian hockey championship,Yes,Positive,Hockey & sports,Sports,,2,Asian Champions Trophy hockey
-107,Monitoring deck,Rozana Spokesman,3,No,Ghuman sends legal notice to Majithia,Yes,Neutral,CM's OSD questioned by CBI,Legal notice,,2,CM's OSD before the CBI
-108,Monitoring deck,Rozana Spokesman,3,No,All welfare schemes will continue: Harpal Cheema,Yes,Positive,Welfare schemes,Welfare continuity,Yes,2,
-109,Monitoring deck,Rozana Spokesman,3,No,"MLA Dinesh Chadha answers Majithia's Rs 2,000 cr property claim",Yes,Positive,AAP leaders' counter-attacks,AAP rebuts Akalis,Yes,2,
-110,Monitoring deck,Rozana Spokesman,3,No,"DA case: Rs 1 lakh fine on Chief Secretary, told to appear Nov 3",Yes,Negative,Court rebukes & govt finances,Employees DA case,,2,HC fines Chief Secretary over DA
-111,Monitoring deck,Rozana Spokesman,3,No,HC upset over withdrawal of security of road-scam petitioner,Yes,Negative,Court rebukes & govt finances,Court rebuke,,2,
-112,Monitoring deck,Rozana Spokesman,8,No,Calling welfare schemes 'freebies' insults people: Dr Baljit Kaur,Yes,Positive,Welfare schemes,Welfare defence,Yes,1,
-113,Monitoring deck,Rozana Spokesman,8,No,Vigilance Bureau to hold awareness week till Nov 1,Yes,Positive,"Governance, Assembly & politics",Anti-corruption,,1,
-114,Monitoring deck,Rozana Spokesman,8,No,"Gangsters par Vaar day 280: raids at 510 places, 175 held; 101 drug smugglers held",Yes,Positive,"Police action on gangs, arms & drugs",Police action vs gangs/drugs,,1,
-115,Monitoring deck,Rozana Spokesman,8,No,"7 held incl army jawan with 14 pistols, 20 kg heroin",Yes,Positive,"Police action on gangs, arms & drugs",Police action vs drugs/arms,,1,"Army jawan among 7 held, 14 pistols"
-116,Monitoring deck,Rozana Spokesman,8,No,"Half of paddy procurement target met; Rs 20,000 cr paid into farmers' accounts",Yes,Positive,"Farmers, stubble & paddy",Paddy procurement,,1,
-117,Monitoring deck,Rozana Spokesman,8,No,Central team takes hybrid paddy samples from mandis,Yes,Neutral,"Farmers, stubble & paddy",Paddy procurement,,1,
-118,Monitoring deck,Rozana Spokesman,8,No,Youth dies of drug overdose in Bhamme Kalan; scuffle with police over body,Yes,Negative,Crime & law and order,Custodial/drug death protest,,1,"Mansa drug death, police seize body"
-119,Monitoring deck,Rozana Spokesman,8,No,Jhota case: dharna continues,Yes,Negative,Jhota murder protest,Jhota murder protest,,1,
-120,Monitoring deck,Rozana Spokesman,8,No,PPCB seals machinery of 2 illegal dyeing units in Haibowal,Yes,Positive,Civic services & infrastructure,Pollution enforcement,,1,
-121,Monitoring deck,Rozana Spokesman,9,No,Councillor demands immediate start of Punjabi Bagh road work,Yes,Negative,Civic services & infrastructure,Roads,,1,
-122,Monitoring deck,Punjab Kesari,1,Yes,EC: officers in post 3+ years to be transferred in 5 states incl Punjab,Yes,Neutral,"Governance, Assembly & politics",Election Commission,,3,EC orders officer transfers
-123,Monitoring deck,Punjab Kesari,1,Yes,Assembly passes 8 resolutions incl water rights,Yes,Positive,"Punjab's rights: water, PU, Chandigarh",Assembly resolutions,,3,"River-water resolutions, Rajasthan royalty"
-124,Monitoring deck,Punjab Kesari,2,No,"7 held incl army jawan; 14 pistols, 20 kg heroin seized",Yes,Positive,"Police action on gangs, arms & drugs",Police action vs drugs/arms,,2,"Army jawan among 7 held, 14 pistols"
-125,Monitoring deck,Punjab Kesari,2,No,Kartarpur corridor should reopen: CM Mann,Yes,Positive,"Religious outreach: Valmiki, Kartarpur",Kartarpur corridor,,2,Kartarpur corridor resolution
-126,Monitoring deck,Punjab Kesari,3,No,Centre should talk to Pakistan on Kartarpur corridor: Harjot Bains,Yes,Positive,"Religious outreach: Valmiki, Kartarpur",Kartarpur corridor,Yes,2,Kartarpur corridor resolution
-127,Monitoring deck,Punjab Kesari,3,No,Family protests after Mansa youth's suspicious death; scuffle with police,Yes,Negative,Crime & law and order,Custodial/drug death protest,,2,"Mansa drug death, police seize body"
-128,Monitoring deck,Punjab Kesari,3,No,DA case: HC fines Chief Secretary Rs 1 lakh,Yes,Negative,Court rebukes & govt finances,Employees DA case,,2,HC fines Chief Secretary over DA
-129,Monitoring deck,Punjab Kesari,3,No,Rajbir Ghuman appears before CBI for 4th time,Yes,Negative,CM's OSD questioned by CBI,CBI probe,,2,CM's OSD before the CBI
-130,Monitoring deck,Punjab Kesari,5,No,Youth murdered after abduction in Ferozepur; friend critical,Yes,Negative,Crime & law and order,Murder,,1,
-131,Monitoring deck,Punjab Kesari,5,No,Patiala MC polls in 28 wards on Nov 18,Yes,Neutral,"Governance, Assembly & politics",Civic polls,,1,
-132,Monitoring deck,Punjab Kesari,5,No,EVM-VVPAT checking in Punjab from Nov 12,Yes,Neutral,"Governance, Assembly & politics",Election Commission,,1,
-133,Monitoring deck,Punjab Kesari,5,No,Jhota murder: main accused's wife sent to judicial custody,Yes,Neutral,Jhota murder protest,Court/police action,,1,
-134,Monitoring deck,Punjab Kesari,5,No,Bomb threats to Assembly and schools cause panic,Yes,Neutral,Crime & law and order,Hoax threats,,1,
-135,Monitoring deck,Punjab Kesari,5,No,Sarpanch's son shot dead in Amritsar,Yes,Negative,Crime & law and order,Murder,,1,AAP sarpanch's son shot in Amritsar
-136,Monitoring deck,Punjab Kesari,8,No,CM Mann inaugurates Asian hockey championship in Punjab,Yes,Positive,Hockey & sports,Sports,,1,Asian Champions Trophy hockey
-137,Monitoring deck,Dainik Jagran,1,Yes,"Faith above politics, Kartarpur corridor should reopen: CM Mann",Yes,Positive,"Religious outreach: Valmiki, Kartarpur",Kartarpur corridor,,3,Kartarpur corridor resolution
-138,Monitoring deck,Dainik Jagran,1,Yes,"AAP MLA Manuke raises banned-drug supply chain in House, cites Dainik Jagran",Yes,Negative,Drugs & medicine access,Banned drugs,,3,
-139,Monitoring deck,Dainik Jagran,1,Yes,Congress-AAP MLAs scuffle; 8 resolutions passed with one opposition member present,Yes,Negative,Opposition attacks on the govt,Assembly uproar,,3,"River-water resolutions, Rajasthan royalty"
-140,Monitoring deck,Dainik Jagran,1,Yes,Punjab ready to host 2030 Hockey World Cup: CM,Yes,Positive,Hockey & sports,Sports,,3,Asian Champions Trophy hockey
-141,Monitoring deck,Dainik Jagran,1,Yes,"Amritsar: 24 pistols, 14 magazines seized, 10 held",Yes,Positive,"Police action on gangs, arms & drugs",Police action vs arms,,3,"Army jawan among 7 held, 14 pistols"
-142,Monitoring deck,Dainik Jagran,2,No,CM's OSD sends legal notice to Majithia,Yes,Neutral,CM's OSD questioned by CBI,Legal notice,,2,CM's OSD before the CBI
-143,Monitoring deck,Dainik Jagran,2,No,Income Tax raids on de-addiction centres continue for 2nd day,Yes,Negative,Drugs & medicine access,De-addiction centres,,2,
-144,Monitoring deck,Dainik Jagran,2,No,HC fines Chief Secretary Rs 1 lakh,Yes,Negative,Court rebukes & govt finances,Employees DA case,,2,
-145,Monitoring deck,Dainik Jagran,2,No,Family alleges Tirath killed for opposing drug sales,Yes,Negative,Crime & law and order,Murder,,2,AAP sarpanch's son shot in Amritsar
-146,Monitoring deck,Dainik Jagran,2,No,Police lathi-charge protesters carrying youth's body in Mansa,Yes,Negative,Crime & law and order,Custodial/drug death protest,,2,"Mansa drug death, police seize body"
-147,Monitoring deck,Dainik Jagran,2,No,EC directs transfer of long-posted officers; EVM checks from Nov 12,Yes,Neutral,"Governance, Assembly & politics",Election Commission,,2,EC orders officer transfers
-148,Monitoring deck,Dainik Jagran,2,No,"Khaira-Manuke spat, daylong uproar; Congress stays away from House",Yes,Negative,Opposition attacks on the govt,Assembly uproar,,2,"Assembly scuffle, Congress walkout"
-149,Monitoring deck,Dainik Jagran,2,No,Zero Hour: gangsterism and sarpanch killings raised,Yes,Negative,Crime & law and order,Gangsterism,,2,AAP sarpanch's son shot in Amritsar
-150,Monitoring deck,Dainik Jagran,2,No,Speaker Sandhwan bids emotional farewell to MLAs on last session,Yes,Neutral,"Governance, Assembly & politics",Assembly,,2,
-151,Monitoring deck,Dainik Jagran,2,No,Govt owes power corporation thousands of crores,Yes,Negative,Court rebukes & govt finances,Power dues,,2,
-152,Monitoring deck,Dainik Jagran,2,No,"Two criminals held after encounter in Amritsar, one shot in leg",Yes,Positive,"Police action on gangs, arms & drugs",Police action vs gangs,,2,
-153,Monitoring deck,Dainik Jagran,2,No,Vigilance awareness week from Oct 26 to Nov 1,Yes,Positive,"Governance, Assembly & politics",Anti-corruption,,2,
-154,Monitoring deck,Dainik Jagran,2,No,Colourful opening of Asian Champions Trophy (photos),Yes,Positive,Hockey & sports,Sports,,2,Asian Champions Trophy hockey
-155,Monitoring deck,Dainik Jagran,3,No,"CRPF jawan protests outside Rajindra hospital, alleges assault by DSP",Yes,Negative,Crime & law and order,Police excess,,2,
-156,Monitoring deck,Dainik Jagran,3,No,Mann: we will seek votes on the strength of our schemes; Congress wants free schemes ended,Yes,Positive,Welfare schemes,Welfare defence,Yes,2,
-157,Monitoring deck,Dainik Bhaskar,J3,No,Congress walks out alleging it was stopped at gate; clash with AAP at podium,Yes,Negative,Opposition attacks on the govt,Assembly uproar,,2,"Assembly scuffle, Congress walkout"
-158,Monitoring deck,Dainik Bhaskar,J3,No,8 resolutions passed; Punjab to recover water royalty from Rajasthan,Yes,Positive,"Punjab's rights: water, PU, Chandigarh",Assembly resolutions,,2,"River-water resolutions, Rajasthan royalty"
-159,Monitoring deck,Dainik Bhaskar,J3,No,HC: explain why DA order not followed; Rs 1 lakh fine on Chief Secretary,Yes,Negative,Court rebukes & govt finances,Employees DA case,,2,HC fines Chief Secretary over DA
-160,Monitoring deck,Dainik Bhaskar,J4,No,"3 lakh solar lights in 13,000+ villages, govt to bear 70% cost",Yes,Positive,Civic services & infrastructure,Rural development,,1,
-161,Monitoring deck,Dainik Bhaskar,J4,No,"7 held incl army jawan; 14 pistols, 20 kg heroin seized",Yes,Positive,"Police action on gangs, arms & drugs",Police action vs drugs/arms,,1,"Army jawan among 7 held, 14 pistols"
-162,Monitoring deck,Dainik Bhaskar,J4,No,Moga double murder: 6 women plotted killing of 2 brothers; 10 held,Yes,Neutral,Crime & law and order,Murder solved,,1,
-163,Monitoring deck,Dainik Bhaskar,J4,No,684 stubble-burning cases; Jalandhar air worst; 246 farmers fined,Yes,Negative,"Farmers, stubble & paddy",Stubble burning,,1,46 leaders join BJP in Gurdaspur
-164,Monitoring deck,Dainik Bhaskar,J4,No,Jail inmates to press mustard oil; pilot at Muktsar jail,Yes,Positive,"Governance, Assembly & politics",Jail reform,,1,
-165,Monitoring deck,Dainik Bhaskar,J4,No,Jhota murder: accused's wife sent to Patiala jail,Yes,Neutral,Jhota murder protest,Court/police action,,1,
-166,Monitoring deck,Dainik Bhaskar,J4,No,"Govt depts owe Powercom Rs 2,382 cr; HC seeks CS reply",Yes,Negative,Court rebukes & govt finances,Power dues,,1,
-167,Monitoring deck,Dainik Bhaskar,J4,No,6 kg heroin found in field in Ferozepur,Yes,Positive,"Police action on gangs, arms & drugs",Police action vs drugs,,1,
-168,Monitoring deck,Dainik Bhaskar,J5,No,Transfer of 140+ officers being readied before polls,Yes,Neutral,"Governance, Assembly & politics",Election Commission,,1,EC orders officer transfers
-169,Monitoring deck,Dainik Bhaskar,J5,No,Assembly polls in five states next year,Yes,Neutral,"Governance, Assembly & politics",Election Commission,,1,
-170,Monitoring deck,Dainik Bhaskar,J5,No,14 hi-tech drones join Punjab Police fleet,Yes,Positive,"Police action on gangs, arms & drugs",Police modernisation,,1,
-171,Monitoring deck,Dainik Bhaskar,J5,No,Mann invited to Punjabi conference in Lahore; Pak minister welcomes him,Yes,Neutral,"Religious outreach: Valmiki, Kartarpur",Cross-border outreach,,1,
-172,Monitoring deck,Dainik Bhaskar,1,Yes,"Asian hockey trophy opens in Jalandhar; 15,000 watch India-Bangladesh",Yes,Positive,Hockey & sports,Sports,,3,Asian Champions Trophy hockey
-173,Monitoring deck,Dainik Bhaskar,1,Yes,CBI raids DRME HQ in Mohali over drug licensing,Yes,Negative,Drugs & medicine access,CBI probe of licensing,,3,
-174,Monitoring deck,Dainik Bhaskar,1,Yes,Police snatch body being taken to Jhota dharna after overdose death,Yes,Negative,Crime & law and order,Custodial/drug death protest,,3,"Mansa drug death, police seize body"
-175,Monitoring deck,Dainik Bhaskar,2,No,"Two shots fired at gurdwara gate, threat letter thrown",Yes,Negative,Crime & law and order,Firing/threats,,2,
-176,Monitoring deck,Dainik Savera,1,Yes,Kartarpur corridor should reopen; faith above politics: CM Mann,Yes,Positive,"Religious outreach: Valmiki, Kartarpur",Kartarpur corridor,,3,Kartarpur corridor resolution
-177,Monitoring deck,Dainik Savera,2,No,Resolution to continue welfare schemes passed; 80 lakh women registered: Cheema,Yes,Positive,Welfare schemes,Welfare continuity,Yes,2,"River-water resolutions, Rajasthan royalty"
-178,Monitoring deck,Dainik Savera,2,No,Speaker adjourns 13th session of 16th Assembly sine die,Yes,Neutral,"Governance, Assembly & politics",Assembly,,2,
-179,Monitoring deck,Dainik Savera,2,No,Assembly unanimously passes 8 resolutions,Yes,Positive,"Punjab's rights: water, PU, Chandigarh",Assembly resolutions,,2,"River-water resolutions, Rajasthan royalty"
-180,Monitoring deck,Dainik Savera,2,No,Punjab won't give a drop of its water; ready to fight in courts and streets: CM,Yes,Positive,"Punjab's rights: water, PU, Chandigarh",River waters,Yes,2,"River-water resolutions, Rajasthan royalty"
-181,Monitoring deck,Dainik Savera,2,No,Resolution moved in Assembly to reopen Kartarpur corridor,Yes,Positive,"Religious outreach: Valmiki, Kartarpur",Kartarpur corridor,,2,Kartarpur corridor resolution
-182,Monitoring deck,Dainik Savera,2,No,Calling welfare schemes 'freebies' insults people: Dr Baljit Kaur,Yes,Positive,Welfare schemes,Welfare defence,Yes,2,
-183,Monitoring deck,Dainik Savera,3,No,Punjab hosts Asian hockey championship for first time; CM inaugurates,Yes,Positive,Hockey & sports,Sports,,2,Asian Champions Trophy hockey
-184,Monitoring deck,Dainik Savera,3,No,Violent clash over opposing drug sales in Shikar Machhian; police party attacked,Yes,Negative,Crime & law and order,Drug-related violence,,2,"Assembly scuffle, Congress walkout"
-185,Monitoring deck,Dainik Savera,3,No,"7 held incl army jawan; 14 pistols, 20 kg heroin seized",Yes,Positive,"Police action on gangs, arms & drugs",Police action vs drugs/arms,,2,"Army jawan among 7 held, 14 pistols"
-186,Monitoring deck,Dainik Savera,3,No,5 security staff each to be posted at sub-divisional hospitals,Yes,Positive,"Schools, health & employees",Health services,,2,
-187,Monitoring deck,Dainik Savera,5,No,"Gangsters par Vaar: raids at 510 places, 175 held",Yes,Positive,"Police action on gangs, arms & drugs",Police action vs gangs,,1,
-188,Monitoring deck,Dainik Savera,5,No,Khaira and Manuke trade charges in heated spat,Yes,Negative,Opposition attacks on the govt,Assembly uproar,,1,
-189,Monitoring deck,Dainik Savera,5,No,Govt notifies Patiala MC polls in 28 wards by Nov 18,Yes,Neutral,"Governance, Assembly & politics",Civic polls,,1,
-190,Monitoring deck,Dainik Savera,5,No,6 kg heroin dropped by drone recovered from fields,Yes,Positive,"Police action on gangs, arms & drugs",Police action vs drugs,,1,
-191,Monitoring deck,Dainik Savera,5,No,"HC strict on PSPCL dues, seeks Chief Secretary's reply",Yes,Negative,Court rebukes & govt finances,Power dues,,1,
-192,Monitoring deck,Dainik Savera,5,No,"Cross-border arms smuggling module busted in Amritsar, 3 held",Yes,Positive,"Police action on gangs, arms & drugs",Police action vs arms,,1,
-193,Monitoring deck,Dainik Savera,5,No,EC holds review meeting on Assembly poll preparations,Yes,Neutral,"Governance, Assembly & politics",Election Commission,,1,EC orders officer transfers
-194,Monitoring deck,Dainik Savera,5,No,"AAP woman sarpanch's son shot dead in Amritsar, friend injured",Yes,Negative,Crime & law and order,Murder,,1,AAP sarpanch's son shot in Amritsar
-195,Monitoring deck,The Tribune,1,Yes,Mansa erupts over 'drug death'; cops seize body,Yes,Negative,Crime & law and order,Custodial/drug death protest,,3,"Mansa drug death, police seize body"
-196,Monitoring deck,The Tribune,1,Yes,"HC slams Punjab over 'defiant attitude' on DA dues, summons Chief Secy",Yes,Negative,Court rebukes & govt finances,Employees DA case,,3,HC fines Chief Secretary over DA
-197,Monitoring deck,The Tribune,2,No,"Ahead of polls, House passes 5 resolutions on river water rights",Yes,Positive,"Punjab's rights: water, PU, Chandigarh",Assembly resolutions,,2,"River-water resolutions, Rajasthan royalty"
-198,Monitoring deck,The Tribune,2,No,Assembly unanimously seeks reopening of Kartarpur corridor,Yes,Positive,"Religious outreach: Valmiki, Kartarpur",Kartarpur corridor,,2,Kartarpur corridor resolution
-199,Monitoring deck,The Tribune,2,No,EC reviews poll preparedness; EVM checks from Nov 12,Yes,Neutral,"Governance, Assembly & politics",Election Commission,,2,EC orders officer transfers
-200,Monitoring deck,The Tribune,2,No,Back-stick error at hockey selfie point embarrasses organisers,Yes,Negative,Hockey & sports,Event lapse,,2,Asian Champions Trophy hockey
-201,Monitoring deck,The Tribune,2,No,"Glory on turf, joy at home for hockey stars",Yes,Positive,Hockey & sports,Sports,,2,Asian Champions Trophy hockey
-202,Monitoring deck,The Tribune,2,No,CM bats for Punjab as 2030 Hockey World Cup host,Yes,Positive,Hockey & sports,Sports,,2,Asian Champions Trophy hockey
-203,Monitoring deck,The Tribune,3,No,AAP leader's brother shot dead in Amritsar,Yes,Negative,Crime & law and order,Murder,,2,AAP sarpanch's son shot in Amritsar
-204,Monitoring deck,The Tribune,3,No,"Army man held in arms supply case; 14 pistols, 20 kg heroin seized",Yes,Positive,"Police action on gangs, arms & drugs",Police action vs drugs/arms,,2,"Army jawan among 7 held, 14 pistols"
-205,Monitoring deck,The Tribune,3,No,"Rajbir Ghuman quizzed by CBI for 4 hrs, faces 100 questions",Yes,Negative,CM's OSD questioned by CBI,CBI probe,,2,CM's OSD before the CBI
-206,Monitoring deck,The Tribune,3,No,"Angadpura firing victims cremated after admin assurances, job for widow",Yes,Neutral,Crime & law and order,Murder follow-up,,2,
-207,Monitoring deck,The Tribune,3,No,"Wife of accused in Jhota case sent to judicial custody; family wants CM, DGP to resign",Yes,Negative,Jhota murder protest,Jhota murder protest,,2,
-212,Monitoring deck,Times of India,1,Yes,AAP sarpanch's son shot dead outside gurdwara; Bittu questions law and order,Yes,Negative,Crime & law and order,Murder,,3,AAP sarpanch's son shot in Amritsar
-213,Monitoring deck,Times of India,1,Yes,HC fines Punjab chief secy Rs 1L over DA orders; restrains 'unproductive' expenses,Yes,Negative,Court rebukes & govt finances,Employees DA case,,3,HC fines Chief Secretary over DA
-214,Monitoring deck,Times of India,1,Yes,Hockey is in Punjab's blood: CM as Champions Trophy kicks off in Jalandhar,Yes,Positive,Hockey & sports,Sports,,3,Asian Champions Trophy hockey
-215,Monitoring deck,Times of India,1,Yes,Mansa on edge over 'drug death' vs murder claim,Yes,Negative,Crime & law and order,Custodial/drug death protest,,3,"Mansa drug death, police seize body"
-216,Monitoring deck,Times of India,2,No,"House signs off with Mann's 2027 pitch: 8 resolutions, water claims",Yes,Positive,"Punjab's rights: water, PU, Chandigarh",Assembly resolutions,,2,"River-water resolutions, Rajasthan royalty"
-217,Monitoring deck,Times of India,2,No,"Cong, AAP face off over 'entry ban' at Vidhan Sabha",Yes,Negative,Opposition attacks on the govt,Assembly uproar,,2,"Assembly scuffle, Congress walkout"
-218,Monitoring deck,Times of India,2,No,AAP MLA Manuke: minister gave incorrect reply on road,Yes,Negative,"Governance, Assembly & politics",Own MLAs' complaints,,2,
-219,Monitoring deck,Times of India,2,No,AAP MLA Jagroop Gill slams bridge project delay,Yes,Negative,"Governance, Assembly & politics",Own MLAs' complaints,,2,
-220,Monitoring deck,Times of India,2,No,SKM: water resolutions not as per assurances given to farmers,Yes,Negative,"Farmers, stubble & paddy",Farmers' demands,,2,"River-water resolutions, Rajasthan royalty"
-221,Monitoring deck,Times of India,2,No,Govt notifies re-poll in 28 Patiala MC wards,Yes,Neutral,"Governance, Assembly & politics",Civic polls,,2,
-222,Monitoring deck,Times of India,2,No,"After repeated attacks on doctors, Punjab moves to boost hospital security",Yes,Positive,"Schools, health & employees",Health services,,2,
-223,Monitoring deck,Times of India,3,No,Drama in Mansa as police seize body headed for Jhota protest site,Yes,Negative,Crime & law and order,Custodial/drug death protest,,2,"Mansa drug death, police seize body"
-224,Monitoring deck,Times of India,3,No,"Armyman among 7 held with 14 pistols, 20 kg heroin",Yes,Positive,"Police action on gangs, arms & drugs",Police action vs drugs/arms,,2,"Army jawan among 7 held, 14 pistols"
-225,Monitoring deck,Times of India,3,No,HC dismisses PIL seeking CBI probe into Jhota murder as probe already transferred,Yes,Neutral,Jhota murder protest,Court/police action,,2,EC orders officer transfers
-226,Monitoring deck,Times of India,3,No,Patients face hardship as chemists turn away prescriptions amid raids,Yes,Negative,Drugs & medicine access,Medicine access,,2,
-227,Monitoring deck,Times of India,3,No,Woman dies of gunshot wound in Amritsar; husband booked,Yes,Neutral,Crime & law and order,Crime (police case),,2,
-228,Monitoring deck,Times of India,4,No,"Most CBI queries were repeated, says Ghuman; alleges political pressure",Yes,Negative,CM's OSD questioned by CBI,CBI probe,,1,CM's OSD before the CBI
-229,Monitoring deck,Times of India,6,No,HC seeks Punjab chief secy's affidavit on PSPCL dues,Yes,Negative,Court rebukes & govt finances,Power dues,,1,
-230,Monitoring deck,Times of India,1,Yes,No canal water supply plan for Dera Bassi for now: Punjab,Yes,Negative,Civic services & infrastructure,Irrigation,,3,"River-water resolutions, Rajasthan royalty"
-231,Monitoring deck,Times of India,1,Yes,10 immigration firms in Mohali lose licences,Yes,Positive,"Governance, Assembly & politics",Regulatory action,,3,
-233,Monitoring deck,The Savera Times,1,Yes,Punjab Assembly urges Centre to reopen Kartarpur corridor,Yes,Positive,"Religious outreach: Valmiki, Kartarpur",Kartarpur corridor,,3,Kartarpur corridor resolution
-234,Monitoring deck,The Savera Times,2,No,CM Mann: Punjab will demand Rs 1.44 lakh cr water royalty from Rajasthan,Yes,Positive,"Punjab's rights: water, PU, Chandigarh",River waters,Yes,2,"River-water resolutions, Rajasthan royalty"
-235,Monitoring deck,The Savera Times,2,No,"Pathankot police raid gambling den, 11 held",Yes,Positive,"Police action on gangs, arms & drugs",Police action vs crime,,2,
-236,Monitoring deck,The Savera Times,2,No,Governor Kataria receives book on RTI and good governance,No,Not about AAP/Govt,,Others,,2,
-237,Monitoring deck,The Savera Times,2,No,Vigilance Bureau holds anti-corruption seminar in Barnala,Yes,Positive,"Governance, Assembly & politics",Anti-corruption,,2,
-238,Monitoring deck,The Savera Times,3,No,"Seven arrested with 20 kg heroin, 14 pistols",Yes,Positive,"Police action on gangs, arms & drugs",Police action vs drugs/arms,,2,"Army jawan among 7 held, 14 pistols"
-239,Monitoring deck,The Savera Times,3,No,Calling welfare schemes 'freebies' insults common people: Dr Baljit Kaur,Yes,Positive,Welfare schemes,Welfare defence,Yes,2,
-240,Monitoring deck,The Savera Times,3,No,ECI meeting assesses Punjab poll preparedness,Yes,Neutral,"Governance, Assembly & politics",Election Commission,,2,
-241,Monitoring deck,The Savera Times,3,No,Gangstran Te Vaar: 175 arrested in 510 raids,Yes,Positive,"Police action on gangs, arms & drugs",Police action vs gangs,,2,
-242,Monitoring deck,The Savera Times,3,No,DSP directs chemists to strictly follow medicine sale rules,Yes,Positive,Drugs & medicine access,Drug regulation,,2,
-243,Monitoring deck,The Savera Times,6,No,Why stubble burning refuses to relent,Yes,Negative,"Farmers, stubble & paddy",Stubble burning,,1,
-244,Monitoring deck,The Savera Times,11,No,India would aim to emerge victorious: CM Mann at Asian Champions Trophy,Yes,Positive,Hockey & sports,Sports,,1,Asian Champions Trophy hockey
-246,Monitoring deck,Ajit,2,No,"Bajwa: AAP has turned Assembly into a rubber stamp, not a law-making body",Yes,Negative,Opposition attacks on the govt,Opposition attack: Congress,,2,"Mansa drug death, police seize body"
-247,Monitoring deck,Ajit,2,No,"Congress MLAs protest outside Assembly with brooms over law and order, drugs",Yes,Negative,Opposition attacks on the govt,Opposition attack: Congress,,2,
-248,Monitoring deck,Ajit,2,No,Rana Gurjit ends talk of joining SAD (B),No,Not about AAP/Govt,,Others,,2,
-249,Monitoring deck,Jagbani,5,No,MLAs scuffle in Assembly; Congress boycotts session,No,Duplicate,,Duplicate,,1,
-250,Monitoring deck,Jagbani,5,No,Snatching Daljit's body from family shameful: Warring,Yes,Negative,Opposition attacks on the govt,Opposition attack: Congress,,1,"Mansa drug death, police seize body"
-251,Monitoring deck,Jagbani,6,No,Keeping Punjab safe is everyone's duty: Randhawa urges AAP MLAs to speak up,Yes,Negative,Opposition attacks on the govt,Opposition attack: Congress,,1,
-252,Monitoring deck,Jagbani,6,No,"I am a Congress soldier, will die in Congress: Rana Gurjit",No,Not about AAP/Govt,,Others,,1,
-253,Monitoring deck,Punjabi Jagran,3,No,Punjab has become a 'police state': Pargat Singh,Yes,Negative,Opposition attacks on the govt,Opposition attack: Congress,,2,
-254,Monitoring deck,Punjabi Tribune,2,No,"Congress MLAs burn brooms outside Assembly, blame AAP for drugs and law and order",Yes,Negative,Opposition attacks on the govt,Opposition attack: Congress,,2,
-255,Monitoring deck,Punjabi Tribune,7,No,Congress discusses current situation in state,No,Not about AAP/Govt,,Others,,1,
-256,Monitoring deck,Rozana Spokesman,3,No,Suppressing opposition voice in Assembly a worry for democracy: Pargat Singh,Yes,Negative,Opposition attacks on the govt,Opposition attack: Congress,,2,
-257,Monitoring deck,Punjab Kesari,3,No,MLAs scuffle in Assembly; Congress boycotts session,No,Duplicate,,Duplicate,,2,
-258,Monitoring deck,Punjab Kesari,3,No,Snatching Daljit's body from family shameful: Warring,Yes,Negative,Opposition attacks on the govt,Opposition attack: Congress,,2,"Mansa drug death, police seize body"
-259,Monitoring deck,Punjab Kesari,3,No,"I am a Congress soldier, will die in Congress: Rana Gurjit",No,Not about AAP/Govt,,Others,,2,
-260,Monitoring deck,Dainik Jagran,2,No,"Khaira's suspension wrong, Congress tears copies outside House",Yes,Negative,Opposition attacks on the govt,Opposition attack: Congress,,2,
-261,Monitoring deck,Dainik Jagran,2,No,"Warring corners govt, raises law and order questions after Moga murders",Yes,Negative,Opposition attacks on the govt,Opposition attack: Congress,,2,
-262,Monitoring deck,Dainik Bhaskar,J3,No,Congress walkout alleging gate block (repeat),No,Duplicate,,Duplicate,,2,
-263,Monitoring deck,Dainik Savera,2,No,Pargat Singh fumes over Khaira suspension and entry block,Yes,Negative,Opposition attacks on the govt,Opposition attack: Congress,,2,
-264,Monitoring deck,Dainik Savera,2,No,Only passing resolutions brings no real change: Bajwa,Yes,Negative,Opposition attacks on the govt,Opposition attack: Congress,,2,"River-water resolutions, Rajasthan royalty"
-265,Monitoring deck,Dainik Savera,2,No,Congress boycotts House over Khaira's suspension,Yes,Negative,Opposition attacks on the govt,Opposition attack: Congress,,2,"Assembly scuffle, Congress walkout"
-266,Monitoring deck,Dainik Savera,5,No,Congress to appoint 'vote rakshaks' at every booth over SIR,No,Not about AAP/Govt,,Others,,1,
-267,Monitoring deck,Dainik Savera,5,No,Khaira and Manuke spat (repeat),No,Duplicate,,Duplicate,,1,
-268,Monitoring deck,Dainik Savera,5,No,Former youth Congress chief slaps Congress worker,No,Not about AAP/Govt,,Others,,1,
-269,Monitoring deck,The Tribune,2,No,Disruptive politics: Congress disrupts AAP MLA's press conference (photos),Yes,Neutral,"Governance, Assembly & politics",Assembly,,2,
-270,Monitoring deck,The Tribune,2,No,"Congress, AAP MLAs clash over space to address media",No,Duplicate,,Duplicate,,2,
-271,Monitoring deck,The Tribune,2,No,Cong eyes 'ghar wapsi' of leaders ahead of Rahul's Sangrur rally,No,Not about AAP/Govt,,Others,,2,
-273,Monitoring deck,Times of India,2,No,"Cong, AAP face off over 'entry ban' (repeat)",No,Duplicate,,Duplicate,,2,
-274,Monitoring deck,Times of India,2,No,Resolutions sans legislation have no real impact: Bajwa,Yes,Negative,Opposition attacks on the govt,Opposition attack: Congress,,2,"River-water resolutions, Rajasthan royalty"
-276,Monitoring deck,The Savera Times,2,No,CM Mann on water royalty (repeat),No,Duplicate,,Duplicate,,2,
-277,Monitoring deck,The Savera Times,3,No,Pargat Singh slams restrictions on Cong MLAs' entry to Assembly,Yes,Negative,Opposition attacks on the govt,Opposition attack: Congress,,2,
-279,Monitoring deck,Jagbani,5,No,Punjab will never forgive those who disrespected turbans: Sukhbir on Mansa,Yes,Negative,Opposition attacks on the govt,Opposition attack: SAD,,1,"Mansa drug death, police seize body"
-280,Monitoring deck,Jagbani,5,No,"Majithia seeks CBI, ED probe into AAP MLA's alleged Rs 2,000 cr assets",Yes,Negative,Opposition attacks on the govt,Opposition attack: SAD,,1,
-281,Monitoring deck,Jagbani,6,No,Harsimrat corners govt on drugs in Ghanaur,Yes,Negative,Opposition attacks on the govt,Opposition attack: SAD,,1,
-282,Monitoring deck,Jagbani,6,No,Law and order is dead in Punjab: Majithia,Yes,Negative,Opposition attacks on the govt,Opposition attack: SAD,,1,
-283,Monitoring deck,Punjabi Tribune,6,No,Mothers and daughters should unite against drug smugglers: Harsimrat,Yes,Negative,Opposition attacks on the govt,Opposition attack: SAD,,1,
-284,Monitoring deck,Punjab Kesari,3,No,Sukhbir: Punjab won't forgive turban disrespect; taking Daljit's body shameful,Yes,Negative,Opposition attacks on the govt,Opposition attack: SAD,,2,"Mansa drug death, police seize body"
-285,Monitoring deck,Punjab Kesari,3,No,Law and order is dead in Punjab: Majithia,Yes,Negative,Opposition attacks on the govt,Opposition attack: SAD,,2,
-286,Monitoring deck,Punjab Kesari,3,No,We must save Punjab from drugs ourselves: Harsimrat,Yes,Negative,Opposition attacks on the govt,Opposition attack: SAD,,2,
-287,Monitoring deck,Dainik Savera,2,No,Women DGP-led task force against drug mafia if SAD wins: Harsimrat,Yes,Negative,Opposition attacks on the govt,Opposition attack: SAD,,2,
-288,Monitoring deck,The Tribune,2,No,Law and order in tatters: SAD,Yes,Negative,Opposition attacks on the govt,Opposition attack: SAD,,2,
-291,Monitoring deck,The Savera Times,2,No,Harsimrat Badal unhappy with rising incidents of violence,Yes,Negative,Opposition attacks on the govt,Opposition attack: SAD,,2,
-293,Monitoring deck,Ajit,9,No,Jakhar writes to Amit Shah seeking NIA probe into drugs-gangster nexus in Punjab,Yes,Negative,Opposition attacks on the govt,Opposition attack: BJP,,1,Jakhar seeks NIA probe
-294,Monitoring deck,Ajit,9,No,Punjab govt has failed on every front: Dhillon,Yes,Negative,Opposition attacks on the govt,Opposition attack: BJP,,1,
-295,Monitoring deck,Ajit,9,No,Bittu protests outside Assembly with liquor bottle,Yes,Negative,Opposition attacks on the govt,Opposition attack: BJP,,1,Bittu and the liquor bottle
-296,Monitoring deck,Jagbani,5,No,Law and order has collapsed in Punjab: Chugh,Yes,Negative,Opposition attacks on the govt,Opposition attack: BJP,,1,
-297,Monitoring deck,Jagbani,5,No,Govt cheating employees on DA: Ashwani Sharma,Yes,Negative,Opposition attacks on the govt,Opposition attack: BJP,,1,HC fines Chief Secretary over DA
-298,Monitoring deck,Jagbani,5,No,"Jakhar seeks NIA probe into drugs, gangsters, arms (repeat)",No,Duplicate,,Duplicate,,1,
-299,Monitoring deck,Jagbani,6,No,"Law and order shaken, govt should resign: Dhillon",Yes,Negative,Opposition attacks on the govt,Opposition attack: BJP,,1,
-300,Monitoring deck,Jagbani,6,No,Bittu questions govt functioning outside Assembly,Yes,Negative,Opposition attacks on the govt,Opposition attack: BJP,,1,Bittu and the liquor bottle
-301,Monitoring deck,Jagbani,6,No,Kharge's remarks on PM shameful: Shwet Malik,No,Not about AAP/Govt,,Others,,1,
-302,Monitoring deck,Jagbani,6,No,46 leaders incl 31 sarpanches join BJP in Gurdaspur,Yes,Negative,Opposition attacks on the govt,Defections from AAP,,1,AAP sarpanch's son shot in Amritsar
-303,Monitoring deck,Punjabi Tribune,2,No,Jakhar seeks NIA probe into drug cases,No,Duplicate,,Duplicate,,2,
-304,Monitoring deck,Punjabi Tribune,2,No,Bittu arrives with liquor bottle (repeat),No,Duplicate,,Duplicate,,2,
-305,Monitoring deck,Punjabi Tribune,2,No,AAP govt should take responsibility for crimes: Dhillon,Yes,Negative,Opposition attacks on the govt,Opposition attack: BJP,,2,
-306,Monitoring deck,Punjabi Tribune,2,No,Officials in illegal mining won't be spared: Lalpura,Yes,Negative,Opposition attacks on the govt,Opposition attack: BJP,,2,
-307,Monitoring deck,Punjabi Tribune,2,No,BJP discusses poll preparations,No,Not about AAP/Govt,,Others,,2,
-308,Monitoring deck,Punjabi Jagran,2,No,Jakhar writes to Amit Shah,No,Duplicate,,Duplicate,,2,
-309,Monitoring deck,Punjab Kesari,3,No,Law and order bankrupt in Punjab: Chugh,Yes,Negative,Opposition attacks on the govt,Opposition attack: BJP,,2,
-310,Monitoring deck,Punjab Kesari,3,No,Govt cheating employees on DA: Ashwani Sharma,Yes,Negative,Opposition attacks on the govt,Opposition attack: BJP,,2,HC fines Chief Secretary over DA
-311,Monitoring deck,Punjab Kesari,3,No,"Shah should order NIA probe into drugs, gangsters: Jakhar",Yes,Negative,Opposition attacks on the govt,Opposition attack: BJP,,2,Jakhar seeks NIA probe
-312,Monitoring deck,Punjab Kesari,3,No,46 leaders incl 31 sarpanches join BJP in Gurdaspur,Yes,Negative,Opposition attacks on the govt,Defections from AAP,,2,AAP sarpanch's son shot in Amritsar
-313,Monitoring deck,Punjab Kesari,3,No,Bittu questions govt functioning outside Assembly,Yes,Negative,Opposition attacks on the govt,Opposition attack: BJP,,2,Bittu and the liquor bottle
-314,Monitoring deck,Punjab Kesari,5,No,"Law and order has collapsed, govt should resign: Dhillon",Yes,Negative,Opposition attacks on the govt,Opposition attack: BJP,,1,
-315,Monitoring deck,Punjab Kesari,5,No,Kangana Ranaut appears via video in defamation case,No,Not about AAP/Govt,,Others,,1,
-316,Monitoring deck,Punjab Kesari,5,No,Kharge's remarks on PM shameful: Shwet Malik,No,Not about AAP/Govt,,Others,,1,
-317,Monitoring deck,Dainik Bhaskar,2,No,Punjab govt enforced anti-drug Act under BJP pressure: Dhillon,Yes,Negative,Opposition attacks on the govt,Opposition attack: BJP,,2,
-318,Monitoring deck,Dainik Bhaskar,2,No,NIA probe sought into drug and arms smuggling: Jakhar,Yes,Negative,Opposition attacks on the govt,Opposition attack: BJP,,2,Jakhar seeks NIA probe
-319,Monitoring deck,Dainik Savera,2,No,Bittu and AAP MLA Gyaspura in heated exchange,Yes,Negative,Opposition attacks on the govt,Opposition attack: BJP,,2,Bittu and the liquor bottle
-320,Monitoring deck,Dainik Savera,2,No,Political drama instead of Punjab's issues in session: Dhillon,Yes,Negative,Opposition attacks on the govt,Opposition attack: BJP,,2,
-321,Monitoring deck,Dainik Savera,2,No,46 leaders incl 31 sarpanches join BJP in Gurdaspur,Yes,Negative,Opposition attacks on the govt,Defections from AAP,,2,AAP sarpanch's son shot in Amritsar
-322,Monitoring deck,Dainik Savera,2,No,Jakhar writes to Shah seeking NIA probe,Yes,Negative,Opposition attacks on the govt,Opposition attack: BJP,,2,Jakhar seeks NIA probe
-323,Monitoring deck,Dainik Savera,4,No,"'Shiksha Kranti' claims hollow, 1,153 principal posts vacant: Shwet Malik",Yes,Negative,Opposition attacks on the govt,Opposition attack: BJP,,1,
-324,Monitoring deck,Dainik Savera,5,No,HC fine proof AAP is anti-employee: Ashwani Sharma,Yes,Negative,Opposition attacks on the govt,Opposition attack: BJP,,1,
-325,Monitoring deck,Dainik Savera,5,No,Kewal Dhillon corners Mann govt on deteriorating law and order,Yes,Negative,Opposition attacks on the govt,Opposition attack: BJP,,1,
-326,Monitoring deck,The Tribune,2,No,Bittu takes liquor jibe at CM Mann,Yes,Negative,Opposition attacks on the govt,Opposition attack: BJP,,2,Bittu and the liquor bottle
-327,Monitoring deck,The Tribune,2,No,"Modi meets ex-NCM chief Tarlochan, family",No,Not about AAP/Govt,,Others,,2,
-328,Monitoring deck,The Tribune,2,No,31 sarpanches among 46 leaders join BJP,Yes,Negative,Opposition attacks on the govt,Defections from AAP,,2,AAP sarpanch's son shot in Amritsar
-330,Monitoring deck,Times of India,2,No,"Dhillon slams AAP, Cong for ruckus",Yes,Negative,Opposition attacks on the govt,Opposition attack: BJP,,2,
-332,Monitoring deck,The Savera Times,2,No,Bittu turns Punjab's governance debate into a satirical cocktail,Yes,Negative,Opposition attacks on the govt,Opposition attack: BJP,,2,Bittu and the liquor bottle
-333,Monitoring deck,The Savera Times,2,No,Kewal Dhillon expresses grave concern over law and order,Yes,Negative,Opposition attacks on the govt,Opposition attack: BJP,,2,
-334,Monitoring deck,The Savera Times,2,No,Ashwani Sharma flays AAP govt over Rs 1 lakh HC fine,Yes,Negative,Opposition attacks on the govt,Opposition attack: BJP,,2,
-335,Monitoring deck,The Savera Times,3,No,"BJP gets boost in Gurdaspur, 46 join party",Yes,Negative,Opposition attacks on the govt,Defections from AAP,,2,46 leaders join BJP in Gurdaspur
-336,Monitoring deck,The Savera Times,3,No,Jakhar seeks NIA probe into Punjab drug-arms networks,Yes,Negative,Opposition attacks on the govt,Opposition attack: BJP,,2,Jakhar seeks NIA probe
-337,Monitoring deck,The Savera Times,4,No,Kewal Dhillon deplores ruckus in Punjab Assembly,Yes,Negative,Opposition attacks on the govt,Opposition attack: BJP,,1,
-338,Monitoring deck,The Savera Times,4,No,"Shwait Malik flays 'Sikhya Kranti', says 1,153 principal posts vacant",Yes,Negative,Opposition attacks on the govt,Opposition attack: BJP,,1,
-340,Monitoring deck,Ajit,E2,No,Sarpanch demands immediate compensation for hailstorm damage in Lohian,Yes,Negative,"Farmers, stubble & paddy",Crop damage compensation,,1,AAP sarpanch's son shot in Amritsar
-341,Monitoring deck,Ajit,E2,No,Questions over anti-drug drive's performance: BKU leader Tarsem Dhillon,Yes,Negative,Drugs & medicine access,Anti-drug drive criticism,,1,
-2001,Full edition,Hindustan Times,1,Yes,Punjab House clears 5 resolutions to safeguard state's water rights,Yes,Positive,"Punjab's rights: water, PU, Chandigarh",Assembly resolutions,,3,"River-water resolutions, Rajasthan royalty"
-2002,Full edition,Hindustan Times,1,Yes,AAP leader's brother shot dead in Amritsar,Yes,Negative,Crime & law and order,Murder,,3,AAP sarpanch's son shot in Amritsar
-2003,Full edition,Hindustan Times,1,Yes,"Ahead of polls, EC orders transfer of officers in Punjab, four other states",Yes,Neutral,"Governance, Assembly & politics",Election Commission,,3,EC orders officer transfers
-2004,Full edition,Hindustan Times,2,No,"Rs 3,721 crore released under women cash scheme: Minister",Yes,Positive,Welfare schemes,Women cash scheme,,2,
-2005,Full edition,Hindustan Times,2,No,"Cong, AAP members trade barbs, jostle outside Punjab assembly",Yes,Negative,Opposition attacks on the govt,Assembly uproar,,2,
-2006,Full edition,Hindustan Times,2,No,Resolution on public welfare schemes of AAP govt passed,Yes,Positive,Welfare schemes,Welfare continuity,,2,"River-water resolutions, Rajasthan royalty"
-2007,Full edition,Hindustan Times,2,No,House passes resolution on Kartarpur Corridor reopening,Yes,Positive,"Religious outreach: Valmiki, Kartarpur",Kartarpur corridor,,2,Kartarpur corridor resolution
-2008,Full edition,Hindustan Times,2,No,Ayali: AAP govt deliberately delaying Amritpal party's registration,Yes,Negative,Opposition attacks on the govt,Opposition attack: Other,,2,
-2009,Full edition,Hindustan Times,2,No,"5 smuggling rings busted, armyman among 10 held",Yes,Positive,"Police action on gangs, arms & drugs",Police action vs drugs/arms,,2,
-2010,Full edition,Hindustan Times,2,No,"20-year-old youth dies after abduction, assault; 8 booked",Yes,Negative,Crime & law and order,Murder,,2,
-2011,Full edition,Hindustan Times,2,No,"100 govt schools operating from gurdwaras, temples: Bains",Yes,Negative,"Schools, health & employees",School infrastructure,,2,
-2012,Full edition,Hindustan Times,4,No,"Moga double murder: shooters on the run, six suspects detained",Yes,Negative,Crime & law and order,Murder,,1,
-2013,Full edition,Hindustan Times,4,No,"13k paddy farmers' produce yet to reach mandis, verification ordered",Yes,Neutral,"Farmers, stubble & paddy",Paddy procurement,,1,
-2014,Full edition,Hindustan Times,5,No,"HC summons Punjab chief secy in DA case, fines Rs 1 lakh",Yes,Negative,Court rebukes & govt finances,Employees DA case,,1,HC fines Chief Secretary over DA
-2015,Full edition,Hindustan Times,5,No,HC wants chief secretary's affidavit on PSPCL finances,Yes,Negative,Court rebukes & govt finances,Power dues,,1,
-2016,Full edition,Hindustan Times,6,No,Mansa tense as cops foil bid to take man's body to anti-drug protest site,Yes,Negative,Crime & law and order,Custodial/drug death protest,,1,"Mansa drug death, police seize body"
-2017,Full edition,Hindustan Times,7,No,"Jakhar writes to Shah, seeks NIA probe into gangster-drug nexus",Yes,Negative,Opposition attacks on the govt,Opposition attack: BJP,,1,Jakhar seeks NIA probe
-2018,Full edition,Hindustan Times,7,No,Govt clears 205 security guards across 41 sub-divisional hospitals,Yes,Positive,"Schools, health & employees",Health services,,1,
-2019,Full edition,Hindustan Times,7,No,Two cops among four hurt in attack by 'drug peddlers' in Gurdaspur,Yes,Negative,Crime & law and order,Attack on police,,1,
-2020,Full edition,Indian Express,1,Yes,"Tension in Mansa as cops 'seize', walk away with body being taken to Jhota protest site",Yes,Negative,Crime & law and order,Custodial/drug death protest,,3,"Mansa drug death, police seize body"
-2021,Full edition,Indian Express,3,No,Sarpanch's son gunned down outside gurdwara; Opp: 'dark reality of Punjab',Yes,Negative,Crime & law and order,Murder,,2,AAP sarpanch's son shot in Amritsar
-2022,Full edition,Indian Express,3,No,"Two commandos, one resident injured as police team attacked in Gurdaspur village",Yes,Negative,Crime & law and order,Attack on police,,2,
-2023,Full edition,Indian Express,3,No,"Masked man fires at Jagraon gurdwara, leaves threat letter",Yes,Negative,Crime & law and order,Firing/threats,,2,
-2024,Full edition,Indian Express,3,No,"'Gangsters, drug mafia acting at will as Mann abrogated his authority': Harsimrat",Yes,Negative,Opposition attacks on the govt,Opposition attack: SAD,,2,
-2025,Full edition,Indian Express,3,No,"EC orders transfer of officers in Punjab, 4 other poll-bound states",Yes,Neutral,"Governance, Assembly & politics",Election Commission,,2,EC orders officer transfers
-2026,Full edition,Indian Express,3,No,"Jakhar writes to Shah, seeks NIA probe into drug menace",Yes,Negative,Opposition attacks on the govt,Opposition attack: BJP,,2,Jakhar seeks NIA probe
-2027,Full edition,Indian Express,3,No,31 sarpanchs join BJP in Gurdaspur,Yes,Negative,Opposition attacks on the govt,Defections from AAP,,2,AAP sarpanch's son shot in Amritsar
-2028,Full edition,Indian Express,3,No,"ECI, BEL delegations conduct EVM first-level checking workshops in Punjab",Yes,Neutral,"Governance, Assembly & politics",Election Commission,,2,
-2029,Full edition,Indian Express,4,No,"Punjab House asserts rights over river waters, seeks royalty from Rajasthan",Yes,Positive,"Punjab's rights: water, PU, Chandigarh",Assembly resolutions,,1,"River-water resolutions, Rajasthan royalty"
-2030,Full edition,Indian Express,4,No,"100 Punjab schools operating from inns, temples and gurdwaras: Bains",Yes,Negative,"Schools, health & employees",School infrastructure,,1,
-2031,Full edition,Indian Express,4,No,Punjab denies releasing water to Pak: 'excess floodwater flows from J&K streams',Yes,Neutral,"Punjab's rights: water, PU, Chandigarh",River waters,,1,"River-water resolutions, Rajasthan royalty"
-2032,Full edition,Indian Express,4,No,Bittu protests outside House with imported liquor bottle,Yes,Negative,Opposition attacks on the govt,Opposition attack: BJP,,1,Bittu and the liquor bottle
-2033,Full edition,Indian Express,4,No,Akali Dal WPD slams govt for not replying to ECI over registration,Yes,Negative,Opposition attacks on the govt,Opposition attack: Other,,1,
-2034,Full edition,Indian Express,4,No,"Mawan Dheeyan Satkar Yojana: Ludhiana, Amritsar, Patiala make 26% of beneficiaries",Yes,Positive,Welfare schemes,Women cash scheme,,1,
-2035,Full edition,Indian Express,6,No,House resolves to continue welfare schemes launched by Mann govt,Yes,Positive,Welfare schemes,Welfare continuity,,1,
-2036,Full edition,Indian Express,6,No,"Cong members face off with House staff, AAP MLAs; say denied entry",Yes,Negative,Opposition attacks on the govt,Assembly uproar,,1,"Assembly scuffle, Congress walkout"
-2037,Full edition,Indian Express,6,No,Resolution urges Centre to reopen Kartarpur Corridor,Yes,Positive,"Religious outreach: Valmiki, Kartarpur",Kartarpur corridor,,1,Kartarpur corridor resolution
-2038,Full edition,Indian Express,6,No,"DA arrears: HC imposes Rs 1 lakh cost, asks chief secy to file affidavit",Yes,Negative,Court rebukes & govt finances,Employees DA case,,1,HC fines Chief Secretary over DA
-2039,Full edition,Times of India,14,No,"Big thing for Jalandhar, say hockey fans",Yes,Positive,Hockey & sports,Sports,,1,Asian Champions Trophy hockey
-2040,Full edition,The Savera Times,14,No,Tarn Taran warns farmers of FIRs for stubble burning,Yes,Neutral,"Farmers, stubble & paddy",Stubble burning,,1,
-2041,Full edition,The Savera Times,14,No,Bhagwant Mann gets emotional during devotional singing at Valmiki shrine,Yes,Positive,"Religious outreach: Valmiki, Kartarpur",Religious outreach,,1,
-2042,Full edition,The Savera Times,14,No,Police staff educate students on drug abuse prevention,Yes,Positive,"Police action on gangs, arms & drugs",Anti-drug awareness,,1,
-2043,Full edition,The Savera Times,15,No,"SDM reviews stubble management, distributes Rs 32 lakh farm tools",Yes,Positive,"Farmers, stubble & paddy",Stubble management,,1,
-2044,Full edition,The Savera Times,15,No,"Moga procures 2.24 lakh tonnes of paddy, payments made",Yes,Positive,"Farmers, stubble & paddy",Paddy procurement,,1,
-2045,Full edition,The Savera Times,15,No,Bathinda MC lacks vending records amid traffic complaints,Yes,Negative,Civic services & infrastructure,Civic issues,,1,
-2046,Full edition,The Savera Times,18,No,Jalandhar police inspect medical stores under anti-drug campaign,Yes,Positive,"Police action on gangs, arms & drugs",Police action vs drugs,,1,
-2047,Full edition,The Savera Times,18,No,Jalandhar rural police review night security arrangements,Yes,Neutral,"Police action on gangs, arms & drugs",Policing,,1,
-2048,Full edition,The Savera Times,21,No,Malerkotla police bust inter-district gang targeting women,Yes,Positive,"Police action on gangs, arms & drugs",Police action vs gangs,,1,
-2049,Full edition,The Savera Times,22,No,Punjab ration depot holders announce statewide strike from Nov 1,Yes,Negative,"Schools, health & employees",Employee protests,,1,
-2050,Full edition,The Savera Times,22,No,144 Ranike residents receive property cards under Punjab scheme,Yes,Positive,Welfare schemes,Property cards,,1,
-2051,Full edition,The Savera Times,22,No,Two commandos injured as villagers attack police over drugs,Yes,Negative,Crime & law and order,Attack on police,,1,
-2052,Full edition,The Savera Times,25,No,Ludhiana rural police freeze drug smuggler's property under NDPS Act,Yes,Positive,"Police action on gangs, arms & drugs",Police action vs drugs,,1,
-2053,Full edition,The Savera Times,25,No,Heroin racket busted in Khanna; 8 arrested,Yes,Positive,"Police action on gangs, arms & drugs",Police action vs drugs,,1,
-2054,Full edition,The Savera Times,29,No,Patiala civic body removes illegal shanties from Bannu Road,Yes,Neutral,Civic services & infrastructure,Civic enforcement,,1,"Mansa drug death, police seize body"
-2055,Full edition,The Savera Times,29,No,Drug control department inspects medical stores in Patiala,Yes,Positive,Drugs & medicine access,Drug regulation,,1,
-3001,Full edition,Ajit,6,No,"Paddy harvest 75% done in district; 6,52,925 MT procured, DC urges dry paddy",Yes,Positive,"Farmers, stubble & paddy",Paddy procurement,,1,
-3002,Full edition,Ajit,5,No,GOVT AD: Punjab State Dear Diwali Bumper 2026 lottery,No,Govt ad,,Government advertising,,1,
-3003,Full edition,Ajit,7,No,MC recovers Rs 4.66 lakh from defaulters,Yes,Positive,Civic services & infrastructure,Civic revenue,,1,
-3004,Full edition,Ajit,8,No,"Relief for Phillaur: overloaded sand tippers stopped after report, RTO checks",Yes,Positive,Civic services & infrastructure,Enforcement,,1,
-3005,Full edition,Ajit,8,No,"Power wire snaps, sugarcane worth lakhs burnt; no official reached spot",Yes,Negative,Civic services & infrastructure,Power supply,,1,
-3006,Full edition,Ajit,J6,No,Adampur council meeting passes Rs 5 crore development resolutions,Yes,Positive,Civic services & infrastructure,Development works,,1,"River-water resolutions, Rajasthan royalty"
-3007,Full edition,Ajit,J6,No,Migrant workers attack Punjabi family in Goraya's Krishna Colony,Yes,Negative,Crime & law and order,Assault,,1,
-3008,Full edition,Jagbani,1,Yes,"GOVT AD: 'Bring dry paddy to mandi', every grain will be bought (CM Mann, Food & Civil Supplies)",No,Govt ad,,Government advertising,,3,
-3009,Full edition,Punjab Kesari,5,No,205 security guards to be posted in 41 Punjab hospitals,Yes,Positive,"Schools, health & employees",Health services,,1,
-3010,Full edition,Rozana Spokesman,4,No,"Editorial: Why the neglect in protecting forest land? (3,983 hectares encroached)",Yes,Negative,"Governance, Assembly & politics",Editorial: forest encroachment,,1,
-3011,Full edition,Punjabi Jagran,3,No,Police team that went to stop a quarrel attacked,Yes,Negative,Crime & law and order,Attack on police,,2,
-3012,Full edition,Punjabi Jagran,3,No,Income Tax raids on de-addiction centres,Yes,Negative,Drugs & medicine access,De-addiction centres,,2,
-3013,Full edition,Punjabi Jagran,3,No,"Excise team attacked, narrowly escapes",Yes,Negative,Crime & law and order,Attack on officials,,2,
-3014,Full edition,Punjabi Jagran,3,No,Extortionist injured in police encounter,Yes,Positive,"Police action on gangs, arms & drugs",Police action vs gangs,,2,
-3015,Full edition,Punjabi Jagran,3,No,Vigilance awareness week being observed,Yes,Positive,"Governance, Assembly & politics",Anti-corruption,,2,
-3016,Full edition,Dainik Jagran,3,No,"Police attacked, two commandos among three injured",Yes,Negative,Crime & law and order,Attack on police,,2,
-3017,Full edition,Dainik Jagran,3,No,Editorial: Criminals' audacity in Punjab,Yes,Negative,Crime & law and order,Editorial: law and order,,2,
-3018,Full edition,Dainik Jagran,2,No,Govt owes power corporation thousands of crores (HC),No,Duplicate,,Duplicate,,2,
-3019,Full edition,Dainik Bhaskar,J4,No,CM: special arrangements for pilgrims to Kartarpur Sahib,Yes,Positive,"Religious outreach: Valmiki, Kartarpur",Kartarpur corridor,,1,Kartarpur corridor resolution
-3020,Full edition,Dainik Bhaskar,J4,No,"Ferozepur: 17-year-old girl abducted and raped, family alleges police inaction",Yes,Negative,Crime & law and order,Crime against women,,1,
-3021,Full edition,Dainik Bhaskar,J4,No,"Dunki route: ED raids 8 places, Rs 30 crore transactions exposed",Yes,Neutral,Crime & law and order,Crime (ED case),,1,
-3022,Full edition,Dainik Bhaskar,J4,No,AAP MLA questions SC status case of Gangster-linked Rai Sikh leader,Yes,Neutral,"Governance, Assembly & politics",Assembly,,1,
-3023,Full edition,Dainik Bhaskar,J2,No,Govt enforced anti-drug Act under BJP pressure: Dhillon (repeat),No,Duplicate,,Duplicate,,1,
-3024,Full edition,Punjabi Tribune,2,No,"AAP MLAs' trust broken, govt should stop: AAP MLA cornering own govt",Yes,Negative,"Governance, Assembly & politics",Own MLAs' complaints,,2,
-3025,Full edition,Punjabi Tribune,2,No,Police attacked while settling village quarrel,Yes,Negative,Crime & law and order,Attack on police,,2,
-3026,Full edition,Punjabi Tribune,2,No,SKM accuses govt of ignoring farmers' demands,Yes,Negative,"Farmers, stubble & paddy",Farmers' demands,,2,
-3027,Full edition,Punjabi Tribune,2,No,Zero Hour: mid-day meal workers' wages raised by MLA Kulwant Singh,Yes,Neutral,"Schools, health & employees",Assembly question,,2,
-3028,Full edition,The Tribune,3,No,"Help bring daughter's remains home from US, Ludhiana woman urges PM",No,Not about AAP/Govt,,Others,,2,
-3029,Full edition,Punjabi Tribune,7,No,Roads built with crores in poor state; repair sought before Gurpurb,Yes,Negative,Civic services & infrastructure,Roads,,1,
-3030,Full edition,Punjabi Tribune,7,No,Bugha road complaint unheard for years,Yes,Negative,Civic services & infrastructure,Roads,,1,
-3031,Full edition,Punjabi Tribune,7,No,Thousands of posts vacant in schools: DTF,Yes,Negative,"Schools, health & employees",Teacher vacancies,,1,
-3032,Full edition,Punjabi Tribune,7,No,Illegal constructions in Sahara colonies razed,Yes,Neutral,Civic services & infrastructure,Civic enforcement,,1,
-3033,Full edition,Punjabi Tribune,6,No,Outsourced workers demand bonus,Yes,Negative,"Schools, health & employees",Employee protests,,1,
-3034,Full edition,Punjabi Tribune,6,No,Pledge taken against corruption (Vigilance week),Yes,Positive,"Governance, Assembly & politics",Anti-corruption,,1,
-3035,Full edition,Dainik Savera,3,No,"BJP: 1,153 principal posts vacant in govt schools (repeat)",No,Duplicate,,Duplicate,,2,
-3036,Full edition,Dainik Savera,Amritsar 1,No,"Accused in extortion firing injured in police encounter, accomplice held",Yes,Positive,"Police action on gangs, arms & drugs",Police action vs gangs,,2,
-3037,Full edition,Dainik Savera,Amritsar 1,No,Stubble burning: cases against 5 in Tarn Taran,Yes,Neutral,"Farmers, stubble & paddy",Stubble burning,,2,
-3038,Full edition,Dainik Savera,Amritsar 1,No,Tarn Taran police night naka special checking,Yes,Positive,"Police action on gangs, arms & drugs",Policing,,2,
-3039,Full edition,Dainik Savera,Amritsar 1,No,Food safety drive intensified before festivals,Yes,Positive,"Schools, health & employees",Food safety,,2,
-3040,Full edition,Dainik Savera,Amritsar 1,No,Police commissioner inspects new Ranjit Avenue police station building,Yes,Positive,"Police action on gangs, arms & drugs",Police infrastructure,,2,
-3041,Full edition,Dainik Savera,Amritsar 2,No,Senior AAP leaders honour Virat Devgan,Yes,Positive,AAP organisation & outreach,AAP outreach,,1,
-3042,Full edition,Dainik Savera,Amritsar 2,No,People will teach AAP a lesson in 2027: Gill Kazikot (Congress),Yes,Negative,Opposition attacks on the govt,Opposition attack: Congress,,1,
-3043,Full edition,Dainik Savera,Amritsar 2,No,"Congress attacks over 'vote chori', Bhullar demands independent probe",No,Not about AAP/Govt,,Others,,1,
-3044,Full edition,Dainik Savera,Amritsar 2,No,Gharinda police arrest youth with 30-bore pistol,Yes,Positive,"Police action on gangs, arms & drugs",Police action vs arms,,1,"Army jawan among 7 held, 14 pistols"
-3045,Full edition,Dainik Savera,Amritsar 2,No,Paddy with under 17% moisture to be bought: DC,Yes,Positive,"Farmers, stubble & paddy",Paddy procurement,,1,
-3046,Full edition,Dainik Savera,Amritsar 3,No,Vigilance Bureau staff take integrity pledge,Yes,Positive,"Governance, Assembly & politics",Anti-corruption,,1,
-3047,Full edition,Dainik Savera,Amritsar 3,No,AAP MLA Harmeet Sandhu demands probe into gangster Bath-Sukhbir links,Yes,Positive,AAP leaders' counter-attacks,AAP attacks Akalis,Yes,1,
-3048,Full edition,Dainik Savera,Amritsar 5,No,Electricity board pensioners to protest at FM's office today,Yes,Negative,"Schools, health & employees",Employee protests,,1,
-3049,Full edition,Dainik Savera,Amritsar 5,No,Medical process begins for contracting outsource workers,Yes,Positive,"Schools, health & employees",Employee regularisation,,1,
-3050,Full edition,Dainik Savera,Amritsar 6,No,AAP sees ticket rush as Assembly polls near,Yes,Neutral,AAP organisation & outreach,AAP organisation,,1,
-3051,Full edition,Dainik Savera,Bathinda 1,No,Mansa dharna: union leaders and police face off over bringing body,Yes,Negative,Crime & law and order,Custodial/drug death protest,,2,"Mansa drug death, police seize body"
-3052,Full edition,Dainik Savera,Bathinda 1,No,Police forcibly remove Lakha Sidhana from Jhota murder dharna,Yes,Negative,Jhota murder protest,Jhota murder protest,,2,
-3053,Full edition,Dainik Savera,Bathinda 1,No,"4,504 kg poppy husk seized from pickup, 2 held",Yes,Positive,"Police action on gangs, arms & drugs",Police action vs drugs,,2,
-3054,Full edition,Dainik Savera,Bathinda 1,No,Canal Colony police raid: smuggler held with 35 g heroin,Yes,Positive,"Police action on gangs, arms & drugs",Police action vs drugs,,2,
-3055,Full edition,Dainik Savera,Bathinda 1,No,"Unemployed youth heading to Assembly detained, later released",Yes,Negative,"Schools, health & employees",Employee protests,,2,
-3056,Full edition,Dainik Savera,Bathinda 1,No,"1.61 kg ganja seized, two smugglers held",Yes,Positive,"Police action on gangs, arms & drugs",Police action vs drugs,,2,
-3057,Full edition,Dainik Savera,Bathinda 2,No,144 beneficiaries in Ranike get property cards under 'Mera Ghar Mera Naam',Yes,Positive,Welfare schemes,Property cards,,1,
-3058,Full edition,Dainik Savera,Bathinda 2,No,Ration depot holders announce statewide strike from Nov 1,Yes,Negative,"Schools, health & employees",Employee protests,,1,
-3059,Full edition,Dainik Savera,Bathinda 2,No,'Meri Dukan Mera Naam' scheme a historic step for shopkeepers: Imtiaz Ali,Yes,Positive,Welfare schemes,Property rights scheme,,1,
-3060,Full edition,Dainik Savera,Bathinda 2,No,Bring only dry paddy to mandis: DC Sangrur,Yes,Positive,"Farmers, stubble & paddy",Paddy procurement,,1,
-3061,Full edition,Dainik Savera,Bathinda 4,No,"Granaries full in Punjab, yet price rise hits; cattle feed and milk costly",Yes,Negative,"Governance, Assembly & politics",Price rise,,1,
-3062,Full edition,Dainik Savera,Bathinda 4,No,Moga: man held with 6 g heroin; another with 60 intoxicant pills,Yes,Positive,"Police action on gangs, arms & drugs",Police action vs drugs,,1,
-3063,Full edition,Dainik Savera,Bathinda 5,No,Chemists told to strictly follow sale and record rules,Yes,Positive,Drugs & medicine access,Drug regulation,,1,
-3064,Full edition,Dainik Savera,Bathinda 5,No,"Paddy: 1,08,761 MT arrived, 1,03,925 MT bought in Malerkotla mandis",Yes,Positive,"Farmers, stubble & paddy",Paddy procurement,,1,
-3065,Full edition,Dainik Savera,Bathinda 5,No,"University student held for opium smuggling, 1.03 kg recovered",Yes,Positive,"Police action on gangs, arms & drugs",Police action vs drugs,,1,
-3066,Full edition,Dainik Savera,Bathinda 5,No,Computer teachers march with torches outside minister Aman Arora's residence,Yes,Negative,"Schools, health & employees",Employee protests,,1,
-3067,Full edition,Dainik Savera,Bathinda 6,No,ADC and SP direct effective action at drug hotspots in Mansa,Yes,Positive,"Police action on gangs, arms & drugs",Anti-drug drive,,1,"Mansa drug death, police seize body"
-3068,Full edition,Dainik Savera,Bathinda 6,No,MLA Manpreet Ayali meets ex-sarpanch attacked by goons,Yes,Neutral,Crime & law and order,Assault,,1,AAP sarpanch's son shot in Amritsar
-3069,Full edition,Dainik Savera,Bathinda 6,No,"Inter-district snatching gang busted, 4 held",Yes,Positive,"Police action on gangs, arms & drugs",Police action vs gangs,,1,
-3070,Full edition,Dainik Savera,Bathinda 6,No,Punjab govt's priority is taking Guru Ravidas teachings home: MLA Ugoke,Yes,Positive,"Religious outreach: Valmiki, Kartarpur",Religious outreach,,1,
-3071,Full edition,Dainik Savera,Gurdaspur 1,No,"6.87 lakh MT paddy bought in Gurdaspur; Rs 1,495.73 cr paid to farmers",Yes,Positive,"Farmers, stubble & paddy",Paddy procurement,,2,
-3072,Full edition,Dainik Savera,Gurdaspur 1,No,AAP halqa in-charge Shamsher Singh starts ward 10 street works,Yes,Positive,Civic services & infrastructure,Development works,,2,
-3073,Full edition,Dainik Savera,Gurdaspur 1,No,Public participation needed to end drugs (Yudh Nashian Virudh meeting),Yes,Positive,"Police action on gangs, arms & drugs",Anti-drug drive,,2,
-3074,Full edition,Dainik Savera,Gurdaspur 1,No,Thieves break into medical store in Hakimpur,Yes,Negative,Crime & law and order,Theft,,2,
-3075,Full edition,Dainik Savera,Gurdaspur 1,No,Two held with country-made pistol and 30 live cartridges,Yes,Positive,"Police action on gangs, arms & drugs",Police action vs arms,,2,"Army jawan among 7 held, 14 pistols"
-3076,Full edition,Dainik Savera,Gurdaspur 1,No,"Bank sakhis honoured for helping women get Rs 1,000-1,500 aid forms filled",Yes,Positive,Welfare schemes,Women cash scheme,,2,
-3077,Full edition,Dainik Savera,Gurdaspur 2,No,Batala firing raises questions on law and order: Tript Bajwa (Congress),Yes,Negative,Opposition attacks on the govt,Opposition attack: Congress,,1,
-3078,Full edition,Dainik Savera,Gurdaspur 2,No,Firing at jewellery shop: BJP district chief reaches spot,Yes,Negative,Crime & law and order,Firing/threats,,1,
-3079,Full edition,Dainik Savera,Gurdaspur 3,No,"Upset with AAP, Shivcharan Singh Sekhupur Khurd announces poll bid",Yes,Negative,"Governance, Assembly & politics",Defections from AAP,,1,
-3080,Full edition,Dainik Savera,Gurdaspur 3,No,Sukhbir-led govt can rescue Punjab: Ghumman (SAD),Yes,Negative,Opposition attacks on the govt,Opposition attack: SAD,,1,
-3081,Full edition,Dainik Savera,Gurdaspur 3,No,Law and order has fully collapsed in Punjab: Amandeep Jaitipur,Yes,Negative,Opposition attacks on the govt,Opposition attack: Other,,1,
-3082,Full edition,Dainik Savera,Gurdaspur 3,No,Is it fair to put entire chemist trade in dock after one death?: Harvinder Soni,Yes,Negative,Drugs & medicine access,Chemists' concerns,,1,
-3083,Full edition,Dainik Savera,Hoshiarpur 1,No,Yudh Nashian Virudh: illegal construction of drug family razed in Sarhala Kalan,Yes,Positive,"Police action on gangs, arms & drugs",Police action vs drugs,,2,
-3084,Full edition,Dainik Savera,Hoshiarpur 1,No,"55 intoxicant pills seized in Chabbewal, one held",Yes,Positive,"Police action on gangs, arms & drugs",Police action vs drugs,,2,
-3085,Full edition,Dainik Savera,Hoshiarpur 1,No,"Overloaded tippers race through Mahilpur, children's safety at risk",Yes,Negative,Civic services & infrastructure,Road safety,,2,
-3086,Full edition,Dainik Savera,Hoshiarpur 1,No,Cyber fraud: Rs 3.79 lakh siphoned from 3 accounts,Yes,Negative,Crime & law and order,Cyber fraud,,2,
-3087,Full edition,Dainik Savera,Hoshiarpur 2,No,Shopkeepers should use 'Meri Dukan Mera Naam' scheme: MLA Karamvir Ghumman,Yes,Positive,Welfare schemes,Property rights scheme,,1,
-3088,Full edition,Dainik Savera,Hoshiarpur 3,No,Three govt high schools in Sham Chaurasi upgraded to +2,Yes,Positive,"Schools, health & employees",School upgrades,,1,
-3089,Full edition,Dainik Savera,Hoshiarpur 4,No,Paddy heaps in Bhangala mandi; market committee secretary's negligence exposed,Yes,Negative,"Farmers, stubble & paddy",Paddy procurement,,1,
-3090,Full edition,Dainik Savera,Hoshiarpur 4,No,Gangsterism and killings rising in Punjab: Congress's Joshi,Yes,Negative,Opposition attacks on the govt,Opposition attack: Congress,,1,
-3091,Full edition,Dainik Savera,Hoshiarpur 4,No,Congress govt coming in Punjab: ex-MLA Arun Dogra,No,Not about AAP/Govt,,Others,,1,
-3092,Full edition,Dainik Savera,Khanna 1,No,"Khanna police arrest man with Rs 97,000 fake currency",Yes,Positive,"Police action on gangs, arms & drugs",Policing,,2,
-3093,Full edition,Dainik Savera,Khanna 1,No,Drugs seized in 62 NDPS cases destroyed,Yes,Positive,"Police action on gangs, arms & drugs",Police action vs drugs,,2,
-3094,Full edition,Dainik Savera,Khanna 1,No,Minister Tarunpreet Sond pays obeisance at Valmiki Jayanti,Yes,Positive,"Religious outreach: Valmiki, Kartarpur",Religious outreach,,2,
-3095,Full edition,Dainik Savera,Khanna 1,No,Advocate Jaspreet Kaur and family join AAP in minister Sond's presence,Yes,Positive,AAP organisation & outreach,Joinings,,2,
-3096,Full edition,Dainik Savera,Khanna 2,No,PSPCL issues strict directions ahead of power employees' protest,Yes,Negative,"Schools, health & employees",Employee protests,,1,
-3097,Full edition,Dainik Savera,Khanna 2,No,60% principal posts vacant in Punjab govt schools,Yes,Negative,"Schools, health & employees",Teacher vacancies,,1,
-3098,Full edition,Dainik Savera,Khanna 3,No,Yudh Nashian Virudh: drug smuggler's illegal construction razed in Mandi Gobindgarh,Yes,Positive,"Police action on gangs, arms & drugs",Police action vs drugs,,1,
-3099,Full edition,Dainik Savera,Khanna 3,No,Ex-council VP Ashok Sharma joins Congress,No,Not about AAP/Govt,,Others,,1,
-3100,Full edition,Dainik Savera,Khanna 4,No,DIG and SSP hold public meeting in drug hotspot village Bendli,Yes,Positive,"Police action on gangs, arms & drugs",Anti-drug drive,,1,
-3101,Full edition,Dainik Savera,Ludhiana 1,No,Woman ran 'chitta bar' at home; held with 7 users,Yes,Positive,"Police action on gangs, arms & drugs",Police action vs drugs,,2,
-3102,Full edition,Dainik Savera,Ludhiana 1,No,Dye theft worth Rs 9 lakh from two factories in Focal Point,Yes,Negative,Crime & law and order,Theft,,2,
-3103,Full edition,Dainik Savera,Ludhiana 1,No,PPCB seals machinery of two illegal dyeing units in Haibowal (repeat),No,Duplicate,,Duplicate,,2,
-3104,Full edition,Dainik Savera,Ludhiana 3,No,"F&CC meeting: 18 agenda items not taken up, development works halted",Yes,Negative,Civic services & infrastructure,Civic governance,,1,
-3105,Full edition,Dainik Savera,Ludhiana 3,No,Rajguru Nagar's broken roads expose govt claims: Pawan Dewan (Congress),Yes,Negative,Opposition attacks on the govt,Opposition attack: Congress,,1,
-3106,Full edition,Dainik Savera,Ludhiana 3,No,Youth shot in arm over old enmity in Khursaidpura,Yes,Negative,Crime & law and order,Firing/threats,,1,
-3107,Full edition,Dainik Savera,Ludhiana 3,No,Drug smuggler's property worth Rs 22 lakh attached,Yes,Positive,"Police action on gangs, arms & drugs",Police action vs drugs,,1,
-3108,Full edition,Dainik Savera,Ludhiana 3,No,Computer teachers plan 'pakka morcha' at Sunam from Nov 1,Yes,Negative,"Schools, health & employees",Employee protests,,1,
-3109,Full edition,Dainik Savera,Ludhiana 3,No,"MC's Rs 1,246 cr tenders challenged in High Court",Yes,Negative,Civic services & infrastructure,Civic governance,,1,46 leaders join BJP in Gurdaspur
-3110,Full edition,Dainik Savera,Ludhiana 3,No,Open sale of banned single-use plastic in Ludhiana; PAC seeks action,Yes,Negative,Civic services & infrastructure,Pollution enforcement,,1,
-3111,Full edition,Dainik Savera,Ludhiana 5,No,4 kg per quintal cut on paddy robs farmers: SAD's Jagdish Garcha,Yes,Negative,Opposition attacks on the govt,Opposition attack: SAD,,1,
-3112,Full edition,Dainik Savera,Ludhiana 5,No,Khadian wala govt school upgraded to senior secondary,Yes,Positive,"Schools, health & employees",School upgrades,,1,
-3113,Full edition,Dainik Savera,Ludhiana 5,No,Vigilance Bureau holds anti-corruption seminar,Yes,Positive,"Governance, Assembly & politics",Anti-corruption,,1,
-3114,Full edition,Dainik Savera,Ludhiana 6,No,Taking body from dharna shameful: MLA Ayali,Yes,Negative,Opposition attacks on the govt,Opposition attack: Other,,1,"Mansa drug death, police seize body"
-3115,Full edition,Dainik Savera,Ludhiana 6,No,Only police stations and gurdwaras safe in Punjab: Sukhwinder Sidhu,Yes,Negative,Opposition attacks on the govt,Opposition attack: SAD,,1,
-3116,Full edition,Dainik Savera,Malwa 1,No,Youth abducted and killed after objecting to sister's harassment (Ferozepur),Yes,Negative,Crime & law and order,Murder,,2,
-3117,Full edition,Dainik Savera,Malwa 1,No,"Drug control team checks medical stores, two types of medicines seized",Yes,Positive,Drugs & medicine access,Drug regulation,,2,
-3118,Full edition,Dainik Savera,Malwa 1,No,"CBI raids Abohar de-addiction centre, team seals hospital",Yes,Negative,Drugs & medicine access,De-addiction centres,,2,
-3119,Full edition,Dainik Savera,Malwa 1,No,Villages in Dharamkot protest seeking justice for Parvinder Jhota,Yes,Negative,Jhota murder protest,Jhota murder protest,,2,
-3120,Full edition,Dainik Savera,Malwa 1,No,Ferozepur police: 6 held with 13.23 g heroin and cash,Yes,Positive,"Police action on gangs, arms & drugs",Police action vs drugs,,2,
-3121,Full edition,Dainik Savera,Malwa 2,No,AAP will go to people on public service and development: Vinod Soi,Yes,Positive,AAP organisation & outreach,AAP outreach,,1,
-3122,Full edition,Dainik Savera,Malwa 2,No,Akali workers to unite to strengthen party in Ferozepur: Nannu,No,Not about AAP/Govt,,Others,,1,
-3123,Full edition,Dainik Savera,Malwa 3,No,Excise and police staff attacked during checking in Guru Harsahai,Yes,Negative,Crime & law and order,Attack on officials,,1,
-3124,Full edition,Dainik Savera,Malwa 3,No,Only dry paddy to mandis: DC Fazilka,Yes,Positive,"Farmers, stubble & paddy",Paddy procurement,,1,
-3125,Full edition,Dainik Savera,Malwa 3,No,Fazilka health dept special campaign for cleanliness and good governance,Yes,Positive,"Schools, health & employees",Health services,,1,
-3126,Full edition,Dainik Savera,Malwa 4,No,Law and order in state worsening steadily: Dr Harjot Kamal (BJP),Yes,Negative,Opposition attacks on the govt,Opposition attack: BJP,,1,
-3127,Full edition,Dainik Savera,Malwa 4,No,DC Moga reviews stubble management and development works,Yes,Positive,"Farmers, stubble & paddy",Stubble management,,1,
-3128,Full edition,Dainik Savera,Malwa 5,No,Angadpura firing deaths expose govt's law and order: Dr Seemant Garg (BJP),Yes,Negative,Opposition attacks on the govt,Opposition attack: BJP,,1,
-3129,Full edition,Dainik Savera,Malwa 6,No,Nayak community SC status issue raised in Assembly by MLA Sawna,Yes,Positive,"Governance, Assembly & politics",Assembly,,1,
-3130,Full edition,Dainik Savera,Malwa 6,No,Fazilka health facilities expanded greatly in 4.75 years: MLA Narinderpal Sawna,Yes,Positive,"Schools, health & employees",Health services,,1,
-3131,Full edition,Dainik Savera,Malwa 6,No,MLA Goldy lays foundation of water treatment plant in Jalalabad,Yes,Positive,Civic services & infrastructure,Development works,,1,"River-water resolutions, Rajasthan royalty"
-3132,Full edition,Dainik Savera,Malwa 6,No,Rs 90 lakh for sports and education works in Sadulshahar,No,Not about AAP/Govt,,Others,,1,
-3133,Full edition,Dainik Savera,Malwa 7,No,Govt failed on paddy purchase and lifting: Jakhar,Yes,Negative,Opposition attacks on the govt,Opposition attack: BJP,,1,Jakhar seeks NIA probe
-3134,Full edition,Dainik Savera,Malwa 7,No,MLA questions cancellation of 7th Abohar marathon,Yes,Negative,"Governance, Assembly & politics",Own MLAs' complaints,,1,
-3135,Full edition,Dainik Savera,Malwa 7,No,Rs 25.89 cr for minor canal renovation in Jalalabad: MLA,Yes,Positive,"Farmers, stubble & paddy",Irrigation,,1,
-3136,Full edition,Dainik Savera,Malwa 8,No,Congress govt will prioritise development: Kushaldeep Dhillon,No,Not about AAP/Govt,,Others,,1,
-3137,Full edition,Dainik Savera,Malwa 8,No,Computer teachers march to minister Aman Arora's home (repeat),No,Duplicate,,Duplicate,,1,
-3138,Full edition,Dainik Savera,Pathankot 1,No,"Pathankot de-addiction centre full, 19 beds; proposal to expand",Yes,Neutral,Drugs & medicine access,De-addiction centres,,2,
-3139,Full edition,Dainik Savera,Pathankot 1,No,Health team acts against tobacco sellers in Shahpurkandi,Yes,Positive,"Schools, health & employees",Health enforcement,,2,
-3140,Full edition,Dainik Savera,Pathankot 1,No,High alert for Diwali; SSP tightens security,Yes,Positive,"Police action on gangs, arms & drugs",Policing,,2,
-3141,Full edition,Dainik Savera,Pathankot 2,No,Dozens of Kotli Farm families join AAP; minister Kataruchak welcomes them,Yes,Positive,AAP organisation & outreach,Joinings,,1,
-3142,Full edition,Dainik Savera,Pathankot 2,No,Congress will be strengthened in Sujanpur: Jarnail Singh,No,Not about AAP/Govt,,Others,,1,
-3143,Full edition,Dainik Savera,Pathankot 3,No,Shiv Sena (Shinde) targets govt over rising drugs and law and order,Yes,Negative,Opposition attacks on the govt,Opposition attack: Other,,1,
-3144,Full edition,Dainik Savera,Pathankot 3,No,"Congress mass contact campaign in Madinpur, Mission 2027 strategy",No,Not about AAP/Govt,,Others,,1,
-3145,Full edition,Dainik Savera,Pathankot 4,No,Batala daylight firing raises law and order questions: Tript Bajwa (repeat),No,Duplicate,,Duplicate,,1,
-3146,Full edition,Dainik Savera,Pathankot 4,No,Sahkar Bharati demands immediate end to DAP and urea shortage,Yes,Negative,"Farmers, stubble & paddy",Fertiliser shortage,,1,
-3147,Full edition,Dainik Savera,Pathankot 5,No,Employees and pensioners to hold pakka morcha in Chandigarh from Nov 13,Yes,Negative,"Schools, health & employees",Employee protests,,1,
-3148,Full edition,Dainik Savera,Pathankot 5,No,Mann govt failed on every front: Pammi Pathania (BJP),Yes,Negative,Opposition attacks on the govt,Opposition attack: BJP,,1,
-3149,Full edition,Dainik Savera,Pathankot 5,No,BJP govt needed to free Punjab of drugs and gangsters: BJP leaders,Yes,Negative,Opposition attacks on the govt,Opposition attack: BJP,,1,
-3150,Full edition,Dainik Savera,Pathankot 5,No,AAP will win again on public-interest decisions: Saba (AAP),Yes,Positive,AAP organisation & outreach,AAP outreach,,1,
-3151,Full edition,Dainik Savera,Pathankot 6,No,Present govt failed on every front: BJP's Avtar Singh,Yes,Negative,Opposition attacks on the govt,Opposition attack: BJP,,1,
-3152,Full edition,Dainik Savera,Pathankot 6,No,"Civil hospital MRI facility delayed again, now by Nov 10-15",Yes,Negative,"Schools, health & employees",Health services,,1,
-3153,Full edition,Dainik Savera,Patiala 1,No,"Drug control dept checks 2 medical stores, seizes medicines worth Rs 2,400",Yes,Positive,Drugs & medicine access,Drug regulation,,2,
-3154,Full edition,Dainik Savera,Patiala 1,No,Ownership rights given under 'Mera Ghar Mera Naam' in Chhajju Bhatt: MLA Dev Mann,Yes,Positive,Welfare schemes,Property cards,,2,
-3155,Full edition,Dainik Savera,Patiala 1,No,MC removes illegal shanties: Vishal Varma,Yes,Neutral,Civic services & infrastructure,Civic enforcement,,2,
-3156,Full edition,Dainik Savera,Patiala 1,No,Sarpanch unions meet IG Patiala against alleged false cases on sarpanches,Yes,Negative,Crime & law and order,Police complaints,,2,AAP sarpanch's son shot in Amritsar
-3157,Full edition,Dainik Savera,Patiala 1,No,Dengue hotspot awareness drive and larva checks,Yes,Positive,"Schools, health & employees",Health services,,2,
-3158,Full edition,Dainik Savera,Patiala 1,No,2.80 lakh MT paddy bought in Fatehgarh Sahib mandis: DC,Yes,Positive,"Farmers, stubble & paddy",Paddy procurement,,2,
-3159,Full edition,Dainik Savera,Patiala 2,No,"DAP shortage: BKU threatens agitation, govt failing farmers",Yes,Negative,"Farmers, stubble & paddy",Fertiliser shortage,,1,
-3160,Full edition,Dainik Savera,Patiala 2,No,Mid-day meal workers and chowkidars demand meeting on demands,Yes,Negative,"Schools, health & employees",Employee protests,,1,
-3161,Full edition,Dainik Savera,Patiala 3,No,Yudh Nashian Virudh: drug smuggler's illegal construction razed (repeat),No,Duplicate,,Duplicate,,1,
-3162,Full edition,Dainik Savera,Patiala 4,No,"Ex-minister Surjit Rakhra inspects Samana mandi, reviews paddy purchase",Yes,Neutral,"Farmers, stubble & paddy",Paddy procurement,,1,
-3163,Full edition,Dainik Savera,Patiala 4,No,Chairman Dhamauli gets illegal encroachment removed,Yes,Positive,Civic services & infrastructure,Civic enforcement,,1,
-3164,Full edition,Dainik Savera,Ropar 1,No,Low Bhakra canal level disrupts city water supply,Yes,Negative,Civic services & infrastructure,Water supply,,2,"River-water resolutions, Rajasthan royalty"
-3165,Full edition,Dainik Savera,Ropar 1,No,Youth held with 500 g opium in Nurpur Bedi,Yes,Positive,"Police action on gangs, arms & drugs",Police action vs drugs,,2,
-3166,Full edition,Dainik Savera,Ropar 1,No,Woman held with 6 g heroin in Banga,Yes,Positive,"Police action on gangs, arms & drugs",Police action vs drugs,,2,
-3167,Full edition,Dainik Savera,Ropar 2,No,Vigilance awareness week: officials take oath against corruption,Yes,Positive,"Governance, Assembly & politics",Anti-corruption,,1,
-3168,Full edition,Dainik Savera,Ropar 2,No,Cabinet minister Harjot Bains joins Valmiki shobha yatra in Nangal,Yes,Positive,"Religious outreach: Valmiki, Kartarpur",Religious outreach,,1,
-3169,Full edition,Dainik Savera,Ropar 4,No,AAP leader Jasvir Garhi reviews road works with PWD,Yes,Positive,Civic services & infrastructure,Development works,,1,
-3170,Full edition,Dainik Savera,Ropar 4,No,Area struggle committee meets NFL GM over urea shortage,Yes,Negative,"Farmers, stubble & paddy",Fertiliser shortage,,1,
-3171,Full edition,Dainik Savera,Ropar 4,No,Mining loot with support of ministers and MLAs: Ashwani Sharma (BJP),Yes,Negative,Opposition attacks on the govt,Opposition attack: BJP,,1,
-3172,Full edition,Dainik Savera,Ropar 4,No,Lalpura raises questions over video linked to Dinesh Chadha,Yes,Negative,Opposition attacks on the govt,Opposition attack: BJP,,1,
-3173,Full edition,Dainik Savera,Ropar 4,No,AAP leaders start road works in Raipur Nangal,Yes,Positive,Civic services & infrastructure,Development works,,1,
-3174,Full edition,Dainik Savera,Ropar 4,No,Harjot Bains: Ramayana gives life lessons (Valmiki event),Yes,Positive,"Religious outreach: Valmiki, Kartarpur",Religious outreach,,1,
-3175,Full edition,Dainik Savera,Kapurthala 1,No,Kapurthala police arrest 3 with 3 pistols and 9 cartridges,Yes,Positive,"Police action on gangs, arms & drugs",Police action vs arms,,2,"Army jawan among 7 held, 14 pistols"
-3176,Full edition,Dainik Savera,Kapurthala 1,No,Youth held with country-made pistol in Sultanpur Lodhi,Yes,Positive,"Police action on gangs, arms & drugs",Police action vs arms,,2,"Army jawan among 7 held, 14 pistols"
-3177,Full edition,Dainik Savera,Kapurthala 2,No,Pilgrims leave under CM Tirth Yatra scheme,Yes,Positive,Welfare schemes,Tirth Yatra scheme,,1,
-3178,Full edition,Dainik Savera,Kapurthala 3,No,Will work day and night to win all 4 Kapurthala seats for AAP: Daljit Raju,Yes,Positive,AAP organisation & outreach,AAP organisation,,1,"Mansa drug death, police seize body"
-3179,Full edition,Dainik Savera,Kapurthala 3,No,MP Chabbewal opens medical screening camp for seniors in Phagwara,Yes,Positive,"Schools, health & employees",Health services,,1,
-3180,Full edition,Dainik Savera,Kapurthala 4,No,AAP appoints Balwinder Singh SC wing state joint secretary,Yes,Positive,AAP organisation & outreach,AAP organisation,,1,
-3181,Full edition,Dainik Savera,Kapurthala 4,No,SDM's initiative: rewards for villages not burning stubble,Yes,Positive,"Farmers, stubble & paddy",Stubble management,,1,
-3182,Full edition,Dainik Savera,Jalandhar 1,No,Nitin Kohli thanks CM Mann for international hockey tournament in Punjab,Yes,Positive,Hockey & sports,Sports,,2,Asian Champions Trophy hockey
-3183,Full edition,Dainik Savera,Jalandhar 1,No,"6,52,925 MT paddy bought in district so far: DC",Yes,Positive,"Farmers, stubble & paddy",Paddy procurement,,2,
-3184,Full edition,Dainik Savera,Jalandhar 1,No,Street vendors angry over higher monthly slip fee,Yes,Negative,Civic services & infrastructure,Civic issues,,2,
-3185,Full edition,Dainik Savera,Jalandhar 3,No,Silver foil used for drugs: why no police eye on shops?,Yes,Negative,Drugs & medicine access,Drug availability,,1,
-3186,Full edition,Dainik Savera,Jalandhar 3,No,Sewer blocked for two months in Indira Colony (repeat),No,Duplicate,,Duplicate,,1,
-3187,Full edition,Dainik Savera,Jalandhar 4,No,Water shortage in Master Tara Singh Nagar (repeat),No,Duplicate,,Duplicate,,1,
-3188,Full edition,Dainik Savera,Jalandhar 4,No,Jalandhar rural police book many over fake marriage registration,Yes,Positive,"Police action on gangs, arms & drugs",Policing,,1,
-3189,Full edition,Dainik Savera,Jalandhar 6,No,Rs 3.69 cr development works start at Jamsher Dairy Complex,Yes,Positive,Civic services & infrastructure,Development works,,1,
-3190,Full edition,Dainik Savera,Jalandhar 6,No,Police raining batons on people instead of drug smugglers: Pargat Singh,Yes,Negative,Opposition attacks on the govt,Opposition attack: Congress,,1,
-3191,Full edition,Dainik Savera,Jalandhar 6,No,BJP committed to ending drugs and gangsterism: Himanshu Sharma,Yes,Negative,Opposition attacks on the govt,Opposition attack: BJP,,1,
-3192,Full edition,Dainik Savera,Jalandhar 6,No,Punjab govt's anti-drug campaign much appreciated: Chandan Bhagat,Yes,Positive,"Police action on gangs, arms & drugs",Anti-drug drive,,1,
-3193,Full edition,Dainik Savera,Jalandhar 7,No,Preparations reviewed for CM Mann's Lok Milni in Nakodar,Yes,Positive,AAP organisation & outreach,CM outreach,,1,
+﻿Story #,Source,Newspaper,Page,Front page,Headline (English),Relevant to AAP/Govt,Sentiment,Theme (ranked group),Detailed theme,AAP spokesperson voice,Page weight,Size,Share of page,Story
+18,Monitoring deck,Ajit,1,Yes,Asian Hockey Champions Trophy opens in Punjab for first time; CM inaugurates,Yes,Positive,Hockey & sports,Sports,,3,,,Asian Champions Trophy hockey
+19,Monitoring deck,Ajit,1,Yes,EC orders transfer of officers posted in home districts in Punjab and 4 states,Yes,Neutral,"Governance, Assembly & politics",Election Commission,,3,,,EC orders officer transfers
+20,Monitoring deck,Ajit,1,Yes,"Assembly unanimously passes 8 resolutions, 5 on river waters",Yes,Positive,"Punjab's rights: water, PU, Chandigarh",Assembly resolutions,,3,,,"River-water resolutions, Rajasthan royalty"
+21,Monitoring deck,Ajit,1,Yes,Uproar on last day of session: Congress and AAP MLAs clash outside House,Yes,Negative,Opposition attacks on the govt,Assembly uproar,,3,,,"Assembly scuffle, Congress walkout"
+22,Monitoring deck,Ajit,1,Yes,Uproar on last day of session (continued),No,Duplicate,,Duplicate,,3,,,
+23,Monitoring deck,Ajit,2,No,Welfare schemes won't stop over opposition threats: Harpal Cheema,Yes,Positive,AAP leaders' counter-attacks,AAP minister rebuts opposition,Yes,2,,,
+24,Monitoring deck,Ajit,3,No,"DA case: HC raps Punjab govt, Rs 1 lakh fine on Chief Secretary",Yes,Negative,Court rebukes & govt finances,Employees DA case,,2,,,HC fines Chief Secretary over DA
+25,Monitoring deck,Ajit,3,No,Uproar after youth's death in Mansa; Lakha Sidhana and others detained,Yes,Negative,Crime & law and order,Custodial/drug death protest,,2,,,"Mansa drug death, police seize body"
+26,Monitoring deck,Ajit,3,No,"CM's OSD Rajbir Ghuman questioned 4 hrs by CBI, asked to return Oct 31",Yes,Negative,CM's OSD questioned by CBI,CBI probe,,2,,,CM's OSD before the CBI
+27,Monitoring deck,Ajit,3,No,Jhota murder: dharna continues on 15th day,Yes,Negative,Jhota murder protest,Jhota murder protest,,2,,,
+28,Monitoring deck,Ajit,3,No,20-year-old youth murdered in broad daylight in Ferozepur,Yes,Negative,Crime & law and order,Murder,,2,,,
+29,Monitoring deck,Ajit,5,No,"Indira Colony sewer blocked for 2 months, residents wade through dirty water",Yes,Negative,Civic services & infrastructure,Civic issues,,1,,,"River-water resolutions, Rajasthan royalty"
+30,Monitoring deck,Ajit,7,No,"Tubewell shut, severe water shortage in Master Tara Singh Nagar",Yes,Negative,Civic services & infrastructure,Civic issues,,1,,,"River-water resolutions, Rajasthan royalty"
+31,Monitoring deck,Ajit,7,No,Illegal colonies regularisation stuck; thousands await notification,Yes,Negative,Civic services & infrastructure,Illegal colonies,,1,,,
+32,Monitoring deck,Ajit,7,No,Street vendors protest MC's monthly fee slip,Yes,Negative,Civic services & infrastructure,Civic issues,,1,,,
+33,Monitoring deck,Ajit,9,No,IKGPTU convocation: Governor Kataria addresses graduates,No,Not about AAP/Govt,,Others,,1,,,
+34,Monitoring deck,Ajit,9,No,Govt owes PSPCL thousands of crores in power dues; HC seeks Chief Secretary's reply,Yes,Negative,Court rebukes & govt finances,Power dues,,1,,,
+35,Monitoring deck,Ajit,9,No,SKM unhappy written water promises don't match Assembly resolutions; dharnas from Nov 2,Yes,Negative,"Farmers, stubble & paddy",Farmers' demands,,1,,,"River-water resolutions, Rajasthan royalty"
+36,Monitoring deck,Ajit,10,No,3 lakh solar street lights to be installed in Punjab villages,Yes,Positive,Civic services & infrastructure,Rural development,,1,,,
+37,Monitoring deck,Ajit,10,No,Jhota murder: main accused's wife sent to 14-day judicial custody,Yes,Neutral,Jhota murder protest,Court/police action,,1,,,
+38,Monitoring deck,Ajit,12,No,Grand opening of Asian Champions Trophy (photo feature),Yes,Positive,Hockey & sports,Sports,,1,,,Asian Champions Trophy hockey
+39,Monitoring deck,Ajit,E3,No,Valmiki Pragat Diwas shobha yatra in Malsian; AAP leaders join,Yes,Positive,"Religious outreach: Valmiki, Kartarpur",Religious outreach,,1,,,
+40,Monitoring deck,Ajit,E3,No,AAP halqa in-charge Pala Jalalpur meets kabaddi commentator Makhan Ali,Yes,Positive,AAP organisation & outreach,AAP outreach,,1,,,
+41,Monitoring deck,Jagbani,1,Yes,EC: officers in post 3+ years to be transferred in 5 states incl Punjab,Yes,Neutral,"Governance, Assembly & politics",Election Commission,,3,,,EC orders officer transfers
+42,Monitoring deck,Jagbani,1,Yes,Kartarpur corridor should reopen: CM Mann,Yes,Positive,"Religious outreach: Valmiki, Kartarpur",Kartarpur corridor,,3,,,Kartarpur corridor resolution
+43,Monitoring deck,Jagbani,3,No,"7 held incl army jawan in Amritsar; 14 pistols, 20 kg heroin seized",Yes,Positive,"Police action on gangs, arms & drugs",Police action vs drugs/arms,,2,,,"Army jawan among 7 held, 14 pistols"
+44,Monitoring deck,Jagbani,3,No,Assembly passes 8 resolutions incl water rights; Rs 1.44 lakh cr sought from Rajasthan,Yes,Positive,"Punjab's rights: water, PU, Chandigarh",Assembly resolutions,,2,,,"River-water resolutions, Rajasthan royalty"
+45,Monitoring deck,Jagbani,5,No,MLAs scuffle in Assembly; Congress boycotts session,Yes,Negative,Opposition attacks on the govt,Assembly uproar,,1,,,"Assembly scuffle, Congress walkout"
+46,Monitoring deck,Jagbani,5,No,"Family protests after youth's suspicious death in Mansa; Warring, Chugh slam govt",Yes,Negative,Crime & law and order,Custodial/drug death protest,,1,,,"Mansa drug death, police seize body"
+47,Monitoring deck,Jagbani,5,No,6 kg heroin dropped by drone recovered from fields,Yes,Positive,"Police action on gangs, arms & drugs",Police action vs drugs,,1,,,
+48,Monitoring deck,Jagbani,5,No,OSD Ghuman appears before CBI for 4th time,Yes,Negative,CM's OSD questioned by CBI,CBI probe,,1,,,CM's OSD before the CBI
+49,Monitoring deck,Jagbani,6,No,Youth abducted and murdered in Ferozepur,Yes,Negative,Crime & law and order,Murder,,1,,,
+50,Monitoring deck,Jagbani,6,No,Bomb-threat emails to Vidhan Sabha and schools cause panic,Yes,Neutral,Crime & law and order,Hoax threats,,1,,,
+51,Monitoring deck,Jagbani,6,No,Patiala MC polls in 28 wards on Nov 18,Yes,Neutral,"Governance, Assembly & politics",Civic polls,,1,,,
+52,Monitoring deck,Jagbani,6,No,Centre should talk to Pakistan on reopening Kartarpur corridor: Harjot Bains,Yes,Positive,"Religious outreach: Valmiki, Kartarpur",Kartarpur corridor,Yes,1,,,Kartarpur corridor resolution
+53,Monitoring deck,Jagbani,6,No,205 security guards to be posted in govt hospitals,Yes,Positive,"Schools, health & employees",Health services,,1,,,
+54,Monitoring deck,Jagbani,6,No,OSD Ghuman sends legal notice to Majithia,Yes,Neutral,CM's OSD questioned by CBI,Legal notice,,1,,,CM's OSD before the CBI
+55,Monitoring deck,Jagbani,6,No,Jhota murder: Ashwani Kumar's wife sent to 14-day judicial custody,Yes,Neutral,Jhota murder protest,Court/police action,,1,,,
+56,Monitoring deck,Punjabi Tribune,1,Yes,HC raps Punjab govt for not paying DA arrears,Yes,Negative,Court rebukes & govt finances,Employees DA case,,3,,,HC fines Chief Secretary over DA
+57,Monitoring deck,Punjabi Tribune,1,Yes,Last session: 5 resolutions on river waters passed,Yes,Positive,"Punjab's rights: water, PU, Chandigarh",Assembly resolutions,,3,,,"River-water resolutions, Rajasthan royalty"
+58,Monitoring deck,Punjabi Tribune,1,Yes,Kartarpur corridor resolution passed for 4th time,Yes,Positive,"Religious outreach: Valmiki, Kartarpur",Kartarpur corridor,,3,,,Kartarpur corridor resolution
+59,Monitoring deck,Punjabi Tribune,1,Yes,Order to stop paddy procurement in 30+ mandis,Yes,Negative,"Farmers, stubble & paddy",Paddy procurement,,3,,,
+60,Monitoring deck,Punjabi Tribune,1,Yes,Police snatch body from protesters after Mansa youth's drug death,Yes,Negative,Crime & law and order,Custodial/drug death protest,,3,,,"Mansa drug death, police seize body"
+61,Monitoring deck,Punjabi Tribune,1,Yes,Last session ends amid clashes; opposition uproar inside and outside House,Yes,Negative,Opposition attacks on the govt,Assembly uproar,,3,,,"Assembly scuffle, Congress walkout"
+62,Monitoring deck,Punjabi Tribune,2,No,Zero Hour: demand for probe into use of 'drug money' in elections,Yes,Negative,Opposition attacks on the govt,Assembly uproar,,2,,,
+63,Monitoring deck,Punjabi Tribune,2,No,AAP and Congress MLAs clash outside Vidhan Sabha,Yes,Negative,Opposition attacks on the govt,Assembly uproar,,2,,,"Assembly scuffle, Congress walkout"
+64,Monitoring deck,Punjabi Tribune,2,No,AAP leader's brother shot dead in Amritsar village,Yes,Negative,Crime & law and order,Murder,,2,,,AAP sarpanch's son shot in Amritsar
+65,Monitoring deck,Punjabi Tribune,2,No,Question Hour: demand to increase number of chemical labs,Yes,Neutral,"Schools, health & employees",Assembly question,,2,,,
+66,Monitoring deck,Punjabi Tribune,2,No,AAP MLAs corner own govt in Assembly over stalled development works,Yes,Negative,"Governance, Assembly & politics",Own MLAs' complaints,,2,,,
+67,Monitoring deck,Punjabi Tribune,2,No,Toll tax on Himachal vehicles under consideration: Minister Sond,Yes,Neutral,"Governance, Assembly & politics",Assembly answer,,2,,,
+68,Monitoring deck,Punjabi Tribune,2,No,Rajbir Ghuman sends legal notice to Majithia,Yes,Neutral,CM's OSD questioned by CBI,Legal notice,,2,,,CM's OSD before the CBI
+69,Monitoring deck,Punjabi Tribune,2,No,Seven held with 20 kg heroin and 14 pistols,Yes,Positive,"Police action on gangs, arms & drugs",Police action vs drugs/arms,,2,,,"Army jawan among 7 held, 14 pistols"
+70,Monitoring deck,Punjabi Tribune,2,No,Stubble burnt at 684 places in Punjab,Yes,Negative,"Farmers, stubble & paddy",Stubble burning,,2,,,
+71,Monitoring deck,Punjabi Tribune,3,No,Election Commission delegation visits Punjab,Yes,Neutral,"Governance, Assembly & politics",Election Commission,,2,,,EC orders officer transfers
+72,Monitoring deck,Punjabi Tribune,3,No,Jhota murder: no talks with action committee for 4 days,Yes,Negative,Jhota murder protest,Jhota murder protest,,2,,,
+73,Monitoring deck,Punjabi Tribune,3,No,HC seeks Chief Secretary's reply on Powercom dues and loans,Yes,Negative,Court rebukes & govt finances,Power dues,,2,,,
+74,Monitoring deck,Punjabi Tribune,3,No,BKU Ugrahan to gherao police stations today over Mansa youth's death,Yes,Negative,Crime & law and order,Custodial/drug death protest,,2,,,"Mansa drug death, police seize body"
+75,Monitoring deck,Punjabi Tribune,6,No,MLA Kulwant Singh raises mid-day meal issue in House,Yes,Neutral,"Schools, health & employees",Assembly question,,1,,,
+76,Monitoring deck,Punjabi Tribune,6,No,Deepa Dubey appointed Chandigarh AAP vice-president,Yes,Positive,AAP organisation & outreach,AAP organisation,,1,,,
+77,Monitoring deck,Punjabi Tribune,6,No,Doctors and medical staff demand security at Kharar hospital,Yes,Negative,"Schools, health & employees",Health services,,1,,,
+78,Monitoring deck,Punjabi Tribune,6,No,Paddy procurement closed in 5 mandis; Akalis warn of agitation,Yes,Negative,"Farmers, stubble & paddy",Paddy procurement,,1,,,
+79,Monitoring deck,Punjabi Tribune,6,No,Women employees of school education dept protest,Yes,Negative,"Schools, health & employees",Employee protests,,1,,,
+80,Monitoring deck,Punjabi Tribune,6,No,Farmers hit by urea shortage,Yes,Negative,"Farmers, stubble & paddy",Fertiliser shortage,,1,,,
+81,Monitoring deck,Punjabi Tribune,7,No,Development of area is top priority: AAP's Goldy starts road work,Yes,Positive,Civic services & infrastructure,Development works,,1,,,
+82,Monitoring deck,Punjabi Tribune,7,No,Social worker has filled road potholes himself for eight years,Yes,Negative,Civic services & infrastructure,Roads,,1,,,
+83,Monitoring deck,Punjabi Jagran,1,Yes,Congress and AAP MLAs scuffle on last day of Assembly,Yes,Negative,Opposition attacks on the govt,Assembly uproar,,3,,,"Assembly scuffle, Congress walkout"
+84,Monitoring deck,Punjabi Jagran,1,Yes,Kartarpur corridor should reopen: CM Mann,Yes,Positive,"Religious outreach: Valmiki, Kartarpur",Kartarpur corridor,,3,,,Kartarpur corridor resolution
+85,Monitoring deck,Punjabi Jagran,1,Yes,Legal steps sought to recover Rs 1.44 lakh cr water dues from Rajasthan; 8 resolutions passed,Yes,Positive,"Punjab's rights: water, PU, Chandigarh",Assembly resolutions,,3,,,"River-water resolutions, Rajasthan royalty"
+86,Monitoring deck,Punjabi Jagran,1,Yes,"AAP MLA Manuke raises banned-drug sales in House, waving newspaper",Yes,Negative,Drugs & medicine access,Banned drugs,,3,,,
+87,Monitoring deck,Punjabi Jagran,1,Yes,EC tells state to move officers posted 3+ years at one place,Yes,Neutral,"Governance, Assembly & politics",Election Commission,,3,,,EC orders officer transfers
+88,Monitoring deck,Punjabi Jagran,2,No,CM Mann launches Asian Hockey Championship,Yes,Positive,Hockey & sports,Sports,,2,,,Asian Champions Trophy hockey
+89,Monitoring deck,Punjabi Jagran,2,No,HC fines Punjab Chief Secretary,Yes,Negative,Court rebukes & govt finances,Employees DA case,,2,,,
+90,Monitoring deck,Punjabi Jagran,2,No,Bomb threats to several places incl Diljit's concert,Yes,Neutral,Crime & law and order,Hoax threats,,2,,,
+91,Monitoring deck,Punjabi Jagran,2,No,CM's OSD sends legal notice to Majithia,Yes,Neutral,CM's OSD questioned by CBI,Legal notice,,2,,,CM's OSD before the CBI
+92,Monitoring deck,Punjabi Jagran,2,No,Govt owes power corporation thousands of crores,Yes,Negative,Court rebukes & govt finances,Power dues,,2,,,
+93,Monitoring deck,Punjabi Jagran,2,No,EC holds review meeting on election preparations,Yes,Neutral,"Governance, Assembly & politics",Election Commission,,2,,,EC orders officer transfers
+94,Monitoring deck,Punjabi Jagran,2,No,Jhota murder: Ashwani's wife sent to judicial custody,Yes,Neutral,Jhota murder protest,Court/police action,,2,,,
+95,Monitoring deck,Punjabi Jagran,2,No,AAP MLA Dinesh Chadha files affidavit rebutting Majithia's claim,Yes,Positive,AAP leaders' counter-attacks,AAP rebuts Akalis,Yes,2,,,
+96,Monitoring deck,Punjabi Jagran,3,No,Tension again in Mansa as police take youth's body from dharna,Yes,Negative,Crime & law and order,Custodial/drug death protest,,2,,,"Mansa drug death, police seize body"
+97,Monitoring deck,Punjabi Jagran,3,No,Seven held with 14 pistols and 20 kg heroin,Yes,Positive,"Police action on gangs, arms & drugs",Police action vs drugs/arms,,2,,,"Army jawan among 7 held, 14 pistols"
+98,Monitoring deck,Punjabi Jagran,3,No,Anti-drug activist shot dead in Amritsar village,Yes,Negative,Crime & law and order,Murder,,2,,,
+99,Monitoring deck,Punjabi Jagran,3,No,6 kg heroin recovered from fields,Yes,Positive,"Police action on gangs, arms & drugs",Police action vs drugs,,2,,,
+100,Monitoring deck,Rozana Spokesman,1,Yes,Assembly session ends after 8 key resolutions on Yamuna share and Rajasthan dues,Yes,Positive,"Punjab's rights: water, PU, Chandigarh",Assembly resolutions,,3,,,"River-water resolutions, Rajasthan royalty"
+101,Monitoring deck,Rozana Spokesman,1,Yes,Will fight from streets to courts for Punjab's waters: CM Mann,Yes,Positive,"Punjab's rights: water, PU, Chandigarh",River waters,Yes,3,,,"River-water resolutions, Rajasthan royalty"
+102,Monitoring deck,Rozana Spokesman,1,Yes,EC directive to poll-bound states incl Punjab on transfers,Yes,Neutral,"Governance, Assembly & politics",Election Commission,,3,,,EC orders officer transfers
+103,Monitoring deck,Rozana Spokesman,2,No,Yudh Nashian Virudh: drug smuggler's illegal construction razed in Sant Nagar,Yes,Positive,"Police action on gangs, arms & drugs",Police action vs drugs,,2,,,
+104,Monitoring deck,Rozana Spokesman,3,No,Kartarpur corridor should reopen: CM Mann,Yes,Positive,"Religious outreach: Valmiki, Kartarpur",Kartarpur corridor,,2,,,Kartarpur corridor resolution
+105,Monitoring deck,Rozana Spokesman,3,No,Kartarpur corridor a matter of religious freedom: Harjot Bains,Yes,Positive,"Religious outreach: Valmiki, Kartarpur",Kartarpur corridor,Yes,2,,,Kartarpur corridor resolution
+106,Monitoring deck,Rozana Spokesman,3,No,CM Mann inaugurates Asian hockey championship,Yes,Positive,Hockey & sports,Sports,,2,,,Asian Champions Trophy hockey
+107,Monitoring deck,Rozana Spokesman,3,No,Ghuman sends legal notice to Majithia,Yes,Neutral,CM's OSD questioned by CBI,Legal notice,,2,,,CM's OSD before the CBI
+108,Monitoring deck,Rozana Spokesman,3,No,All welfare schemes will continue: Harpal Cheema,Yes,Positive,Welfare schemes,Welfare continuity,Yes,2,,,
+109,Monitoring deck,Rozana Spokesman,3,No,"MLA Dinesh Chadha answers Majithia's Rs 2,000 cr property claim",Yes,Positive,AAP leaders' counter-attacks,AAP rebuts Akalis,Yes,2,,,
+110,Monitoring deck,Rozana Spokesman,3,No,"DA case: Rs 1 lakh fine on Chief Secretary, told to appear Nov 3",Yes,Negative,Court rebukes & govt finances,Employees DA case,,2,,,HC fines Chief Secretary over DA
+111,Monitoring deck,Rozana Spokesman,3,No,HC upset over withdrawal of security of road-scam petitioner,Yes,Negative,Court rebukes & govt finances,Court rebuke,,2,,,
+112,Monitoring deck,Rozana Spokesman,8,No,Calling welfare schemes 'freebies' insults people: Dr Baljit Kaur,Yes,Positive,Welfare schemes,Welfare defence,Yes,1,,,
+113,Monitoring deck,Rozana Spokesman,8,No,Vigilance Bureau to hold awareness week till Nov 1,Yes,Positive,"Governance, Assembly & politics",Anti-corruption,,1,,,
+114,Monitoring deck,Rozana Spokesman,8,No,"Gangsters par Vaar day 280: raids at 510 places, 175 held; 101 drug smugglers held",Yes,Positive,"Police action on gangs, arms & drugs",Police action vs gangs/drugs,,1,,,
+115,Monitoring deck,Rozana Spokesman,8,No,"7 held incl army jawan with 14 pistols, 20 kg heroin",Yes,Positive,"Police action on gangs, arms & drugs",Police action vs drugs/arms,,1,,,"Army jawan among 7 held, 14 pistols"
+116,Monitoring deck,Rozana Spokesman,8,No,"Half of paddy procurement target met; Rs 20,000 cr paid into farmers' accounts",Yes,Positive,"Farmers, stubble & paddy",Paddy procurement,,1,,,
+117,Monitoring deck,Rozana Spokesman,8,No,Central team takes hybrid paddy samples from mandis,Yes,Neutral,"Farmers, stubble & paddy",Paddy procurement,,1,,,
+118,Monitoring deck,Rozana Spokesman,8,No,Youth dies of drug overdose in Bhamme Kalan; scuffle with police over body,Yes,Negative,Crime & law and order,Custodial/drug death protest,,1,,,"Mansa drug death, police seize body"
+119,Monitoring deck,Rozana Spokesman,8,No,Jhota case: dharna continues,Yes,Negative,Jhota murder protest,Jhota murder protest,,1,,,
+120,Monitoring deck,Rozana Spokesman,8,No,PPCB seals machinery of 2 illegal dyeing units in Haibowal,Yes,Positive,Civic services & infrastructure,Pollution enforcement,,1,,,
+121,Monitoring deck,Rozana Spokesman,9,No,Councillor demands immediate start of Punjabi Bagh road work,Yes,Negative,Civic services & infrastructure,Roads,,1,,,
+122,Monitoring deck,Punjab Kesari,1,Yes,EC: officers in post 3+ years to be transferred in 5 states incl Punjab,Yes,Neutral,"Governance, Assembly & politics",Election Commission,,3,,,EC orders officer transfers
+123,Monitoring deck,Punjab Kesari,1,Yes,Assembly passes 8 resolutions incl water rights,Yes,Positive,"Punjab's rights: water, PU, Chandigarh",Assembly resolutions,,3,,,"River-water resolutions, Rajasthan royalty"
+124,Monitoring deck,Punjab Kesari,2,No,"7 held incl army jawan; 14 pistols, 20 kg heroin seized",Yes,Positive,"Police action on gangs, arms & drugs",Police action vs drugs/arms,,2,,,"Army jawan among 7 held, 14 pistols"
+125,Monitoring deck,Punjab Kesari,2,No,Kartarpur corridor should reopen: CM Mann,Yes,Positive,"Religious outreach: Valmiki, Kartarpur",Kartarpur corridor,,2,,,Kartarpur corridor resolution
+126,Monitoring deck,Punjab Kesari,3,No,Centre should talk to Pakistan on Kartarpur corridor: Harjot Bains,Yes,Positive,"Religious outreach: Valmiki, Kartarpur",Kartarpur corridor,Yes,2,,,Kartarpur corridor resolution
+127,Monitoring deck,Punjab Kesari,3,No,Family protests after Mansa youth's suspicious death; scuffle with police,Yes,Negative,Crime & law and order,Custodial/drug death protest,,2,,,"Mansa drug death, police seize body"
+128,Monitoring deck,Punjab Kesari,3,No,DA case: HC fines Chief Secretary Rs 1 lakh,Yes,Negative,Court rebukes & govt finances,Employees DA case,,2,,,HC fines Chief Secretary over DA
+129,Monitoring deck,Punjab Kesari,3,No,Rajbir Ghuman appears before CBI for 4th time,Yes,Negative,CM's OSD questioned by CBI,CBI probe,,2,,,CM's OSD before the CBI
+130,Monitoring deck,Punjab Kesari,5,No,Youth murdered after abduction in Ferozepur; friend critical,Yes,Negative,Crime & law and order,Murder,,1,,,
+131,Monitoring deck,Punjab Kesari,5,No,Patiala MC polls in 28 wards on Nov 18,Yes,Neutral,"Governance, Assembly & politics",Civic polls,,1,,,
+132,Monitoring deck,Punjab Kesari,5,No,EVM-VVPAT checking in Punjab from Nov 12,Yes,Neutral,"Governance, Assembly & politics",Election Commission,,1,,,
+133,Monitoring deck,Punjab Kesari,5,No,Jhota murder: main accused's wife sent to judicial custody,Yes,Neutral,Jhota murder protest,Court/police action,,1,,,
+134,Monitoring deck,Punjab Kesari,5,No,Bomb threats to Assembly and schools cause panic,Yes,Neutral,Crime & law and order,Hoax threats,,1,,,
+135,Monitoring deck,Punjab Kesari,5,No,Sarpanch's son shot dead in Amritsar,Yes,Negative,Crime & law and order,Murder,,1,,,AAP sarpanch's son shot in Amritsar
+136,Monitoring deck,Punjab Kesari,8,No,CM Mann inaugurates Asian hockey championship in Punjab,Yes,Positive,Hockey & sports,Sports,,1,,,Asian Champions Trophy hockey
+137,Monitoring deck,Dainik Jagran,1,Yes,"Faith above politics, Kartarpur corridor should reopen: CM Mann",Yes,Positive,"Religious outreach: Valmiki, Kartarpur",Kartarpur corridor,,3,,,Kartarpur corridor resolution
+138,Monitoring deck,Dainik Jagran,1,Yes,"AAP MLA Manuke raises banned-drug supply chain in House, cites Dainik Jagran",Yes,Negative,Drugs & medicine access,Banned drugs,,3,,,
+139,Monitoring deck,Dainik Jagran,1,Yes,Congress-AAP MLAs scuffle; 8 resolutions passed with one opposition member present,Yes,Negative,Opposition attacks on the govt,Assembly uproar,,3,,,"River-water resolutions, Rajasthan royalty"
+140,Monitoring deck,Dainik Jagran,1,Yes,Punjab ready to host 2030 Hockey World Cup: CM,Yes,Positive,Hockey & sports,Sports,,3,,,Asian Champions Trophy hockey
+141,Monitoring deck,Dainik Jagran,1,Yes,"Amritsar: 24 pistols, 14 magazines seized, 10 held",Yes,Positive,"Police action on gangs, arms & drugs",Police action vs arms,,3,,,"Army jawan among 7 held, 14 pistols"
+142,Monitoring deck,Dainik Jagran,2,No,CM's OSD sends legal notice to Majithia,Yes,Neutral,CM's OSD questioned by CBI,Legal notice,,2,,,CM's OSD before the CBI
+143,Monitoring deck,Dainik Jagran,2,No,Income Tax raids on de-addiction centres continue for 2nd day,Yes,Negative,Drugs & medicine access,De-addiction centres,,2,,,
+144,Monitoring deck,Dainik Jagran,2,No,HC fines Chief Secretary Rs 1 lakh,Yes,Negative,Court rebukes & govt finances,Employees DA case,,2,,,
+145,Monitoring deck,Dainik Jagran,2,No,Family alleges Tirath killed for opposing drug sales,Yes,Negative,Crime & law and order,Murder,,2,,,AAP sarpanch's son shot in Amritsar
+146,Monitoring deck,Dainik Jagran,2,No,Police lathi-charge protesters carrying youth's body in Mansa,Yes,Negative,Crime & law and order,Custodial/drug death protest,,2,,,"Mansa drug death, police seize body"
+147,Monitoring deck,Dainik Jagran,2,No,EC directs transfer of long-posted officers; EVM checks from Nov 12,Yes,Neutral,"Governance, Assembly & politics",Election Commission,,2,,,EC orders officer transfers
+148,Monitoring deck,Dainik Jagran,2,No,"Khaira-Manuke spat, daylong uproar; Congress stays away from House",Yes,Negative,Opposition attacks on the govt,Assembly uproar,,2,,,"Assembly scuffle, Congress walkout"
+149,Monitoring deck,Dainik Jagran,2,No,Zero Hour: gangsterism and sarpanch killings raised,Yes,Negative,Crime & law and order,Gangsterism,,2,,,AAP sarpanch's son shot in Amritsar
+150,Monitoring deck,Dainik Jagran,2,No,Speaker Sandhwan bids emotional farewell to MLAs on last session,Yes,Neutral,"Governance, Assembly & politics",Assembly,,2,,,
+151,Monitoring deck,Dainik Jagran,2,No,Govt owes power corporation thousands of crores,Yes,Negative,Court rebukes & govt finances,Power dues,,2,,,
+152,Monitoring deck,Dainik Jagran,2,No,"Two criminals held after encounter in Amritsar, one shot in leg",Yes,Positive,"Police action on gangs, arms & drugs",Police action vs gangs,,2,,,
+153,Monitoring deck,Dainik Jagran,2,No,Vigilance awareness week from Oct 26 to Nov 1,Yes,Positive,"Governance, Assembly & politics",Anti-corruption,,2,,,
+154,Monitoring deck,Dainik Jagran,2,No,Colourful opening of Asian Champions Trophy (photos),Yes,Positive,Hockey & sports,Sports,,2,,,Asian Champions Trophy hockey
+155,Monitoring deck,Dainik Jagran,3,No,"CRPF jawan protests outside Rajindra hospital, alleges assault by DSP",Yes,Negative,Crime & law and order,Police excess,,2,,,
+156,Monitoring deck,Dainik Jagran,3,No,Mann: we will seek votes on the strength of our schemes; Congress wants free schemes ended,Yes,Positive,Welfare schemes,Welfare defence,Yes,2,,,
+157,Monitoring deck,Dainik Bhaskar,J3,No,Congress walks out alleging it was stopped at gate; clash with AAP at podium,Yes,Negative,Opposition attacks on the govt,Assembly uproar,,2,,,"Assembly scuffle, Congress walkout"
+158,Monitoring deck,Dainik Bhaskar,J3,No,8 resolutions passed; Punjab to recover water royalty from Rajasthan,Yes,Positive,"Punjab's rights: water, PU, Chandigarh",Assembly resolutions,,2,,,"River-water resolutions, Rajasthan royalty"
+159,Monitoring deck,Dainik Bhaskar,J3,No,HC: explain why DA order not followed; Rs 1 lakh fine on Chief Secretary,Yes,Negative,Court rebukes & govt finances,Employees DA case,,2,,,HC fines Chief Secretary over DA
+160,Monitoring deck,Dainik Bhaskar,J4,No,"3 lakh solar lights in 13,000+ villages, govt to bear 70% cost",Yes,Positive,Civic services & infrastructure,Rural development,,1,,,
+161,Monitoring deck,Dainik Bhaskar,J4,No,"7 held incl army jawan; 14 pistols, 20 kg heroin seized",Yes,Positive,"Police action on gangs, arms & drugs",Police action vs drugs/arms,,1,,,"Army jawan among 7 held, 14 pistols"
+162,Monitoring deck,Dainik Bhaskar,J4,No,Moga double murder: 6 women plotted killing of 2 brothers; 10 held,Yes,Neutral,Crime & law and order,Murder solved,,1,,,
+163,Monitoring deck,Dainik Bhaskar,J4,No,684 stubble-burning cases; Jalandhar air worst; 246 farmers fined,Yes,Negative,"Farmers, stubble & paddy",Stubble burning,,1,,,46 leaders join BJP in Gurdaspur
+164,Monitoring deck,Dainik Bhaskar,J4,No,Jail inmates to press mustard oil; pilot at Muktsar jail,Yes,Positive,"Governance, Assembly & politics",Jail reform,,1,,,
+165,Monitoring deck,Dainik Bhaskar,J4,No,Jhota murder: accused's wife sent to Patiala jail,Yes,Neutral,Jhota murder protest,Court/police action,,1,,,
+166,Monitoring deck,Dainik Bhaskar,J4,No,"Govt depts owe Powercom Rs 2,382 cr; HC seeks CS reply",Yes,Negative,Court rebukes & govt finances,Power dues,,1,,,
+167,Monitoring deck,Dainik Bhaskar,J4,No,6 kg heroin found in field in Ferozepur,Yes,Positive,"Police action on gangs, arms & drugs",Police action vs drugs,,1,,,
+168,Monitoring deck,Dainik Bhaskar,J5,No,Transfer of 140+ officers being readied before polls,Yes,Neutral,"Governance, Assembly & politics",Election Commission,,1,,,EC orders officer transfers
+169,Monitoring deck,Dainik Bhaskar,J5,No,Assembly polls in five states next year,Yes,Neutral,"Governance, Assembly & politics",Election Commission,,1,,,
+170,Monitoring deck,Dainik Bhaskar,J5,No,14 hi-tech drones join Punjab Police fleet,Yes,Positive,"Police action on gangs, arms & drugs",Police modernisation,,1,,,
+171,Monitoring deck,Dainik Bhaskar,J5,No,Mann invited to Punjabi conference in Lahore; Pak minister welcomes him,Yes,Neutral,"Religious outreach: Valmiki, Kartarpur",Cross-border outreach,,1,,,
+172,Monitoring deck,Dainik Bhaskar,1,Yes,"Asian hockey trophy opens in Jalandhar; 15,000 watch India-Bangladesh",Yes,Positive,Hockey & sports,Sports,,3,,,Asian Champions Trophy hockey
+173,Monitoring deck,Dainik Bhaskar,1,Yes,CBI raids DRME HQ in Mohali over drug licensing,Yes,Negative,Drugs & medicine access,CBI probe of licensing,,3,,,
+174,Monitoring deck,Dainik Bhaskar,1,Yes,Police snatch body being taken to Jhota dharna after overdose death,Yes,Negative,Crime & law and order,Custodial/drug death protest,,3,,,"Mansa drug death, police seize body"
+175,Monitoring deck,Dainik Bhaskar,2,No,"Two shots fired at gurdwara gate, threat letter thrown",Yes,Negative,Crime & law and order,Firing/threats,,2,,,
+176,Monitoring deck,Dainik Savera,1,Yes,Kartarpur corridor should reopen; faith above politics: CM Mann,Yes,Positive,"Religious outreach: Valmiki, Kartarpur",Kartarpur corridor,,3,,,Kartarpur corridor resolution
+177,Monitoring deck,Dainik Savera,2,No,Resolution to continue welfare schemes passed; 80 lakh women registered: Cheema,Yes,Positive,Welfare schemes,Welfare continuity,Yes,2,,,"River-water resolutions, Rajasthan royalty"
+178,Monitoring deck,Dainik Savera,2,No,Speaker adjourns 13th session of 16th Assembly sine die,Yes,Neutral,"Governance, Assembly & politics",Assembly,,2,,,
+179,Monitoring deck,Dainik Savera,2,No,Assembly unanimously passes 8 resolutions,Yes,Positive,"Punjab's rights: water, PU, Chandigarh",Assembly resolutions,,2,,,"River-water resolutions, Rajasthan royalty"
+180,Monitoring deck,Dainik Savera,2,No,Punjab won't give a drop of its water; ready to fight in courts and streets: CM,Yes,Positive,"Punjab's rights: water, PU, Chandigarh",River waters,Yes,2,,,"River-water resolutions, Rajasthan royalty"
+181,Monitoring deck,Dainik Savera,2,No,Resolution moved in Assembly to reopen Kartarpur corridor,Yes,Positive,"Religious outreach: Valmiki, Kartarpur",Kartarpur corridor,,2,,,Kartarpur corridor resolution
+182,Monitoring deck,Dainik Savera,2,No,Calling welfare schemes 'freebies' insults people: Dr Baljit Kaur,Yes,Positive,Welfare schemes,Welfare defence,Yes,2,,,
+183,Monitoring deck,Dainik Savera,3,No,Punjab hosts Asian hockey championship for first time; CM inaugurates,Yes,Positive,Hockey & sports,Sports,,2,,,Asian Champions Trophy hockey
+184,Monitoring deck,Dainik Savera,3,No,Violent clash over opposing drug sales in Shikar Machhian; police party attacked,Yes,Negative,Crime & law and order,Drug-related violence,,2,,,"Assembly scuffle, Congress walkout"
+185,Monitoring deck,Dainik Savera,3,No,"7 held incl army jawan; 14 pistols, 20 kg heroin seized",Yes,Positive,"Police action on gangs, arms & drugs",Police action vs drugs/arms,,2,,,"Army jawan among 7 held, 14 pistols"
+186,Monitoring deck,Dainik Savera,3,No,5 security staff each to be posted at sub-divisional hospitals,Yes,Positive,"Schools, health & employees",Health services,,2,,,
+187,Monitoring deck,Dainik Savera,5,No,"Gangsters par Vaar: raids at 510 places, 175 held",Yes,Positive,"Police action on gangs, arms & drugs",Police action vs gangs,,1,,,
+188,Monitoring deck,Dainik Savera,5,No,Khaira and Manuke trade charges in heated spat,Yes,Negative,Opposition attacks on the govt,Assembly uproar,,1,,,
+189,Monitoring deck,Dainik Savera,5,No,Govt notifies Patiala MC polls in 28 wards by Nov 18,Yes,Neutral,"Governance, Assembly & politics",Civic polls,,1,,,
+190,Monitoring deck,Dainik Savera,5,No,6 kg heroin dropped by drone recovered from fields,Yes,Positive,"Police action on gangs, arms & drugs",Police action vs drugs,,1,,,
+191,Monitoring deck,Dainik Savera,5,No,"HC strict on PSPCL dues, seeks Chief Secretary's reply",Yes,Negative,Court rebukes & govt finances,Power dues,,1,,,
+192,Monitoring deck,Dainik Savera,5,No,"Cross-border arms smuggling module busted in Amritsar, 3 held",Yes,Positive,"Police action on gangs, arms & drugs",Police action vs arms,,1,,,
+193,Monitoring deck,Dainik Savera,5,No,EC holds review meeting on Assembly poll preparations,Yes,Neutral,"Governance, Assembly & politics",Election Commission,,1,,,EC orders officer transfers
+194,Monitoring deck,Dainik Savera,5,No,"AAP woman sarpanch's son shot dead in Amritsar, friend injured",Yes,Negative,Crime & law and order,Murder,,1,,,AAP sarpanch's son shot in Amritsar
+195,Monitoring deck,The Tribune,1,Yes,Mansa erupts over 'drug death'; cops seize body,Yes,Negative,Crime & law and order,Custodial/drug death protest,,3,,,"Mansa drug death, police seize body"
+196,Monitoring deck,The Tribune,1,Yes,"HC slams Punjab over 'defiant attitude' on DA dues, summons Chief Secy",Yes,Negative,Court rebukes & govt finances,Employees DA case,,3,,,HC fines Chief Secretary over DA
+197,Monitoring deck,The Tribune,2,No,"Ahead of polls, House passes 5 resolutions on river water rights",Yes,Positive,"Punjab's rights: water, PU, Chandigarh",Assembly resolutions,,2,,,"River-water resolutions, Rajasthan royalty"
+198,Monitoring deck,The Tribune,2,No,Assembly unanimously seeks reopening of Kartarpur corridor,Yes,Positive,"Religious outreach: Valmiki, Kartarpur",Kartarpur corridor,,2,,,Kartarpur corridor resolution
+199,Monitoring deck,The Tribune,2,No,EC reviews poll preparedness; EVM checks from Nov 12,Yes,Neutral,"Governance, Assembly & politics",Election Commission,,2,,,EC orders officer transfers
+200,Monitoring deck,The Tribune,2,No,Back-stick error at hockey selfie point embarrasses organisers,Yes,Negative,Hockey & sports,Event lapse,,2,,,Asian Champions Trophy hockey
+201,Monitoring deck,The Tribune,2,No,"Glory on turf, joy at home for hockey stars",Yes,Positive,Hockey & sports,Sports,,2,,,Asian Champions Trophy hockey
+202,Monitoring deck,The Tribune,2,No,CM bats for Punjab as 2030 Hockey World Cup host,Yes,Positive,Hockey & sports,Sports,,2,,,Asian Champions Trophy hockey
+203,Monitoring deck,The Tribune,3,No,AAP leader's brother shot dead in Amritsar,Yes,Negative,Crime & law and order,Murder,,2,,,AAP sarpanch's son shot in Amritsar
+204,Monitoring deck,The Tribune,3,No,"Army man held in arms supply case; 14 pistols, 20 kg heroin seized",Yes,Positive,"Police action on gangs, arms & drugs",Police action vs drugs/arms,,2,,,"Army jawan among 7 held, 14 pistols"
+205,Monitoring deck,The Tribune,3,No,"Rajbir Ghuman quizzed by CBI for 4 hrs, faces 100 questions",Yes,Negative,CM's OSD questioned by CBI,CBI probe,,2,,,CM's OSD before the CBI
+206,Monitoring deck,The Tribune,3,No,"Angadpura firing victims cremated after admin assurances, job for widow",Yes,Neutral,Crime & law and order,Murder follow-up,,2,,,
+207,Monitoring deck,The Tribune,3,No,"Wife of accused in Jhota case sent to judicial custody; family wants CM, DGP to resign",Yes,Negative,Jhota murder protest,Jhota murder protest,,2,,,
+212,Monitoring deck,Times of India,1,Yes,AAP sarpanch's son shot dead outside gurdwara; Bittu questions law and order,Yes,Negative,Crime & law and order,Murder,,3,,,AAP sarpanch's son shot in Amritsar
+213,Monitoring deck,Times of India,1,Yes,HC fines Punjab chief secy Rs 1L over DA orders; restrains 'unproductive' expenses,Yes,Negative,Court rebukes & govt finances,Employees DA case,,3,,,HC fines Chief Secretary over DA
+214,Monitoring deck,Times of India,1,Yes,Hockey is in Punjab's blood: CM as Champions Trophy kicks off in Jalandhar,Yes,Positive,Hockey & sports,Sports,,3,,,Asian Champions Trophy hockey
+215,Monitoring deck,Times of India,1,Yes,Mansa on edge over 'drug death' vs murder claim,Yes,Negative,Crime & law and order,Custodial/drug death protest,,3,,,"Mansa drug death, police seize body"
+216,Monitoring deck,Times of India,2,No,"House signs off with Mann's 2027 pitch: 8 resolutions, water claims",Yes,Positive,"Punjab's rights: water, PU, Chandigarh",Assembly resolutions,,2,,,"River-water resolutions, Rajasthan royalty"
+217,Monitoring deck,Times of India,2,No,"Cong, AAP face off over 'entry ban' at Vidhan Sabha",Yes,Negative,Opposition attacks on the govt,Assembly uproar,,2,,,"Assembly scuffle, Congress walkout"
+218,Monitoring deck,Times of India,2,No,AAP MLA Manuke: minister gave incorrect reply on road,Yes,Negative,"Governance, Assembly & politics",Own MLAs' complaints,,2,,,
+219,Monitoring deck,Times of India,2,No,AAP MLA Jagroop Gill slams bridge project delay,Yes,Negative,"Governance, Assembly & politics",Own MLAs' complaints,,2,,,
+220,Monitoring deck,Times of India,2,No,SKM: water resolutions not as per assurances given to farmers,Yes,Negative,"Farmers, stubble & paddy",Farmers' demands,,2,,,"River-water resolutions, Rajasthan royalty"
+221,Monitoring deck,Times of India,2,No,Govt notifies re-poll in 28 Patiala MC wards,Yes,Neutral,"Governance, Assembly & politics",Civic polls,,2,,,
+222,Monitoring deck,Times of India,2,No,"After repeated attacks on doctors, Punjab moves to boost hospital security",Yes,Positive,"Schools, health & employees",Health services,,2,,,
+223,Monitoring deck,Times of India,3,No,Drama in Mansa as police seize body headed for Jhota protest site,Yes,Negative,Crime & law and order,Custodial/drug death protest,,2,,,"Mansa drug death, police seize body"
+224,Monitoring deck,Times of India,3,No,"Armyman among 7 held with 14 pistols, 20 kg heroin",Yes,Positive,"Police action on gangs, arms & drugs",Police action vs drugs/arms,,2,,,"Army jawan among 7 held, 14 pistols"
+225,Monitoring deck,Times of India,3,No,HC dismisses PIL seeking CBI probe into Jhota murder as probe already transferred,Yes,Neutral,Jhota murder protest,Court/police action,,2,,,EC orders officer transfers
+226,Monitoring deck,Times of India,3,No,Patients face hardship as chemists turn away prescriptions amid raids,Yes,Negative,Drugs & medicine access,Medicine access,,2,,,
+227,Monitoring deck,Times of India,3,No,Woman dies of gunshot wound in Amritsar; husband booked,Yes,Neutral,Crime & law and order,Crime (police case),,2,,,
+228,Monitoring deck,Times of India,4,No,"Most CBI queries were repeated, says Ghuman; alleges political pressure",Yes,Negative,CM's OSD questioned by CBI,CBI probe,,1,,,CM's OSD before the CBI
+229,Monitoring deck,Times of India,6,No,HC seeks Punjab chief secy's affidavit on PSPCL dues,Yes,Negative,Court rebukes & govt finances,Power dues,,1,,,
+230,Monitoring deck,Times of India,1,Yes,No canal water supply plan for Dera Bassi for now: Punjab,Yes,Negative,Civic services & infrastructure,Irrigation,,3,,,"River-water resolutions, Rajasthan royalty"
+231,Monitoring deck,Times of India,1,Yes,10 immigration firms in Mohali lose licences,Yes,Positive,"Governance, Assembly & politics",Regulatory action,,3,,,
+233,Monitoring deck,The Savera Times,1,Yes,Punjab Assembly urges Centre to reopen Kartarpur corridor,Yes,Positive,"Religious outreach: Valmiki, Kartarpur",Kartarpur corridor,,3,,,Kartarpur corridor resolution
+234,Monitoring deck,The Savera Times,2,No,CM Mann: Punjab will demand Rs 1.44 lakh cr water royalty from Rajasthan,Yes,Positive,"Punjab's rights: water, PU, Chandigarh",River waters,Yes,2,,,"River-water resolutions, Rajasthan royalty"
+235,Monitoring deck,The Savera Times,2,No,"Pathankot police raid gambling den, 11 held",Yes,Positive,"Police action on gangs, arms & drugs",Police action vs crime,,2,,,
+236,Monitoring deck,The Savera Times,2,No,Governor Kataria receives book on RTI and good governance,No,Not about AAP/Govt,,Others,,2,,,
+237,Monitoring deck,The Savera Times,2,No,Vigilance Bureau holds anti-corruption seminar in Barnala,Yes,Positive,"Governance, Assembly & politics",Anti-corruption,,2,,,
+238,Monitoring deck,The Savera Times,3,No,"Seven arrested with 20 kg heroin, 14 pistols",Yes,Positive,"Police action on gangs, arms & drugs",Police action vs drugs/arms,,2,,,"Army jawan among 7 held, 14 pistols"
+239,Monitoring deck,The Savera Times,3,No,Calling welfare schemes 'freebies' insults common people: Dr Baljit Kaur,Yes,Positive,Welfare schemes,Welfare defence,Yes,2,,,
+240,Monitoring deck,The Savera Times,3,No,ECI meeting assesses Punjab poll preparedness,Yes,Neutral,"Governance, Assembly & politics",Election Commission,,2,,,
+241,Monitoring deck,The Savera Times,3,No,Gangstran Te Vaar: 175 arrested in 510 raids,Yes,Positive,"Police action on gangs, arms & drugs",Police action vs gangs,,2,,,
+242,Monitoring deck,The Savera Times,3,No,DSP directs chemists to strictly follow medicine sale rules,Yes,Positive,Drugs & medicine access,Drug regulation,,2,,,
+243,Monitoring deck,The Savera Times,6,No,Why stubble burning refuses to relent,Yes,Negative,"Farmers, stubble & paddy",Stubble burning,,1,,,
+244,Monitoring deck,The Savera Times,11,No,India would aim to emerge victorious: CM Mann at Asian Champions Trophy,Yes,Positive,Hockey & sports,Sports,,1,,,Asian Champions Trophy hockey
+246,Monitoring deck,Ajit,2,No,"Bajwa: AAP has turned Assembly into a rubber stamp, not a law-making body",Yes,Negative,Opposition attacks on the govt,Opposition attack: Congress,,2,,,"Mansa drug death, police seize body"
+247,Monitoring deck,Ajit,2,No,"Congress MLAs protest outside Assembly with brooms over law and order, drugs",Yes,Negative,Opposition attacks on the govt,Opposition attack: Congress,,2,,,
+248,Monitoring deck,Ajit,2,No,Rana Gurjit ends talk of joining SAD (B),No,Not about AAP/Govt,,Others,,2,,,
+249,Monitoring deck,Jagbani,5,No,MLAs scuffle in Assembly; Congress boycotts session,No,Duplicate,,Duplicate,,1,,,
+250,Monitoring deck,Jagbani,5,No,Snatching Daljit's body from family shameful: Warring,Yes,Negative,Opposition attacks on the govt,Opposition attack: Congress,,1,,,"Mansa drug death, police seize body"
+251,Monitoring deck,Jagbani,6,No,Keeping Punjab safe is everyone's duty: Randhawa urges AAP MLAs to speak up,Yes,Negative,Opposition attacks on the govt,Opposition attack: Congress,,1,,,
+252,Monitoring deck,Jagbani,6,No,"I am a Congress soldier, will die in Congress: Rana Gurjit",No,Not about AAP/Govt,,Others,,1,,,
+253,Monitoring deck,Punjabi Jagran,3,No,Punjab has become a 'police state': Pargat Singh,Yes,Negative,Opposition attacks on the govt,Opposition attack: Congress,,2,,,
+254,Monitoring deck,Punjabi Tribune,2,No,"Congress MLAs burn brooms outside Assembly, blame AAP for drugs and law and order",Yes,Negative,Opposition attacks on the govt,Opposition attack: Congress,,2,,,
+255,Monitoring deck,Punjabi Tribune,7,No,Congress discusses current situation in state,No,Not about AAP/Govt,,Others,,1,,,
+256,Monitoring deck,Rozana Spokesman,3,No,Suppressing opposition voice in Assembly a worry for democracy: Pargat Singh,Yes,Negative,Opposition attacks on the govt,Opposition attack: Congress,,2,,,
+257,Monitoring deck,Punjab Kesari,3,No,MLAs scuffle in Assembly; Congress boycotts session,No,Duplicate,,Duplicate,,2,,,
+258,Monitoring deck,Punjab Kesari,3,No,Snatching Daljit's body from family shameful: Warring,Yes,Negative,Opposition attacks on the govt,Opposition attack: Congress,,2,,,"Mansa drug death, police seize body"
+259,Monitoring deck,Punjab Kesari,3,No,"I am a Congress soldier, will die in Congress: Rana Gurjit",No,Not about AAP/Govt,,Others,,2,,,
+260,Monitoring deck,Dainik Jagran,2,No,"Khaira's suspension wrong, Congress tears copies outside House",Yes,Negative,Opposition attacks on the govt,Opposition attack: Congress,,2,,,
+261,Monitoring deck,Dainik Jagran,2,No,"Warring corners govt, raises law and order questions after Moga murders",Yes,Negative,Opposition attacks on the govt,Opposition attack: Congress,,2,,,
+262,Monitoring deck,Dainik Bhaskar,J3,No,Congress walkout alleging gate block (repeat),No,Duplicate,,Duplicate,,2,,,
+263,Monitoring deck,Dainik Savera,2,No,Pargat Singh fumes over Khaira suspension and entry block,Yes,Negative,Opposition attacks on the govt,Opposition attack: Congress,,2,,,
+264,Monitoring deck,Dainik Savera,2,No,Only passing resolutions brings no real change: Bajwa,Yes,Negative,Opposition attacks on the govt,Opposition attack: Congress,,2,,,"River-water resolutions, Rajasthan royalty"
+265,Monitoring deck,Dainik Savera,2,No,Congress boycotts House over Khaira's suspension,Yes,Negative,Opposition attacks on the govt,Opposition attack: Congress,,2,,,"Assembly scuffle, Congress walkout"
+266,Monitoring deck,Dainik Savera,5,No,Congress to appoint 'vote rakshaks' at every booth over SIR,No,Not about AAP/Govt,,Others,,1,,,
+267,Monitoring deck,Dainik Savera,5,No,Khaira and Manuke spat (repeat),No,Duplicate,,Duplicate,,1,,,
+268,Monitoring deck,Dainik Savera,5,No,Former youth Congress chief slaps Congress worker,No,Not about AAP/Govt,,Others,,1,,,
+269,Monitoring deck,The Tribune,2,No,Disruptive politics: Congress disrupts AAP MLA's press conference (photos),Yes,Neutral,"Governance, Assembly & politics",Assembly,,2,,,
+270,Monitoring deck,The Tribune,2,No,"Congress, AAP MLAs clash over space to address media",No,Duplicate,,Duplicate,,2,,,
+271,Monitoring deck,The Tribune,2,No,Cong eyes 'ghar wapsi' of leaders ahead of Rahul's Sangrur rally,No,Not about AAP/Govt,,Others,,2,,,
+273,Monitoring deck,Times of India,2,No,"Cong, AAP face off over 'entry ban' (repeat)",No,Duplicate,,Duplicate,,2,,,
+274,Monitoring deck,Times of India,2,No,Resolutions sans legislation have no real impact: Bajwa,Yes,Negative,Opposition attacks on the govt,Opposition attack: Congress,,2,,,"River-water resolutions, Rajasthan royalty"
+276,Monitoring deck,The Savera Times,2,No,CM Mann on water royalty (repeat),No,Duplicate,,Duplicate,,2,,,
+277,Monitoring deck,The Savera Times,3,No,Pargat Singh slams restrictions on Cong MLAs' entry to Assembly,Yes,Negative,Opposition attacks on the govt,Opposition attack: Congress,,2,,,
+279,Monitoring deck,Jagbani,5,No,Punjab will never forgive those who disrespected turbans: Sukhbir on Mansa,Yes,Negative,Opposition attacks on the govt,Opposition attack: SAD,,1,,,"Mansa drug death, police seize body"
+280,Monitoring deck,Jagbani,5,No,"Majithia seeks CBI, ED probe into AAP MLA's alleged Rs 2,000 cr assets",Yes,Negative,Opposition attacks on the govt,Opposition attack: SAD,,1,,,
+281,Monitoring deck,Jagbani,6,No,Harsimrat corners govt on drugs in Ghanaur,Yes,Negative,Opposition attacks on the govt,Opposition attack: SAD,,1,,,
+282,Monitoring deck,Jagbani,6,No,Law and order is dead in Punjab: Majithia,Yes,Negative,Opposition attacks on the govt,Opposition attack: SAD,,1,,,
+283,Monitoring deck,Punjabi Tribune,6,No,Mothers and daughters should unite against drug smugglers: Harsimrat,Yes,Negative,Opposition attacks on the govt,Opposition attack: SAD,,1,,,
+284,Monitoring deck,Punjab Kesari,3,No,Sukhbir: Punjab won't forgive turban disrespect; taking Daljit's body shameful,Yes,Negative,Opposition attacks on the govt,Opposition attack: SAD,,2,,,"Mansa drug death, police seize body"
+285,Monitoring deck,Punjab Kesari,3,No,Law and order is dead in Punjab: Majithia,Yes,Negative,Opposition attacks on the govt,Opposition attack: SAD,,2,,,
+286,Monitoring deck,Punjab Kesari,3,No,We must save Punjab from drugs ourselves: Harsimrat,Yes,Negative,Opposition attacks on the govt,Opposition attack: SAD,,2,,,
+287,Monitoring deck,Dainik Savera,2,No,Women DGP-led task force against drug mafia if SAD wins: Harsimrat,Yes,Negative,Opposition attacks on the govt,Opposition attack: SAD,,2,,,
+288,Monitoring deck,The Tribune,2,No,Law and order in tatters: SAD,Yes,Negative,Opposition attacks on the govt,Opposition attack: SAD,,2,,,
+291,Monitoring deck,The Savera Times,2,No,Harsimrat Badal unhappy with rising incidents of violence,Yes,Negative,Opposition attacks on the govt,Opposition attack: SAD,,2,,,
+293,Monitoring deck,Ajit,9,No,Jakhar writes to Amit Shah seeking NIA probe into drugs-gangster nexus in Punjab,Yes,Negative,Opposition attacks on the govt,Opposition attack: BJP,,1,,,Jakhar seeks NIA probe
+294,Monitoring deck,Ajit,9,No,Punjab govt has failed on every front: Dhillon,Yes,Negative,Opposition attacks on the govt,Opposition attack: BJP,,1,,,
+295,Monitoring deck,Ajit,9,No,Bittu protests outside Assembly with liquor bottle,Yes,Negative,Opposition attacks on the govt,Opposition attack: BJP,,1,,,Bittu and the liquor bottle
+296,Monitoring deck,Jagbani,5,No,Law and order has collapsed in Punjab: Chugh,Yes,Negative,Opposition attacks on the govt,Opposition attack: BJP,,1,,,
+297,Monitoring deck,Jagbani,5,No,Govt cheating employees on DA: Ashwani Sharma,Yes,Negative,Opposition attacks on the govt,Opposition attack: BJP,,1,,,HC fines Chief Secretary over DA
+298,Monitoring deck,Jagbani,5,No,"Jakhar seeks NIA probe into drugs, gangsters, arms (repeat)",No,Duplicate,,Duplicate,,1,,,
+299,Monitoring deck,Jagbani,6,No,"Law and order shaken, govt should resign: Dhillon",Yes,Negative,Opposition attacks on the govt,Opposition attack: BJP,,1,,,
+300,Monitoring deck,Jagbani,6,No,Bittu questions govt functioning outside Assembly,Yes,Negative,Opposition attacks on the govt,Opposition attack: BJP,,1,,,Bittu and the liquor bottle
+301,Monitoring deck,Jagbani,6,No,Kharge's remarks on PM shameful: Shwet Malik,No,Not about AAP/Govt,,Others,,1,,,
+302,Monitoring deck,Jagbani,6,No,46 leaders incl 31 sarpanches join BJP in Gurdaspur,Yes,Negative,Opposition attacks on the govt,Defections from AAP,,1,,,AAP sarpanch's son shot in Amritsar
+303,Monitoring deck,Punjabi Tribune,2,No,Jakhar seeks NIA probe into drug cases,No,Duplicate,,Duplicate,,2,,,
+304,Monitoring deck,Punjabi Tribune,2,No,Bittu arrives with liquor bottle (repeat),No,Duplicate,,Duplicate,,2,,,
+305,Monitoring deck,Punjabi Tribune,2,No,AAP govt should take responsibility for crimes: Dhillon,Yes,Negative,Opposition attacks on the govt,Opposition attack: BJP,,2,,,
+306,Monitoring deck,Punjabi Tribune,2,No,Officials in illegal mining won't be spared: Lalpura,Yes,Negative,Opposition attacks on the govt,Opposition attack: BJP,,2,,,
+307,Monitoring deck,Punjabi Tribune,2,No,BJP discusses poll preparations,No,Not about AAP/Govt,,Others,,2,,,
+308,Monitoring deck,Punjabi Jagran,2,No,Jakhar writes to Amit Shah,No,Duplicate,,Duplicate,,2,,,
+309,Monitoring deck,Punjab Kesari,3,No,Law and order bankrupt in Punjab: Chugh,Yes,Negative,Opposition attacks on the govt,Opposition attack: BJP,,2,,,
+310,Monitoring deck,Punjab Kesari,3,No,Govt cheating employees on DA: Ashwani Sharma,Yes,Negative,Opposition attacks on the govt,Opposition attack: BJP,,2,,,HC fines Chief Secretary over DA
+311,Monitoring deck,Punjab Kesari,3,No,"Shah should order NIA probe into drugs, gangsters: Jakhar",Yes,Negative,Opposition attacks on the govt,Opposition attack: BJP,,2,,,Jakhar seeks NIA probe
+312,Monitoring deck,Punjab Kesari,3,No,46 leaders incl 31 sarpanches join BJP in Gurdaspur,Yes,Negative,Opposition attacks on the govt,Defections from AAP,,2,,,AAP sarpanch's son shot in Amritsar
+313,Monitoring deck,Punjab Kesari,3,No,Bittu questions govt functioning outside Assembly,Yes,Negative,Opposition attacks on the govt,Opposition attack: BJP,,2,,,Bittu and the liquor bottle
+314,Monitoring deck,Punjab Kesari,5,No,"Law and order has collapsed, govt should resign: Dhillon",Yes,Negative,Opposition attacks on the govt,Opposition attack: BJP,,1,,,
+315,Monitoring deck,Punjab Kesari,5,No,Kangana Ranaut appears via video in defamation case,No,Not about AAP/Govt,,Others,,1,,,
+316,Monitoring deck,Punjab Kesari,5,No,Kharge's remarks on PM shameful: Shwet Malik,No,Not about AAP/Govt,,Others,,1,,,
+317,Monitoring deck,Dainik Bhaskar,2,No,Punjab govt enforced anti-drug Act under BJP pressure: Dhillon,Yes,Negative,Opposition attacks on the govt,Opposition attack: BJP,,2,,,
+318,Monitoring deck,Dainik Bhaskar,2,No,NIA probe sought into drug and arms smuggling: Jakhar,Yes,Negative,Opposition attacks on the govt,Opposition attack: BJP,,2,,,Jakhar seeks NIA probe
+319,Monitoring deck,Dainik Savera,2,No,Bittu and AAP MLA Gyaspura in heated exchange,Yes,Negative,Opposition attacks on the govt,Opposition attack: BJP,,2,,,Bittu and the liquor bottle
+320,Monitoring deck,Dainik Savera,2,No,Political drama instead of Punjab's issues in session: Dhillon,Yes,Negative,Opposition attacks on the govt,Opposition attack: BJP,,2,,,
+321,Monitoring deck,Dainik Savera,2,No,46 leaders incl 31 sarpanches join BJP in Gurdaspur,Yes,Negative,Opposition attacks on the govt,Defections from AAP,,2,,,AAP sarpanch's son shot in Amritsar
+322,Monitoring deck,Dainik Savera,2,No,Jakhar writes to Shah seeking NIA probe,Yes,Negative,Opposition attacks on the govt,Opposition attack: BJP,,2,,,Jakhar seeks NIA probe
+323,Monitoring deck,Dainik Savera,4,No,"'Shiksha Kranti' claims hollow, 1,153 principal posts vacant: Shwet Malik",Yes,Negative,Opposition attacks on the govt,Opposition attack: BJP,,1,,,
+324,Monitoring deck,Dainik Savera,5,No,HC fine proof AAP is anti-employee: Ashwani Sharma,Yes,Negative,Opposition attacks on the govt,Opposition attack: BJP,,1,,,
+325,Monitoring deck,Dainik Savera,5,No,Kewal Dhillon corners Mann govt on deteriorating law and order,Yes,Negative,Opposition attacks on the govt,Opposition attack: BJP,,1,,,
+326,Monitoring deck,The Tribune,2,No,Bittu takes liquor jibe at CM Mann,Yes,Negative,Opposition attacks on the govt,Opposition attack: BJP,,2,,,Bittu and the liquor bottle
+327,Monitoring deck,The Tribune,2,No,"Modi meets ex-NCM chief Tarlochan, family",No,Not about AAP/Govt,,Others,,2,,,
+328,Monitoring deck,The Tribune,2,No,31 sarpanches among 46 leaders join BJP,Yes,Negative,Opposition attacks on the govt,Defections from AAP,,2,,,AAP sarpanch's son shot in Amritsar
+330,Monitoring deck,Times of India,2,No,"Dhillon slams AAP, Cong for ruckus",Yes,Negative,Opposition attacks on the govt,Opposition attack: BJP,,2,,,
+332,Monitoring deck,The Savera Times,2,No,Bittu turns Punjab's governance debate into a satirical cocktail,Yes,Negative,Opposition attacks on the govt,Opposition attack: BJP,,2,,,Bittu and the liquor bottle
+333,Monitoring deck,The Savera Times,2,No,Kewal Dhillon expresses grave concern over law and order,Yes,Negative,Opposition attacks on the govt,Opposition attack: BJP,,2,,,
+334,Monitoring deck,The Savera Times,2,No,Ashwani Sharma flays AAP govt over Rs 1 lakh HC fine,Yes,Negative,Opposition attacks on the govt,Opposition attack: BJP,,2,,,
+335,Monitoring deck,The Savera Times,3,No,"BJP gets boost in Gurdaspur, 46 join party",Yes,Negative,Opposition attacks on the govt,Defections from AAP,,2,,,46 leaders join BJP in Gurdaspur
+336,Monitoring deck,The Savera Times,3,No,Jakhar seeks NIA probe into Punjab drug-arms networks,Yes,Negative,Opposition attacks on the govt,Opposition attack: BJP,,2,,,Jakhar seeks NIA probe
+337,Monitoring deck,The Savera Times,4,No,Kewal Dhillon deplores ruckus in Punjab Assembly,Yes,Negative,Opposition attacks on the govt,Opposition attack: BJP,,1,,,
+338,Monitoring deck,The Savera Times,4,No,"Shwait Malik flays 'Sikhya Kranti', says 1,153 principal posts vacant",Yes,Negative,Opposition attacks on the govt,Opposition attack: BJP,,1,,,
+340,Monitoring deck,Ajit,E2,No,Sarpanch demands immediate compensation for hailstorm damage in Lohian,Yes,Negative,"Farmers, stubble & paddy",Crop damage compensation,,1,,,AAP sarpanch's son shot in Amritsar
+341,Monitoring deck,Ajit,E2,No,Questions over anti-drug drive's performance: BKU leader Tarsem Dhillon,Yes,Negative,Drugs & medicine access,Anti-drug drive criticism,,1,,,
+2001,Full edition,Hindustan Times,1,Yes,Punjab House clears 5 resolutions to safeguard state's water rights,Yes,Positive,"Punjab's rights: water, PU, Chandigarh",Assembly resolutions,,3,,,"River-water resolutions, Rajasthan royalty"
+2002,Full edition,Hindustan Times,1,Yes,AAP leader's brother shot dead in Amritsar,Yes,Negative,Crime & law and order,Murder,,3,,,AAP sarpanch's son shot in Amritsar
+2003,Full edition,Hindustan Times,1,Yes,"Ahead of polls, EC orders transfer of officers in Punjab, four other states",Yes,Neutral,"Governance, Assembly & politics",Election Commission,,3,,,EC orders officer transfers
+2004,Full edition,Hindustan Times,2,No,"Rs 3,721 crore released under women cash scheme: Minister",Yes,Positive,Welfare schemes,Women cash scheme,,2,,,
+2005,Full edition,Hindustan Times,2,No,"Cong, AAP members trade barbs, jostle outside Punjab assembly",Yes,Negative,Opposition attacks on the govt,Assembly uproar,,2,,,
+2006,Full edition,Hindustan Times,2,No,Resolution on public welfare schemes of AAP govt passed,Yes,Positive,Welfare schemes,Welfare continuity,,2,,,"River-water resolutions, Rajasthan royalty"
+2007,Full edition,Hindustan Times,2,No,House passes resolution on Kartarpur Corridor reopening,Yes,Positive,"Religious outreach: Valmiki, Kartarpur",Kartarpur corridor,,2,,,Kartarpur corridor resolution
+2008,Full edition,Hindustan Times,2,No,Ayali: AAP govt deliberately delaying Amritpal party's registration,Yes,Negative,Opposition attacks on the govt,Opposition attack: Other,,2,,,
+2009,Full edition,Hindustan Times,2,No,"5 smuggling rings busted, armyman among 10 held",Yes,Positive,"Police action on gangs, arms & drugs",Police action vs drugs/arms,,2,,,
+2010,Full edition,Hindustan Times,2,No,"20-year-old youth dies after abduction, assault; 8 booked",Yes,Negative,Crime & law and order,Murder,,2,,,
+2011,Full edition,Hindustan Times,2,No,"100 govt schools operating from gurdwaras, temples: Bains",Yes,Negative,"Schools, health & employees",School infrastructure,,2,,,
+2012,Full edition,Hindustan Times,4,No,"Moga double murder: shooters on the run, six suspects detained",Yes,Negative,Crime & law and order,Murder,,1,,,
+2013,Full edition,Hindustan Times,4,No,"13k paddy farmers' produce yet to reach mandis, verification ordered",Yes,Neutral,"Farmers, stubble & paddy",Paddy procurement,,1,,,
+2014,Full edition,Hindustan Times,5,No,"HC summons Punjab chief secy in DA case, fines Rs 1 lakh",Yes,Negative,Court rebukes & govt finances,Employees DA case,,1,,,HC fines Chief Secretary over DA
+2015,Full edition,Hindustan Times,5,No,HC wants chief secretary's affidavit on PSPCL finances,Yes,Negative,Court rebukes & govt finances,Power dues,,1,,,
+2016,Full edition,Hindustan Times,6,No,Mansa tense as cops foil bid to take man's body to anti-drug protest site,Yes,Negative,Crime & law and order,Custodial/drug death protest,,1,,,"Mansa drug death, police seize body"
+2017,Full edition,Hindustan Times,7,No,"Jakhar writes to Shah, seeks NIA probe into gangster-drug nexus",Yes,Negative,Opposition attacks on the govt,Opposition attack: BJP,,1,,,Jakhar seeks NIA probe
+2018,Full edition,Hindustan Times,7,No,Govt clears 205 security guards across 41 sub-divisional hospitals,Yes,Positive,"Schools, health & employees",Health services,,1,,,
+2019,Full edition,Hindustan Times,7,No,Two cops among four hurt in attack by 'drug peddlers' in Gurdaspur,Yes,Negative,Crime & law and order,Attack on police,,1,,,
+2020,Full edition,Indian Express,1,Yes,"Tension in Mansa as cops 'seize', walk away with body being taken to Jhota protest site",Yes,Negative,Crime & law and order,Custodial/drug death protest,,3,,,"Mansa drug death, police seize body"
+2021,Full edition,Indian Express,3,No,Sarpanch's son gunned down outside gurdwara; Opp: 'dark reality of Punjab',Yes,Negative,Crime & law and order,Murder,,2,,,AAP sarpanch's son shot in Amritsar
+2022,Full edition,Indian Express,3,No,"Two commandos, one resident injured as police team attacked in Gurdaspur village",Yes,Negative,Crime & law and order,Attack on police,,2,,,
+2023,Full edition,Indian Express,3,No,"Masked man fires at Jagraon gurdwara, leaves threat letter",Yes,Negative,Crime & law and order,Firing/threats,,2,,,
+2024,Full edition,Indian Express,3,No,"'Gangsters, drug mafia acting at will as Mann abrogated his authority': Harsimrat",Yes,Negative,Opposition attacks on the govt,Opposition attack: SAD,,2,,,
+2025,Full edition,Indian Express,3,No,"EC orders transfer of officers in Punjab, 4 other poll-bound states",Yes,Neutral,"Governance, Assembly & politics",Election Commission,,2,,,EC orders officer transfers
+2026,Full edition,Indian Express,3,No,"Jakhar writes to Shah, seeks NIA probe into drug menace",Yes,Negative,Opposition attacks on the govt,Opposition attack: BJP,,2,,,Jakhar seeks NIA probe
+2027,Full edition,Indian Express,3,No,31 sarpanchs join BJP in Gurdaspur,Yes,Negative,Opposition attacks on the govt,Defections from AAP,,2,,,AAP sarpanch's son shot in Amritsar
+2028,Full edition,Indian Express,3,No,"ECI, BEL delegations conduct EVM first-level checking workshops in Punjab",Yes,Neutral,"Governance, Assembly & politics",Election Commission,,2,,,
+2029,Full edition,Indian Express,4,No,"Punjab House asserts rights over river waters, seeks royalty from Rajasthan",Yes,Positive,"Punjab's rights: water, PU, Chandigarh",Assembly resolutions,,1,,,"River-water resolutions, Rajasthan royalty"
+2030,Full edition,Indian Express,4,No,"100 Punjab schools operating from inns, temples and gurdwaras: Bains",Yes,Negative,"Schools, health & employees",School infrastructure,,1,,,
+2031,Full edition,Indian Express,4,No,Punjab denies releasing water to Pak: 'excess floodwater flows from J&K streams',Yes,Neutral,"Punjab's rights: water, PU, Chandigarh",River waters,,1,,,"River-water resolutions, Rajasthan royalty"
+2032,Full edition,Indian Express,4,No,Bittu protests outside House with imported liquor bottle,Yes,Negative,Opposition attacks on the govt,Opposition attack: BJP,,1,,,Bittu and the liquor bottle
+2033,Full edition,Indian Express,4,No,Akali Dal WPD slams govt for not replying to ECI over registration,Yes,Negative,Opposition attacks on the govt,Opposition attack: Other,,1,,,
+2034,Full edition,Indian Express,4,No,"Mawan Dheeyan Satkar Yojana: Ludhiana, Amritsar, Patiala make 26% of beneficiaries",Yes,Positive,Welfare schemes,Women cash scheme,,1,,,
+2035,Full edition,Indian Express,6,No,House resolves to continue welfare schemes launched by Mann govt,Yes,Positive,Welfare schemes,Welfare continuity,,1,,,
+2036,Full edition,Indian Express,6,No,"Cong members face off with House staff, AAP MLAs; say denied entry",Yes,Negative,Opposition attacks on the govt,Assembly uproar,,1,,,"Assembly scuffle, Congress walkout"
+2037,Full edition,Indian Express,6,No,Resolution urges Centre to reopen Kartarpur Corridor,Yes,Positive,"Religious outreach: Valmiki, Kartarpur",Kartarpur corridor,,1,,,Kartarpur corridor resolution
+2038,Full edition,Indian Express,6,No,"DA arrears: HC imposes Rs 1 lakh cost, asks chief secy to file affidavit",Yes,Negative,Court rebukes & govt finances,Employees DA case,,1,,,HC fines Chief Secretary over DA
+2039,Full edition,Times of India,14,No,"Big thing for Jalandhar, say hockey fans",Yes,Positive,Hockey & sports,Sports,,1,,,Asian Champions Trophy hockey
+2040,Full edition,The Savera Times,14,No,Tarn Taran warns farmers of FIRs for stubble burning,Yes,Neutral,"Farmers, stubble & paddy",Stubble burning,,1,,,
+2041,Full edition,The Savera Times,14,No,Bhagwant Mann gets emotional during devotional singing at Valmiki shrine,Yes,Positive,"Religious outreach: Valmiki, Kartarpur",Religious outreach,,1,,,
+2042,Full edition,The Savera Times,14,No,Police staff educate students on drug abuse prevention,Yes,Positive,"Police action on gangs, arms & drugs",Anti-drug awareness,,1,,,
+2043,Full edition,The Savera Times,15,No,"SDM reviews stubble management, distributes Rs 32 lakh farm tools",Yes,Positive,"Farmers, stubble & paddy",Stubble management,,1,,,
+2044,Full edition,The Savera Times,15,No,"Moga procures 2.24 lakh tonnes of paddy, payments made",Yes,Positive,"Farmers, stubble & paddy",Paddy procurement,,1,,,
+2045,Full edition,The Savera Times,15,No,Bathinda MC lacks vending records amid traffic complaints,Yes,Negative,Civic services & infrastructure,Civic issues,,1,,,
+2046,Full edition,The Savera Times,18,No,Jalandhar police inspect medical stores under anti-drug campaign,Yes,Positive,"Police action on gangs, arms & drugs",Police action vs drugs,,1,,,
+2047,Full edition,The Savera Times,18,No,Jalandhar rural police review night security arrangements,Yes,Neutral,"Police action on gangs, arms & drugs",Policing,,1,,,
+2048,Full edition,The Savera Times,21,No,Malerkotla police bust inter-district gang targeting women,Yes,Positive,"Police action on gangs, arms & drugs",Police action vs gangs,,1,,,
+2049,Full edition,The Savera Times,22,No,Punjab ration depot holders announce statewide strike from Nov 1,Yes,Negative,"Schools, health & employees",Employee protests,,1,,,
+2050,Full edition,The Savera Times,22,No,144 Ranike residents receive property cards under Punjab scheme,Yes,Positive,Welfare schemes,Property cards,,1,,,
+2051,Full edition,The Savera Times,22,No,Two commandos injured as villagers attack police over drugs,Yes,Negative,Crime & law and order,Attack on police,,1,,,
+2052,Full edition,The Savera Times,25,No,Ludhiana rural police freeze drug smuggler's property under NDPS Act,Yes,Positive,"Police action on gangs, arms & drugs",Police action vs drugs,,1,,,
+2053,Full edition,The Savera Times,25,No,Heroin racket busted in Khanna; 8 arrested,Yes,Positive,"Police action on gangs, arms & drugs",Police action vs drugs,,1,,,
+2054,Full edition,The Savera Times,29,No,Patiala civic body removes illegal shanties from Bannu Road,Yes,Neutral,Civic services & infrastructure,Civic enforcement,,1,,,"Mansa drug death, police seize body"
+2055,Full edition,The Savera Times,29,No,Drug control department inspects medical stores in Patiala,Yes,Positive,Drugs & medicine access,Drug regulation,,1,,,
+3001,Full edition,Ajit,6,No,"Paddy harvest 75% done in district; 6,52,925 MT procured, DC urges dry paddy",Yes,Positive,"Farmers, stubble & paddy",Paddy procurement,,1,,,
+3002,Full edition,Ajit,5,No,GOVT AD: Punjab State Dear Diwali Bumper 2026 lottery,No,Govt ad,,Government advertising,,1,,,
+3003,Full edition,Ajit,7,No,MC recovers Rs 4.66 lakh from defaulters,Yes,Positive,Civic services & infrastructure,Civic revenue,,1,,,
+3004,Full edition,Ajit,8,No,"Relief for Phillaur: overloaded sand tippers stopped after report, RTO checks",Yes,Positive,Civic services & infrastructure,Enforcement,,1,,,
+3005,Full edition,Ajit,8,No,"Power wire snaps, sugarcane worth lakhs burnt; no official reached spot",Yes,Negative,Civic services & infrastructure,Power supply,,1,,,
+3006,Full edition,Ajit,J6,No,Adampur council meeting passes Rs 5 crore development resolutions,Yes,Positive,Civic services & infrastructure,Development works,,1,,,"River-water resolutions, Rajasthan royalty"
+3007,Full edition,Ajit,J6,No,Migrant workers attack Punjabi family in Goraya's Krishna Colony,Yes,Negative,Crime & law and order,Assault,,1,,,
+3008,Full edition,Jagbani,1,Yes,"GOVT AD: 'Bring dry paddy to mandi', every grain will be bought (CM Mann, Food & Civil Supplies)",No,Govt ad,,Government advertising,,3,,,
+3009,Full edition,Punjab Kesari,5,No,205 security guards to be posted in 41 Punjab hospitals,Yes,Positive,"Schools, health & employees",Health services,,1,,,
+3010,Full edition,Rozana Spokesman,4,No,"Editorial: Why the neglect in protecting forest land? (3,983 hectares encroached)",Yes,Negative,"Governance, Assembly & politics",Editorial: forest encroachment,,1,,,
+3011,Full edition,Punjabi Jagran,3,No,Police team that went to stop a quarrel attacked,Yes,Negative,Crime & law and order,Attack on police,,2,,,
+3012,Full edition,Punjabi Jagran,3,No,Income Tax raids on de-addiction centres,Yes,Negative,Drugs & medicine access,De-addiction centres,,2,,,
+3013,Full edition,Punjabi Jagran,3,No,"Excise team attacked, narrowly escapes",Yes,Negative,Crime & law and order,Attack on officials,,2,,,
+3014,Full edition,Punjabi Jagran,3,No,Extortionist injured in police encounter,Yes,Positive,"Police action on gangs, arms & drugs",Police action vs gangs,,2,,,
+3015,Full edition,Punjabi Jagran,3,No,Vigilance awareness week being observed,Yes,Positive,"Governance, Assembly & politics",Anti-corruption,,2,,,
+3016,Full edition,Dainik Jagran,3,No,"Police attacked, two commandos among three injured",Yes,Negative,Crime & law and order,Attack on police,,2,,,
+3017,Full edition,Dainik Jagran,3,No,Editorial: Criminals' audacity in Punjab,Yes,Negative,Crime & law and order,Editorial: law and order,,2,,,
+3018,Full edition,Dainik Jagran,2,No,Govt owes power corporation thousands of crores (HC),No,Duplicate,,Duplicate,,2,,,
+3019,Full edition,Dainik Bhaskar,J4,No,CM: special arrangements for pilgrims to Kartarpur Sahib,Yes,Positive,"Religious outreach: Valmiki, Kartarpur",Kartarpur corridor,,1,,,Kartarpur corridor resolution
+3020,Full edition,Dainik Bhaskar,J4,No,"Ferozepur: 17-year-old girl abducted and raped, family alleges police inaction",Yes,Negative,Crime & law and order,Crime against women,,1,,,
+3021,Full edition,Dainik Bhaskar,J4,No,"Dunki route: ED raids 8 places, Rs 30 crore transactions exposed",Yes,Neutral,Crime & law and order,Crime (ED case),,1,,,
+3022,Full edition,Dainik Bhaskar,J4,No,AAP MLA questions SC status case of Gangster-linked Rai Sikh leader,Yes,Neutral,"Governance, Assembly & politics",Assembly,,1,,,
+3023,Full edition,Dainik Bhaskar,J2,No,Govt enforced anti-drug Act under BJP pressure: Dhillon (repeat),No,Duplicate,,Duplicate,,1,,,
+3024,Full edition,Punjabi Tribune,2,No,"AAP MLAs' trust broken, govt should stop: AAP MLA cornering own govt",Yes,Negative,"Governance, Assembly & politics",Own MLAs' complaints,,2,,,
+3025,Full edition,Punjabi Tribune,2,No,Police attacked while settling village quarrel,Yes,Negative,Crime & law and order,Attack on police,,2,,,
+3026,Full edition,Punjabi Tribune,2,No,SKM accuses govt of ignoring farmers' demands,Yes,Negative,"Farmers, stubble & paddy",Farmers' demands,,2,,,
+3027,Full edition,Punjabi Tribune,2,No,Zero Hour: mid-day meal workers' wages raised by MLA Kulwant Singh,Yes,Neutral,"Schools, health & employees",Assembly question,,2,,,
+3028,Full edition,The Tribune,3,No,"Help bring daughter's remains home from US, Ludhiana woman urges PM",No,Not about AAP/Govt,,Others,,2,,,
+3029,Full edition,Punjabi Tribune,7,No,Roads built with crores in poor state; repair sought before Gurpurb,Yes,Negative,Civic services & infrastructure,Roads,,1,,,
+3030,Full edition,Punjabi Tribune,7,No,Bugha road complaint unheard for years,Yes,Negative,Civic services & infrastructure,Roads,,1,,,
+3031,Full edition,Punjabi Tribune,7,No,Thousands of posts vacant in schools: DTF,Yes,Negative,"Schools, health & employees",Teacher vacancies,,1,,,
+3032,Full edition,Punjabi Tribune,7,No,Illegal constructions in Sahara colonies razed,Yes,Neutral,Civic services & infrastructure,Civic enforcement,,1,,,
+3033,Full edition,Punjabi Tribune,6,No,Outsourced workers demand bonus,Yes,Negative,"Schools, health & employees",Employee protests,,1,,,
+3034,Full edition,Punjabi Tribune,6,No,Pledge taken against corruption (Vigilance week),Yes,Positive,"Governance, Assembly & politics",Anti-corruption,,1,,,
+3035,Full edition,Dainik Savera,3,No,"BJP: 1,153 principal posts vacant in govt schools (repeat)",No,Duplicate,,Duplicate,,2,,,
+3036,Full edition,Dainik Savera,Amritsar 1,No,"Accused in extortion firing injured in police encounter, accomplice held",Yes,Positive,"Police action on gangs, arms & drugs",Police action vs gangs,,2,,,
+3037,Full edition,Dainik Savera,Amritsar 1,No,Stubble burning: cases against 5 in Tarn Taran,Yes,Neutral,"Farmers, stubble & paddy",Stubble burning,,2,,,
+3038,Full edition,Dainik Savera,Amritsar 1,No,Tarn Taran police night naka special checking,Yes,Positive,"Police action on gangs, arms & drugs",Policing,,2,,,
+3039,Full edition,Dainik Savera,Amritsar 1,No,Food safety drive intensified before festivals,Yes,Positive,"Schools, health & employees",Food safety,,2,,,
+3040,Full edition,Dainik Savera,Amritsar 1,No,Police commissioner inspects new Ranjit Avenue police station building,Yes,Positive,"Police action on gangs, arms & drugs",Police infrastructure,,2,,,
+3041,Full edition,Dainik Savera,Amritsar 2,No,Senior AAP leaders honour Virat Devgan,Yes,Positive,AAP organisation & outreach,AAP outreach,,1,,,
+3042,Full edition,Dainik Savera,Amritsar 2,No,People will teach AAP a lesson in 2027: Gill Kazikot (Congress),Yes,Negative,Opposition attacks on the govt,Opposition attack: Congress,,1,,,
+3043,Full edition,Dainik Savera,Amritsar 2,No,"Congress attacks over 'vote chori', Bhullar demands independent probe",No,Not about AAP/Govt,,Others,,1,,,
+3044,Full edition,Dainik Savera,Amritsar 2,No,Gharinda police arrest youth with 30-bore pistol,Yes,Positive,"Police action on gangs, arms & drugs",Police action vs arms,,1,,,"Army jawan among 7 held, 14 pistols"
+3045,Full edition,Dainik Savera,Amritsar 2,No,Paddy with under 17% moisture to be bought: DC,Yes,Positive,"Farmers, stubble & paddy",Paddy procurement,,1,,,
+3046,Full edition,Dainik Savera,Amritsar 3,No,Vigilance Bureau staff take integrity pledge,Yes,Positive,"Governance, Assembly & politics",Anti-corruption,,1,,,
+3047,Full edition,Dainik Savera,Amritsar 3,No,AAP MLA Harmeet Sandhu demands probe into gangster Bath-Sukhbir links,Yes,Positive,AAP leaders' counter-attacks,AAP attacks Akalis,Yes,1,,,
+3048,Full edition,Dainik Savera,Amritsar 5,No,Electricity board pensioners to protest at FM's office today,Yes,Negative,"Schools, health & employees",Employee protests,,1,,,
+3049,Full edition,Dainik Savera,Amritsar 5,No,Medical process begins for contracting outsource workers,Yes,Positive,"Schools, health & employees",Employee regularisation,,1,,,
+3050,Full edition,Dainik Savera,Amritsar 6,No,AAP sees ticket rush as Assembly polls near,Yes,Neutral,AAP organisation & outreach,AAP organisation,,1,,,
+3051,Full edition,Dainik Savera,Bathinda 1,No,Mansa dharna: union leaders and police face off over bringing body,Yes,Negative,Crime & law and order,Custodial/drug death protest,,2,,,"Mansa drug death, police seize body"
+3052,Full edition,Dainik Savera,Bathinda 1,No,Police forcibly remove Lakha Sidhana from Jhota murder dharna,Yes,Negative,Jhota murder protest,Jhota murder protest,,2,,,
+3053,Full edition,Dainik Savera,Bathinda 1,No,"4,504 kg poppy husk seized from pickup, 2 held",Yes,Positive,"Police action on gangs, arms & drugs",Police action vs drugs,,2,,,
+3054,Full edition,Dainik Savera,Bathinda 1,No,Canal Colony police raid: smuggler held with 35 g heroin,Yes,Positive,"Police action on gangs, arms & drugs",Police action vs drugs,,2,,,
+3055,Full edition,Dainik Savera,Bathinda 1,No,"Unemployed youth heading to Assembly detained, later released",Yes,Negative,"Schools, health & employees",Employee protests,,2,,,
+3056,Full edition,Dainik Savera,Bathinda 1,No,"1.61 kg ganja seized, two smugglers held",Yes,Positive,"Police action on gangs, arms & drugs",Police action vs drugs,,2,,,
+3057,Full edition,Dainik Savera,Bathinda 2,No,144 beneficiaries in Ranike get property cards under 'Mera Ghar Mera Naam',Yes,Positive,Welfare schemes,Property cards,,1,,,
+3058,Full edition,Dainik Savera,Bathinda 2,No,Ration depot holders announce statewide strike from Nov 1,Yes,Negative,"Schools, health & employees",Employee protests,,1,,,
+3059,Full edition,Dainik Savera,Bathinda 2,No,'Meri Dukan Mera Naam' scheme a historic step for shopkeepers: Imtiaz Ali,Yes,Positive,Welfare schemes,Property rights scheme,,1,,,
+3060,Full edition,Dainik Savera,Bathinda 2,No,Bring only dry paddy to mandis: DC Sangrur,Yes,Positive,"Farmers, stubble & paddy",Paddy procurement,,1,,,
+3061,Full edition,Dainik Savera,Bathinda 4,No,"Granaries full in Punjab, yet price rise hits; cattle feed and milk costly",Yes,Negative,"Governance, Assembly & politics",Price rise,,1,,,
+3062,Full edition,Dainik Savera,Bathinda 4,No,Moga: man held with 6 g heroin; another with 60 intoxicant pills,Yes,Positive,"Police action on gangs, arms & drugs",Police action vs drugs,,1,,,
+3063,Full edition,Dainik Savera,Bathinda 5,No,Chemists told to strictly follow sale and record rules,Yes,Positive,Drugs & medicine access,Drug regulation,,1,,,
+3064,Full edition,Dainik Savera,Bathinda 5,No,"Paddy: 1,08,761 MT arrived, 1,03,925 MT bought in Malerkotla mandis",Yes,Positive,"Farmers, stubble & paddy",Paddy procurement,,1,,,
+3065,Full edition,Dainik Savera,Bathinda 5,No,"University student held for opium smuggling, 1.03 kg recovered",Yes,Positive,"Police action on gangs, arms & drugs",Police action vs drugs,,1,,,
+3066,Full edition,Dainik Savera,Bathinda 5,No,Computer teachers march with torches outside minister Aman Arora's residence,Yes,Negative,"Schools, health & employees",Employee protests,,1,,,
+3067,Full edition,Dainik Savera,Bathinda 6,No,ADC and SP direct effective action at drug hotspots in Mansa,Yes,Positive,"Police action on gangs, arms & drugs",Anti-drug drive,,1,,,"Mansa drug death, police seize body"
+3068,Full edition,Dainik Savera,Bathinda 6,No,MLA Manpreet Ayali meets ex-sarpanch attacked by goons,Yes,Neutral,Crime & law and order,Assault,,1,,,AAP sarpanch's son shot in Amritsar
+3069,Full edition,Dainik Savera,Bathinda 6,No,"Inter-district snatching gang busted, 4 held",Yes,Positive,"Police action on gangs, arms & drugs",Police action vs gangs,,1,,,
+3070,Full edition,Dainik Savera,Bathinda 6,No,Punjab govt's priority is taking Guru Ravidas teachings home: MLA Ugoke,Yes,Positive,"Religious outreach: Valmiki, Kartarpur",Religious outreach,,1,,,
+3071,Full edition,Dainik Savera,Gurdaspur 1,No,"6.87 lakh MT paddy bought in Gurdaspur; Rs 1,495.73 cr paid to farmers",Yes,Positive,"Farmers, stubble & paddy",Paddy procurement,,2,,,
+3072,Full edition,Dainik Savera,Gurdaspur 1,No,AAP halqa in-charge Shamsher Singh starts ward 10 street works,Yes,Positive,Civic services & infrastructure,Development works,,2,,,
+3073,Full edition,Dainik Savera,Gurdaspur 1,No,Public participation needed to end drugs (Yudh Nashian Virudh meeting),Yes,Positive,"Police action on gangs, arms & drugs",Anti-drug drive,,2,,,
+3074,Full edition,Dainik Savera,Gurdaspur 1,No,Thieves break into medical store in Hakimpur,Yes,Negative,Crime & law and order,Theft,,2,,,
+3075,Full edition,Dainik Savera,Gurdaspur 1,No,Two held with country-made pistol and 30 live cartridges,Yes,Positive,"Police action on gangs, arms & drugs",Police action vs arms,,2,,,"Army jawan among 7 held, 14 pistols"
+3076,Full edition,Dainik Savera,Gurdaspur 1,No,"Bank sakhis honoured for helping women get Rs 1,000-1,500 aid forms filled",Yes,Positive,Welfare schemes,Women cash scheme,,2,,,
+3077,Full edition,Dainik Savera,Gurdaspur 2,No,Batala firing raises questions on law and order: Tript Bajwa (Congress),Yes,Negative,Opposition attacks on the govt,Opposition attack: Congress,,1,,,
+3078,Full edition,Dainik Savera,Gurdaspur 2,No,Firing at jewellery shop: BJP district chief reaches spot,Yes,Negative,Crime & law and order,Firing/threats,,1,,,
+3079,Full edition,Dainik Savera,Gurdaspur 3,No,"Upset with AAP, Shivcharan Singh Sekhupur Khurd announces poll bid",Yes,Negative,"Governance, Assembly & politics",Defections from AAP,,1,,,
+3080,Full edition,Dainik Savera,Gurdaspur 3,No,Sukhbir-led govt can rescue Punjab: Ghumman (SAD),Yes,Negative,Opposition attacks on the govt,Opposition attack: SAD,,1,,,
+3081,Full edition,Dainik Savera,Gurdaspur 3,No,Law and order has fully collapsed in Punjab: Amandeep Jaitipur,Yes,Negative,Opposition attacks on the govt,Opposition attack: Other,,1,,,
+3082,Full edition,Dainik Savera,Gurdaspur 3,No,Is it fair to put entire chemist trade in dock after one death?: Harvinder Soni,Yes,Negative,Drugs & medicine access,Chemists' concerns,,1,,,
+3083,Full edition,Dainik Savera,Hoshiarpur 1,No,Yudh Nashian Virudh: illegal construction of drug family razed in Sarhala Kalan,Yes,Positive,"Police action on gangs, arms & drugs",Police action vs drugs,,2,,,
+3084,Full edition,Dainik Savera,Hoshiarpur 1,No,"55 intoxicant pills seized in Chabbewal, one held",Yes,Positive,"Police action on gangs, arms & drugs",Police action vs drugs,,2,,,
+3085,Full edition,Dainik Savera,Hoshiarpur 1,No,"Overloaded tippers race through Mahilpur, children's safety at risk",Yes,Negative,Civic services & infrastructure,Road safety,,2,,,
+3086,Full edition,Dainik Savera,Hoshiarpur 1,No,Cyber fraud: Rs 3.79 lakh siphoned from 3 accounts,Yes,Negative,Crime & law and order,Cyber fraud,,2,,,
+3087,Full edition,Dainik Savera,Hoshiarpur 2,No,Shopkeepers should use 'Meri Dukan Mera Naam' scheme: MLA Karamvir Ghumman,Yes,Positive,Welfare schemes,Property rights scheme,,1,,,
+3088,Full edition,Dainik Savera,Hoshiarpur 3,No,Three govt high schools in Sham Chaurasi upgraded to +2,Yes,Positive,"Schools, health & employees",School upgrades,,1,,,
+3089,Full edition,Dainik Savera,Hoshiarpur 4,No,Paddy heaps in Bhangala mandi; market committee secretary's negligence exposed,Yes,Negative,"Farmers, stubble & paddy",Paddy procurement,,1,,,
+3090,Full edition,Dainik Savera,Hoshiarpur 4,No,Gangsterism and killings rising in Punjab: Congress's Joshi,Yes,Negative,Opposition attacks on the govt,Opposition attack: Congress,,1,,,
+3091,Full edition,Dainik Savera,Hoshiarpur 4,No,Congress govt coming in Punjab: ex-MLA Arun Dogra,No,Not about AAP/Govt,,Others,,1,,,
+3092,Full edition,Dainik Savera,Khanna 1,No,"Khanna police arrest man with Rs 97,000 fake currency",Yes,Positive,"Police action on gangs, arms & drugs",Policing,,2,,,
+3093,Full edition,Dainik Savera,Khanna 1,No,Drugs seized in 62 NDPS cases destroyed,Yes,Positive,"Police action on gangs, arms & drugs",Police action vs drugs,,2,,,
+3094,Full edition,Dainik Savera,Khanna 1,No,Minister Tarunpreet Sond pays obeisance at Valmiki Jayanti,Yes,Positive,"Religious outreach: Valmiki, Kartarpur",Religious outreach,,2,,,
+3095,Full edition,Dainik Savera,Khanna 1,No,Advocate Jaspreet Kaur and family join AAP in minister Sond's presence,Yes,Positive,AAP organisation & outreach,Joinings,,2,,,
+3096,Full edition,Dainik Savera,Khanna 2,No,PSPCL issues strict directions ahead of power employees' protest,Yes,Negative,"Schools, health & employees",Employee protests,,1,,,
+3097,Full edition,Dainik Savera,Khanna 2,No,60% principal posts vacant in Punjab govt schools,Yes,Negative,"Schools, health & employees",Teacher vacancies,,1,,,
+3098,Full edition,Dainik Savera,Khanna 3,No,Yudh Nashian Virudh: drug smuggler's illegal construction razed in Mandi Gobindgarh,Yes,Positive,"Police action on gangs, arms & drugs",Police action vs drugs,,1,,,
+3099,Full edition,Dainik Savera,Khanna 3,No,Ex-council VP Ashok Sharma joins Congress,No,Not about AAP/Govt,,Others,,1,,,
+3100,Full edition,Dainik Savera,Khanna 4,No,DIG and SSP hold public meeting in drug hotspot village Bendli,Yes,Positive,"Police action on gangs, arms & drugs",Anti-drug drive,,1,,,
+3101,Full edition,Dainik Savera,Ludhiana 1,No,Woman ran 'chitta bar' at home; held with 7 users,Yes,Positive,"Police action on gangs, arms & drugs",Police action vs drugs,,2,,,
+3102,Full edition,Dainik Savera,Ludhiana 1,No,Dye theft worth Rs 9 lakh from two factories in Focal Point,Yes,Negative,Crime & law and order,Theft,,2,,,
+3103,Full edition,Dainik Savera,Ludhiana 1,No,PPCB seals machinery of two illegal dyeing units in Haibowal (repeat),No,Duplicate,,Duplicate,,2,,,
+3104,Full edition,Dainik Savera,Ludhiana 3,No,"F&CC meeting: 18 agenda items not taken up, development works halted",Yes,Negative,Civic services & infrastructure,Civic governance,,1,,,
+3105,Full edition,Dainik Savera,Ludhiana 3,No,Rajguru Nagar's broken roads expose govt claims: Pawan Dewan (Congress),Yes,Negative,Opposition attacks on the govt,Opposition attack: Congress,,1,,,
+3106,Full edition,Dainik Savera,Ludhiana 3,No,Youth shot in arm over old enmity in Khursaidpura,Yes,Negative,Crime & law and order,Firing/threats,,1,,,
+3107,Full edition,Dainik Savera,Ludhiana 3,No,Drug smuggler's property worth Rs 22 lakh attached,Yes,Positive,"Police action on gangs, arms & drugs",Police action vs drugs,,1,,,
+3108,Full edition,Dainik Savera,Ludhiana 3,No,Computer teachers plan 'pakka morcha' at Sunam from Nov 1,Yes,Negative,"Schools, health & employees",Employee protests,,1,,,
+3109,Full edition,Dainik Savera,Ludhiana 3,No,"MC's Rs 1,246 cr tenders challenged in High Court",Yes,Negative,Civic services & infrastructure,Civic governance,,1,,,46 leaders join BJP in Gurdaspur
+3110,Full edition,Dainik Savera,Ludhiana 3,No,Open sale of banned single-use plastic in Ludhiana; PAC seeks action,Yes,Negative,Civic services & infrastructure,Pollution enforcement,,1,,,
+3111,Full edition,Dainik Savera,Ludhiana 5,No,4 kg per quintal cut on paddy robs farmers: SAD's Jagdish Garcha,Yes,Negative,Opposition attacks on the govt,Opposition attack: SAD,,1,,,
+3112,Full edition,Dainik Savera,Ludhiana 5,No,Khadian wala govt school upgraded to senior secondary,Yes,Positive,"Schools, health & employees",School upgrades,,1,,,
+3113,Full edition,Dainik Savera,Ludhiana 5,No,Vigilance Bureau holds anti-corruption seminar,Yes,Positive,"Governance, Assembly & politics",Anti-corruption,,1,,,
+3114,Full edition,Dainik Savera,Ludhiana 6,No,Taking body from dharna shameful: MLA Ayali,Yes,Negative,Opposition attacks on the govt,Opposition attack: Other,,1,,,"Mansa drug death, police seize body"
+3115,Full edition,Dainik Savera,Ludhiana 6,No,Only police stations and gurdwaras safe in Punjab: Sukhwinder Sidhu,Yes,Negative,Opposition attacks on the govt,Opposition attack: SAD,,1,,,
+3116,Full edition,Dainik Savera,Malwa 1,No,Youth abducted and killed after objecting to sister's harassment (Ferozepur),Yes,Negative,Crime & law and order,Murder,,2,,,
+3117,Full edition,Dainik Savera,Malwa 1,No,"Drug control team checks medical stores, two types of medicines seized",Yes,Positive,Drugs & medicine access,Drug regulation,,2,,,
+3118,Full edition,Dainik Savera,Malwa 1,No,"CBI raids Abohar de-addiction centre, team seals hospital",Yes,Negative,Drugs & medicine access,De-addiction centres,,2,,,
+3119,Full edition,Dainik Savera,Malwa 1,No,Villages in Dharamkot protest seeking justice for Parvinder Jhota,Yes,Negative,Jhota murder protest,Jhota murder protest,,2,,,
+3120,Full edition,Dainik Savera,Malwa 1,No,Ferozepur police: 6 held with 13.23 g heroin and cash,Yes,Positive,"Police action on gangs, arms & drugs",Police action vs drugs,,2,,,
+3121,Full edition,Dainik Savera,Malwa 2,No,AAP will go to people on public service and development: Vinod Soi,Yes,Positive,AAP organisation & outreach,AAP outreach,,1,,,
+3122,Full edition,Dainik Savera,Malwa 2,No,Akali workers to unite to strengthen party in Ferozepur: Nannu,No,Not about AAP/Govt,,Others,,1,,,
+3123,Full edition,Dainik Savera,Malwa 3,No,Excise and police staff attacked during checking in Guru Harsahai,Yes,Negative,Crime & law and order,Attack on officials,,1,,,
+3124,Full edition,Dainik Savera,Malwa 3,No,Only dry paddy to mandis: DC Fazilka,Yes,Positive,"Farmers, stubble & paddy",Paddy procurement,,1,,,
+3125,Full edition,Dainik Savera,Malwa 3,No,Fazilka health dept special campaign for cleanliness and good governance,Yes,Positive,"Schools, health & employees",Health services,,1,,,
+3126,Full edition,Dainik Savera,Malwa 4,No,Law and order in state worsening steadily: Dr Harjot Kamal (BJP),Yes,Negative,Opposition attacks on the govt,Opposition attack: BJP,,1,,,
+3127,Full edition,Dainik Savera,Malwa 4,No,DC Moga reviews stubble management and development works,Yes,Positive,"Farmers, stubble & paddy",Stubble management,,1,,,
+3128,Full edition,Dainik Savera,Malwa 5,No,Angadpura firing deaths expose govt's law and order: Dr Seemant Garg (BJP),Yes,Negative,Opposition attacks on the govt,Opposition attack: BJP,,1,,,
+3129,Full edition,Dainik Savera,Malwa 6,No,Nayak community SC status issue raised in Assembly by MLA Sawna,Yes,Positive,"Governance, Assembly & politics",Assembly,,1,,,
+3130,Full edition,Dainik Savera,Malwa 6,No,Fazilka health facilities expanded greatly in 4.75 years: MLA Narinderpal Sawna,Yes,Positive,"Schools, health & employees",Health services,,1,,,
+3131,Full edition,Dainik Savera,Malwa 6,No,MLA Goldy lays foundation of water treatment plant in Jalalabad,Yes,Positive,Civic services & infrastructure,Development works,,1,,,"River-water resolutions, Rajasthan royalty"
+3132,Full edition,Dainik Savera,Malwa 6,No,Rs 90 lakh for sports and education works in Sadulshahar,No,Not about AAP/Govt,,Others,,1,,,
+3133,Full edition,Dainik Savera,Malwa 7,No,Govt failed on paddy purchase and lifting: Jakhar,Yes,Negative,Opposition attacks on the govt,Opposition attack: BJP,,1,,,Jakhar seeks NIA probe
+3134,Full edition,Dainik Savera,Malwa 7,No,MLA questions cancellation of 7th Abohar marathon,Yes,Negative,"Governance, Assembly & politics",Own MLAs' complaints,,1,,,
+3135,Full edition,Dainik Savera,Malwa 7,No,Rs 25.89 cr for minor canal renovation in Jalalabad: MLA,Yes,Positive,"Farmers, stubble & paddy",Irrigation,,1,,,
+3136,Full edition,Dainik Savera,Malwa 8,No,Congress govt will prioritise development: Kushaldeep Dhillon,No,Not about AAP/Govt,,Others,,1,,,
+3137,Full edition,Dainik Savera,Malwa 8,No,Computer teachers march to minister Aman Arora's home (repeat),No,Duplicate,,Duplicate,,1,,,
+3138,Full edition,Dainik Savera,Pathankot 1,No,"Pathankot de-addiction centre full, 19 beds; proposal to expand",Yes,Neutral,Drugs & medicine access,De-addiction centres,,2,,,
+3139,Full edition,Dainik Savera,Pathankot 1,No,Health team acts against tobacco sellers in Shahpurkandi,Yes,Positive,"Schools, health & employees",Health enforcement,,2,,,
+3140,Full edition,Dainik Savera,Pathankot 1,No,High alert for Diwali; SSP tightens security,Yes,Positive,"Police action on gangs, arms & drugs",Policing,,2,,,
+3141,Full edition,Dainik Savera,Pathankot 2,No,Dozens of Kotli Farm families join AAP; minister Kataruchak welcomes them,Yes,Positive,AAP organisation & outreach,Joinings,,1,,,
+3142,Full edition,Dainik Savera,Pathankot 2,No,Congress will be strengthened in Sujanpur: Jarnail Singh,No,Not about AAP/Govt,,Others,,1,,,
+3143,Full edition,Dainik Savera,Pathankot 3,No,Shiv Sena (Shinde) targets govt over rising drugs and law and order,Yes,Negative,Opposition attacks on the govt,Opposition attack: Other,,1,,,
+3144,Full edition,Dainik Savera,Pathankot 3,No,"Congress mass contact campaign in Madinpur, Mission 2027 strategy",No,Not about AAP/Govt,,Others,,1,,,
+3145,Full edition,Dainik Savera,Pathankot 4,No,Batala daylight firing raises law and order questions: Tript Bajwa (repeat),No,Duplicate,,Duplicate,,1,,,
+3146,Full edition,Dainik Savera,Pathankot 4,No,Sahkar Bharati demands immediate end to DAP and urea shortage,Yes,Negative,"Farmers, stubble & paddy",Fertiliser shortage,,1,,,
+3147,Full edition,Dainik Savera,Pathankot 5,No,Employees and pensioners to hold pakka morcha in Chandigarh from Nov 13,Yes,Negative,"Schools, health & employees",Employee protests,,1,,,
+3148,Full edition,Dainik Savera,Pathankot 5,No,Mann govt failed on every front: Pammi Pathania (BJP),Yes,Negative,Opposition attacks on the govt,Opposition attack: BJP,,1,,,
+3149,Full edition,Dainik Savera,Pathankot 5,No,BJP govt needed to free Punjab of drugs and gangsters: BJP leaders,Yes,Negative,Opposition attacks on the govt,Opposition attack: BJP,,1,,,
+3150,Full edition,Dainik Savera,Pathankot 5,No,AAP will win again on public-interest decisions: Saba (AAP),Yes,Positive,AAP organisation & outreach,AAP outreach,,1,,,
+3151,Full edition,Dainik Savera,Pathankot 6,No,Present govt failed on every front: BJP's Avtar Singh,Yes,Negative,Opposition attacks on the govt,Opposition attack: BJP,,1,,,
+3152,Full edition,Dainik Savera,Pathankot 6,No,"Civil hospital MRI facility delayed again, now by Nov 10-15",Yes,Negative,"Schools, health & employees",Health services,,1,,,
+3153,Full edition,Dainik Savera,Patiala 1,No,"Drug control dept checks 2 medical stores, seizes medicines worth Rs 2,400",Yes,Positive,Drugs & medicine access,Drug regulation,,2,,,
+3154,Full edition,Dainik Savera,Patiala 1,No,Ownership rights given under 'Mera Ghar Mera Naam' in Chhajju Bhatt: MLA Dev Mann,Yes,Positive,Welfare schemes,Property cards,,2,,,
+3155,Full edition,Dainik Savera,Patiala 1,No,MC removes illegal shanties: Vishal Varma,Yes,Neutral,Civic services & infrastructure,Civic enforcement,,2,,,
+3156,Full edition,Dainik Savera,Patiala 1,No,Sarpanch unions meet IG Patiala against alleged false cases on sarpanches,Yes,Negative,Crime & law and order,Police complaints,,2,,,AAP sarpanch's son shot in Amritsar
+3157,Full edition,Dainik Savera,Patiala 1,No,Dengue hotspot awareness drive and larva checks,Yes,Positive,"Schools, health & employees",Health services,,2,,,
+3158,Full edition,Dainik Savera,Patiala 1,No,2.80 lakh MT paddy bought in Fatehgarh Sahib mandis: DC,Yes,Positive,"Farmers, stubble & paddy",Paddy procurement,,2,,,
+3159,Full edition,Dainik Savera,Patiala 2,No,"DAP shortage: BKU threatens agitation, govt failing farmers",Yes,Negative,"Farmers, stubble & paddy",Fertiliser shortage,,1,,,
+3160,Full edition,Dainik Savera,Patiala 2,No,Mid-day meal workers and chowkidars demand meeting on demands,Yes,Negative,"Schools, health & employees",Employee protests,,1,,,
+3161,Full edition,Dainik Savera,Patiala 3,No,Yudh Nashian Virudh: drug smuggler's illegal construction razed (repeat),No,Duplicate,,Duplicate,,1,,,
+3162,Full edition,Dainik Savera,Patiala 4,No,"Ex-minister Surjit Rakhra inspects Samana mandi, reviews paddy purchase",Yes,Neutral,"Farmers, stubble & paddy",Paddy procurement,,1,,,
+3163,Full edition,Dainik Savera,Patiala 4,No,Chairman Dhamauli gets illegal encroachment removed,Yes,Positive,Civic services & infrastructure,Civic enforcement,,1,,,
+3164,Full edition,Dainik Savera,Ropar 1,No,Low Bhakra canal level disrupts city water supply,Yes,Negative,Civic services & infrastructure,Water supply,,2,,,"River-water resolutions, Rajasthan royalty"
+3165,Full edition,Dainik Savera,Ropar 1,No,Youth held with 500 g opium in Nurpur Bedi,Yes,Positive,"Police action on gangs, arms & drugs",Police action vs drugs,,2,,,
+3166,Full edition,Dainik Savera,Ropar 1,No,Woman held with 6 g heroin in Banga,Yes,Positive,"Police action on gangs, arms & drugs",Police action vs drugs,,2,,,
+3167,Full edition,Dainik Savera,Ropar 2,No,Vigilance awareness week: officials take oath against corruption,Yes,Positive,"Governance, Assembly & politics",Anti-corruption,,1,,,
+3168,Full edition,Dainik Savera,Ropar 2,No,Cabinet minister Harjot Bains joins Valmiki shobha yatra in Nangal,Yes,Positive,"Religious outreach: Valmiki, Kartarpur",Religious outreach,,1,,,
+3169,Full edition,Dainik Savera,Ropar 4,No,AAP leader Jasvir Garhi reviews road works with PWD,Yes,Positive,Civic services & infrastructure,Development works,,1,,,
+3170,Full edition,Dainik Savera,Ropar 4,No,Area struggle committee meets NFL GM over urea shortage,Yes,Negative,"Farmers, stubble & paddy",Fertiliser shortage,,1,,,
+3171,Full edition,Dainik Savera,Ropar 4,No,Mining loot with support of ministers and MLAs: Ashwani Sharma (BJP),Yes,Negative,Opposition attacks on the govt,Opposition attack: BJP,,1,,,
+3172,Full edition,Dainik Savera,Ropar 4,No,Lalpura raises questions over video linked to Dinesh Chadha,Yes,Negative,Opposition attacks on the govt,Opposition attack: BJP,,1,,,
+3173,Full edition,Dainik Savera,Ropar 4,No,AAP leaders start road works in Raipur Nangal,Yes,Positive,Civic services & infrastructure,Development works,,1,,,
+3174,Full edition,Dainik Savera,Ropar 4,No,Harjot Bains: Ramayana gives life lessons (Valmiki event),Yes,Positive,"Religious outreach: Valmiki, Kartarpur",Religious outreach,,1,,,
+3175,Full edition,Dainik Savera,Kapurthala 1,No,Kapurthala police arrest 3 with 3 pistols and 9 cartridges,Yes,Positive,"Police action on gangs, arms & drugs",Police action vs arms,,2,,,"Army jawan among 7 held, 14 pistols"
+3176,Full edition,Dainik Savera,Kapurthala 1,No,Youth held with country-made pistol in Sultanpur Lodhi,Yes,Positive,"Police action on gangs, arms & drugs",Police action vs arms,,2,,,"Army jawan among 7 held, 14 pistols"
+3177,Full edition,Dainik Savera,Kapurthala 2,No,Pilgrims leave under CM Tirth Yatra scheme,Yes,Positive,Welfare schemes,Tirth Yatra scheme,,1,,,
+3178,Full edition,Dainik Savera,Kapurthala 3,No,Will work day and night to win all 4 Kapurthala seats for AAP: Daljit Raju,Yes,Positive,AAP organisation & outreach,AAP organisation,,1,,,"Mansa drug death, police seize body"
+3179,Full edition,Dainik Savera,Kapurthala 3,No,MP Chabbewal opens medical screening camp for seniors in Phagwara,Yes,Positive,"Schools, health & employees",Health services,,1,,,
+3180,Full edition,Dainik Savera,Kapurthala 4,No,AAP appoints Balwinder Singh SC wing state joint secretary,Yes,Positive,AAP organisation & outreach,AAP organisation,,1,,,
+3181,Full edition,Dainik Savera,Kapurthala 4,No,SDM's initiative: rewards for villages not burning stubble,Yes,Positive,"Farmers, stubble & paddy",Stubble management,,1,,,
+3182,Full edition,Dainik Savera,Jalandhar 1,No,Nitin Kohli thanks CM Mann for international hockey tournament in Punjab,Yes,Positive,Hockey & sports,Sports,,2,,,Asian Champions Trophy hockey
+3183,Full edition,Dainik Savera,Jalandhar 1,No,"6,52,925 MT paddy bought in district so far: DC",Yes,Positive,"Farmers, stubble & paddy",Paddy procurement,,2,,,
+3184,Full edition,Dainik Savera,Jalandhar 1,No,Street vendors angry over higher monthly slip fee,Yes,Negative,Civic services & infrastructure,Civic issues,,2,,,
+3185,Full edition,Dainik Savera,Jalandhar 3,No,Silver foil used for drugs: why no police eye on shops?,Yes,Negative,Drugs & medicine access,Drug availability,,1,,,
+3186,Full edition,Dainik Savera,Jalandhar 3,No,Sewer blocked for two months in Indira Colony (repeat),No,Duplicate,,Duplicate,,1,,,
+3187,Full edition,Dainik Savera,Jalandhar 4,No,Water shortage in Master Tara Singh Nagar (repeat),No,Duplicate,,Duplicate,,1,,,
+3188,Full edition,Dainik Savera,Jalandhar 4,No,Jalandhar rural police book many over fake marriage registration,Yes,Positive,"Police action on gangs, arms & drugs",Policing,,1,,,
+3189,Full edition,Dainik Savera,Jalandhar 6,No,Rs 3.69 cr development works start at Jamsher Dairy Complex,Yes,Positive,Civic services & infrastructure,Development works,,1,,,
+3190,Full edition,Dainik Savera,Jalandhar 6,No,Police raining batons on people instead of drug smugglers: Pargat Singh,Yes,Negative,Opposition attacks on the govt,Opposition attack: Congress,,1,,,
+3191,Full edition,Dainik Savera,Jalandhar 6,No,BJP committed to ending drugs and gangsterism: Himanshu Sharma,Yes,Negative,Opposition attacks on the govt,Opposition attack: BJP,,1,,,
+3192,Full edition,Dainik Savera,Jalandhar 6,No,Punjab govt's anti-drug campaign much appreciated: Chandan Bhagat,Yes,Positive,"Police action on gangs, arms & drugs",Anti-drug drive,,1,,,
+3193,Full edition,Dainik Savera,Jalandhar 7,No,Preparations reviewed for CM Mann's Lok Milni in Nakodar,Yes,Positive,AAP organisation & outreach,CM outreach,,1,,,

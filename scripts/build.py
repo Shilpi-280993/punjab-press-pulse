@@ -26,6 +26,7 @@ REL = {"Positive", "Neutral", "Negative"}
 REQUIRED = ["story_id", "source", "newspaper", "language", "page", "front_page", "page_weight",
             "headline", "sentiment", "theme_group", "detailed_theme", "aap_voice", "date"]
 SENTIMENTS = REL | {"Not about AAP/Govt", "Govt ad", "Duplicate"}
+SIZES = {"Brief", "Small", "Medium", "Large", "Lead"}  # optional fields size + page_share, from 16 Nov 2026
 
 
 def load_dir(sub):
@@ -51,6 +52,10 @@ def validate(stories):
                 problems.append(f"{d} story {r.get('story_id')}: date field is {r.get('date')}")
             if r.get("sentiment") not in SENTIMENTS:
                 problems.append(f"{d} story {r.get('story_id')}: unknown sentiment {r.get('sentiment')!r}")
+            if r.get("size") and r["size"] not in SIZES:
+                problems.append(f"{d} story {r.get('story_id')}: unknown size {r.get('size')!r}")
+            if r.get("size") and not (isinstance(r.get("page_share"), (int, float)) and 0 < r["page_share"] <= 2):
+                problems.append(f"{d} story {r.get('story_id')}: size needs a page_share between 0 and 2")
             if r.get("story_id") in ids:
                 problems.append(f"{d}: duplicate story_id {r.get('story_id')}")
             ids.add(r.get("story_id"))
@@ -61,14 +66,14 @@ def write_csv(d, rows, out_dir):
     path = os.path.join(out_dir, "exports", f"AAP_media_analysis_{d}.csv")
     os.makedirs(os.path.dirname(path), exist_ok=True)
     cols = ["Story #", "Source", "Newspaper", "Page", "Front page", "Headline (English)", "Relevant to AAP/Govt",
-            "Sentiment", "Theme (ranked group)", "Detailed theme", "AAP spokesperson voice", "Page weight", "Story"]
+            "Sentiment", "Theme (ranked group)", "Detailed theme", "AAP spokesperson voice", "Page weight", "Size", "Share of page", "Story"]
     with open(path, "w", newline="", encoding="utf-8-sig") as f:
         w = csv.writer(f)
         w.writerow(cols)
         for r in rows:
             w.writerow([r["story_id"], r["source"], r["newspaper"], r["page"], "Yes" if r["front_page"] else "No",
                         r["headline"], "Yes" if r["sentiment"] in REL else "No", r["sentiment"], r["theme_group"],
-                        r["detailed_theme"], "Yes" if r["aap_voice"] else "", r["page_weight"], r.get("story", "")])
+                        r["detailed_theme"], "Yes" if r["aap_voice"] else "", r["page_weight"], r.get("size", ""), r.get("page_share", ""), r.get("story", "")])
     return path
 
 
