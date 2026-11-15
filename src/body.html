@@ -103,26 +103,6 @@
     <p id="takeaway" data-source="kpis" class="dash-skeleton">—</p>
   </header>
 
-  <section id="trend">
-    <div class="pp-sec-head"><span class="pp-num">↗</span><h2 class="pp-h2">Day over day</h2></div>
-    <p class="pp-note">Every date side by side. Click a column to open that day. Shares are of relevant stories.</p>
-    <div class="pp-grid">
-      <div class="pp-card">
-        <h3 class="pp-h3">Sentiment by date</h3>
-        <div id="trend-bars" class="pp-trend"></div>
-        <div class="pp-legend"><span style="--c:var(--color-ok)">Positive</span><span style="--c:var(--cds-chart-muted)">Neutral</span><span style="--c:var(--color-bad)">Negative</span></div>
-      </div>
-      <div class="pp-card">
-        <h3 class="pp-h3">Key figures</h3>
-        <div class="pp-wrap"><table id="trend-table"><thead></thead><tbody></tbody></table></div>
-      </div>
-    </div>
-    <div class="pp-card" style="margin-top:var(--cds-gap-md)">
-      <h3 class="pp-h3">Themes that moved</h3>
-      <p class="pp-note" style="margin-bottom:var(--cds-gap-sm)">Stories per theme on each date, positive and negative counted separately. Sorted by the biggest change between the last two dates.</p>
-      <div class="pp-wrap"><table id="theme-move"><thead></thead><tbody></tbody></table></div>
-    </div>
-  </section>
 
   <section id="numbers">
     <div class="pp-sec-head"><span class="pp-num">1</span><h2 class="pp-h2">The numbers</h2></div>
@@ -145,18 +125,18 @@
 
   <section id="themes">
     <div class="pp-sec-head"><span class="pp-num">2</span><h2 class="pp-h2">Themes: positive vs negative</h2></div>
-    <p class="pp-note">Top 10 themes on each side, ranked by space: the total newspaper space the theme's stories took, in pages (each story's size is estimated as a share of its page). Size is measured from 16 Nov 2026; earlier dates show – and are ranked by number of stories.</p>
+    <p class="pp-note">Top 10 themes on each side, ranked by space: the total number of newspaper columns the theme's stories took (each story counted by how many columns wide it runs). Measured from 15 Nov 2026; earlier dates show – and are ranked by number of stories.</p>
     <div class="pp-grid">
       <div class="pp-card accent-pos" id="pos-themes-card">
         <h3 class="pp-h3 pp-pos">Positive themes</h3>
         <div class="pp-wrap"><table id="pos-themes" data-source="pos_themes" data-row-key="theme_group">
-          <thead><tr><th data-field="rank">#</th><th data-field="theme_group">Theme</th><th class="n" data-field="stories">Stories</th><th class="n" data-field="papers">Papers</th><th class="n" data-field="front_pages">Front</th><th class="n" data-field="space">Space (pages)</th></tr></thead>
+          <thead><tr><th data-field="rank">#</th><th data-field="theme_group">Theme</th><th class="n" data-field="stories">Stories</th><th class="n" data-field="papers">Papers</th><th class="n" data-field="front_pages">Front</th><th class="n" data-field="space">Columns</th></tr></thead>
           <tbody></tbody></table></div>
       </div>
       <div class="pp-card accent-neg" id="neg-themes-card">
         <h3 class="pp-h3 pp-neg">Negative themes</h3>
         <div class="pp-wrap"><table id="neg-themes" data-source="neg_themes" data-row-key="theme_group">
-          <thead><tr><th data-field="rank">#</th><th data-field="theme_group">Theme</th><th class="n" data-field="stories">Stories</th><th class="n" data-field="papers">Papers</th><th class="n" data-field="front_pages">Front</th><th class="n" data-field="space">Space (pages)</th></tr></thead>
+          <thead><tr><th data-field="rank">#</th><th data-field="theme_group">Theme</th><th class="n" data-field="stories">Stories</th><th class="n" data-field="papers">Papers</th><th class="n" data-field="front_pages">Front</th><th class="n" data-field="space">Columns</th></tr></thead>
           <tbody></tbody></table></div>
       </div>
     </div>
@@ -211,7 +191,7 @@
         <span class="pp-count" id="count"></span>
       </div>
       <div class="pp-scroll"><table id="story-table" data-source="stories" data-row-key="story_id">
-        <thead><tr><th data-field="date"><button type="button" data-k="date">Date</button></th><th class="n" data-field="story_id"><button type="button" data-k="story_id">#</button></th><th data-field="newspaper"><button type="button" data-k="newspaper">Paper</button></th><th data-field="page"><button type="button" data-k="page_weight">Page</button></th><th data-field="headline"><button type="button" data-k="headline">Headline</button></th><th data-field="size"><button type="button" data-k="page_share">Size</button></th><th data-field="sentiment"><button type="button" data-k="sentiment">Sentiment</button></th><th data-field="theme_group"><button type="button" data-k="theme_group">Theme</button></th></tr></thead>
+        <thead><tr><th data-field="date"><button type="button" data-k="date">Date</button></th><th class="n" data-field="story_id"><button type="button" data-k="story_id">#</button></th><th data-field="newspaper"><button type="button" data-k="newspaper">Paper</button></th><th data-field="page"><button type="button" data-k="page_weight">Page</button></th><th data-field="headline"><button type="button" data-k="headline">Headline</button></th><th data-field="size"><button type="button" data-k="columns">Size</button></th><th data-field="sentiment"><button type="button" data-k="sentiment">Sentiment</button></th><th data-field="theme_group"><button type="button" data-k="theme_group">Theme</button></th></tr></thead>
         <tbody></tbody></table></div>
     </div>
   </section>
@@ -272,27 +252,27 @@ dash.calc('kpis', {
   },
 });
 
-dash.calc('pos_themes', { inputs: ['stories'], title: 'Positive themes ranked', description: 'Positive stories grouped by theme; space = sum of each story\'s estimated share of its page, in pages (measured from 16 Nov 2026).', fn: (stories) => {
+dash.calc('pos_themes', { inputs: ['stories'], title: 'Positive themes ranked', description: 'Positive stories grouped by theme; space = total newspaper columns the stories ran across (measured from 15 Nov 2026).', fn: (stories) => {
   const g = {};
   stories.filter((r) => r.sentiment === 'Positive' && r.theme_group).forEach((r) => {
     const t = g[r.theme_group] || (g[r.theme_group] = { theme_group: r.theme_group, stories: 0, papers: new Set(), front_pages: 0, space: 0, sized: 0 });
     t.stories += 1; t.papers.add(r.newspaper);
-    const sh = Number(r.page_share); if (r.page_share !== undefined && r.page_share !== '' && !isNaN(sh)) { t.space += sh; t.sized += 1; }
+    const c = Number(r.columns); if (r.columns !== undefined && r.columns !== '' && !isNaN(c)) { t.space += c; t.sized += 1; }
     if (Number(r.page_weight) === 3) t.front_pages += 1;
   });
   return Object.values(g).sort((a, b) => b.space - a.space || b.stories - a.stories)
-    .map((t, i) => ({ rank: i + 1, theme_group: t.theme_group, stories: t.stories, papers: t.papers.size, front_pages: t.front_pages, space: t.sized ? Math.round(t.space * 10) / 10 : null })).slice(0, 10);
+    .map((t, i) => ({ rank: i + 1, theme_group: t.theme_group, stories: t.stories, papers: t.papers.size, front_pages: t.front_pages, space: t.sized ? t.space : null })).slice(0, 10);
 } });
-dash.calc('neg_themes', { inputs: ['stories'], title: 'Negative themes ranked', description: 'Negative stories grouped by theme; space = sum of each story\'s estimated share of its page, in pages (measured from 16 Nov 2026).', fn: (stories) => {
+dash.calc('neg_themes', { inputs: ['stories'], title: 'Negative themes ranked', description: 'Negative stories grouped by theme; space = total newspaper columns the stories ran across (measured from 15 Nov 2026).', fn: (stories) => {
   const g = {};
   stories.filter((r) => r.sentiment === 'Negative' && r.theme_group).forEach((r) => {
     const t = g[r.theme_group] || (g[r.theme_group] = { theme_group: r.theme_group, stories: 0, papers: new Set(), front_pages: 0, space: 0, sized: 0 });
     t.stories += 1; t.papers.add(r.newspaper);
-    const sh = Number(r.page_share); if (r.page_share !== undefined && r.page_share !== '' && !isNaN(sh)) { t.space += sh; t.sized += 1; }
+    const c = Number(r.columns); if (r.columns !== undefined && r.columns !== '' && !isNaN(c)) { t.space += c; t.sized += 1; }
     if (Number(r.page_weight) === 3) t.front_pages += 1;
   });
   return Object.values(g).sort((a, b) => b.space - a.space || b.stories - a.stories)
-    .map((t, i) => ({ rank: i + 1, theme_group: t.theme_group, stories: t.stories, papers: t.papers.size, front_pages: t.front_pages, space: t.sized ? Math.round(t.space * 10) / 10 : null })).slice(0, 10);
+    .map((t, i) => ({ rank: i + 1, theme_group: t.theme_group, stories: t.stories, papers: t.papers.size, front_pages: t.front_pages, space: t.sized ? t.space : null })).slice(0, 10);
 } });
 
 dash.calc('papers', {
@@ -351,13 +331,11 @@ dash.calc('voice', {
 });
 
 const fmt = d3.format(',');
-// Article size: band plus estimated share of the page, e.g. "Medium · ~1/6 page". Measured from 16 Nov 2026.
+// Article size in newspaper columns (how many columns wide the story runs). Measured from 15 Nov 2026.
 function sizeLabel(r) {
-  if (!r.size) return '–';
-  const sh = Number(r.page_share);
-  if (!sh || isNaN(sh)) return r.size;
-  const frac = sh >= 0.95 ? 'full page' : sh >= 0.5 ? `~${Math.round(sh * 100)}% of page` : `~1/${Math.max(2, Math.round(1 / sh))} page`;
-  return `${r.size} · ${frac}`;
+  const c = Number(r.columns);
+  if (r.columns === undefined || r.columns === '' || isNaN(c)) return '–';
+  return c === 1 ? '1 column' : `${c} columns`;
 }
 const COL = { Positive: 'var(--color-ok)', Neutral: 'var(--cds-chart-muted)', Negative: 'var(--color-bad)' };
 const clearSkel = () => document.querySelectorAll('.dash-skeleton').forEach((e) => e.classList.remove('dash-skeleton'));
@@ -370,7 +348,7 @@ function fillThemes(id, tableId, color) {
   const max = d3.max(d.data, val) || 1;
   d.data.forEach((r) => {
     const tr = document.createElement('tr');
-    const cells = [r.rank, r.theme_group, fmt(r.stories), fmt(r.papers), fmt(r.front_pages), r.space === null ? '–' : r.space.toFixed(1)];
+    const cells = [r.rank, r.theme_group, fmt(r.stories), fmt(r.papers), fmt(r.front_pages), r.space === null ? '–' : fmt(r.space)];
     cells.forEach((v, i) => {
       const td = document.createElement('td');
       if (i === 0) { td.className = 'rk'; const s = document.createElement('span'); s.style.setProperty('--rc', color); s.textContent = v; td.appendChild(s); }
@@ -402,7 +380,7 @@ function fillStories() {
   if (d.status !== 'ok') { document.getElementById('count').textContent = ''; return; }
   const q = qEl.value.trim().toLowerCase(), s = sEl.value;
   const rows = d.data.filter((r) => (!s || r.sentiment === s) && (!q || `${r.headline} ${r.newspaper} ${r.theme_group} ${r.detailed_theme}`.toLowerCase().includes(q)))
-    .sort((a, b) => { if (sortK === 'story_id' && a.date !== b.date) return (a.date > b.date ? -1 : 1); let x = a[sortK], y = b[sortK]; if (sortK === 'page_share') { x = Number(x ?? -1); y = Number(y ?? -1); } else if (typeof x === 'number' || sortK === 'page_weight' || sortK === 'story_id') { x = Number(x); y = Number(y); } return (x > y ? 1 : x < y ? -1 : 0) * sortDir; });
+    .sort((a, b) => { if (sortK === 'story_id' && a.date !== b.date) return (a.date > b.date ? -1 : 1); let x = a[sortK], y = b[sortK]; if (sortK === 'columns') { x = Number(x ?? -1); y = Number(y ?? -1); } else if (typeof x === 'number' || sortK === 'page_weight' || sortK === 'story_id') { x = Number(x); y = Number(y); } return (x > y ? 1 : x < y ? -1 : 0) * sortDir; });
   rows.forEach((r) => {
     const tr = document.createElement('tr');
     [shortDate(r.date), r.story_id, r.newspaper, r.page, r.headline, sizeLabel(r), r.sentiment, r.theme_group || r.detailed_theme].forEach((v, i) => {
@@ -420,7 +398,7 @@ function fillStories() {
 qEl.addEventListener('input', fillStories);
 sEl.addEventListener('change', fillStories);
 document.querySelectorAll('#story-table th button').forEach((b) => b.addEventListener('click', () => {
-  const k = b.dataset.k; sortDir = sortK === k ? -sortDir : (k === 'page_weight' || k === 'page_share' ? -1 : 1); sortK = k;
+  const k = b.dataset.k; sortDir = sortK === k ? -sortDir : (k === 'page_weight' || k === 'columns' ? -1 : 1); sortK = k;
   document.querySelectorAll('#story-table th').forEach((th) => th.removeAttribute('aria-sort'));
   b.parentElement.setAttribute('aria-sort', sortDir === 1 ? 'ascending' : 'descending');
   fillStories();
@@ -482,6 +460,7 @@ function dayStats(rows) {
     front: rel.filter((r) => r.front_page === true).length, aap: rows.filter((r) => r.aap_voice === true).length, rel };
 }
 function drawTrend() {
+  if (!document.getElementById('trend')) return; // day-over-day section removed 15 Nov 2026
   const all = dash.data('all_stories').data, ds = dash.dates(), sec = document.getElementById('trend');
   sec.hidden = ds.length < 2;
   if (ds.length < 2) return;

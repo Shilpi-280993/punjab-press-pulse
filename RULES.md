@@ -26,8 +26,7 @@ These rules reproduce the analysis built for 27 and 28 Oct 2026 (951 stories, au
 | aap_voice | true when an AAP leader or minister is the speaker making the point (including the CM attacking the BJP or the Centre) |
 | story | Optional. Short label for a news event that ran in several papers, e.g. `Punjab Da Crorepati quiz launch`. Use the same label on every row of that event. Label the 10 to 15 biggest events of the day. |
 | ref | Where the clipping is, so the judge can find it: `deck slide 41` or `<edition file name> p.7`. Required from 15 Nov 2026. |
-| size | Article size band, from 16 Nov 2026: `Brief` (under 1/16 of the page), `Small` (1/16 to 1/8), `Medium` (1/8 to 1/4), `Large` (1/4 to 1/2), `Lead` (half a page or more). Must match page_share. |
-| page_share | The article's estimated share of its printed page as a number, e.g. `0.15`: headline, text and photos together, including any jump on the same page (not the continuation on another page). Judge by columns wide and depth against the full page (a broadsheet page is about 8 columns by 52 cm; use the actual page, so a tabloid or jacket page counts as its own full page). For a deck clipping, estimate from the clipping's columns and depth; render the edition page if unsure. Two decimals are enough. From 16 Nov 2026. |
+| columns | How many newspaper columns wide the story runs (whole number, 1 to 12): count the text columns under its headline at the story's widest point, headline and photo included. Read it from the clipping, or render the edition page if the deck crop is unclear. From 15 Nov 2026. |
 | confidence | `high`, `medium` or `low`: the coder's confidence in the sentiment. Use `low` when the clipping is hard to read or two labels could fit; every low row goes to the judge. From 15 Nov 2026. |
 | date | YYYY-MM-DD |
 

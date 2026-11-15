@@ -15,7 +15,8 @@
   "ref": "deck slide 18",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 1
+  "story_id": 1,
+  "columns": 6
  },
  {
   "source": "Monitoring deck",
@@ -33,7 +34,8 @@
   "ref": "deck slide 19",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 2
+  "story_id": 2,
+  "columns": 6
  },
  {
   "source": "Monitoring deck",
@@ -51,7 +53,8 @@
   "ref": "deck slide 19",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 3
+  "story_id": 3,
+  "columns": 3
  },
  {
   "source": "Monitoring deck",
@@ -69,7 +72,8 @@
   "ref": "deck slide 20",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 4
+  "story_id": 4,
+  "columns": 7
  },
  {
   "source": "Monitoring deck",
@@ -87,7 +91,8 @@
   "ref": "deck slide 21",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 5
+  "story_id": 5,
+  "columns": 8
  },
  {
   "source": "Monitoring deck",
@@ -105,7 +110,8 @@
   "ref": "deck slide 22",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 6
+  "story_id": 6,
+  "columns": 5
  },
  {
   "source": "Monitoring deck",
@@ -123,7 +129,8 @@
   "ref": "deck slide 23",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 7
+  "story_id": 7,
+  "columns": 6
  },
  {
   "source": "Monitoring deck",
@@ -141,7 +148,8 @@
   "ref": "deck slide 24",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 8
+  "story_id": 8,
+  "columns": 5
  },
  {
   "source": "Monitoring deck",
@@ -159,7 +167,8 @@
   "ref": "deck slide 25",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 9
+  "story_id": 9,
+  "columns": 5
  },
  {
   "source": "Monitoring deck",
@@ -177,7 +186,8 @@
   "ref": "deck slide 26",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 10
+  "story_id": 10,
+  "columns": 12
  },
  {
   "source": "Monitoring deck",
@@ -195,7 +205,8 @@
   "ref": "deck slide 26",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 11
+  "story_id": 11,
+  "columns": 2
  },
  {
   "source": "Monitoring deck",
@@ -213,7 +224,8 @@
   "ref": "deck slide 27",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 12
+  "story_id": 12,
+  "columns": 7
  },
  {
   "source": "Monitoring deck",
@@ -231,7 +243,8 @@
   "ref": "deck slide 28",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 13
+  "story_id": 13,
+  "columns": 6
  },
  {
   "source": "Monitoring deck",
@@ -249,7 +262,8 @@
   "ref": "deck slide 28",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 14
+  "story_id": 14,
+  "columns": 5
  },
  {
   "source": "Monitoring deck",
@@ -267,7 +281,8 @@
   "ref": "deck slide 29",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 15
+  "story_id": 15,
+  "columns": 6
  },
  {
   "source": "Monitoring deck",
@@ -285,7 +300,8 @@
   "ref": "deck slide 30",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 16
+  "story_id": 16,
+  "columns": 7
  },
  {
   "source": "Monitoring deck",
@@ -303,7 +319,8 @@
   "ref": "deck slide 31",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 17
+  "story_id": 17,
+  "columns": 4
  },
  {
   "source": "Monitoring deck",
@@ -321,7 +338,8 @@
   "ref": "deck slide 31",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 18
+  "story_id": 18,
+  "columns": 4
  },
  {
   "source": "Monitoring deck",
@@ -339,7 +357,8 @@
   "ref": "deck slide 32",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 19
+  "story_id": 19,
+  "columns": 6
  },
  {
   "source": "Monitoring deck",
@@ -357,7 +376,8 @@
   "ref": "deck slide 33",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 20
+  "story_id": 20,
+  "columns": 5
  },
  {
   "source": "Monitoring deck",
@@ -375,7 +395,8 @@
   "ref": "deck slide 34",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 21
+  "story_id": 21,
+  "columns": 5
  },
  {
   "source": "Monitoring deck",
@@ -393,7 +414,8 @@
   "ref": "deck slide 35",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 22
+  "story_id": 22,
+  "columns": 8
  },
  {
   "source": "Monitoring deck",
@@ -411,7 +433,8 @@
   "ref": "deck slide 36",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 23
+  "story_id": 23,
+  "columns": 8
  },
  {
   "source": "Monitoring deck",
@@ -429,7 +452,8 @@
   "ref": "deck slide 37",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 24
+  "story_id": 24,
+  "columns": 5
  },
  {
   "source": "Monitoring deck",
@@ -447,7 +471,8 @@
   "ref": "deck slide 38",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 25
+  "story_id": 25,
+  "columns": 6
  },
  {
   "source": "Monitoring deck",
@@ -465,7 +490,8 @@
   "ref": "deck slide 39",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 26
+  "story_id": 26,
+  "columns": 3
  },
  {
   "source": "Monitoring deck",
@@ -483,7 +509,8 @@
   "ref": "deck slide 40",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 27
+  "story_id": 27,
+  "columns": 8
  },
  {
   "source": "Monitoring deck",
@@ -501,7 +528,8 @@
   "ref": "deck slide 41",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 28
+  "story_id": 28,
+  "columns": 4
  },
  {
   "source": "Monitoring deck",
@@ -519,7 +547,8 @@
   "ref": "deck slide 42",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 29
+  "story_id": 29,
+  "columns": 7
  },
  {
   "source": "Monitoring deck",
@@ -537,7 +566,8 @@
   "ref": "deck slide 43",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 30
+  "story_id": 30,
+  "columns": 7
  },
  {
   "source": "Monitoring deck",
@@ -555,7 +585,8 @@
   "ref": "deck slide 44",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 31
+  "story_id": 31,
+  "columns": 2
  },
  {
   "source": "Monitoring deck",
@@ -573,7 +604,8 @@
   "ref": "deck slide 45",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 32
+  "story_id": 32,
+  "columns": 2
  },
  {
   "source": "Monitoring deck",
@@ -591,7 +623,8 @@
   "ref": "deck slide 46",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 33
+  "story_id": 33,
+  "columns": 4
  },
  {
   "source": "Monitoring deck",
@@ -609,7 +642,8 @@
   "ref": "deck slide 47",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 34
+  "story_id": 34,
+  "columns": 9
  },
  {
   "source": "Monitoring deck",
@@ -627,7 +661,8 @@
   "ref": "deck slide 48",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 35
+  "story_id": 35,
+  "columns": 3
  },
  {
   "source": "Monitoring deck",
@@ -645,7 +680,8 @@
   "ref": "deck slide 49",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 36
+  "story_id": 36,
+  "columns": 6
  },
  {
   "source": "Monitoring deck",
@@ -663,7 +699,8 @@
   "ref": "deck slide 50",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 37
+  "story_id": 37,
+  "columns": 6
  },
  {
   "source": "Monitoring deck",
@@ -681,7 +718,8 @@
   "ref": "deck slide 51",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 38
+  "story_id": 38,
+  "columns": 3
  },
  {
   "source": "Monitoring deck",
@@ -699,7 +737,8 @@
   "ref": "deck slide 52",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 39
+  "story_id": 39,
+  "columns": 1
  },
  {
   "source": "Monitoring deck",
@@ -717,7 +756,8 @@
   "ref": "deck slide 53",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 40
+  "story_id": 40,
+  "columns": 4
  },
  {
   "source": "Monitoring deck",
@@ -735,7 +775,8 @@
   "ref": "deck slide 54",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 41
+  "story_id": 41,
+  "columns": 4
  },
  {
   "source": "Monitoring deck",
@@ -753,7 +794,8 @@
   "ref": "deck slide 55",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 42
+  "story_id": 42,
+  "columns": 4
  },
  {
   "source": "Monitoring deck",
@@ -771,7 +813,8 @@
   "ref": "deck slide 56",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 43
+  "story_id": 43,
+  "columns": 2
  },
  {
   "source": "Monitoring deck",
@@ -789,7 +832,8 @@
   "ref": "deck slide 57",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 44
+  "story_id": 44,
+  "columns": 2
  },
  {
   "source": "Monitoring deck",
@@ -807,7 +851,8 @@
   "ref": "deck slide 58",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 45
+  "story_id": 45,
+  "columns": 5
  },
  {
   "source": "Monitoring deck",
@@ -825,7 +870,8 @@
   "ref": "deck slide 59",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 46
+  "story_id": 46,
+  "columns": 1
  },
  {
   "source": "Monitoring deck",
@@ -843,7 +889,8 @@
   "ref": "deck slide 60",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 47
+  "story_id": 47,
+  "columns": 2
  },
  {
   "source": "Monitoring deck",
@@ -861,7 +908,8 @@
   "ref": "deck slide 61",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 48
+  "story_id": 48,
+  "columns": 4
  },
  {
   "source": "Monitoring deck",
@@ -879,7 +927,8 @@
   "ref": "deck slide 62",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 49
+  "story_id": 49,
+  "columns": 1
  },
  {
   "source": "Monitoring deck",
@@ -897,7 +946,8 @@
   "ref": "deck slide 63",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 50
+  "story_id": 50,
+  "columns": 3
  },
  {
   "source": "Monitoring deck",
@@ -915,7 +965,8 @@
   "ref": "deck slide 64",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 51
+  "story_id": 51,
+  "columns": 1
  },
  {
   "source": "Monitoring deck",
@@ -933,7 +984,8 @@
   "ref": "deck slide 65",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 52
+  "story_id": 52,
+  "columns": 4
  },
  {
   "source": "Monitoring deck",
@@ -951,7 +1003,8 @@
   "ref": "deck slide 66",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 53
+  "story_id": 53,
+  "columns": 2
  },
  {
   "source": "Monitoring deck",
@@ -969,7 +1022,8 @@
   "ref": "deck slide 67",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 54
+  "story_id": 54,
+  "columns": 4
  },
  {
   "source": "Monitoring deck",
@@ -987,7 +1041,8 @@
   "ref": "deck slide 68",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 55
+  "story_id": 55,
+  "columns": 1
  },
  {
   "source": "Monitoring deck",
@@ -1005,7 +1060,8 @@
   "ref": "deck slide 69",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 56
+  "story_id": 56,
+  "columns": 2
  },
  {
   "source": "Monitoring deck",
@@ -1023,7 +1079,8 @@
   "ref": "deck slide 70",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 57
+  "story_id": 57,
+  "columns": 2
  },
  {
   "source": "Monitoring deck",
@@ -1041,7 +1098,8 @@
   "ref": "deck slide 71",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 58
+  "story_id": 58,
+  "columns": 3
  },
  {
   "source": "Monitoring deck",
@@ -1059,7 +1117,8 @@
   "ref": "deck slide 72",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 59
+  "story_id": 59,
+  "columns": 1
  },
  {
   "source": "Monitoring deck",
@@ -1077,7 +1136,8 @@
   "ref": "deck slide 73",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 60
+  "story_id": 60,
+  "columns": 1
  },
  {
   "source": "Monitoring deck",
@@ -1095,7 +1155,8 @@
   "ref": "deck slide 74",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 61
+  "story_id": 61,
+  "columns": 1
  },
  {
   "source": "Monitoring deck",
@@ -1113,7 +1174,8 @@
   "ref": "deck slide 75",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 62
+  "story_id": 62,
+  "columns": 3
  },
  {
   "source": "Monitoring deck",
@@ -1131,7 +1193,8 @@
   "ref": "deck slide 76",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 63
+  "story_id": 63,
+  "columns": 2
  },
  {
   "source": "Monitoring deck",
@@ -1149,7 +1212,8 @@
   "ref": "deck slide 77",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 64
+  "story_id": 64,
+  "columns": 1
  },
  {
   "source": "Monitoring deck",
@@ -1167,7 +1231,8 @@
   "ref": "deck slide 78",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 65
+  "story_id": 65,
+  "columns": 4
  },
  {
   "source": "Monitoring deck",
@@ -1185,7 +1250,8 @@
   "ref": "deck slide 79",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 66
+  "story_id": 66,
+  "columns": 7
  },
  {
   "source": "Monitoring deck",
@@ -1203,7 +1269,8 @@
   "ref": "deck slide 80",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 67
+  "story_id": 67,
+  "columns": 3
  },
  {
   "source": "Monitoring deck",
@@ -1221,7 +1288,8 @@
   "ref": "deck slide 81",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 68
+  "story_id": 68,
+  "columns": 5
  },
  {
   "source": "Monitoring deck",
@@ -1239,7 +1307,8 @@
   "ref": "deck slide 82",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 69
+  "story_id": 69,
+  "columns": 3
  },
  {
   "source": "Monitoring deck",
@@ -1257,7 +1326,8 @@
   "ref": "deck slide 83",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 70
+  "story_id": 70,
+  "columns": 2
  },
  {
   "source": "Monitoring deck",
@@ -1275,7 +1345,8 @@
   "ref": "deck slide 84",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 71
+  "story_id": 71,
+  "columns": 2
  },
  {
   "source": "Monitoring deck",
@@ -1293,7 +1364,8 @@
   "ref": "deck slide 85",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 72
+  "story_id": 72,
+  "columns": 7
  },
  {
   "source": "Monitoring deck",
@@ -1311,7 +1383,8 @@
   "ref": "deck slide 86",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 73
+  "story_id": 73,
+  "columns": 4
  },
  {
   "source": "Monitoring deck",
@@ -1329,7 +1402,8 @@
   "ref": "deck slide 87",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 74
+  "story_id": 74,
+  "columns": 2
  },
  {
   "source": "Monitoring deck",
@@ -1347,7 +1421,8 @@
   "ref": "deck slide 88",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 75
+  "story_id": 75,
+  "columns": 5
  },
  {
   "source": "Monitoring deck",
@@ -1365,7 +1440,8 @@
   "ref": "deck slide 89",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 76
+  "story_id": 76,
+  "columns": 3
  },
  {
   "source": "Monitoring deck",
@@ -1383,7 +1459,8 @@
   "ref": "deck slide 90",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 77
+  "story_id": 77,
+  "columns": 5
  },
  {
   "source": "Monitoring deck",
@@ -1401,7 +1478,8 @@
   "ref": "deck slide 91",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 78
+  "story_id": 78,
+  "columns": 2
  },
  {
   "source": "Monitoring deck",
@@ -1419,7 +1497,8 @@
   "ref": "deck slide 92",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 79
+  "story_id": 79,
+  "columns": 6
  },
  {
   "source": "Monitoring deck",
@@ -1437,7 +1516,8 @@
   "ref": "deck slide 93",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 80
+  "story_id": 80,
+  "columns": 6
  },
  {
   "source": "Monitoring deck",
@@ -1455,7 +1535,8 @@
   "ref": "deck slide 94",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 81
+  "story_id": 81,
+  "columns": 2
  },
  {
   "source": "Monitoring deck",
@@ -1473,7 +1554,8 @@
   "ref": "deck slide 95",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 82
+  "story_id": 82,
+  "columns": 8
  },
  {
   "source": "Monitoring deck",
@@ -1491,7 +1573,8 @@
   "ref": "deck slide 96",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 83
+  "story_id": 83,
+  "columns": 3
  },
  {
   "source": "Monitoring deck",
@@ -1509,7 +1592,8 @@
   "ref": "deck slide 97",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 84
+  "story_id": 84,
+  "columns": 4
  },
  {
   "source": "Monitoring deck",
@@ -1527,7 +1611,8 @@
   "ref": "deck slide 98",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 85
+  "story_id": 85,
+  "columns": 5
  },
  {
   "source": "Monitoring deck",
@@ -1545,7 +1630,8 @@
   "ref": "deck slide 99",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 86
+  "story_id": 86,
+  "columns": 5
  },
  {
   "source": "Monitoring deck",
@@ -1563,7 +1649,8 @@
   "ref": "deck slide 100",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 87
+  "story_id": 87,
+  "columns": 5
  },
  {
   "source": "Monitoring deck",
@@ -1581,7 +1668,8 @@
   "ref": "deck slide 101",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 88
+  "story_id": 88,
+  "columns": 5
  },
  {
   "source": "Monitoring deck",
@@ -1599,7 +1687,8 @@
   "ref": "deck slide 102",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 89
+  "story_id": 89,
+  "columns": 6
  },
  {
   "source": "Monitoring deck",
@@ -1617,7 +1706,8 @@
   "ref": "deck slide 103",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 90
+  "story_id": 90,
+  "columns": 4
  },
  {
   "source": "Monitoring deck",
@@ -1635,7 +1725,8 @@
   "ref": "deck slide 104",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 91
+  "story_id": 91,
+  "columns": 4
  },
  {
   "source": "Monitoring deck",
@@ -1653,7 +1744,8 @@
   "ref": "deck slide 105",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 92
+  "story_id": 92,
+  "columns": 1
  },
  {
   "source": "Monitoring deck",
@@ -1671,7 +1763,8 @@
   "ref": "deck slide 106",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 93
+  "story_id": 93,
+  "columns": 1
  },
  {
   "source": "Monitoring deck",
@@ -1689,7 +1782,8 @@
   "ref": "deck slide 107",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 94
+  "story_id": 94,
+  "columns": 7
  },
  {
   "source": "Monitoring deck",
@@ -1707,7 +1801,8 @@
   "ref": "deck slide 108",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 95
+  "story_id": 95,
+  "columns": 4
  },
  {
   "source": "Monitoring deck",
@@ -1725,7 +1820,8 @@
   "ref": "deck slide 109",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 96
+  "story_id": 96,
+  "columns": 1
  },
  {
   "source": "Monitoring deck",
@@ -1743,7 +1839,8 @@
   "ref": "deck slide 110",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 97
+  "story_id": 97,
+  "columns": 6
  },
  {
   "source": "Monitoring deck",
@@ -1761,7 +1858,8 @@
   "ref": "deck slide 111",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 98
+  "story_id": 98,
+  "columns": 6
  },
  {
   "source": "Monitoring deck",
@@ -1779,7 +1877,8 @@
   "ref": "deck slide 112",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 99
+  "story_id": 99,
+  "columns": 6
  },
  {
   "source": "Monitoring deck",
@@ -1797,7 +1896,8 @@
   "ref": "deck slide 113",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 100
+  "story_id": 100,
+  "columns": 5
  },
  {
   "source": "Monitoring deck",
@@ -1815,7 +1915,8 @@
   "ref": "deck slide 114",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 101
+  "story_id": 101,
+  "columns": 4
  },
  {
   "source": "Monitoring deck",
@@ -1833,7 +1934,8 @@
   "ref": "deck slide 115",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 102
+  "story_id": 102,
+  "columns": 5
  },
  {
   "source": "Monitoring deck",
@@ -1851,7 +1953,8 @@
   "ref": "deck slide 116",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 103
+  "story_id": 103,
+  "columns": 3
  },
  {
   "source": "Monitoring deck",
@@ -1869,7 +1972,8 @@
   "ref": "deck slide 117",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 104
+  "story_id": 104,
+  "columns": 2
  },
  {
   "source": "Monitoring deck",
@@ -1887,7 +1991,8 @@
   "ref": "deck slide 118",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 105
+  "story_id": 105,
+  "columns": 3
  },
  {
   "source": "Monitoring deck",
@@ -1905,7 +2010,8 @@
   "ref": "deck slide 119",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 106
+  "story_id": 106,
+  "columns": 2
  },
  {
   "source": "Monitoring deck",
@@ -1923,7 +2029,8 @@
   "ref": "deck slide 120",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 107
+  "story_id": 107,
+  "columns": 3
  },
  {
   "source": "Monitoring deck",
@@ -1941,7 +2048,8 @@
   "ref": "deck slide 121",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 108
+  "story_id": 108,
+  "columns": 3
  },
  {
   "source": "Monitoring deck",
@@ -1959,7 +2067,8 @@
   "ref": "deck slide 122",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 109
+  "story_id": 109,
+  "columns": 1
  },
  {
   "source": "Monitoring deck",
@@ -1977,7 +2086,8 @@
   "ref": "deck slide 123",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 110
+  "story_id": 110,
+  "columns": 3
  },
  {
   "source": "Monitoring deck",
@@ -1995,7 +2105,8 @@
   "ref": "deck slide 124",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 111
+  "story_id": 111,
+  "columns": 2
  },
  {
   "source": "Monitoring deck",
@@ -2013,7 +2124,8 @@
   "ref": "deck slide 125",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 112
+  "story_id": 112,
+  "columns": 3
  },
  {
   "source": "Monitoring deck",
@@ -2031,7 +2143,8 @@
   "ref": "deck slide 126",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 113
+  "story_id": 113,
+  "columns": 3
  },
  {
   "source": "Monitoring deck",
@@ -2049,7 +2162,8 @@
   "ref": "deck slide 127",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 114
+  "story_id": 114,
+  "columns": 4
  },
  {
   "source": "Monitoring deck",
@@ -2067,7 +2181,8 @@
   "ref": "deck slide 128",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 115
+  "story_id": 115,
+  "columns": 3
  },
  {
   "source": "Monitoring deck",
@@ -2085,7 +2200,8 @@
   "ref": "deck slide 129",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 116
+  "story_id": 116,
+  "columns": 6
  },
  {
   "source": "Monitoring deck",
@@ -2103,7 +2219,8 @@
   "ref": "deck slide 130",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 117
+  "story_id": 117,
+  "columns": 3
  },
  {
   "source": "Monitoring deck",
@@ -2121,7 +2238,8 @@
   "ref": "deck slide 131",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 118
+  "story_id": 118,
+  "columns": 3
  },
  {
   "source": "Monitoring deck",
@@ -2139,7 +2257,8 @@
   "ref": "deck slide 132",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 119
+  "story_id": 119,
+  "columns": 5
  },
  {
   "source": "Monitoring deck",
@@ -2157,7 +2276,8 @@
   "ref": "deck slide 133",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 120
+  "story_id": 120,
+  "columns": 2
  },
  {
   "source": "Monitoring deck",
@@ -2175,7 +2295,8 @@
   "ref": "deck slide 134",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 121
+  "story_id": 121,
+  "columns": 4
  },
  {
   "source": "Monitoring deck",
@@ -2193,7 +2314,8 @@
   "ref": "deck slide 135",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 122
+  "story_id": 122,
+  "columns": 2
  },
  {
   "source": "Monitoring deck",
@@ -2211,7 +2333,8 @@
   "ref": "deck slide 136",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 123
+  "story_id": 123,
+  "columns": 3
  },
  {
   "source": "Monitoring deck",
@@ -2229,7 +2352,8 @@
   "ref": "deck slide 137",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 124
+  "story_id": 124,
+  "columns": 3
  },
  {
   "source": "Monitoring deck",
@@ -2247,7 +2371,8 @@
   "ref": "deck slide 138",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 125
+  "story_id": 125,
+  "columns": 3
  },
  {
   "source": "Monitoring deck",
@@ -2265,7 +2390,8 @@
   "ref": "deck slide 139",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 126
+  "story_id": 126,
+  "columns": 4
  },
  {
   "source": "Monitoring deck",
@@ -2283,7 +2409,8 @@
   "ref": "deck slide 140",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 127
+  "story_id": 127,
+  "columns": 6
  },
  {
   "source": "Monitoring deck",
@@ -2301,7 +2428,8 @@
   "ref": "deck slide 141",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 128
+  "story_id": 128,
+  "columns": 4
  },
  {
   "source": "Monitoring deck",
@@ -2319,7 +2447,8 @@
   "ref": "deck slide 142",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 129
+  "story_id": 129,
+  "columns": 6
  },
  {
   "source": "Monitoring deck",
@@ -2337,7 +2466,8 @@
   "ref": "deck slide 143",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 130
+  "story_id": 130,
+  "columns": 5
  },
  {
   "source": "Monitoring deck",
@@ -2355,7 +2485,8 @@
   "ref": "deck slide 144",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 131
+  "story_id": 131,
+  "columns": 5
  },
  {
   "source": "Monitoring deck",
@@ -2373,7 +2504,8 @@
   "ref": "deck slide 145",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 132
+  "story_id": 132,
+  "columns": 6
  },
  {
   "source": "Monitoring deck",
@@ -2391,7 +2523,8 @@
   "ref": "deck slide 146",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 133
+  "story_id": 133,
+  "columns": 2
  },
  {
   "source": "Monitoring deck",
@@ -2409,7 +2542,8 @@
   "ref": "deck slide 147",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 134
+  "story_id": 134,
+  "columns": 2
  },
  {
   "source": "Monitoring deck",
@@ -2427,7 +2561,8 @@
   "ref": "deck slide 148",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 135
+  "story_id": 135,
+  "columns": 3
  },
  {
   "source": "Monitoring deck",
@@ -2445,7 +2580,8 @@
   "ref": "deck slide 149",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 136
+  "story_id": 136,
+  "columns": 6
  },
  {
   "source": "Monitoring deck",
@@ -2463,7 +2599,8 @@
   "ref": "deck slide 150",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 137
+  "story_id": 137,
+  "columns": 6
  },
  {
   "source": "Monitoring deck",
@@ -2481,7 +2618,8 @@
   "ref": "deck slide 151",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 138
+  "story_id": 138,
+  "columns": 6
  },
  {
   "source": "Monitoring deck",
@@ -2499,7 +2637,8 @@
   "ref": "deck slide 152",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 139
+  "story_id": 139,
+  "columns": 2
  },
  {
   "source": "Monitoring deck",
@@ -2517,7 +2656,8 @@
   "ref": "deck slide 153",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 140
+  "story_id": 140,
+  "columns": 3
  },
  {
   "source": "Monitoring deck",
@@ -2535,7 +2675,8 @@
   "ref": "deck slide 154",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 141
+  "story_id": 141,
+  "columns": 2
  },
  {
   "source": "Monitoring deck",
@@ -2553,7 +2694,8 @@
   "ref": "deck slide 155",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 142
+  "story_id": 142,
+  "columns": 3
  },
  {
   "source": "Monitoring deck",
@@ -2571,7 +2713,8 @@
   "ref": "deck slide 156",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 143
+  "story_id": 143,
+  "columns": 1
  },
  {
   "source": "Monitoring deck",
@@ -2589,7 +2732,8 @@
   "ref": "deck slide 157",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 144
+  "story_id": 144,
+  "columns": 6
  },
  {
   "source": "Monitoring deck",
@@ -2607,7 +2751,8 @@
   "ref": "deck slide 158",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 145
+  "story_id": 145,
+  "columns": 1
  },
  {
   "source": "Monitoring deck",
@@ -2625,7 +2770,8 @@
   "ref": "deck slide 159",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 146
+  "story_id": 146,
+  "columns": 5
  },
  {
   "source": "Monitoring deck",
@@ -2643,7 +2789,8 @@
   "ref": "deck slide 160",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 147
+  "story_id": 147,
+  "columns": 3
  },
  {
   "source": "Monitoring deck",
@@ -2661,7 +2808,8 @@
   "ref": "deck slide 161",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 148
+  "story_id": 148,
+  "columns": 6
  },
  {
   "source": "Monitoring deck",
@@ -2679,7 +2827,8 @@
   "ref": "deck slide 162",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 149
+  "story_id": 149,
+  "columns": 3
  },
  {
   "source": "Monitoring deck",
@@ -2697,7 +2846,8 @@
   "ref": "deck slide 163",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 150
+  "story_id": 150,
+  "columns": 5
  },
  {
   "source": "Monitoring deck",
@@ -2715,7 +2865,8 @@
   "ref": "deck slide 164",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 151
+  "story_id": 151,
+  "columns": 6
  },
  {
   "source": "Monitoring deck",
@@ -2733,7 +2884,8 @@
   "ref": "deck slide 165",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 152
+  "story_id": 152,
+  "columns": 4
  },
  {
   "source": "Monitoring deck",
@@ -2751,7 +2903,8 @@
   "ref": "deck slide 166",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 153
+  "story_id": 153,
+  "columns": 3
  },
  {
   "source": "Monitoring deck",
@@ -2769,7 +2922,8 @@
   "ref": "deck slide 167",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 154
+  "story_id": 154,
+  "columns": 4
  },
  {
   "source": "Monitoring deck",
@@ -2787,7 +2941,8 @@
   "ref": "deck slide 168",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 155
+  "story_id": 155,
+  "columns": 2
  },
  {
   "source": "Monitoring deck",
@@ -2805,7 +2960,8 @@
   "ref": "deck slide 169",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 156
+  "story_id": 156,
+  "columns": 5
  },
  {
   "source": "Monitoring deck",
@@ -2823,7 +2979,8 @@
   "ref": "deck slide 170",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 157
+  "story_id": 157,
+  "columns": 5
  },
  {
   "source": "Monitoring deck",
@@ -2841,7 +2998,8 @@
   "ref": "deck slide 171",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 158
+  "story_id": 158,
+  "columns": 2
  },
  {
   "source": "Monitoring deck",
@@ -2859,7 +3017,8 @@
   "ref": "deck slide 172",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 159
+  "story_id": 159,
+  "columns": 6
  },
  {
   "source": "Monitoring deck",
@@ -2877,7 +3036,8 @@
   "ref": "deck slide 173",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 160
+  "story_id": 160,
+  "columns": 3
  },
  {
   "source": "Monitoring deck",
@@ -2895,7 +3055,8 @@
   "ref": "deck slide 174",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 161
+  "story_id": 161,
+  "columns": 3
  },
  {
   "source": "Monitoring deck",
@@ -2913,7 +3074,8 @@
   "ref": "deck slide 175",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 162
+  "story_id": 162,
+  "columns": 4
  },
  {
   "source": "Monitoring deck",
@@ -2931,7 +3093,8 @@
   "ref": "deck slide 176",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 163
+  "story_id": 163,
+  "columns": 3
  },
  {
   "source": "Monitoring deck",
@@ -2949,7 +3112,8 @@
   "ref": "deck slide 177",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 164
+  "story_id": 164,
+  "columns": 5
  },
  {
   "source": "Monitoring deck",
@@ -2967,7 +3131,8 @@
   "ref": "deck slide 177",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 165
+  "story_id": 165,
+  "columns": 2
  },
  {
   "source": "Monitoring deck",
@@ -2985,7 +3150,8 @@
   "ref": "deck slide 178",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 166
+  "story_id": 166,
+  "columns": 6
  },
  {
   "source": "Monitoring deck",
@@ -3003,7 +3169,8 @@
   "ref": "deck slide 179",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 167
+  "story_id": 167,
+  "columns": 3
  },
  {
   "source": "Monitoring deck",
@@ -3021,7 +3188,8 @@
   "ref": "deck slide 180",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 168
+  "story_id": 168,
+  "columns": 2
  },
  {
   "source": "Monitoring deck",
@@ -3039,7 +3207,8 @@
   "ref": "deck slide 181",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 169
+  "story_id": 169,
+  "columns": 5
  },
  {
   "source": "Monitoring deck",
@@ -3057,7 +3226,8 @@
   "ref": "deck slide 182",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 170
+  "story_id": 170,
+  "columns": 1
  },
  {
   "source": "Monitoring deck",
@@ -3075,7 +3245,8 @@
   "ref": "deck slide 183",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 171
+  "story_id": 171,
+  "columns": 3
  },
  {
   "source": "Monitoring deck",
@@ -3093,7 +3264,8 @@
   "ref": "deck slide 184",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 172
+  "story_id": 172,
+  "columns": 5
  },
  {
   "source": "Monitoring deck",
@@ -3111,7 +3283,8 @@
   "ref": "deck slide 185",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 173
+  "story_id": 173,
+  "columns": 3
  },
  {
   "source": "Monitoring deck",
@@ -3129,7 +3302,8 @@
   "ref": "deck slide 186",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 174
+  "story_id": 174,
+  "columns": 3
  },
  {
   "source": "Monitoring deck",
@@ -3147,7 +3321,8 @@
   "ref": "deck slide 187",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 175
+  "story_id": 175,
+  "columns": 3
  },
  {
   "source": "Monitoring deck",
@@ -3165,7 +3340,8 @@
   "ref": "deck slide 188",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 176
+  "story_id": 176,
+  "columns": 3
  },
  {
   "source": "Monitoring deck",
@@ -3183,7 +3359,8 @@
   "ref": "deck slide 189",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 177
+  "story_id": 177,
+  "columns": 5
  },
  {
   "source": "Monitoring deck",
@@ -3201,7 +3378,8 @@
   "ref": "deck slide 190",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 178
+  "story_id": 178,
+  "columns": 4
  },
  {
   "source": "Monitoring deck",
@@ -3219,7 +3397,8 @@
   "ref": "deck slide 191",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 179
+  "story_id": 179,
+  "columns": 4
  },
  {
   "source": "Monitoring deck",
@@ -3237,7 +3416,8 @@
   "ref": "deck slide 192",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 180
+  "story_id": 180,
+  "columns": 4
  },
  {
   "source": "Monitoring deck",
@@ -3255,7 +3435,8 @@
   "ref": "deck slide 193",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 181
+  "story_id": 181,
+  "columns": 2
  },
  {
   "source": "Monitoring deck",
@@ -3273,7 +3454,8 @@
   "ref": "deck slide 194",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 182
+  "story_id": 182,
+  "columns": 1
  },
  {
   "source": "Monitoring deck",
@@ -3291,7 +3473,8 @@
   "ref": "deck slide 195",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 183
+  "story_id": 183,
+  "columns": 3
  },
  {
   "source": "Monitoring deck",
@@ -3309,7 +3492,8 @@
   "ref": "deck slide 196",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 184
+  "story_id": 184,
+  "columns": 1
  },
  {
   "source": "Monitoring deck",
@@ -3327,7 +3511,8 @@
   "ref": "deck slide 197",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 185
+  "story_id": 185,
+  "columns": 3
  },
  {
   "source": "Monitoring deck",
@@ -3345,7 +3530,8 @@
   "ref": "deck slide 198",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 186
+  "story_id": 186,
+  "columns": 4
  },
  {
   "source": "Monitoring deck",
@@ -3363,7 +3549,8 @@
   "ref": "deck slide 199",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 187
+  "story_id": 187,
+  "columns": 3
  },
  {
   "source": "Monitoring deck",
@@ -3381,7 +3568,8 @@
   "ref": "deck slide 200",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 188
+  "story_id": 188,
+  "columns": 3
  },
  {
   "source": "Monitoring deck",
@@ -3399,7 +3587,8 @@
   "ref": "deck slide 201",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 189
+  "story_id": 189,
+  "columns": 4
  },
  {
   "source": "Monitoring deck",
@@ -3417,7 +3606,8 @@
   "ref": "deck slide 202",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 190
+  "story_id": 190,
+  "columns": 5
  },
  {
   "source": "Monitoring deck",
@@ -3435,7 +3625,8 @@
   "ref": "deck slide 203",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 191
+  "story_id": 191,
+  "columns": 4
  },
  {
   "source": "Monitoring deck",
@@ -3453,7 +3644,8 @@
   "ref": "deck slide 204",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 192
+  "story_id": 192,
+  "columns": 6
  },
  {
   "source": "Monitoring deck",
@@ -3471,7 +3663,8 @@
   "ref": "deck slide 205",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 193
+  "story_id": 193,
+  "columns": 5
  },
  {
   "source": "Monitoring deck",
@@ -3489,7 +3682,8 @@
   "ref": "deck slide 206",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 194
+  "story_id": 194,
+  "columns": 6
  },
  {
   "source": "Monitoring deck",
@@ -3507,7 +3701,8 @@
   "ref": "deck slide 207",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 195
+  "story_id": 195,
+  "columns": 4
  },
  {
   "source": "Monitoring deck",
@@ -3525,7 +3720,8 @@
   "ref": "deck slide 208",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 196
+  "story_id": 196,
+  "columns": 6
  },
  {
   "source": "Monitoring deck",
@@ -3543,7 +3739,8 @@
   "ref": "deck slide 209",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 197
+  "story_id": 197,
+  "columns": 6
  },
  {
   "source": "Monitoring deck",
@@ -3561,7 +3758,8 @@
   "ref": "deck slide 210",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 198
+  "story_id": 198,
+  "columns": 6
  },
  {
   "source": "Monitoring deck",
@@ -3579,7 +3777,8 @@
   "ref": "deck slide 211",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 199
+  "story_id": 199,
+  "columns": 2
  },
  {
   "source": "Monitoring deck",
@@ -3597,7 +3796,8 @@
   "ref": "deck slide 212",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 200
+  "story_id": 200,
+  "columns": 3
  },
  {
   "source": "Monitoring deck",
@@ -3615,7 +3815,8 @@
   "ref": "deck slide 213",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 201
+  "story_id": 201,
+  "columns": 1
  },
  {
   "source": "Monitoring deck",
@@ -3633,7 +3834,8 @@
   "ref": "deck slide 214",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 202
+  "story_id": 202,
+  "columns": 3
  },
  {
   "source": "Monitoring deck",
@@ -3651,7 +3853,8 @@
   "ref": "deck slide 215",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 203
+  "story_id": 203,
+  "columns": 3
  },
  {
   "source": "Monitoring deck",
@@ -3669,7 +3872,8 @@
   "ref": "deck slide 216",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 204
+  "story_id": 204,
+  "columns": 4
  },
  {
   "source": "Monitoring deck",
@@ -3687,7 +3891,8 @@
   "ref": "deck slide 217",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 205
+  "story_id": 205,
+  "columns": 6
  },
  {
   "source": "Monitoring deck",
@@ -3705,7 +3910,8 @@
   "ref": "deck slide 218",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 206
+  "story_id": 206,
+  "columns": 4
  },
  {
   "source": "Monitoring deck",
@@ -3723,7 +3929,8 @@
   "ref": "deck slide 219",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 207
+  "story_id": 207,
+  "columns": 2
  },
  {
   "source": "Monitoring deck",
@@ -3741,7 +3948,8 @@
   "ref": "deck slide 220",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 208
+  "story_id": 208,
+  "columns": 2
  },
  {
   "source": "Monitoring deck",
@@ -3759,7 +3967,8 @@
   "ref": "deck slide 221",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 209
+  "story_id": 209,
+  "columns": 2
  },
  {
   "source": "Monitoring deck",
@@ -3777,7 +3986,8 @@
   "ref": "deck slide 222",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 210
+  "story_id": 210,
+  "columns": 4
  },
  {
   "source": "Monitoring deck",
@@ -3795,7 +4005,8 @@
   "ref": "deck slide 223",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 211
+  "story_id": 211,
+  "columns": 2
  },
  {
   "source": "Monitoring deck",
@@ -3813,7 +4024,8 @@
   "ref": "deck slide 224",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 212
+  "story_id": 212,
+  "columns": 4
  },
  {
   "source": "Monitoring deck",
@@ -3831,7 +4043,8 @@
   "ref": "deck slide 226",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 213
+  "story_id": 213,
+  "columns": 6
  },
  {
   "source": "Monitoring deck",
@@ -3849,7 +4062,8 @@
   "ref": "deck slide 227",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 214
+  "story_id": 214,
+  "columns": 6
  },
  {
   "source": "Monitoring deck",
@@ -3867,7 +4081,8 @@
   "ref": "deck slide 228",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 215
+  "story_id": 215,
+  "columns": 6
  },
  {
   "source": "Monitoring deck",
@@ -3885,7 +4100,8 @@
   "ref": "deck slide 229",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 216
+  "story_id": 216,
+  "columns": 5
  },
  {
   "source": "Monitoring deck",
@@ -3903,7 +4119,8 @@
   "ref": "deck slide 230",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 217
+  "story_id": 217,
+  "columns": 6
  },
  {
   "source": "Monitoring deck",
@@ -3921,7 +4138,8 @@
   "ref": "deck slide 231",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 218
+  "story_id": 218,
+  "columns": 4
  },
  {
   "source": "Monitoring deck",
@@ -3939,7 +4157,8 @@
   "ref": "deck slide 232",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 219
+  "story_id": 219,
+  "columns": 5
  },
  {
   "source": "Monitoring deck",
@@ -3957,7 +4176,8 @@
   "ref": "deck slide 233",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 220
+  "story_id": 220,
+  "columns": 3
  },
  {
   "source": "Monitoring deck",
@@ -3975,7 +4195,8 @@
   "ref": "deck slide 234",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 221
+  "story_id": 221,
+  "columns": 3
  },
  {
   "source": "Monitoring deck",
@@ -3993,7 +4214,8 @@
   "ref": "deck slide 235",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 222
+  "story_id": 222,
+  "columns": 4
  },
  {
   "source": "Monitoring deck",
@@ -4011,7 +4233,8 @@
   "ref": "deck slide 235",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 223
+  "story_id": 223,
+  "columns": 1
  },
  {
   "source": "Monitoring deck",
@@ -4029,7 +4252,8 @@
   "ref": "deck slide 236",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 224
+  "story_id": 224,
+  "columns": 3
  },
  {
   "source": "Monitoring deck",
@@ -4047,7 +4271,8 @@
   "ref": "deck slide 237",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 225
+  "story_id": 225,
+  "columns": 4
  },
  {
   "source": "Monitoring deck",
@@ -4065,7 +4290,8 @@
   "ref": "deck slide 238",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 226
+  "story_id": 226,
+  "columns": 6
  },
  {
   "source": "Monitoring deck",
@@ -4083,7 +4309,8 @@
   "ref": "deck slide 239",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 227
+  "story_id": 227,
+  "columns": 3
  },
  {
   "source": "Monitoring deck",
@@ -4101,7 +4328,8 @@
   "ref": "deck slide 240",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 228
+  "story_id": 228,
+  "columns": 4
  },
  {
   "source": "Monitoring deck",
@@ -4119,7 +4347,8 @@
   "ref": "deck slide 240",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 229
+  "story_id": 229,
+  "columns": 2
  },
  {
   "source": "Monitoring deck",
@@ -4137,7 +4366,8 @@
   "ref": "deck slide 241",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 230
+  "story_id": 230,
+  "columns": 6
  },
  {
   "source": "Monitoring deck",
@@ -4155,7 +4385,8 @@
   "ref": "deck slide 242",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 231
+  "story_id": 231,
+  "columns": 4
  },
  {
   "source": "Monitoring deck",
@@ -4173,7 +4404,8 @@
   "ref": "deck slide 243",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 232
+  "story_id": 232,
+  "columns": 3
  },
  {
   "source": "Monitoring deck",
@@ -4191,7 +4423,8 @@
   "ref": "deck slide 244",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 233
+  "story_id": 233,
+  "columns": 3
  },
  {
   "source": "Monitoring deck",
@@ -4209,7 +4442,8 @@
   "ref": "deck slide 244",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 234
+  "story_id": 234,
+  "columns": 3
  },
  {
   "source": "Monitoring deck",
@@ -4227,7 +4461,8 @@
   "ref": "deck slide 245",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 235
+  "story_id": 235,
+  "columns": 3
  },
  {
   "source": "Monitoring deck",
@@ -4245,7 +4480,8 @@
   "ref": "deck slide 246",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 236
+  "story_id": 236,
+  "columns": 2
  },
  {
   "source": "Monitoring deck",
@@ -4263,7 +4499,8 @@
   "ref": "deck slide 248",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 237
+  "story_id": 237,
+  "columns": 6
  },
  {
   "source": "Monitoring deck",
@@ -4281,7 +4518,8 @@
   "ref": "deck slide 249",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 238
+  "story_id": 238,
+  "columns": 3
  },
  {
   "source": "Monitoring deck",
@@ -4299,7 +4537,8 @@
   "ref": "deck slide 250",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 239
+  "story_id": 239,
+  "columns": 2
  },
  {
   "source": "Monitoring deck",
@@ -4317,7 +4556,8 @@
   "ref": "deck slide 251",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 240
+  "story_id": 240,
+  "columns": 4
  },
  {
   "source": "Monitoring deck",
@@ -4335,7 +4575,8 @@
   "ref": "deck slide 252",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 241
+  "story_id": 241,
+  "columns": 4
  },
  {
   "source": "Monitoring deck",
@@ -4353,7 +4594,8 @@
   "ref": "deck slide 253",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 242
+  "story_id": 242,
+  "columns": 7
  },
  {
   "source": "Monitoring deck",
@@ -4371,7 +4613,8 @@
   "ref": "deck slide 254",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 243
+  "story_id": 243,
+  "columns": 4
  },
  {
   "source": "Monitoring deck",
@@ -4389,7 +4632,8 @@
   "ref": "deck slide 255",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 244
+  "story_id": 244,
+  "columns": 7
  },
  {
   "source": "Monitoring deck",
@@ -4407,7 +4651,8 @@
   "ref": "deck slide 256",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 245
+  "story_id": 245,
+  "columns": 2
  },
  {
   "source": "Monitoring deck",
@@ -4425,7 +4670,8 @@
   "ref": "deck slide 257",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 246
+  "story_id": 246,
+  "columns": 4
  },
  {
   "source": "Monitoring deck",
@@ -4443,7 +4689,8 @@
   "ref": "deck slide 258",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 247
+  "story_id": 247,
+  "columns": 3
  },
  {
   "source": "Monitoring deck",
@@ -4461,7 +4708,8 @@
   "ref": "deck slide 259",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 248
+  "story_id": 248,
+  "columns": 3
  },
  {
   "source": "Monitoring deck",
@@ -4479,7 +4727,8 @@
   "ref": "deck slide 260",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 249
+  "story_id": 249,
+  "columns": 3
  },
  {
   "source": "Monitoring deck",
@@ -4497,7 +4746,8 @@
   "ref": "deck slide 261",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 250
+  "story_id": 250,
+  "columns": 2
  },
  {
   "source": "Monitoring deck",
@@ -4515,7 +4765,8 @@
   "ref": "deck slide 262",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 251
+  "story_id": 251,
+  "columns": 3
  },
  {
   "source": "Monitoring deck",
@@ -4533,7 +4784,8 @@
   "ref": "deck slide 263",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 252
+  "story_id": 252,
+  "columns": 4
  },
  {
   "source": "Monitoring deck",
@@ -4551,7 +4803,8 @@
   "ref": "deck slide 264",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 253
+  "story_id": 253,
+  "columns": 1
  },
  {
   "source": "Monitoring deck",
@@ -4569,7 +4822,8 @@
   "ref": "deck slide 265",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 254
+  "story_id": 254,
+  "columns": 1
  },
  {
   "source": "Monitoring deck",
@@ -4587,7 +4841,8 @@
   "ref": "deck slide 266",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 255
+  "story_id": 255,
+  "columns": 2
  },
  {
   "source": "Monitoring deck",
@@ -4605,7 +4860,8 @@
   "ref": "deck slide 267",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 256
+  "story_id": 256,
+  "columns": 1
  },
  {
   "source": "Monitoring deck",
@@ -4623,7 +4879,8 @@
   "ref": "deck slide 268",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 257
+  "story_id": 257,
+  "columns": 3
  },
  {
   "source": "Monitoring deck",
@@ -4641,7 +4898,8 @@
   "ref": "deck slide 269",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 258
+  "story_id": 258,
+  "columns": 3
  },
  {
   "source": "Monitoring deck",
@@ -4659,7 +4917,8 @@
   "ref": "deck slide 271",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 259
+  "story_id": 259,
+  "columns": 4
  },
  {
   "source": "Monitoring deck",
@@ -4677,7 +4936,8 @@
   "ref": "deck slide 272",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 260
+  "story_id": 260,
+  "columns": 5
  },
  {
   "source": "Monitoring deck",
@@ -4695,7 +4955,8 @@
   "ref": "deck slide 273",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 261
+  "story_id": 261,
+  "columns": 4
  },
  {
   "source": "Monitoring deck",
@@ -4713,7 +4974,8 @@
   "ref": "deck slide 274",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 262
+  "story_id": 262,
+  "columns": 2
  },
  {
   "source": "Monitoring deck",
@@ -4731,7 +4993,8 @@
   "ref": "deck slide 275",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 263
+  "story_id": 263,
+  "columns": 3
  },
  {
   "source": "Monitoring deck",
@@ -4749,7 +5012,8 @@
   "ref": "deck slide 276",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 264
+  "story_id": 264,
+  "columns": 4
  },
  {
   "source": "Monitoring deck",
@@ -4767,7 +5031,8 @@
   "ref": "deck slide 277",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 265
+  "story_id": 265,
+  "columns": 1
  },
  {
   "source": "Monitoring deck",
@@ -4785,7 +5050,8 @@
   "ref": "deck slide 278",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 266
+  "story_id": 266,
+  "columns": 3
  },
  {
   "source": "Monitoring deck",
@@ -4803,7 +5069,8 @@
   "ref": "deck slide 279",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 267
+  "story_id": 267,
+  "columns": 2
  },
  {
   "source": "Monitoring deck",
@@ -4821,7 +5088,8 @@
   "ref": "deck slide 280",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 268
+  "story_id": 268,
+  "columns": 5
  },
  {
   "source": "Monitoring deck",
@@ -4839,7 +5107,8 @@
   "ref": "deck slide 281",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 269
+  "story_id": 269,
+  "columns": 2
  },
  {
   "source": "Monitoring deck",
@@ -4857,7 +5126,8 @@
   "ref": "deck slide 282",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 270
+  "story_id": 270,
+  "columns": 3
  },
  {
   "source": "Monitoring deck",
@@ -4875,7 +5145,8 @@
   "ref": "deck slide 283",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 271
+  "story_id": 271,
+  "columns": 3
  },
  {
   "source": "Monitoring deck",
@@ -4893,7 +5164,8 @@
   "ref": "deck slide 284",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 272
+  "story_id": 272,
+  "columns": 3
  },
  {
   "source": "Monitoring deck",
@@ -4911,7 +5183,8 @@
   "ref": "deck slide 285",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 273
+  "story_id": 273,
+  "columns": 4
  },
  {
   "source": "Monitoring deck",
@@ -4929,7 +5202,8 @@
   "ref": "deck slide 286",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 274
+  "story_id": 274,
+  "columns": 3
  },
  {
   "source": "Monitoring deck",
@@ -4947,7 +5221,8 @@
   "ref": "deck slide 287",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 275
+  "story_id": 275,
+  "columns": 6
  },
  {
   "source": "Monitoring deck",
@@ -4965,7 +5240,8 @@
   "ref": "deck slide 288",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 276
+  "story_id": 276,
+  "columns": 3
  },
  {
   "source": "Monitoring deck",
@@ -4983,7 +5259,8 @@
   "ref": "deck slide 289",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 277
+  "story_id": 277,
+  "columns": 2
  },
  {
   "source": "Monitoring deck",
@@ -5001,7 +5278,8 @@
   "ref": "deck slide 290",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 278
+  "story_id": 278,
+  "columns": 2
  },
  {
   "source": "Monitoring deck",
@@ -5019,7 +5297,8 @@
   "ref": "deck slide 291",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 279
+  "story_id": 279,
+  "columns": 2
  },
  {
   "source": "Monitoring deck",
@@ -5037,7 +5316,8 @@
   "ref": "deck slide 292",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 280
+  "story_id": 280,
+  "columns": 2
  },
  {
   "source": "Monitoring deck",
@@ -5055,7 +5335,8 @@
   "ref": "deck slide 293",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 281
+  "story_id": 281,
+  "columns": 2
  },
  {
   "source": "Monitoring deck",
@@ -5073,7 +5354,8 @@
   "ref": "deck slide 294",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 282
+  "story_id": 282,
+  "columns": 2
  },
  {
   "source": "Monitoring deck",
@@ -5091,7 +5373,8 @@
   "ref": "deck slide 295",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 283
+  "story_id": 283,
+  "columns": 3
  },
  {
   "source": "Monitoring deck",
@@ -5109,7 +5392,8 @@
   "ref": "deck slide 296",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 284
+  "story_id": 284,
+  "columns": 2
  },
  {
   "source": "Monitoring deck",
@@ -5127,7 +5411,8 @@
   "ref": "deck slide 297",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 285
+  "story_id": 285,
+  "columns": 2
  },
  {
   "source": "Monitoring deck",
@@ -5145,7 +5430,8 @@
   "ref": "deck slide 298",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 286
+  "story_id": 286,
+  "columns": 1
  },
  {
   "source": "Monitoring deck",
@@ -5163,7 +5449,8 @@
   "ref": "deck slide 299",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 287
+  "story_id": 287,
+  "columns": 2
  },
  {
   "source": "Monitoring deck",
@@ -5181,7 +5468,8 @@
   "ref": "deck slide 300",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 288
+  "story_id": 288,
+  "columns": 3
  },
  {
   "source": "Monitoring deck",
@@ -5199,7 +5487,8 @@
   "ref": "deck slide 301",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 289
+  "story_id": 289,
+  "columns": 3
  },
  {
   "source": "Monitoring deck",
@@ -5217,7 +5506,8 @@
   "ref": "deck slide 301",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 290
+  "story_id": 290,
+  "columns": 3
  },
  {
   "source": "Monitoring deck",
@@ -5235,7 +5525,8 @@
   "ref": "deck slide 302",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 291
+  "story_id": 291,
+  "columns": 4
  },
  {
   "source": "Monitoring deck",
@@ -5253,7 +5544,8 @@
   "ref": "deck slide 303",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 292
+  "story_id": 292,
+  "columns": 3
  },
  {
   "source": "Monitoring deck",
@@ -5271,7 +5563,8 @@
   "ref": "deck slide 304",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 293
+  "story_id": 293,
+  "columns": 4
  },
  {
   "source": "Monitoring deck",
@@ -5289,7 +5582,8 @@
   "ref": "deck slide 305",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 294
+  "story_id": 294,
+  "columns": 3
  },
  {
   "source": "Monitoring deck",
@@ -5307,7 +5601,8 @@
   "ref": "deck slide 306",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 295
+  "story_id": 295,
+  "columns": 3
  },
  {
   "source": "Monitoring deck",
@@ -5325,7 +5620,8 @@
   "ref": "deck slide 307",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 296
+  "story_id": 296,
+  "columns": 3
  },
  {
   "source": "Monitoring deck",
@@ -5343,7 +5639,8 @@
   "ref": "deck slide 308",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 297
+  "story_id": 297,
+  "columns": 2
  },
  {
   "source": "Monitoring deck",
@@ -5361,7 +5658,8 @@
   "ref": "deck slide 309",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 298
+  "story_id": 298,
+  "columns": 2
  },
  {
   "source": "Monitoring deck",
@@ -5379,7 +5677,8 @@
   "ref": "deck slide 311",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 299
+  "story_id": 299,
+  "columns": 4
  },
  {
   "source": "Monitoring deck",
@@ -5397,7 +5696,8 @@
   "ref": "deck slide 312",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 300
+  "story_id": 300,
+  "columns": 3
  },
  {
   "source": "Monitoring deck",
@@ -5415,7 +5715,8 @@
   "ref": "deck slide 313",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 301
+  "story_id": 301,
+  "columns": 2
  },
  {
   "source": "Monitoring deck",
@@ -5433,7 +5734,8 @@
   "ref": "deck slide 314",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 302
+  "story_id": 302,
+  "columns": 2
  },
  {
   "source": "Monitoring deck",
@@ -5451,7 +5753,8 @@
   "ref": "deck slide 315",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 303
+  "story_id": 303,
+  "columns": 1
  },
  {
   "source": "Monitoring deck",
@@ -5469,7 +5772,8 @@
   "ref": "deck slide 316",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 304
+  "story_id": 304,
+  "columns": 2
  },
  {
   "source": "Monitoring deck",
@@ -5487,7 +5791,8 @@
   "ref": "deck slide 317",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 305
+  "story_id": 305,
+  "columns": 1
  },
  {
   "source": "Monitoring deck",
@@ -5505,7 +5810,8 @@
   "ref": "deck slide 318",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 306
+  "story_id": 306,
+  "columns": 4
  },
  {
   "source": "Monitoring deck",
@@ -5523,7 +5829,8 @@
   "ref": "deck slide 319",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 307
+  "story_id": 307,
+  "columns": 3
  },
  {
   "source": "Full edition",
@@ -5541,7 +5848,8 @@
   "confidence": "low",
   "ref": "AJIT...pdf p.3",
   "date": "2026-11-15",
-  "story_id": 308
+  "story_id": 308,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -5559,7 +5867,8 @@
   "confidence": "medium",
   "ref": "AJIT...pdf p.4",
   "date": "2026-11-15",
-  "story_id": 309
+  "story_id": 309,
+  "columns": 6
  },
  {
   "source": "Full edition",
@@ -5577,7 +5886,8 @@
   "confidence": "low",
   "ref": "AJIT...pdf p.4",
   "date": "2026-11-15",
-  "story_id": 310
+  "story_id": 310,
+  "columns": 8
  },
  {
   "source": "Full edition",
@@ -5595,7 +5905,8 @@
   "confidence": "high",
   "ref": "AJIT...pdf p.11",
   "date": "2026-11-15",
-  "story_id": 311
+  "story_id": 311,
+  "columns": 4
  },
  {
   "source": "Full edition",
@@ -5613,7 +5924,8 @@
   "confidence": "high",
   "ref": "AJIT...pdf p.11",
   "date": "2026-11-15",
-  "story_id": 312
+  "story_id": 312,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -5631,7 +5943,8 @@
   "confidence": "medium",
   "ref": "AJIT...pdf p.12",
   "date": "2026-11-15",
-  "story_id": 313
+  "story_id": 313,
+  "columns": 4
  },
  {
   "source": "Full edition",
@@ -5649,7 +5962,8 @@
   "confidence": "medium",
   "ref": "AJIT...pdf p.14",
   "date": "2026-11-15",
-  "story_id": 314
+  "story_id": 314,
+  "columns": 3
  },
  {
   "source": "Full edition",
@@ -5667,7 +5981,8 @@
   "confidence": "medium",
   "ref": "AJIT...pdf p.15",
   "date": "2026-11-15",
-  "story_id": 315
+  "story_id": 315,
+  "columns": 4
  },
  {
   "source": "Full edition",
@@ -5685,7 +6000,8 @@
   "confidence": "medium",
   "ref": "AJIT...pdf p.15",
   "date": "2026-11-15",
-  "story_id": 316
+  "story_id": 316,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -5703,7 +6019,8 @@
   "confidence": "low",
   "ref": "AJIT...pdf p.18",
   "date": "2026-11-15",
-  "story_id": 317
+  "story_id": 317,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -5721,7 +6038,8 @@
   "confidence": "medium",
   "ref": "AJIT...pdf p.19",
   "date": "2026-11-15",
-  "story_id": 318
+  "story_id": 318,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -5739,7 +6057,8 @@
   "confidence": "low",
   "ref": "AJIT...pdf p.19",
   "date": "2026-11-15",
-  "story_id": 319
+  "story_id": 319,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -5757,7 +6076,8 @@
   "confidence": "medium",
   "ref": "AJIT...pdf p.19",
   "date": "2026-11-15",
-  "story_id": 320
+  "story_id": 320,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -5775,7 +6095,8 @@
   "confidence": "low",
   "ref": "AJIT...pdf p.19",
   "date": "2026-11-15",
-  "story_id": 321
+  "story_id": 321,
+  "columns": 3
  },
  {
   "source": "Full edition",
@@ -5793,7 +6114,8 @@
   "ref": "PUNJABI TRIBUNE .pdf p.2",
   "date": "2026-11-15",
   "confidence": "low",
-  "story_id": 322
+  "story_id": 322,
+  "columns": 1
  },
  {
   "source": "Full edition",
@@ -5811,7 +6133,8 @@
   "ref": "PUNJABI TRIBUNE .pdf p.3",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 323
+  "story_id": 323,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -5829,7 +6152,8 @@
   "ref": "PUNJABI TRIBUNE .pdf p.3",
   "date": "2026-11-15",
   "confidence": "medium",
-  "story_id": 324
+  "story_id": 324,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -5847,7 +6171,8 @@
   "ref": "PUNJABI TRIBUNE .pdf p.4",
   "date": "2026-11-15",
   "confidence": "medium",
-  "story_id": 325
+  "story_id": 325,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -5865,7 +6190,8 @@
   "ref": "PUNJABI TRIBUNE .pdf p.10",
   "date": "2026-11-15",
   "confidence": "low",
-  "story_id": 326
+  "story_id": 326,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -5883,7 +6209,8 @@
   "ref": "PUNJABI TRIBUNE .pdf p.10",
   "date": "2026-11-15",
   "confidence": "medium",
-  "story_id": 327
+  "story_id": 327,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -5901,7 +6228,8 @@
   "ref": "PUNJABI TRIBUNE .pdf p.11",
   "date": "2026-11-15",
   "confidence": "medium",
-  "story_id": 328
+  "story_id": 328,
+  "columns": 1
  },
  {
   "source": "Full edition",
@@ -5919,7 +6247,8 @@
   "ref": "PUNJABI TRIBUNE .pdf p.11",
   "date": "2026-11-15",
   "confidence": "medium",
-  "story_id": 329
+  "story_id": 329,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -5937,7 +6266,8 @@
   "ref": "Punjabi Jagran...pdf p.1",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 330
+  "story_id": 330,
+  "columns": 1
  },
  {
   "source": "Full edition",
@@ -5955,7 +6285,8 @@
   "ref": "Punjabi Jagran...pdf p.3",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 331
+  "story_id": 331,
+  "columns": 3
  },
  {
   "source": "Full edition",
@@ -5973,7 +6304,8 @@
   "ref": "Punjabi Jagran...pdf p.4",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 332
+  "story_id": 332,
+  "columns": 3
  },
  {
   "source": "Full edition",
@@ -5991,7 +6323,8 @@
   "ref": "Punjabi Jagran...pdf p.5",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 333
+  "story_id": 333,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -6009,7 +6342,8 @@
   "ref": "Rozana Spokesman...pdf p.4",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 334
+  "story_id": 334,
+  "columns": 1
  },
  {
   "source": "Full edition",
@@ -6027,7 +6361,8 @@
   "ref": "Rozana Spokesman...pdf p.4",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 335
+  "story_id": 335,
+  "columns": 1
  },
  {
   "source": "Full edition",
@@ -6045,7 +6380,8 @@
   "ref": "Rozana Spokesman...pdf p.4",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 336
+  "story_id": 336,
+  "columns": 3
  },
  {
   "source": "Full edition",
@@ -6063,7 +6399,8 @@
   "ref": "Rozana Spokesman...pdf p.4",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 337
+  "story_id": 337,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -6081,7 +6418,8 @@
   "ref": "Rozana Spokesman...pdf p.5",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 338
+  "story_id": 338,
+  "columns": 1
  },
  {
   "source": "Full edition",
@@ -6099,7 +6437,8 @@
   "ref": "Rozana Spokesman...pdf p.5",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 339
+  "story_id": 339,
+  "columns": 3
  },
  {
   "source": "Full edition",
@@ -6117,7 +6456,8 @@
   "ref": "Rozana Spokesman...pdf p.9",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 340
+  "story_id": 340,
+  "columns": 1
  },
  {
   "source": "Full edition",
@@ -6135,7 +6475,8 @@
   "ref": "Rozana Spokesman...pdf p.9",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 341
+  "story_id": 341,
+  "columns": 3
  },
  {
   "source": "Full edition",
@@ -6153,7 +6494,8 @@
   "ref": "Jagbani...pdf p.6",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 342
+  "story_id": 342,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -6171,7 +6513,8 @@
   "ref": "Punjab Kesari...pdf p.6",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 343
+  "story_id": 343,
+  "columns": 4
  },
  {
   "source": "Full edition",
@@ -6189,7 +6532,8 @@
   "ref": "Punjab Kesari...pdf p.8",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 344
+  "story_id": 344,
+  "columns": 4
  },
  {
   "source": "Full edition",
@@ -6207,7 +6551,8 @@
   "ref": "DAINIK JAGRAN  (1).pdf p.6",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 345
+  "story_id": 345,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -6225,7 +6570,8 @@
   "ref": "DAINIK JAGRAN  (1).pdf p.8",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 346
+  "story_id": 346,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -6243,7 +6589,8 @@
   "ref": "DAINIK BHASKAR  (1).pdf p.3",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 347
+  "story_id": 347,
+  "columns": 3
  },
  {
   "source": "Full edition",
@@ -6261,7 +6608,8 @@
   "ref": "DAINIK BHASKAR  (1).pdf p.5",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 348
+  "story_id": 348,
+  "columns": 3
  },
  {
   "source": "Full edition",
@@ -6279,7 +6627,8 @@
   "ref": "Dainik savera..pdf p.2",
   "date": "2026-11-15",
   "confidence": "medium",
-  "story_id": 349
+  "story_id": 349,
+  "columns": 1
  },
  {
   "source": "Full edition",
@@ -6297,7 +6646,8 @@
   "ref": "Dainik savera..pdf p.4",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 350
+  "story_id": 350,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -6315,7 +6665,8 @@
   "ref": "Dainik savera..pdf p.6",
   "date": "2026-11-15",
   "confidence": "medium",
-  "story_id": 351
+  "story_id": 351,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -6333,7 +6684,8 @@
   "ref": "Dainik savera..pdf p.5",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 352
+  "story_id": 352,
+  "columns": 3
  },
  {
   "source": "Full edition",
@@ -6351,7 +6703,8 @@
   "ref": "Dainik savera..pdf p.5",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 353
+  "story_id": 353,
+  "columns": 3
  },
  {
   "source": "Full edition",
@@ -6369,7 +6722,8 @@
   "ref": "Dainik savera..pdf p.13",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 354
+  "story_id": 354,
+  "columns": 4
  },
  {
   "source": "Full edition",
@@ -6387,7 +6741,8 @@
   "ref": "Dainik savera..pdf p.13",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 355
+  "story_id": 355,
+  "columns": 1
  },
  {
   "source": "Full edition",
@@ -6405,7 +6760,8 @@
   "ref": "Dainik savera..pdf p.13",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 356
+  "story_id": 356,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -6423,7 +6779,8 @@
   "ref": "Dainik savera..pdf p.13",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 357
+  "story_id": 357,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -6441,7 +6798,8 @@
   "ref": "Dainik savera..pdf p.13",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 358
+  "story_id": 358,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -6459,7 +6817,8 @@
   "ref": "Dainik savera..pdf p.13",
   "date": "2026-11-15",
   "confidence": "medium",
-  "story_id": 359
+  "story_id": 359,
+  "columns": 4
  },
  {
   "source": "Full edition",
@@ -6477,7 +6836,8 @@
   "ref": "Dainik savera..pdf p.13",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 360
+  "story_id": 360,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -6495,7 +6855,8 @@
   "ref": "Dainik savera..pdf p.14",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 361
+  "story_id": 361,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -6513,7 +6874,8 @@
   "ref": "Dainik savera..pdf p.14",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 362
+  "story_id": 362,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -6531,7 +6893,8 @@
   "ref": "Dainik savera..pdf p.14",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 363
+  "story_id": 363,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -6549,7 +6912,8 @@
   "ref": "Dainik savera..pdf p.14",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 364
+  "story_id": 364,
+  "columns": 4
  },
  {
   "source": "Full edition",
@@ -6567,7 +6931,8 @@
   "ref": "Dainik savera..pdf p.14",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 365
+  "story_id": 365,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -6585,7 +6950,8 @@
   "ref": "Dainik savera..pdf p.14",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 366
+  "story_id": 366,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -6603,7 +6969,8 @@
   "ref": "Dainik savera..pdf p.14",
   "date": "2026-11-15",
   "confidence": "medium",
-  "story_id": 367
+  "story_id": 367,
+  "columns": 4
  },
  {
   "source": "Full edition",
@@ -6621,7 +6988,8 @@
   "ref": "Dainik savera..pdf p.15",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 368
+  "story_id": 368,
+  "columns": 4
  },
  {
   "source": "Full edition",
@@ -6639,7 +7007,8 @@
   "ref": "Dainik savera..pdf p.15",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 369
+  "story_id": 369,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -6657,7 +7026,8 @@
   "ref": "Dainik savera..pdf p.15",
   "date": "2026-11-15",
   "confidence": "medium",
-  "story_id": 370
+  "story_id": 370,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -6675,7 +7045,8 @@
   "ref": "Dainik savera..pdf p.16",
   "date": "2026-11-15",
   "confidence": "medium",
-  "story_id": 371
+  "story_id": 371,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -6693,7 +7064,8 @@
   "ref": "Dainik savera..pdf p.16",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 372
+  "story_id": 372,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -6711,7 +7083,8 @@
   "ref": "Dainik savera..pdf p.16",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 373
+  "story_id": 373,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -6729,7 +7102,8 @@
   "ref": "Dainik savera..pdf p.16",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 374
+  "story_id": 374,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -6747,7 +7121,8 @@
   "ref": "Dainik savera..pdf p.16",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 375
+  "story_id": 375,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -6765,7 +7140,8 @@
   "ref": "Dainik savera..pdf p.16",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 376
+  "story_id": 376,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -6783,7 +7159,8 @@
   "ref": "Dainik savera..pdf p.16",
   "date": "2026-11-15",
   "confidence": "low",
-  "story_id": 377
+  "story_id": 377,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -6801,7 +7178,8 @@
   "ref": "Dainik savera..pdf p.16",
   "date": "2026-11-15",
   "confidence": "medium",
-  "story_id": 378
+  "story_id": 378,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -6819,7 +7197,8 @@
   "ref": "Dainik savera..pdf p.17",
   "date": "2026-11-15",
   "confidence": "low",
-  "story_id": 379
+  "story_id": 379,
+  "columns": 4
  },
  {
   "source": "Full edition",
@@ -6837,7 +7216,8 @@
   "ref": "Dainik savera..pdf p.17",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 380
+  "story_id": 380,
+  "columns": 4
  },
  {
   "source": "Full edition",
@@ -6855,7 +7235,8 @@
   "ref": "Dainik savera..pdf p.17",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 381
+  "story_id": 381,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -6873,7 +7254,8 @@
   "ref": "Dainik savera..pdf p.17",
   "date": "2026-11-15",
   "confidence": "medium",
-  "story_id": 382
+  "story_id": 382,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -6891,7 +7273,8 @@
   "ref": "Dainik savera..pdf p.18",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 383
+  "story_id": 383,
+  "columns": 4
  },
  {
   "source": "Full edition",
@@ -6909,7 +7292,8 @@
   "ref": "Dainik savera..pdf p.18",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 384
+  "story_id": 384,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -6927,7 +7311,8 @@
   "ref": "Dainik savera..pdf p.18",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 385
+  "story_id": 385,
+  "columns": 1
  },
  {
   "source": "Full edition",
@@ -6945,7 +7330,8 @@
   "ref": "Dainik savera..pdf p.18",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 386
+  "story_id": 386,
+  "columns": 1
  },
  {
   "source": "Full edition",
@@ -6963,7 +7349,8 @@
   "ref": "Dainik savera..pdf p.18",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 387
+  "story_id": 387,
+  "columns": 3
  },
  {
   "source": "Full edition",
@@ -6981,7 +7368,8 @@
   "ref": "Dainik savera..pdf p.18",
   "date": "2026-11-15",
   "confidence": "medium",
-  "story_id": 388
+  "story_id": 388,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -6999,7 +7387,8 @@
   "ref": "Dainik savera..pdf p.19",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 389
+  "story_id": 389,
+  "columns": 4
  },
  {
   "source": "Full edition",
@@ -7017,7 +7406,8 @@
   "ref": "Dainik savera..pdf p.19",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 390
+  "story_id": 390,
+  "columns": 4
  },
  {
   "source": "Full edition",
@@ -7035,7 +7425,8 @@
   "ref": "Dainik savera..pdf p.19",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 391
+  "story_id": 391,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -7053,7 +7444,8 @@
   "ref": "Dainik savera..pdf p.19",
   "date": "2026-11-15",
   "confidence": "low",
-  "story_id": 392
+  "story_id": 392,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -7071,7 +7463,8 @@
   "ref": "Dainik savera..pdf p.20",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 393
+  "story_id": 393,
+  "columns": 4
  },
  {
   "source": "Full edition",
@@ -7089,7 +7482,8 @@
   "ref": "Dainik savera..pdf p.20",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 394
+  "story_id": 394,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -7107,7 +7501,8 @@
   "ref": "Dainik savera..pdf p.20",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 395
+  "story_id": 395,
+  "columns": 1
  },
  {
   "source": "Full edition",
@@ -7125,7 +7520,8 @@
   "ref": "Dainik savera..pdf p.21",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 396
+  "story_id": 396,
+  "columns": 3
  },
  {
   "source": "Full edition",
@@ -7143,7 +7539,8 @@
   "ref": "Dainik savera..pdf p.22",
   "date": "2026-11-15",
   "confidence": "low",
-  "story_id": 397
+  "story_id": 397,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -7161,7 +7558,8 @@
   "ref": "Dainik savera..pdf p.22",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 398
+  "story_id": 398,
+  "columns": 4
  },
  {
   "source": "Full edition",
@@ -7179,7 +7577,8 @@
   "ref": "Dainik savera..pdf p.22",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 399
+  "story_id": 399,
+  "columns": 4
  },
  {
   "source": "Full edition",
@@ -7197,7 +7596,8 @@
   "ref": "Dainik savera..pdf p.22",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 400
+  "story_id": 400,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -7215,7 +7615,8 @@
   "ref": "Dainik savera..pdf p.22",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 401
+  "story_id": 401,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -7233,7 +7634,8 @@
   "ref": "Dainik savera..pdf p.22",
   "date": "2026-11-15",
   "confidence": "low",
-  "story_id": 402
+  "story_id": 402,
+  "columns": 4
  },
  {
   "source": "Full edition",
@@ -7251,7 +7653,8 @@
   "ref": "Dainik savera..pdf p.22",
   "date": "2026-11-15",
   "confidence": "medium",
-  "story_id": 403
+  "story_id": 403,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -7269,7 +7672,8 @@
   "ref": "Dainik savera..pdf p.22",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 404
+  "story_id": 404,
+  "columns": 5
  },
  {
   "source": "Full edition",
@@ -7287,7 +7691,8 @@
   "ref": "Dainik savera..pdf p.22",
   "date": "2026-11-15",
   "confidence": "medium",
-  "story_id": 405
+  "story_id": 405,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -7305,7 +7710,8 @@
   "ref": "Dainik savera..pdf p.24",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 406
+  "story_id": 406,
+  "columns": 3
  },
  {
   "source": "Full edition",
@@ -7323,7 +7729,8 @@
   "ref": "Dainik savera..pdf p.25",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 407
+  "story_id": 407,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -7341,7 +7748,8 @@
   "ref": "Dainik savera..pdf p.25",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 408
+  "story_id": 408,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -7359,7 +7767,8 @@
   "ref": "Dainik savera..pdf p.25",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 409
+  "story_id": 409,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -7377,7 +7786,8 @@
   "ref": "Dainik savera..pdf p.26",
   "date": "2026-11-15",
   "confidence": "medium",
-  "story_id": 410
+  "story_id": 410,
+  "columns": 4
  },
  {
   "source": "Full edition",
@@ -7395,7 +7805,8 @@
   "ref": "Dainik savera..pdf p.28",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 411
+  "story_id": 411,
+  "columns": 4
  },
  {
   "source": "Full edition",
@@ -7413,7 +7824,8 @@
   "ref": "Dainik savera..pdf p.29",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 412
+  "story_id": 412,
+  "columns": 3
  },
  {
   "source": "Full edition",
@@ -7431,7 +7843,8 @@
   "ref": "Dainik savera..pdf p.29",
   "date": "2026-11-15",
   "confidence": "medium",
-  "story_id": 413
+  "story_id": 413,
+  "columns": 1
  },
  {
   "source": "Full edition",
@@ -7449,7 +7862,8 @@
   "ref": "Dainik savera..pdf p.29",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 414
+  "story_id": 414,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -7467,7 +7881,8 @@
   "ref": "Dainik savera..pdf p.29",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 415
+  "story_id": 415,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -7485,7 +7900,8 @@
   "ref": "Dainik savera..pdf p.29",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 416
+  "story_id": 416,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -7503,7 +7919,8 @@
   "ref": "Dainik savera..pdf p.29",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 417
+  "story_id": 417,
+  "columns": 3
  },
  {
   "source": "Full edition",
@@ -7521,7 +7938,8 @@
   "ref": "Dainik savera..pdf p.30",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 418
+  "story_id": 418,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -7539,7 +7957,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.31",
   "date": "2026-11-15",
-  "story_id": 419
+  "story_id": 419,
+  "columns": 7
  },
  {
   "source": "Full edition",
@@ -7557,7 +7976,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.31",
   "date": "2026-11-15",
-  "story_id": 420
+  "story_id": 420,
+  "columns": 1
  },
  {
   "source": "Full edition",
@@ -7575,7 +7995,8 @@
   "confidence": "medium",
   "ref": "Dainik savera..pdf p.31",
   "date": "2026-11-15",
-  "story_id": 421
+  "story_id": 421,
+  "columns": 5
  },
  {
   "source": "Full edition",
@@ -7593,7 +8014,8 @@
   "confidence": "medium",
   "ref": "Dainik savera..pdf p.31",
   "date": "2026-11-15",
-  "story_id": 422
+  "story_id": 422,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -7611,7 +8033,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.31",
   "date": "2026-11-15",
-  "story_id": 423
+  "story_id": 423,
+  "columns": 3
  },
  {
   "source": "Full edition",
@@ -7629,7 +8052,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.31",
   "date": "2026-11-15",
-  "story_id": 424
+  "story_id": 424,
+  "columns": 5
  },
  {
   "source": "Full edition",
@@ -7647,7 +8071,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.31",
   "date": "2026-11-15",
-  "story_id": 425
+  "story_id": 425,
+  "columns": 1
  },
  {
   "source": "Full edition",
@@ -7665,7 +8090,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.32",
   "date": "2026-11-15",
-  "story_id": 426
+  "story_id": 426,
+  "columns": 12
  },
  {
   "source": "Full edition",
@@ -7683,7 +8109,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.33",
   "date": "2026-11-15",
-  "story_id": 427
+  "story_id": 427,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -7701,7 +8128,8 @@
   "confidence": "low",
   "ref": "Dainik savera..pdf p.33",
   "date": "2026-11-15",
-  "story_id": 428
+  "story_id": 428,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -7719,7 +8147,8 @@
   "confidence": "low",
   "ref": "Dainik savera..pdf p.33",
   "date": "2026-11-15",
-  "story_id": 429
+  "story_id": 429,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -7737,7 +8166,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.34",
   "date": "2026-11-15",
-  "story_id": 430
+  "story_id": 430,
+  "columns": 1
  },
  {
   "source": "Full edition",
@@ -7755,7 +8185,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.34",
   "date": "2026-11-15",
-  "story_id": 431
+  "story_id": 431,
+  "columns": 3
  },
  {
   "source": "Full edition",
@@ -7773,7 +8204,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.35",
   "date": "2026-11-15",
-  "story_id": 432
+  "story_id": 432,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -7791,7 +8223,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.36",
   "date": "2026-11-15",
-  "story_id": 433
+  "story_id": 433,
+  "columns": 4
  },
  {
   "source": "Full edition",
@@ -7809,7 +8242,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.36",
   "date": "2026-11-15",
-  "story_id": 434
+  "story_id": 434,
+  "columns": 4
  },
  {
   "source": "Full edition",
@@ -7827,7 +8261,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.36",
   "date": "2026-11-15",
-  "story_id": 435
+  "story_id": 435,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -7845,7 +8280,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.36",
   "date": "2026-11-15",
-  "story_id": 436
+  "story_id": 436,
+  "columns": 3
  },
  {
   "source": "Full edition",
@@ -7863,7 +8299,8 @@
   "confidence": "medium",
   "ref": "Dainik savera..pdf p.36",
   "date": "2026-11-15",
-  "story_id": 437
+  "story_id": 437,
+  "columns": 3
  },
  {
   "source": "Full edition",
@@ -7881,7 +8318,8 @@
   "confidence": "low",
   "ref": "Dainik savera..pdf p.36",
   "date": "2026-11-15",
-  "story_id": 438
+  "story_id": 438,
+  "columns": 1
  },
  {
   "source": "Full edition",
@@ -7899,7 +8337,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.36",
   "date": "2026-11-15",
-  "story_id": 439
+  "story_id": 439,
+  "columns": 1
  },
  {
   "source": "Full edition",
@@ -7917,7 +8356,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.36",
   "date": "2026-11-15",
-  "story_id": 440
+  "story_id": 440,
+  "columns": 1
  },
  {
   "source": "Full edition",
@@ -7935,7 +8375,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.36",
   "date": "2026-11-15",
-  "story_id": 441
+  "story_id": 441,
+  "columns": 1
  },
  {
   "source": "Full edition",
@@ -7953,7 +8394,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.36",
   "date": "2026-11-15",
-  "story_id": 442
+  "story_id": 442,
+  "columns": 1
  },
  {
   "source": "Full edition",
@@ -7971,7 +8413,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.36",
   "date": "2026-11-15",
-  "story_id": 443
+  "story_id": 443,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -7989,7 +8432,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.36",
   "date": "2026-11-15",
-  "story_id": 444
+  "story_id": 444,
+  "columns": 1
  },
  {
   "source": "Full edition",
@@ -8007,7 +8451,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.36",
   "date": "2026-11-15",
-  "story_id": 445
+  "story_id": 445,
+  "columns": 1
  },
  {
   "source": "Full edition",
@@ -8025,7 +8470,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.36",
   "date": "2026-11-15",
-  "story_id": 446
+  "story_id": 446,
+  "columns": 1
  },
  {
   "source": "Full edition",
@@ -8043,7 +8489,8 @@
   "confidence": "low",
   "ref": "Dainik savera..pdf p.36",
   "date": "2026-11-15",
-  "story_id": 447
+  "story_id": 447,
+  "columns": 1
  },
  {
   "source": "Full edition",
@@ -8061,7 +8508,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.37",
   "date": "2026-11-15",
-  "story_id": 448
+  "story_id": 448,
+  "columns": 4
  },
  {
   "source": "Full edition",
@@ -8079,7 +8527,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.37",
   "date": "2026-11-15",
-  "story_id": 449
+  "story_id": 449,
+  "columns": 4
  },
  {
   "source": "Full edition",
@@ -8097,7 +8546,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.37",
   "date": "2026-11-15",
-  "story_id": 450
+  "story_id": 450,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -8115,7 +8565,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.37",
   "date": "2026-11-15",
-  "story_id": 451
+  "story_id": 451,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -8133,7 +8584,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.37",
   "date": "2026-11-15",
-  "story_id": 452
+  "story_id": 452,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -8151,7 +8603,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.38",
   "date": "2026-11-15",
-  "story_id": 453
+  "story_id": 453,
+  "columns": 6
  },
  {
   "source": "Full edition",
@@ -8169,7 +8622,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.38",
   "date": "2026-11-15",
-  "story_id": 454
+  "story_id": 454,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -8187,7 +8641,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.38",
   "date": "2026-11-15",
-  "story_id": 455
+  "story_id": 455,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -8205,7 +8660,8 @@
   "confidence": "medium",
   "ref": "Dainik savera..pdf p.38",
   "date": "2026-11-15",
-  "story_id": 456
+  "story_id": 456,
+  "columns": 4
  },
  {
   "source": "Full edition",
@@ -8223,7 +8679,8 @@
   "confidence": "medium",
   "ref": "Dainik savera..pdf p.38",
   "date": "2026-11-15",
-  "story_id": 457
+  "story_id": 457,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -8241,7 +8698,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.39",
   "date": "2026-11-15",
-  "story_id": 458
+  "story_id": 458,
+  "columns": 4
  },
  {
   "source": "Full edition",
@@ -8259,7 +8717,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.39",
   "date": "2026-11-15",
-  "story_id": 459
+  "story_id": 459,
+  "columns": 4
  },
  {
   "source": "Full edition",
@@ -8277,7 +8736,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.39",
   "date": "2026-11-15",
-  "story_id": 460
+  "story_id": 460,
+  "columns": 4
  },
  {
   "source": "Full edition",
@@ -8295,7 +8755,8 @@
   "confidence": "medium",
   "ref": "Dainik savera..pdf p.39",
   "date": "2026-11-15",
-  "story_id": 461
+  "story_id": 461,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -8313,7 +8774,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.39",
   "date": "2026-11-15",
-  "story_id": 462
+  "story_id": 462,
+  "columns": 4
  },
  {
   "source": "Full edition",
@@ -8331,7 +8793,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.39",
   "date": "2026-11-15",
-  "story_id": 463
+  "story_id": 463,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -8349,7 +8812,8 @@
   "confidence": "low",
   "ref": "Dainik savera..pdf p.39",
   "date": "2026-11-15",
-  "story_id": 464
+  "story_id": 464,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -8367,7 +8831,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.40",
   "date": "2026-11-15",
-  "story_id": 465
+  "story_id": 465,
+  "columns": 4
  },
  {
   "source": "Full edition",
@@ -8385,7 +8850,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.40",
   "date": "2026-11-15",
-  "story_id": 466
+  "story_id": 466,
+  "columns": 1
  },
  {
   "source": "Full edition",
@@ -8403,7 +8869,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.41",
   "date": "2026-11-15",
-  "story_id": 467
+  "story_id": 467,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -8421,7 +8888,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.42",
   "date": "2026-11-15",
-  "story_id": 468
+  "story_id": 468,
+  "columns": 5
  },
  {
   "source": "Full edition",
@@ -8439,7 +8907,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.42",
   "date": "2026-11-15",
-  "story_id": 469
+  "story_id": 469,
+  "columns": 1
  },
  {
   "source": "Full edition",
@@ -8457,7 +8926,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.42",
   "date": "2026-11-15",
-  "story_id": 470
+  "story_id": 470,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -8475,7 +8945,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.42",
   "date": "2026-11-15",
-  "story_id": 471
+  "story_id": 471,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -8493,7 +8964,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.42",
   "date": "2026-11-15",
-  "story_id": 472
+  "story_id": 472,
+  "columns": 4
  },
  {
   "source": "Full edition",
@@ -8511,7 +8983,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.43",
   "date": "2026-11-15",
-  "story_id": 473
+  "story_id": 473,
+  "columns": 6
  },
  {
   "source": "Full edition",
@@ -8529,7 +9002,8 @@
   "confidence": "medium",
   "ref": "Dainik savera..pdf p.43",
   "date": "2026-11-15",
-  "story_id": 474
+  "story_id": 474,
+  "columns": 4
  },
  {
   "source": "Full edition",
@@ -8547,7 +9021,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.43",
   "date": "2026-11-15",
-  "story_id": 475
+  "story_id": 475,
+  "columns": 3
  },
  {
   "source": "Full edition",
@@ -8565,7 +9040,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.43",
   "date": "2026-11-15",
-  "story_id": 476
+  "story_id": 476,
+  "columns": 1
  },
  {
   "source": "Full edition",
@@ -8583,7 +9059,8 @@
   "confidence": "medium",
   "ref": "Dainik savera..pdf p.44",
   "date": "2026-11-15",
-  "story_id": 477
+  "story_id": 477,
+  "columns": 5
  },
  {
   "source": "Full edition",
@@ -8601,7 +9078,8 @@
   "confidence": "medium",
   "ref": "Dainik savera..pdf p.44",
   "date": "2026-11-15",
-  "story_id": 478
+  "story_id": 478,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -8619,7 +9097,8 @@
   "confidence": "medium",
   "ref": "Dainik savera..pdf p.44",
   "date": "2026-11-15",
-  "story_id": 479
+  "story_id": 479,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -8637,7 +9116,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.44",
   "date": "2026-11-15",
-  "story_id": 480
+  "story_id": 480,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -8655,7 +9135,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.44",
   "date": "2026-11-15",
-  "story_id": 481
+  "story_id": 481,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -8673,7 +9154,8 @@
   "confidence": "medium",
   "ref": "Dainik savera..pdf p.44",
   "date": "2026-11-15",
-  "story_id": 482
+  "story_id": 482,
+  "columns": 4
  },
  {
   "source": "Full edition",
@@ -8691,7 +9173,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.45",
   "date": "2026-11-15",
-  "story_id": 483
+  "story_id": 483,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -8709,7 +9192,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.45",
   "date": "2026-11-15",
-  "story_id": 484
+  "story_id": 484,
+  "columns": 4
  },
  {
   "source": "Full edition",
@@ -8727,7 +9211,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.45",
   "date": "2026-11-15",
-  "story_id": 485
+  "story_id": 485,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -8745,7 +9230,8 @@
   "confidence": "low",
   "ref": "Dainik savera..pdf p.45",
   "date": "2026-11-15",
-  "story_id": 486
+  "story_id": 486,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -8763,7 +9249,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.45",
   "date": "2026-11-15",
-  "story_id": 487
+  "story_id": 487,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -8781,7 +9268,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.46",
   "date": "2026-11-15",
-  "story_id": 488
+  "story_id": 488,
+  "columns": 4
  },
  {
   "source": "Full edition",
@@ -8799,7 +9287,8 @@
   "confidence": "medium",
   "ref": "Dainik savera..pdf p.46",
   "date": "2026-11-15",
-  "story_id": 489
+  "story_id": 489,
+  "columns": 4
  },
  {
   "source": "Full edition",
@@ -8817,7 +9306,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.47",
   "date": "2026-11-15",
-  "story_id": 490
+  "story_id": 490,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -8835,7 +9325,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.47",
   "date": "2026-11-15",
-  "story_id": 491
+  "story_id": 491,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -8853,7 +9344,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.47",
   "date": "2026-11-15",
-  "story_id": 492
+  "story_id": 492,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -8871,7 +9363,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.47",
   "date": "2026-11-15",
-  "story_id": 493
+  "story_id": 493,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -8889,7 +9382,8 @@
   "confidence": "low",
   "ref": "Dainik savera..pdf p.47",
   "date": "2026-11-15",
-  "story_id": 494
+  "story_id": 494,
+  "columns": 4
  },
  {
   "source": "Full edition",
@@ -8907,7 +9401,8 @@
   "confidence": "low",
   "ref": "Dainik savera..pdf p.52",
   "date": "2026-11-15",
-  "story_id": 495
+  "story_id": 495,
+  "columns": 4
  },
  {
   "source": "Full edition",
@@ -8925,7 +9420,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.52",
   "date": "2026-11-15",
-  "story_id": 496
+  "story_id": 496,
+  "columns": 4
  },
  {
   "source": "Full edition",
@@ -8943,7 +9439,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.52",
   "date": "2026-11-15",
-  "story_id": 497
+  "story_id": 497,
+  "columns": 3
  },
  {
   "source": "Full edition",
@@ -8961,7 +9458,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.53",
   "date": "2026-11-15",
-  "story_id": 498
+  "story_id": 498,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -8979,7 +9477,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.53",
   "date": "2026-11-15",
-  "story_id": 499
+  "story_id": 499,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -8997,7 +9496,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.53",
   "date": "2026-11-15",
-  "story_id": 500
+  "story_id": 500,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -9015,7 +9515,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.54",
   "date": "2026-11-15",
-  "story_id": 501
+  "story_id": 501,
+  "columns": 4
  },
  {
   "source": "Full edition",
@@ -9033,7 +9534,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.54",
   "date": "2026-11-15",
-  "story_id": 502
+  "story_id": 502,
+  "columns": 4
  },
  {
   "source": "Full edition",
@@ -9051,7 +9553,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.55",
   "date": "2026-11-15",
-  "story_id": 503
+  "story_id": 503,
+  "columns": 4
  },
  {
   "source": "Full edition",
@@ -9069,7 +9572,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.55",
   "date": "2026-11-15",
-  "story_id": 504
+  "story_id": 504,
+  "columns": 4
  },
  {
   "source": "Full edition",
@@ -9087,7 +9591,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.51",
   "date": "2026-11-15",
-  "story_id": 505
+  "story_id": 505,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -9105,7 +9610,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.51",
   "date": "2026-11-15",
-  "story_id": 506
+  "story_id": 506,
+  "columns": 6
  },
  {
   "source": "Full edition",
@@ -9123,7 +9629,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.51",
   "date": "2026-11-15",
-  "story_id": 507
+  "story_id": 507,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -9141,7 +9648,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.51",
   "date": "2026-11-15",
-  "story_id": 508
+  "story_id": 508,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -9159,7 +9667,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.56",
   "date": "2026-11-15",
-  "story_id": 509
+  "story_id": 509,
+  "columns": 4
  },
  {
   "source": "Full edition",
@@ -9177,7 +9686,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.56",
   "date": "2026-11-15",
-  "story_id": 510
+  "story_id": 510,
+  "columns": 5
  },
  {
   "source": "Full edition",
@@ -9195,7 +9705,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.56",
   "date": "2026-11-15",
-  "story_id": 511
+  "story_id": 511,
+  "columns": 3
  },
  {
   "source": "Full edition",
@@ -9213,7 +9724,8 @@
   "confidence": "medium",
   "ref": "Dainik savera..pdf p.56",
   "date": "2026-11-15",
-  "story_id": 512
+  "story_id": 512,
+  "columns": 5
  },
  {
   "source": "Full edition",
@@ -9231,7 +9743,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.56",
   "date": "2026-11-15",
-  "story_id": 513
+  "story_id": 513,
+  "columns": 1
  },
  {
   "source": "Full edition",
@@ -9249,7 +9762,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.56",
   "date": "2026-11-15",
-  "story_id": 514
+  "story_id": 514,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -9267,7 +9781,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.56",
   "date": "2026-11-15",
-  "story_id": 515
+  "story_id": 515,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -9285,7 +9800,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.56",
   "date": "2026-11-15",
-  "story_id": 516
+  "story_id": 516,
+  "columns": 4
  },
  {
   "source": "Full edition",
@@ -9303,7 +9819,8 @@
   "confidence": "low",
   "ref": "Dainik savera..pdf p.56",
   "date": "2026-11-15",
-  "story_id": 517
+  "story_id": 517,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -9321,7 +9838,8 @@
   "confidence": "low",
   "ref": "Dainik savera..pdf p.57",
   "date": "2026-11-15",
-  "story_id": 518
+  "story_id": 518,
+  "columns": 1
  },
  {
   "source": "Full edition",
@@ -9339,7 +9857,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.58",
   "date": "2026-11-15",
-  "story_id": 519
+  "story_id": 519,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -9357,7 +9876,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.58",
   "date": "2026-11-15",
-  "story_id": 520
+  "story_id": 520,
+  "columns": 4
  },
  {
   "source": "Full edition",
@@ -9375,7 +9895,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.59",
   "date": "2026-11-15",
-  "story_id": 521
+  "story_id": 521,
+  "columns": 5
  },
  {
   "source": "Full edition",
@@ -9393,7 +9914,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.59",
   "date": "2026-11-15",
-  "story_id": 522
+  "story_id": 522,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -9411,7 +9933,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.60",
   "date": "2026-11-15",
-  "story_id": 523
+  "story_id": 523,
+  "columns": 3
  },
  {
   "source": "Full edition",
@@ -9429,7 +9952,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.60",
   "date": "2026-11-15",
-  "story_id": 524
+  "story_id": 524,
+  "columns": 3
  },
  {
   "source": "Full edition",
@@ -9447,7 +9971,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.60",
   "date": "2026-11-15",
-  "story_id": 525
+  "story_id": 525,
+  "columns": 1
  },
  {
   "source": "Full edition",
@@ -9465,7 +9990,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.60",
   "date": "2026-11-15",
-  "story_id": 526
+  "story_id": 526,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -9483,7 +10009,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.61",
   "date": "2026-11-15",
-  "story_id": 527
+  "story_id": 527,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -9501,7 +10028,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.61",
   "date": "2026-11-15",
-  "story_id": 528
+  "story_id": 528,
+  "columns": 4
  },
  {
   "source": "Full edition",
@@ -9519,7 +10047,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.61",
   "date": "2026-11-15",
-  "story_id": 529
+  "story_id": 529,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -9537,7 +10066,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.62",
   "date": "2026-11-15",
-  "story_id": 530
+  "story_id": 530,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -9555,7 +10085,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.62",
   "date": "2026-11-15",
-  "story_id": 531
+  "story_id": 531,
+  "columns": 4
  },
  {
   "source": "Full edition",
@@ -9573,7 +10104,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.62",
   "date": "2026-11-15",
-  "story_id": 532
+  "story_id": 532,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -9591,7 +10123,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.62",
   "date": "2026-11-15",
-  "story_id": 533
+  "story_id": 533,
+  "columns": 6
  },
  {
   "source": "Full edition",
@@ -9609,7 +10142,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.63",
   "date": "2026-11-15",
-  "story_id": 534
+  "story_id": 534,
+  "columns": 4
  },
  {
   "source": "Full edition",
@@ -9627,7 +10161,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.63",
   "date": "2026-11-15",
-  "story_id": 535
+  "story_id": 535,
+  "columns": 4
  },
  {
   "source": "Full edition",
@@ -9645,7 +10180,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.63",
   "date": "2026-11-15",
-  "story_id": 536
+  "story_id": 536,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -9663,7 +10199,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.63",
   "date": "2026-11-15",
-  "story_id": 537
+  "story_id": 537,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -9681,7 +10218,8 @@
   "confidence": "medium",
   "ref": "Dainik savera..pdf p.63",
   "date": "2026-11-15",
-  "story_id": 538
+  "story_id": 538,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -9699,7 +10237,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.63",
   "date": "2026-11-15",
-  "story_id": 539
+  "story_id": 539,
+  "columns": 3
  },
  {
   "source": "Full edition",
@@ -9717,7 +10256,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.63",
   "date": "2026-11-15",
-  "story_id": 540
+  "story_id": 540,
+  "columns": 6
  },
  {
   "source": "Full edition",
@@ -9735,7 +10275,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.64",
   "date": "2026-11-15",
-  "story_id": 541
+  "story_id": 541,
+  "columns": 4
  },
  {
   "source": "Full edition",
@@ -9753,7 +10294,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.64",
   "date": "2026-11-15",
-  "story_id": 542
+  "story_id": 542,
+  "columns": 3
  },
  {
   "source": "Full edition",
@@ -9771,7 +10313,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.64",
   "date": "2026-11-15",
-  "story_id": 543
+  "story_id": 543,
+  "columns": 3
  },
  {
   "source": "Full edition",
@@ -9789,7 +10332,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.64",
   "date": "2026-11-15",
-  "story_id": 544
+  "story_id": 544,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -9807,7 +10351,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.64",
   "date": "2026-11-15",
-  "story_id": 545
+  "story_id": 545,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -9825,7 +10370,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.64",
   "date": "2026-11-15",
-  "story_id": 546
+  "story_id": 546,
+  "columns": 4
  },
  {
   "source": "Full edition",
@@ -9843,7 +10389,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.64",
   "date": "2026-11-15",
-  "story_id": 547
+  "story_id": 547,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -9861,7 +10408,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.65",
   "date": "2026-11-15",
-  "story_id": 548
+  "story_id": 548,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -9879,7 +10427,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.65",
   "date": "2026-11-15",
-  "story_id": 549
+  "story_id": 549,
+  "columns": 4
  },
  {
   "source": "Full edition",
@@ -9897,7 +10446,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.65",
   "date": "2026-11-15",
-  "story_id": 550
+  "story_id": 550,
+  "columns": 4
  },
  {
   "source": "Full edition",
@@ -9915,7 +10465,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.65",
   "date": "2026-11-15",
-  "story_id": 551
+  "story_id": 551,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -9933,7 +10484,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.65",
   "date": "2026-11-15",
-  "story_id": 552
+  "story_id": 552,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -9951,7 +10503,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.65",
   "date": "2026-11-15",
-  "story_id": 553
+  "story_id": 553,
+  "columns": 6
  },
  {
   "source": "Full edition",
@@ -9969,7 +10522,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.66",
   "date": "2026-11-15",
-  "story_id": 554
+  "story_id": 554,
+  "columns": 6
  },
  {
   "source": "Full edition",
@@ -9987,7 +10541,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.66",
   "date": "2026-11-15",
-  "story_id": 555
+  "story_id": 555,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -10005,7 +10560,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.67",
   "date": "2026-11-15",
-  "story_id": 556
+  "story_id": 556,
+  "columns": 4
  },
  {
   "source": "Full edition",
@@ -10023,7 +10579,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.67",
   "date": "2026-11-15",
-  "story_id": 557
+  "story_id": 557,
+  "columns": 3
  },
  {
   "source": "Full edition",
@@ -10041,7 +10598,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.67",
   "date": "2026-11-15",
-  "story_id": 558
+  "story_id": 558,
+  "columns": 1
  },
  {
   "source": "Full edition",
@@ -10059,7 +10617,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.67",
   "date": "2026-11-15",
-  "story_id": 559
+  "story_id": 559,
+  "columns": 4
  },
  {
   "source": "Full edition",
@@ -10077,7 +10636,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.67",
   "date": "2026-11-15",
-  "story_id": 560
+  "story_id": 560,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -10095,7 +10655,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.67",
   "date": "2026-11-15",
-  "story_id": 561
+  "story_id": 561,
+  "columns": 4
  },
  {
   "source": "Full edition",
@@ -10113,7 +10674,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.67",
   "date": "2026-11-15",
-  "story_id": 562
+  "story_id": 562,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -10131,7 +10693,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.67",
   "date": "2026-11-15",
-  "story_id": 563
+  "story_id": 563,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -10149,7 +10712,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.68",
   "date": "2026-11-15",
-  "story_id": 564
+  "story_id": 564,
+  "columns": 4
  },
  {
   "source": "Full edition",
@@ -10167,7 +10731,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.68",
   "date": "2026-11-15",
-  "story_id": 565
+  "story_id": 565,
+  "columns": 1
  },
  {
   "source": "Full edition",
@@ -10185,7 +10750,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.68",
   "date": "2026-11-15",
-  "story_id": 566
+  "story_id": 566,
+  "columns": 3
  },
  {
   "source": "Full edition",
@@ -10203,7 +10769,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.68",
   "date": "2026-11-15",
-  "story_id": 567
+  "story_id": 567,
+  "columns": 3
  },
  {
   "source": "Full edition",
@@ -10221,7 +10788,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.68",
   "date": "2026-11-15",
-  "story_id": 568
+  "story_id": 568,
+  "columns": 3
  },
  {
   "source": "Full edition",
@@ -10239,7 +10807,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.68",
   "date": "2026-11-15",
-  "story_id": 569
+  "story_id": 569,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -10257,7 +10826,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.68",
   "date": "2026-11-15",
-  "story_id": 570
+  "story_id": 570,
+  "columns": 3
  },
  {
   "source": "Full edition",
@@ -10275,7 +10845,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.68",
   "date": "2026-11-15",
-  "story_id": 571
+  "story_id": 571,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -10293,7 +10864,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.68",
   "date": "2026-11-15",
-  "story_id": 572
+  "story_id": 572,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -10311,7 +10883,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.68",
   "date": "2026-11-15",
-  "story_id": 573
+  "story_id": 573,
+  "columns": 1
  },
  {
   "source": "Full edition",
@@ -10329,7 +10902,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.68",
   "date": "2026-11-15",
-  "story_id": 574
+  "story_id": 574,
+  "columns": 4
  },
  {
   "source": "Full edition",
@@ -10347,7 +10921,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.69",
   "date": "2026-11-15",
-  "story_id": 575
+  "story_id": 575,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -10365,7 +10940,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.69",
   "date": "2026-11-15",
-  "story_id": 576
+  "story_id": 576,
+  "columns": 4
  },
  {
   "source": "Full edition",
@@ -10383,7 +10959,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.69",
   "date": "2026-11-15",
-  "story_id": 577
+  "story_id": 577,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -10401,7 +10978,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.69",
   "date": "2026-11-15",
-  "story_id": 578
+  "story_id": 578,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -10419,7 +10997,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.69",
   "date": "2026-11-15",
-  "story_id": 579
+  "story_id": 579,
+  "columns": 4
  },
  {
   "source": "Full edition",
@@ -10437,7 +11016,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.69",
   "date": "2026-11-15",
-  "story_id": 580
+  "story_id": 580,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -10455,7 +11035,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.69",
   "date": "2026-11-15",
-  "story_id": 581
+  "story_id": 581,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -10473,7 +11054,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.69",
   "date": "2026-11-15",
-  "story_id": 582
+  "story_id": 582,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -10491,7 +11073,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.69",
   "date": "2026-11-15",
-  "story_id": 583
+  "story_id": 583,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -10509,7 +11092,8 @@
   "confidence": "medium",
   "ref": "Dainik savera..pdf p.69",
   "date": "2026-11-15",
-  "story_id": 584
+  "story_id": 584,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -10527,7 +11111,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.69",
   "date": "2026-11-15",
-  "story_id": 585
+  "story_id": 585,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -10545,7 +11130,8 @@
   "confidence": "medium",
   "ref": "Dainik savera..pdf p.69",
   "date": "2026-11-15",
-  "story_id": 586
+  "story_id": 586,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -10563,7 +11149,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.70",
   "date": "2026-11-15",
-  "story_id": 587
+  "story_id": 587,
+  "columns": 4
  },
  {
   "source": "Full edition",
@@ -10581,7 +11168,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.70",
   "date": "2026-11-15",
-  "story_id": 588
+  "story_id": 588,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -10599,7 +11187,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.70",
   "date": "2026-11-15",
-  "story_id": 589
+  "story_id": 589,
+  "columns": 5
  },
  {
   "source": "Full edition",
@@ -10617,7 +11206,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.70",
   "date": "2026-11-15",
-  "story_id": 590
+  "story_id": 590,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -10635,7 +11225,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.70",
   "date": "2026-11-15",
-  "story_id": 591
+  "story_id": 591,
+  "columns": 4
  },
  {
   "source": "Full edition",
@@ -10653,7 +11244,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.71",
   "date": "2026-11-15",
-  "story_id": 592
+  "story_id": 592,
+  "columns": 4
  },
  {
   "source": "Full edition",
@@ -10671,7 +11263,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.71",
   "date": "2026-11-15",
-  "story_id": 593
+  "story_id": 593,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -10689,7 +11282,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.71",
   "date": "2026-11-15",
-  "story_id": 594
+  "story_id": 594,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -10707,7 +11301,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.71",
   "date": "2026-11-15",
-  "story_id": 595
+  "story_id": 595,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -10725,7 +11320,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.71",
   "date": "2026-11-15",
-  "story_id": 596
+  "story_id": 596,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -10743,7 +11339,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.72",
   "date": "2026-11-15",
-  "story_id": 597
+  "story_id": 597,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -10761,7 +11358,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.72",
   "date": "2026-11-15",
-  "story_id": 598
+  "story_id": 598,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -10779,7 +11377,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.72",
   "date": "2026-11-15",
-  "story_id": 599
+  "story_id": 599,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -10797,7 +11396,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.72",
   "date": "2026-11-15",
-  "story_id": 600
+  "story_id": 600,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -10815,7 +11415,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.72",
   "date": "2026-11-15",
-  "story_id": 601
+  "story_id": 601,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -10833,7 +11434,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.72",
   "date": "2026-11-15",
-  "story_id": 602
+  "story_id": 602,
+  "columns": 4
  },
  {
   "source": "Full edition",
@@ -10851,7 +11453,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.73",
   "date": "2026-11-15",
-  "story_id": 603
+  "story_id": 603,
+  "columns": 4
  },
  {
   "source": "Full edition",
@@ -10869,7 +11472,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.73",
   "date": "2026-11-15",
-  "story_id": 604
+  "story_id": 604,
+  "columns": 4
  },
  {
   "source": "Full edition",
@@ -10887,7 +11491,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.73",
   "date": "2026-11-15",
-  "story_id": 605
+  "story_id": 605,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -10905,7 +11510,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.73",
   "date": "2026-11-15",
-  "story_id": 606
+  "story_id": 606,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -10923,7 +11529,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.74",
   "date": "2026-11-15",
-  "story_id": 607
+  "story_id": 607,
+  "columns": 1
  },
  {
   "source": "Full edition",
@@ -10941,7 +11548,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.74",
   "date": "2026-11-15",
-  "story_id": 608
+  "story_id": 608,
+  "columns": 1
  },
  {
   "source": "Full edition",
@@ -10959,7 +11567,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.74",
   "date": "2026-11-15",
-  "story_id": 609
+  "story_id": 609,
+  "columns": 1
  },
  {
   "source": "Full edition",
@@ -10977,7 +11586,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.74",
   "date": "2026-11-15",
-  "story_id": 610
+  "story_id": 610,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -10995,7 +11605,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.74",
   "date": "2026-11-15",
-  "story_id": 611
+  "story_id": 611,
+  "columns": 1
  },
  {
   "source": "Full edition",
@@ -11013,7 +11624,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.75",
   "date": "2026-11-15",
-  "story_id": 612
+  "story_id": 612,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -11031,7 +11643,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.75",
   "date": "2026-11-15",
-  "story_id": 613
+  "story_id": 613,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -11049,7 +11662,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.75",
   "date": "2026-11-15",
-  "story_id": 614
+  "story_id": 614,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -11067,7 +11681,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.75",
   "date": "2026-11-15",
-  "story_id": 615
+  "story_id": 615,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -11085,7 +11700,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.77",
   "date": "2026-11-15",
-  "story_id": 616
+  "story_id": 616,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -11103,7 +11719,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.77",
   "date": "2026-11-15",
-  "story_id": 617
+  "story_id": 617,
+  "columns": 4
  },
  {
   "source": "Full edition",
@@ -11121,7 +11738,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.77",
   "date": "2026-11-15",
-  "story_id": 618
+  "story_id": 618,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -11139,7 +11757,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.77",
   "date": "2026-11-15",
-  "story_id": 619
+  "story_id": 619,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -11157,7 +11776,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.78",
   "date": "2026-11-15",
-  "story_id": 620
+  "story_id": 620,
+  "columns": 1
  },
  {
   "source": "Full edition",
@@ -11175,7 +11795,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.79",
   "date": "2026-11-15",
-  "story_id": 621
+  "story_id": 621,
+  "columns": 1
  },
  {
   "source": "Full edition",
@@ -11193,7 +11814,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.80",
   "date": "2026-11-15",
-  "story_id": 622
+  "story_id": 622,
+  "columns": 5
  },
  {
   "source": "Full edition",
@@ -11211,7 +11833,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.80",
   "date": "2026-11-15",
-  "story_id": 623
+  "story_id": 623,
+  "columns": 1
  },
  {
   "source": "Full edition",
@@ -11229,7 +11852,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.80",
   "date": "2026-11-15",
-  "story_id": 624
+  "story_id": 624,
+  "columns": 1
  },
  {
   "source": "Full edition",
@@ -11247,7 +11871,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.80",
   "date": "2026-11-15",
-  "story_id": 625
+  "story_id": 625,
+  "columns": 1
  },
  {
   "source": "Full edition",
@@ -11265,7 +11890,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.81",
   "date": "2026-11-15",
-  "story_id": 626
+  "story_id": 626,
+  "columns": 4
  },
  {
   "source": "Full edition",
@@ -11283,7 +11909,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.82",
   "date": "2026-11-15",
-  "story_id": 627
+  "story_id": 627,
+  "columns": 4
  },
  {
   "source": "Full edition",
@@ -11301,7 +11928,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.82",
   "date": "2026-11-15",
-  "story_id": 628
+  "story_id": 628,
+  "columns": 8
  },
  {
   "source": "Full edition",
@@ -11319,7 +11947,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.82",
   "date": "2026-11-15",
-  "story_id": 629
+  "story_id": 629,
+  "columns": 4
  },
  {
   "source": "Full edition",
@@ -11337,7 +11966,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.82",
   "date": "2026-11-15",
-  "story_id": 630
+  "story_id": 630,
+  "columns": 5
  },
  {
   "source": "Full edition",
@@ -11355,7 +11985,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.84",
   "date": "2026-11-15",
-  "story_id": 631
+  "story_id": 631,
+  "columns": 4
  },
  {
   "source": "Full edition",
@@ -11373,7 +12004,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.84",
   "date": "2026-11-15",
-  "story_id": 632
+  "story_id": 632,
+  "columns": 6
  },
  {
   "source": "Full edition",
@@ -11391,7 +12023,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.85",
   "date": "2026-11-15",
-  "story_id": 633
+  "story_id": 633,
+  "columns": 4
  },
  {
   "source": "Full edition",
@@ -11409,7 +12042,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.85",
   "date": "2026-11-15",
-  "story_id": 634
+  "story_id": 634,
+  "columns": 4
  },
  {
   "source": "Full edition",
@@ -11427,7 +12061,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.85",
   "date": "2026-11-15",
-  "story_id": 635
+  "story_id": 635,
+  "columns": 5
  },
  {
   "source": "Full edition",
@@ -11445,7 +12080,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.85",
   "date": "2026-11-15",
-  "story_id": 636
+  "story_id": 636,
+  "columns": 5
  },
  {
   "source": "Full edition",
@@ -11463,7 +12099,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.85",
   "date": "2026-11-15",
-  "story_id": 637
+  "story_id": 637,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -11481,7 +12118,8 @@
   "confidence": "high",
   "ref": "Dainik savera..pdf p.85",
   "date": "2026-11-15",
-  "story_id": 638
+  "story_id": 638,
+  "columns": 6
  },
  {
   "source": "Full edition",
@@ -11499,7 +12137,8 @@
   "ref": "edition-HT_JALA-20261115.pdf p.8",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 639
+  "story_id": 639,
+  "columns": 1
  },
  {
   "source": "Full edition",
@@ -11517,7 +12156,8 @@
   "ref": "edition-HT_JALA-20261115.pdf p.18",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 640
+  "story_id": 640,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -11535,7 +12175,8 @@
   "ref": "The_Times_of_India_Chandigarh_15_11_2026.pdf p.11",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 641
+  "story_id": 641,
+  "columns": 4
  },
  {
   "source": "Full edition",
@@ -11553,7 +12194,8 @@
   "ref": "The_Times_of_India_Chandigarh_15_11_2026.pdf p.11",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 642
+  "story_id": 642,
+  "columns": 1
  },
  {
   "source": "Full edition",
@@ -11571,7 +12213,8 @@
   "ref": "The_Times_of_India_Chandigarh_15_11_2026.pdf p.15",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 643
+  "story_id": 643,
+  "columns": 1
  },
  {
   "source": "Full edition",
@@ -11589,7 +12232,8 @@
   "ref": "The_Times_of_India_Chandigarh_15_11_2026.pdf p.20",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 644
+  "story_id": 644,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -11607,7 +12251,8 @@
   "ref": "Chandigarh-November-15-2026.pdf p.7",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 645
+  "story_id": 645,
+  "columns": 4
  },
  {
   "source": "Full edition",
@@ -11625,7 +12270,8 @@
   "ref": "Chandigarh-November-15-2026.pdf p.14",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 646
+  "story_id": 646,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -11643,7 +12289,8 @@
   "ref": "Chandigarh-November-15-2026.pdf p.17",
   "date": "2026-11-15",
   "confidence": "",
-  "story_id": 647
+  "story_id": 647,
+  "columns": 8
  },
  {
   "source": "Full edition",
@@ -11661,7 +12308,8 @@
   "ref": "The-Savera-The-Savera (58).pdf p.1",
   "date": "2026-11-15",
   "confidence": "low",
-  "story_id": 648
+  "story_id": 648,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -11679,7 +12327,8 @@
   "ref": "The-Savera-The-Savera (58).pdf p.3",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 649
+  "story_id": 649,
+  "columns": 1
  },
  {
   "source": "Full edition",
@@ -11697,7 +12346,8 @@
   "ref": "The-Savera-The-Savera (58).pdf p.3",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 650
+  "story_id": 650,
+  "columns": 1
  },
  {
   "source": "Full edition",
@@ -11715,7 +12365,8 @@
   "ref": "The-Savera-The-Savera (58).pdf p.13",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 651
+  "story_id": 651,
+  "columns": 4
  },
  {
   "source": "Full edition",
@@ -11733,7 +12384,8 @@
   "ref": "The-Savera-The-Savera (58).pdf p.13",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 652
+  "story_id": 652,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -11751,7 +12403,8 @@
   "ref": "The-Savera-The-Savera (58).pdf p.13",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 653
+  "story_id": 653,
+  "columns": 1
  },
  {
   "source": "Full edition",
@@ -11769,7 +12422,8 @@
   "ref": "The-Savera-The-Savera (58).pdf p.13",
   "date": "2026-11-15",
   "confidence": "medium",
-  "story_id": 654
+  "story_id": 654,
+  "columns": 3
  },
  {
   "source": "Full edition",
@@ -11787,7 +12441,8 @@
   "ref": "The-Savera-The-Savera (58).pdf p.13",
   "date": "2026-11-15",
   "confidence": "medium",
-  "story_id": 655
+  "story_id": 655,
+  "columns": 4
  },
  {
   "source": "Full edition",
@@ -11805,7 +12460,8 @@
   "ref": "The-Savera-The-Savera (58).pdf p.13",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 656
+  "story_id": 656,
+  "columns": 1
  },
  {
   "source": "Full edition",
@@ -11823,7 +12479,8 @@
   "ref": "The-Savera-The-Savera (58).pdf p.13",
   "date": "2026-11-15",
   "confidence": "medium",
-  "story_id": 657
+  "story_id": 657,
+  "columns": 3
  },
  {
   "source": "Full edition",
@@ -11841,7 +12498,8 @@
   "ref": "The-Savera-The-Savera (58).pdf p.13",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 658
+  "story_id": 658,
+  "columns": 1
  },
  {
   "source": "Full edition",
@@ -11859,7 +12517,8 @@
   "ref": "The-Savera-The-Savera (58).pdf p.14",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 659
+  "story_id": 659,
+  "columns": 1
  },
  {
   "source": "Full edition",
@@ -11877,7 +12536,8 @@
   "ref": "The-Savera-The-Savera (58).pdf p.14",
   "date": "2026-11-15",
   "confidence": "medium",
-  "story_id": 660
+  "story_id": 660,
+  "columns": 4
  },
  {
   "source": "Full edition",
@@ -11895,7 +12555,8 @@
   "ref": "The-Savera-The-Savera (58).pdf p.14",
   "date": "2026-11-15",
   "confidence": "medium",
-  "story_id": 661
+  "story_id": 661,
+  "columns": 1
  },
  {
   "source": "Full edition",
@@ -11913,7 +12574,8 @@
   "ref": "The-Savera-The-Savera (58).pdf p.14",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 662
+  "story_id": 662,
+  "columns": 1
  },
  {
   "source": "Full edition",
@@ -11931,7 +12593,8 @@
   "ref": "The-Savera-The-Savera (58).pdf p.14",
   "date": "2026-11-15",
   "confidence": "medium",
-  "story_id": 663
+  "story_id": 663,
+  "columns": 3
  },
  {
   "source": "Full edition",
@@ -11949,7 +12612,8 @@
   "ref": "The-Savera-The-Savera (58).pdf p.14",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 664
+  "story_id": 664,
+  "columns": 1
  },
  {
   "source": "Full edition",
@@ -11967,7 +12631,8 @@
   "ref": "The-Savera-The-Savera (58).pdf p.14",
   "date": "2026-11-15",
   "confidence": "medium",
-  "story_id": 665
+  "story_id": 665,
+  "columns": 3
  },
  {
   "source": "Full edition",
@@ -11985,7 +12650,8 @@
   "ref": "The-Savera-The-Savera (58).pdf p.14",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 666
+  "story_id": 666,
+  "columns": 1
  },
  {
   "source": "Full edition",
@@ -12003,7 +12669,8 @@
   "ref": "The-Savera-The-Savera (58).pdf p.14",
   "date": "2026-11-15",
   "confidence": "medium",
-  "story_id": 667
+  "story_id": 667,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -12021,7 +12688,8 @@
   "ref": "The-Savera-The-Savera (58).pdf p.14",
   "date": "2026-11-15",
   "confidence": "medium",
-  "story_id": 668
+  "story_id": 668,
+  "columns": 4
  },
  {
   "source": "Full edition",
@@ -12039,7 +12707,8 @@
   "ref": "The-Savera-The-Savera (58).pdf p.14",
   "date": "2026-11-15",
   "confidence": "low",
-  "story_id": 669
+  "story_id": 669,
+  "columns": 1
  },
  {
   "source": "Full edition",
@@ -12057,7 +12726,8 @@
   "ref": "The-Savera-The-Savera (58).pdf p.14",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 670
+  "story_id": 670,
+  "columns": 5
  },
  {
   "source": "Full edition",
@@ -12075,7 +12745,8 @@
   "ref": "The-Savera-The-Savera (58).pdf p.17",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 671
+  "story_id": 671,
+  "columns": 5
  },
  {
   "source": "Full edition",
@@ -12093,7 +12764,8 @@
   "ref": "The-Savera-The-Savera (58).pdf p.17",
   "date": "2026-11-15",
   "confidence": "medium",
-  "story_id": 672
+  "story_id": 672,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -12111,7 +12783,8 @@
   "ref": "The-Savera-The-Savera (58).pdf p.17",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 673
+  "story_id": 673,
+  "columns": 3
  },
  {
   "source": "Full edition",
@@ -12129,7 +12802,8 @@
   "ref": "The-Savera-The-Savera (58).pdf p.17",
   "date": "2026-11-15",
   "confidence": "low",
-  "story_id": 674
+  "story_id": 674,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -12147,7 +12821,8 @@
   "ref": "The-Savera-The-Savera (58).pdf p.17",
   "date": "2026-11-15",
   "confidence": "medium",
-  "story_id": 675
+  "story_id": 675,
+  "columns": 3
  },
  {
   "source": "Full edition",
@@ -12165,7 +12840,8 @@
   "ref": "The-Savera-The-Savera (58).pdf p.17",
   "date": "2026-11-15",
   "confidence": "low",
-  "story_id": 676
+  "story_id": 676,
+  "columns": 1
  },
  {
   "source": "Full edition",
@@ -12183,7 +12859,8 @@
   "ref": "The-Savera-The-Savera (58).pdf p.17",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 677
+  "story_id": 677,
+  "columns": 4
  },
  {
   "source": "Full edition",
@@ -12201,7 +12878,8 @@
   "ref": "The-Savera-The-Savera (58).pdf p.18",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 678
+  "story_id": 678,
+  "columns": 4
  },
  {
   "source": "Full edition",
@@ -12219,7 +12897,8 @@
   "ref": "The-Savera-The-Savera (58).pdf p.18",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 679
+  "story_id": 679,
+  "columns": 3
  },
  {
   "source": "Full edition",
@@ -12237,7 +12916,8 @@
   "ref": "The-Savera-The-Savera (58).pdf p.18",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 680
+  "story_id": 680,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -12255,7 +12935,8 @@
   "ref": "The-Savera-The-Savera (58).pdf p.18",
   "date": "2026-11-15",
   "confidence": "medium",
-  "story_id": 681
+  "story_id": 681,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -12273,7 +12954,8 @@
   "ref": "The-Savera-The-Savera (58).pdf p.18",
   "date": "2026-11-15",
   "confidence": "medium",
-  "story_id": 682
+  "story_id": 682,
+  "columns": 3
  },
  {
   "source": "Full edition",
@@ -12291,7 +12973,8 @@
   "ref": "The-Savera-The-Savera (58).pdf p.21",
   "date": "2026-11-15",
   "confidence": "medium",
-  "story_id": 683
+  "story_id": 683,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -12309,7 +12992,8 @@
   "ref": "The-Savera-The-Savera (58).pdf p.22",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 684
+  "story_id": 684,
+  "columns": 4
  },
  {
   "source": "Full edition",
@@ -12327,7 +13011,8 @@
   "ref": "The-Savera-The-Savera (58).pdf p.22",
   "date": "2026-11-15",
   "confidence": "medium",
-  "story_id": 685
+  "story_id": 685,
+  "columns": 3
  },
  {
   "source": "Full edition",
@@ -12345,7 +13030,8 @@
   "ref": "The-Savera-The-Savera (58).pdf p.22",
   "date": "2026-11-15",
   "confidence": "medium",
-  "story_id": 686
+  "story_id": 686,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -12363,7 +13049,8 @@
   "ref": "The-Savera-The-Savera (58).pdf p.22",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 687
+  "story_id": 687,
+  "columns": 4
  },
  {
   "source": "Full edition",
@@ -12381,7 +13068,8 @@
   "ref": "The-Savera-The-Savera (58).pdf p.22",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 688
+  "story_id": 688,
+  "columns": 3
  },
  {
   "source": "Full edition",
@@ -12399,7 +13087,8 @@
   "ref": "The-Savera-The-Savera (58).pdf p.25",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 689
+  "story_id": 689,
+  "columns": 4
  },
  {
   "source": "Full edition",
@@ -12417,7 +13106,8 @@
   "ref": "The-Savera-The-Savera (58).pdf p.25",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 690
+  "story_id": 690,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -12435,7 +13125,8 @@
   "ref": "The-Savera-The-Savera (58).pdf p.25",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 691
+  "story_id": 691,
+  "columns": 1
  },
  {
   "source": "Full edition",
@@ -12453,7 +13144,8 @@
   "ref": "The-Savera-The-Savera (58).pdf p.25",
   "date": "2026-11-15",
   "confidence": "low",
-  "story_id": 692
+  "story_id": 692,
+  "columns": 3
  },
  {
   "source": "Full edition",
@@ -12471,7 +13163,8 @@
   "ref": "The-Savera-The-Savera (58).pdf p.25",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 693
+  "story_id": 693,
+  "columns": 4
  },
  {
   "source": "Full edition",
@@ -12489,7 +13182,8 @@
   "ref": "The-Savera-The-Savera (58).pdf p.25",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 694
+  "story_id": 694,
+  "columns": 4
  },
  {
   "source": "Full edition",
@@ -12507,7 +13201,8 @@
   "ref": "The-Savera-The-Savera (58).pdf p.25",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 695
+  "story_id": 695,
+  "columns": 3
  },
  {
   "source": "Full edition",
@@ -12525,7 +13220,8 @@
   "ref": "The-Savera-The-Savera (58).pdf p.25",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 696
+  "story_id": 696,
+  "columns": 3
  },
  {
   "source": "Full edition",
@@ -12543,7 +13239,8 @@
   "ref": "The-Savera-The-Savera (58).pdf p.25",
   "date": "2026-11-15",
   "confidence": "medium",
-  "story_id": 697
+  "story_id": 697,
+  "columns": 4
  },
  {
   "source": "Full edition",
@@ -12561,7 +13258,8 @@
   "ref": "The-Savera-The-Savera (58).pdf p.26",
   "date": "2026-11-15",
   "confidence": "medium",
-  "story_id": 698
+  "story_id": 698,
+  "columns": 5
  },
  {
   "source": "Full edition",
@@ -12579,7 +13277,8 @@
   "ref": "The-Savera-The-Savera (58).pdf p.29",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 699
+  "story_id": 699,
+  "columns": 1
  },
  {
   "source": "Full edition",
@@ -12597,7 +13296,8 @@
   "ref": "The-Savera-The-Savera (58).pdf p.29",
   "date": "2026-11-15",
   "confidence": "low",
-  "story_id": 700
+  "story_id": 700,
+  "columns": 3
  },
  {
   "source": "Full edition",
@@ -12615,7 +13315,8 @@
   "ref": "The-Savera-The-Savera (58).pdf p.29",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 701
+  "story_id": 701,
+  "columns": 3
  },
  {
   "source": "Full edition",
@@ -12633,7 +13334,8 @@
   "ref": "The-Savera-The-Savera (58).pdf p.29",
   "date": "2026-11-15",
   "confidence": "medium",
-  "story_id": 702
+  "story_id": 702,
+  "columns": 4
  },
  {
   "source": "Full edition",
@@ -12651,7 +13353,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.2",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 703
+  "story_id": 703,
+  "columns": 3
  },
  {
   "source": "Full edition",
@@ -12669,7 +13372,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.2",
   "date": "2026-11-15",
   "confidence": "medium",
-  "story_id": 704
+  "story_id": 704,
+  "columns": 1
  },
  {
   "source": "Full edition",
@@ -12687,7 +13391,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.2",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 705
+  "story_id": 705,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -12705,7 +13410,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.2",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 706
+  "story_id": 706,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -12723,7 +13429,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.2",
   "date": "2026-11-15",
   "confidence": "medium",
-  "story_id": 707
+  "story_id": 707,
+  "columns": 1
  },
  {
   "source": "Full edition",
@@ -12741,7 +13448,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.2",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 708
+  "story_id": 708,
+  "columns": 1
  },
  {
   "source": "Full edition",
@@ -12759,7 +13467,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.2",
   "date": "2026-11-15",
   "confidence": "medium",
-  "story_id": 709
+  "story_id": 709,
+  "columns": 1
  },
  {
   "source": "Full edition",
@@ -12777,7 +13486,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.2",
   "date": "2026-11-15",
   "confidence": "medium",
-  "story_id": 710
+  "story_id": 710,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -12795,7 +13505,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.3",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 711
+  "story_id": 711,
+  "columns": 3
  },
  {
   "source": "Full edition",
@@ -12813,7 +13524,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.3",
   "date": "2026-11-15",
   "confidence": "low",
-  "story_id": 712
+  "story_id": 712,
+  "columns": 1
  },
  {
   "source": "Full edition",
@@ -12831,7 +13543,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.3",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 713
+  "story_id": 713,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -12849,7 +13562,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.3",
   "date": "2026-11-15",
   "confidence": "medium",
-  "story_id": 714
+  "story_id": 714,
+  "columns": 1
  },
  {
   "source": "Full edition",
@@ -12867,7 +13581,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.3",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 715
+  "story_id": 715,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -12885,7 +13600,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.3",
   "date": "2026-11-15",
   "confidence": "medium",
-  "story_id": 716
+  "story_id": 716,
+  "columns": 3
  },
  {
   "source": "Full edition",
@@ -12903,7 +13619,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.3",
   "date": "2026-11-15",
   "confidence": "low",
-  "story_id": 717
+  "story_id": 717,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -12921,7 +13638,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.3",
   "date": "2026-11-15",
   "confidence": "medium",
-  "story_id": 718
+  "story_id": 718,
+  "columns": 4
  },
  {
   "source": "Full edition",
@@ -12939,7 +13657,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.4",
   "date": "2026-11-15",
   "confidence": "medium",
-  "story_id": 719
+  "story_id": 719,
+  "columns": 4
  },
  {
   "source": "Full edition",
@@ -12957,7 +13676,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.4",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 720
+  "story_id": 720,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -12975,7 +13695,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.4",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 721
+  "story_id": 721,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -12993,7 +13714,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.4",
   "date": "2026-11-15",
   "confidence": "medium",
-  "story_id": 722
+  "story_id": 722,
+  "columns": 3
  },
  {
   "source": "Full edition",
@@ -13011,7 +13733,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.4",
   "date": "2026-11-15",
   "confidence": "medium",
-  "story_id": 723
+  "story_id": 723,
+  "columns": 1
  },
  {
   "source": "Full edition",
@@ -13029,7 +13752,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.4",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 724
+  "story_id": 724,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -13047,7 +13771,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.4",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 725
+  "story_id": 725,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -13065,7 +13790,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.4",
   "date": "2026-11-15",
   "confidence": "low",
-  "story_id": 726
+  "story_id": 726,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -13083,7 +13809,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.5",
   "date": "2026-11-15",
   "confidence": "medium",
-  "story_id": 727
+  "story_id": 727,
+  "columns": 5
  },
  {
   "source": "Full edition",
@@ -13101,7 +13828,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.5",
   "date": "2026-11-15",
   "confidence": "medium",
-  "story_id": 728
+  "story_id": 728,
+  "columns": 3
  },
  {
   "source": "Full edition",
@@ -13119,7 +13847,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.5",
   "date": "2026-11-15",
   "confidence": "medium",
-  "story_id": 729
+  "story_id": 729,
+  "columns": 3
  },
  {
   "source": "Full edition",
@@ -13137,7 +13866,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.5",
   "date": "2026-11-15",
   "confidence": "low",
-  "story_id": 730
+  "story_id": 730,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -13155,7 +13885,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.6",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 731
+  "story_id": 731,
+  "columns": 5
  },
  {
   "source": "Full edition",
@@ -13173,7 +13904,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.6",
   "date": "2026-11-15",
   "confidence": "medium",
-  "story_id": 732
+  "story_id": 732,
+  "columns": 3
  },
  {
   "source": "Full edition",
@@ -13191,7 +13923,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.6",
   "date": "2026-11-15",
   "confidence": "medium",
-  "story_id": 733
+  "story_id": 733,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -13209,7 +13942,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.6",
   "date": "2026-11-15",
   "confidence": "low",
-  "story_id": 734
+  "story_id": 734,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -13227,7 +13961,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.6",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 735
+  "story_id": 735,
+  "columns": 3
  },
  {
   "source": "Full edition",
@@ -13245,7 +13980,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.7",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 736
+  "story_id": 736,
+  "columns": 3
  },
  {
   "source": "Full edition",
@@ -13263,7 +13999,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.7",
   "date": "2026-11-15",
   "confidence": "low",
-  "story_id": 737
+  "story_id": 737,
+  "columns": 3
  },
  {
   "source": "Full edition",
@@ -13281,7 +14018,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.7",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 738
+  "story_id": 738,
+  "columns": 5
  },
  {
   "source": "Full edition",
@@ -13299,7 +14037,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.7",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 739
+  "story_id": 739,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -13317,7 +14056,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.7",
   "date": "2026-11-15",
   "confidence": "medium",
-  "story_id": 740
+  "story_id": 740,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -13335,7 +14075,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.7",
   "date": "2026-11-15",
   "confidence": "medium",
-  "story_id": 741
+  "story_id": 741,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -13353,7 +14094,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.8",
   "date": "2026-11-15",
   "confidence": "low",
-  "story_id": 742
+  "story_id": 742,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -13371,7 +14113,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.8",
   "date": "2026-11-15",
   "confidence": "medium",
-  "story_id": 743
+  "story_id": 743,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -13389,7 +14132,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.8",
   "date": "2026-11-15",
   "confidence": "medium",
-  "story_id": 744
+  "story_id": 744,
+  "columns": 3
  },
  {
   "source": "Full edition",
@@ -13407,7 +14151,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.8",
   "date": "2026-11-15",
   "confidence": "low",
-  "story_id": 745
+  "story_id": 745,
+  "columns": 3
  },
  {
   "source": "Full edition",
@@ -13425,7 +14170,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.9",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 746
+  "story_id": 746,
+  "columns": 6
  },
  {
   "source": "Full edition",
@@ -13443,7 +14189,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.9",
   "date": "2026-11-15",
   "confidence": "low",
-  "story_id": 747
+  "story_id": 747,
+  "columns": 5
  },
  {
   "source": "Full edition",
@@ -13461,7 +14208,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.9",
   "date": "2026-11-15",
   "confidence": "medium",
-  "story_id": 748
+  "story_id": 748,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -13479,7 +14227,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.9",
   "date": "2026-11-15",
   "confidence": "medium",
-  "story_id": 749
+  "story_id": 749,
+  "columns": 3
  },
  {
   "source": "Full edition",
@@ -13497,7 +14246,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.10",
   "date": "2026-11-15",
   "confidence": "medium",
-  "story_id": 750
+  "story_id": 750,
+  "columns": 3
  },
  {
   "source": "Full edition",
@@ -13515,7 +14265,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.10",
   "date": "2026-11-15",
   "confidence": "medium",
-  "story_id": 751
+  "story_id": 751,
+  "columns": 5
  },
  {
   "source": "Full edition",
@@ -13533,7 +14284,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.10",
   "date": "2026-11-15",
   "confidence": "low",
-  "story_id": 752
+  "story_id": 752,
+  "columns": 3
  },
  {
   "source": "Full edition",
@@ -13551,7 +14303,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.10",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 753
+  "story_id": 753,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -13569,7 +14322,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.10",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 754
+  "story_id": 754,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -13587,7 +14341,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.11",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 755
+  "story_id": 755,
+  "columns": 5
  },
  {
   "source": "Full edition",
@@ -13605,7 +14360,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.11",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 756
+  "story_id": 756,
+  "columns": 3
  },
  {
   "source": "Full edition",
@@ -13623,7 +14379,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.11",
   "date": "2026-11-15",
   "confidence": "medium",
-  "story_id": 757
+  "story_id": 757,
+  "columns": 3
  },
  {
   "source": "Full edition",
@@ -13641,7 +14398,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.12",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 758
+  "story_id": 758,
+  "columns": 4
  },
  {
   "source": "Full edition",
@@ -13659,7 +14417,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.12",
   "date": "2026-11-15",
   "confidence": "medium",
-  "story_id": 759
+  "story_id": 759,
+  "columns": 3
  },
  {
   "source": "Full edition",
@@ -13677,7 +14436,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.12",
   "date": "2026-11-15",
   "confidence": "medium",
-  "story_id": 760
+  "story_id": 760,
+  "columns": 3
  },
  {
   "source": "Full edition",
@@ -13695,7 +14455,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.12",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 761
+  "story_id": 761,
+  "columns": 3
  },
  {
   "source": "Full edition",
@@ -13713,7 +14474,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.13",
   "date": "2026-11-15",
   "confidence": "medium",
-  "story_id": 762
+  "story_id": 762,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -13731,7 +14493,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.13",
   "date": "2026-11-15",
   "confidence": "low",
-  "story_id": 763
+  "story_id": 763,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -13749,7 +14512,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.13",
   "date": "2026-11-15",
   "confidence": "low",
-  "story_id": 764
+  "story_id": 764,
+  "columns": 3
  },
  {
   "source": "Full edition",
@@ -13767,7 +14531,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.13",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 765
+  "story_id": 765,
+  "columns": 6
  },
  {
   "source": "Full edition",
@@ -13785,7 +14550,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.14",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 766
+  "story_id": 766,
+  "columns": 6
  },
  {
   "source": "Full edition",
@@ -13803,7 +14569,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.14",
   "date": "2026-11-15",
   "confidence": "low",
-  "story_id": 767
+  "story_id": 767,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -13821,7 +14588,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.14",
   "date": "2026-11-15",
   "confidence": "medium",
-  "story_id": 768
+  "story_id": 768,
+  "columns": 3
  },
  {
   "source": "Full edition",
@@ -13839,7 +14607,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.14",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 769
+  "story_id": 769,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -13857,7 +14626,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.14",
   "date": "2026-11-15",
   "confidence": "low",
-  "story_id": 770
+  "story_id": 770,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -13875,7 +14645,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.14",
   "date": "2026-11-15",
   "confidence": "low",
-  "story_id": 771
+  "story_id": 771,
+  "columns": 3
  },
  {
   "source": "Full edition",
@@ -13893,7 +14664,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.15",
   "date": "2026-11-15",
   "confidence": "medium",
-  "story_id": 772
+  "story_id": 772,
+  "columns": 6
  },
  {
   "source": "Full edition",
@@ -13911,7 +14683,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.15",
   "date": "2026-11-15",
   "confidence": "medium",
-  "story_id": 773
+  "story_id": 773,
+  "columns": 3
  },
  {
   "source": "Full edition",
@@ -13929,7 +14702,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.15",
   "date": "2026-11-15",
   "confidence": "medium",
-  "story_id": 774
+  "story_id": 774,
+  "columns": 3
  },
  {
   "source": "Full edition",
@@ -13947,7 +14721,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.15",
   "date": "2026-11-15",
   "confidence": "medium",
-  "story_id": 775
+  "story_id": 775,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -13965,7 +14740,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.16",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 776
+  "story_id": 776,
+  "columns": 6
  },
  {
   "source": "Full edition",
@@ -13983,7 +14759,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.16",
   "date": "2026-11-15",
   "confidence": "medium",
-  "story_id": 777
+  "story_id": 777,
+  "columns": 1
  },
  {
   "source": "Full edition",
@@ -14001,7 +14778,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.16",
   "date": "2026-11-15",
   "confidence": "low",
-  "story_id": 778
+  "story_id": 778,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -14019,7 +14797,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.16",
   "date": "2026-11-15",
   "confidence": "medium",
-  "story_id": 779
+  "story_id": 779,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -14037,7 +14816,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.16",
   "date": "2026-11-15",
   "confidence": "medium",
-  "story_id": 780
+  "story_id": 780,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -14055,7 +14835,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.17",
   "date": "2026-11-15",
   "confidence": "medium",
-  "story_id": 781
+  "story_id": 781,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -14073,7 +14854,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.17",
   "date": "2026-11-15",
   "confidence": "low",
-  "story_id": 782
+  "story_id": 782,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -14091,7 +14873,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.17",
   "date": "2026-11-15",
   "confidence": "medium",
-  "story_id": 783
+  "story_id": 783,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -14109,7 +14892,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.17",
   "date": "2026-11-15",
   "confidence": "medium",
-  "story_id": 784
+  "story_id": 784,
+  "columns": 3
  },
  {
   "source": "Full edition",
@@ -14127,7 +14911,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.17",
   "date": "2026-11-15",
   "confidence": "medium",
-  "story_id": 785
+  "story_id": 785,
+  "columns": 3
  },
  {
   "source": "Full edition",
@@ -14145,7 +14930,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.18",
   "date": "2026-11-15",
   "confidence": "medium",
-  "story_id": 786
+  "story_id": 786,
+  "columns": 4
  },
  {
   "source": "Full edition",
@@ -14163,7 +14949,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.18",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 787
+  "story_id": 787,
+  "columns": 6
  },
  {
   "source": "Full edition",
@@ -14181,7 +14968,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.18",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 788
+  "story_id": 788,
+  "columns": 1
  },
  {
   "source": "Full edition",
@@ -14199,7 +14987,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.18",
   "date": "2026-11-15",
   "confidence": "low",
-  "story_id": 789
+  "story_id": 789,
+  "columns": 1
  },
  {
   "source": "Full edition",
@@ -14217,7 +15006,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.18",
   "date": "2026-11-15",
   "confidence": "medium",
-  "story_id": 790
+  "story_id": 790,
+  "columns": 1
  },
  {
   "source": "Full edition",
@@ -14235,7 +15025,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.18",
   "date": "2026-11-15",
   "confidence": "medium",
-  "story_id": 791
+  "story_id": 791,
+  "columns": 1
  },
  {
   "source": "Full edition",
@@ -14253,7 +15044,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.18",
   "date": "2026-11-15",
   "confidence": "medium",
-  "story_id": 792
+  "story_id": 792,
+  "columns": 1
  },
  {
   "source": "Full edition",
@@ -14271,7 +15063,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.18",
   "date": "2026-11-15",
   "confidence": "low",
-  "story_id": 793
+  "story_id": 793,
+  "columns": 3
  },
  {
   "source": "Full edition",
@@ -14289,7 +15082,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.18",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 794
+  "story_id": 794,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -14307,7 +15101,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.18",
   "date": "2026-11-15",
   "confidence": "low",
-  "story_id": 795
+  "story_id": 795,
+  "columns": 1
  },
  {
   "source": "Full edition",
@@ -14325,7 +15120,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.18",
   "date": "2026-11-15",
   "confidence": "medium",
-  "story_id": 796
+  "story_id": 796,
+  "columns": 3
  },
  {
   "source": "Full edition",
@@ -14343,7 +15139,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.19",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 797
+  "story_id": 797,
+  "columns": 6
  },
  {
   "source": "Full edition",
@@ -14361,7 +15158,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.19",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 798
+  "story_id": 798,
+  "columns": 5
  },
  {
   "source": "Full edition",
@@ -14379,7 +15177,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.19",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 799
+  "story_id": 799,
+  "columns": 5
  },
  {
   "source": "Full edition",
@@ -14397,7 +15196,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.19",
   "date": "2026-11-15",
   "confidence": "low",
-  "story_id": 800
+  "story_id": 800,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -14415,7 +15215,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.19",
   "date": "2026-11-15",
   "confidence": "low",
-  "story_id": 801
+  "story_id": 801,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -14433,7 +15234,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.20",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 802
+  "story_id": 802,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -14451,7 +15253,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.20",
   "date": "2026-11-15",
   "confidence": "medium",
-  "story_id": 803
+  "story_id": 803,
+  "columns": 4
  },
  {
   "source": "Full edition",
@@ -14469,7 +15272,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.20",
   "date": "2026-11-15",
   "confidence": "low",
-  "story_id": 804
+  "story_id": 804,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -14487,7 +15291,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.20",
   "date": "2026-11-15",
   "confidence": "medium",
-  "story_id": 805
+  "story_id": 805,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -14505,7 +15310,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.20",
   "date": "2026-11-15",
   "confidence": "medium",
-  "story_id": 806
+  "story_id": 806,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -14523,7 +15329,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.20",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 807
+  "story_id": 807,
+  "columns": 5
  },
  {
   "source": "Full edition",
@@ -14541,7 +15348,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.21",
   "date": "2026-11-15",
   "confidence": "medium",
-  "story_id": 808
+  "story_id": 808,
+  "columns": 5
  },
  {
   "source": "Full edition",
@@ -14559,7 +15367,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.21",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 809
+  "story_id": 809,
+  "columns": 4
  },
  {
   "source": "Full edition",
@@ -14577,7 +15386,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.21",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 810
+  "story_id": 810,
+  "columns": 3
  },
  {
   "source": "Full edition",
@@ -14595,7 +15405,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.21",
   "date": "2026-11-15",
   "confidence": "medium",
-  "story_id": 811
+  "story_id": 811,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -14613,7 +15424,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.21",
   "date": "2026-11-15",
   "confidence": "medium",
-  "story_id": 812
+  "story_id": 812,
+  "columns": 3
  },
  {
   "source": "Full edition",
@@ -14631,7 +15443,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.21",
   "date": "2026-11-15",
   "confidence": "medium",
-  "story_id": 813
+  "story_id": 813,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -14649,7 +15462,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.21",
   "date": "2026-11-15",
   "confidence": "medium",
-  "story_id": 814
+  "story_id": 814,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -14667,7 +15481,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.21",
   "date": "2026-11-15",
   "confidence": "medium",
-  "story_id": 815
+  "story_id": 815,
+  "columns": 3
  },
  {
   "source": "Full edition",
@@ -14685,7 +15500,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.22",
   "date": "2026-11-15",
   "confidence": "medium",
-  "story_id": 816
+  "story_id": 816,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -14703,7 +15519,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.22",
   "date": "2026-11-15",
   "confidence": "low",
-  "story_id": 817
+  "story_id": 817,
+  "columns": 3
  },
  {
   "source": "Full edition",
@@ -14721,7 +15538,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.22",
   "date": "2026-11-15",
   "confidence": "medium",
-  "story_id": 818
+  "story_id": 818,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -14739,7 +15557,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.23",
   "date": "2026-11-15",
   "confidence": "medium",
-  "story_id": 819
+  "story_id": 819,
+  "columns": 5
  },
  {
   "source": "Full edition",
@@ -14757,7 +15576,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.23",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 820
+  "story_id": 820,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -14775,7 +15595,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.23",
   "date": "2026-11-15",
   "confidence": "medium",
-  "story_id": 821
+  "story_id": 821,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -14793,7 +15614,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.23",
   "date": "2026-11-15",
   "confidence": "medium",
-  "story_id": 822
+  "story_id": 822,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -14811,7 +15633,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.25",
   "date": "2026-11-15",
   "confidence": "low",
-  "story_id": 823
+  "story_id": 823,
+  "columns": 5
  },
  {
   "source": "Full edition",
@@ -14829,7 +15652,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.25",
   "date": "2026-11-15",
   "confidence": "low",
-  "story_id": 824
+  "story_id": 824,
+  "columns": 3
  },
  {
   "source": "Full edition",
@@ -14847,7 +15671,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.25",
   "date": "2026-11-15",
   "confidence": "low",
-  "story_id": 825
+  "story_id": 825,
+  "columns": 3
  },
  {
   "source": "Full edition",
@@ -14865,7 +15690,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.25",
   "date": "2026-11-15",
   "confidence": "medium",
-  "story_id": 826
+  "story_id": 826,
+  "columns": 1
  },
  {
   "source": "Full edition",
@@ -14883,7 +15709,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.25",
   "date": "2026-11-15",
   "confidence": "medium",
-  "story_id": 827
+  "story_id": 827,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -14901,7 +15728,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.25",
   "date": "2026-11-15",
   "confidence": "medium",
-  "story_id": 828
+  "story_id": 828,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -14919,7 +15747,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.25",
   "date": "2026-11-15",
   "confidence": "medium",
-  "story_id": 829
+  "story_id": 829,
+  "columns": 3
  },
  {
   "source": "Full edition",
@@ -14937,7 +15766,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.26",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 830
+  "story_id": 830,
+  "columns": 5
  },
  {
   "source": "Full edition",
@@ -14955,7 +15785,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.26",
   "date": "2026-11-15",
   "confidence": "medium",
-  "story_id": 831
+  "story_id": 831,
+  "columns": 4
  },
  {
   "source": "Full edition",
@@ -14973,7 +15804,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.26",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 832
+  "story_id": 832,
+  "columns": 3
  },
  {
   "source": "Full edition",
@@ -14991,7 +15823,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.26",
   "date": "2026-11-15",
   "confidence": "low",
-  "story_id": 833
+  "story_id": 833,
+  "columns": 3
  },
  {
   "source": "Full edition",
@@ -15009,7 +15842,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.26",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 834
+  "story_id": 834,
+  "columns": 1
  },
  {
   "source": "Full edition",
@@ -15027,7 +15861,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.26",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 835
+  "story_id": 835,
+  "columns": 1
  },
  {
   "source": "Full edition",
@@ -15045,7 +15880,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.26",
   "date": "2026-11-15",
   "confidence": "medium",
-  "story_id": 836
+  "story_id": 836,
+  "columns": 1
  },
  {
   "source": "Full edition",
@@ -15063,7 +15899,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.27",
   "date": "2026-11-15",
   "confidence": "low",
-  "story_id": 837
+  "story_id": 837,
+  "columns": 3
  },
  {
   "source": "Full edition",
@@ -15081,7 +15918,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.27",
   "date": "2026-11-15",
   "confidence": "medium",
-  "story_id": 838
+  "story_id": 838,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -15099,7 +15937,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.27",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 839
+  "story_id": 839,
+  "columns": 3
  },
  {
   "source": "Full edition",
@@ -15117,7 +15956,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.27",
   "date": "2026-11-15",
   "confidence": "medium",
-  "story_id": 840
+  "story_id": 840,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -15135,7 +15975,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.27",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 841
+  "story_id": 841,
+  "columns": 1
  },
  {
   "source": "Full edition",
@@ -15153,7 +15994,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.27",
   "date": "2026-11-15",
   "confidence": "medium",
-  "story_id": 842
+  "story_id": 842,
+  "columns": 1
  },
  {
   "source": "Full edition",
@@ -15171,7 +16013,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.28",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 843
+  "story_id": 843,
+  "columns": 4
  },
  {
   "source": "Full edition",
@@ -15189,7 +16032,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.28",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 844
+  "story_id": 844,
+  "columns": 3
  },
  {
   "source": "Full edition",
@@ -15207,7 +16051,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.28",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 845
+  "story_id": 845,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -15225,7 +16070,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.28",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 846
+  "story_id": 846,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -15243,7 +16089,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.28",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 847
+  "story_id": 847,
+  "columns": 3
  },
  {
   "source": "Full edition",
@@ -15261,7 +16108,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.28",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 848
+  "story_id": 848,
+  "columns": 1
  },
  {
   "source": "Full edition",
@@ -15279,7 +16127,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.29",
   "date": "2026-11-15",
   "confidence": "medium",
-  "story_id": 849
+  "story_id": 849,
+  "columns": 5
  },
  {
   "source": "Full edition",
@@ -15297,7 +16146,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.29",
   "date": "2026-11-15",
   "confidence": "medium",
-  "story_id": 850
+  "story_id": 850,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -15315,7 +16165,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.29",
   "date": "2026-11-15",
   "confidence": "medium",
-  "story_id": 851
+  "story_id": 851,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -15333,7 +16184,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.29",
   "date": "2026-11-15",
   "confidence": "low",
-  "story_id": 852
+  "story_id": 852,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -15351,7 +16203,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.29",
   "date": "2026-11-15",
   "confidence": "low",
-  "story_id": 853
+  "story_id": 853,
+  "columns": 1
  },
  {
   "source": "Full edition",
@@ -15369,7 +16222,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.30",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 854
+  "story_id": 854,
+  "columns": 5
  },
  {
   "source": "Full edition",
@@ -15387,7 +16241,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.30",
   "date": "2026-11-15",
   "confidence": "medium",
-  "story_id": 855
+  "story_id": 855,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -15405,7 +16260,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.30",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 856
+  "story_id": 856,
+  "columns": 3
  },
  {
   "source": "Full edition",
@@ -15423,7 +16279,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.30",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 857
+  "story_id": 857,
+  "columns": 3
  },
  {
   "source": "Full edition",
@@ -15441,7 +16298,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.30",
   "date": "2026-11-15",
   "confidence": "medium",
-  "story_id": 858
+  "story_id": 858,
+  "columns": 1
  },
  {
   "source": "Full edition",
@@ -15459,7 +16317,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.30",
   "date": "2026-11-15",
   "confidence": "low",
-  "story_id": 859
+  "story_id": 859,
+  "columns": 1
  },
  {
   "source": "Full edition",
@@ -15477,7 +16336,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.31",
   "date": "2026-11-15",
   "confidence": "medium",
-  "story_id": 860
+  "story_id": 860,
+  "columns": 4
  },
  {
   "source": "Full edition",
@@ -15495,7 +16355,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.31",
   "date": "2026-11-15",
   "confidence": "medium",
-  "story_id": 861
+  "story_id": 861,
+  "columns": 3
  },
  {
   "source": "Full edition",
@@ -15513,7 +16374,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.31",
   "date": "2026-11-15",
   "confidence": "medium",
-  "story_id": 862
+  "story_id": 862,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -15531,7 +16393,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.31",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 863
+  "story_id": 863,
+  "columns": 3
  },
  {
   "source": "Full edition",
@@ -15549,7 +16412,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.32",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 864
+  "story_id": 864,
+  "columns": 5
  },
  {
   "source": "Full edition",
@@ -15567,7 +16431,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.32",
   "date": "2026-11-15",
   "confidence": "low",
-  "story_id": 865
+  "story_id": 865,
+  "columns": 3
  },
  {
   "source": "Full edition",
@@ -15585,7 +16450,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.32",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 866
+  "story_id": 866,
+  "columns": 4
  },
  {
   "source": "Full edition",
@@ -15603,7 +16469,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.32",
   "date": "2026-11-15",
   "confidence": "low",
-  "story_id": 867
+  "story_id": 867,
+  "columns": 1
  },
  {
   "source": "Full edition",
@@ -15621,7 +16488,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.33",
   "date": "2026-11-15",
   "confidence": "medium",
-  "story_id": 868
+  "story_id": 868,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -15639,7 +16507,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.33",
   "date": "2026-11-15",
   "confidence": "low",
-  "story_id": 869
+  "story_id": 869,
+  "columns": 5
  },
  {
   "source": "Full edition",
@@ -15657,7 +16526,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.33",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 870
+  "story_id": 870,
+  "columns": 1
  },
  {
   "source": "Full edition",
@@ -15675,7 +16545,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.33",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 871
+  "story_id": 871,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -15693,7 +16564,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.33",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 872
+  "story_id": 872,
+  "columns": 1
  },
  {
   "source": "Full edition",
@@ -15711,7 +16583,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.34",
   "date": "2026-11-15",
   "confidence": "medium",
-  "story_id": 873
+  "story_id": 873,
+  "columns": 5
  },
  {
   "source": "Full edition",
@@ -15729,7 +16602,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.34",
   "date": "2026-11-15",
   "confidence": "medium",
-  "story_id": 874
+  "story_id": 874,
+  "columns": 3
  },
  {
   "source": "Full edition",
@@ -15747,7 +16621,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.34",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 875
+  "story_id": 875,
+  "columns": 3
  },
  {
   "source": "Full edition",
@@ -15765,7 +16640,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.34",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 876
+  "story_id": 876,
+  "columns": 4
  },
  {
   "source": "Full edition",
@@ -15783,7 +16659,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.34",
   "date": "2026-11-15",
   "confidence": "medium",
-  "story_id": 877
+  "story_id": 877,
+  "columns": 1
  },
  {
   "source": "Full edition",
@@ -15801,7 +16678,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.35",
   "date": "2026-11-15",
   "confidence": "low",
-  "story_id": 878
+  "story_id": 878,
+  "columns": 5
  },
  {
   "source": "Full edition",
@@ -15819,7 +16697,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.35",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 879
+  "story_id": 879,
+  "columns": 4
  },
  {
   "source": "Full edition",
@@ -15837,7 +16716,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.35",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 880
+  "story_id": 880,
+  "columns": 3
  },
  {
   "source": "Full edition",
@@ -15855,7 +16735,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.35",
   "date": "2026-11-15",
   "confidence": "medium",
-  "story_id": 881
+  "story_id": 881,
+  "columns": 3
  },
  {
   "source": "Full edition",
@@ -15873,7 +16754,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.35",
   "date": "2026-11-15",
   "confidence": "low",
-  "story_id": 882
+  "story_id": 882,
+  "columns": 1
  },
  {
   "source": "Full edition",
@@ -15891,7 +16773,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.35",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 883
+  "story_id": 883,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -15909,7 +16792,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.35",
   "date": "2026-11-15",
   "confidence": "medium",
-  "story_id": 884
+  "story_id": 884,
+  "columns": 1
  },
  {
   "source": "Full edition",
@@ -15927,7 +16811,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.35",
   "date": "2026-11-15",
   "confidence": "medium",
-  "story_id": 885
+  "story_id": 885,
+  "columns": 4
  },
  {
   "source": "Full edition",
@@ -15945,7 +16830,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.35",
   "date": "2026-11-15",
   "confidence": "low",
-  "story_id": 886
+  "story_id": 886,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -15963,7 +16849,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.36",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 887
+  "story_id": 887,
+  "columns": 3
  },
  {
   "source": "Full edition",
@@ -15981,7 +16868,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.36",
   "date": "2026-11-15",
   "confidence": "low",
-  "story_id": 888
+  "story_id": 888,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -15999,7 +16887,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.37",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 889
+  "story_id": 889,
+  "columns": 1
  },
  {
   "source": "Full edition",
@@ -16017,7 +16906,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.37",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 890
+  "story_id": 890,
+  "columns": 3
  },
  {
   "source": "Full edition",
@@ -16035,7 +16925,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.37",
   "date": "2026-11-15",
   "confidence": "medium",
-  "story_id": 891
+  "story_id": 891,
+  "columns": 3
  },
  {
   "source": "Full edition",
@@ -16053,7 +16944,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.37",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 892
+  "story_id": 892,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -16071,7 +16963,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.37",
   "date": "2026-11-15",
   "confidence": "low",
-  "story_id": 893
+  "story_id": 893,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -16089,7 +16982,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.37",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 894
+  "story_id": 894,
+  "columns": 3
  },
  {
   "source": "Full edition",
@@ -16107,7 +17001,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.37",
   "date": "2026-11-15",
   "confidence": "low",
-  "story_id": 895
+  "story_id": 895,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -16125,7 +17020,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.38",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 896
+  "story_id": 896,
+  "columns": 5
  },
  {
   "source": "Full edition",
@@ -16143,7 +17039,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.38",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 897
+  "story_id": 897,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -16161,7 +17058,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.38",
   "date": "2026-11-15",
   "confidence": "medium",
-  "story_id": 898
+  "story_id": 898,
+  "columns": 3
  },
  {
   "source": "Full edition",
@@ -16179,7 +17077,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.38",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 899
+  "story_id": 899,
+  "columns": 3
  },
  {
   "source": "Full edition",
@@ -16197,7 +17096,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.39",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 900
+  "story_id": 900,
+  "columns": 4
  },
  {
   "source": "Full edition",
@@ -16215,7 +17115,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.39",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 901
+  "story_id": 901,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -16233,7 +17134,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.39",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 902
+  "story_id": 902,
+  "columns": 3
  },
  {
   "source": "Full edition",
@@ -16251,7 +17153,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.39",
   "date": "2026-11-15",
   "confidence": "medium",
-  "story_id": 903
+  "story_id": 903,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -16269,7 +17172,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.39",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 904
+  "story_id": 904,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -16287,7 +17191,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.39",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 905
+  "story_id": 905,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -16305,7 +17210,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.39",
   "date": "2026-11-15",
   "confidence": "low",
-  "story_id": 906
+  "story_id": 906,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -16323,7 +17229,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.39",
   "date": "2026-11-15",
   "confidence": "low",
-  "story_id": 907
+  "story_id": 907,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -16341,7 +17248,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.39",
   "date": "2026-11-15",
   "confidence": "medium",
-  "story_id": 908
+  "story_id": 908,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -16359,7 +17267,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.40",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 909
+  "story_id": 909,
+  "columns": 5
  },
  {
   "source": "Full edition",
@@ -16377,7 +17286,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.40",
   "date": "2026-11-15",
   "confidence": "medium",
-  "story_id": 910
+  "story_id": 910,
+  "columns": 3
  },
  {
   "source": "Full edition",
@@ -16395,7 +17305,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.40",
   "date": "2026-11-15",
   "confidence": "medium",
-  "story_id": 911
+  "story_id": 911,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -16413,7 +17324,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.40",
   "date": "2026-11-15",
   "confidence": "low",
-  "story_id": 912
+  "story_id": 912,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -16431,7 +17343,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.41",
   "date": "2026-11-15",
   "confidence": "low",
-  "story_id": 913
+  "story_id": 913,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -16449,7 +17362,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.41",
   "date": "2026-11-15",
   "confidence": "medium",
-  "story_id": 914
+  "story_id": 914,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -16467,7 +17381,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.41",
   "date": "2026-11-15",
   "confidence": "low",
-  "story_id": 915
+  "story_id": 915,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -16485,7 +17400,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.41",
   "date": "2026-11-15",
   "confidence": "low",
-  "story_id": 916
+  "story_id": 916,
+  "columns": 3
  },
  {
   "source": "Full edition",
@@ -16503,7 +17419,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.42",
   "date": "2026-11-15",
   "confidence": "low",
-  "story_id": 917
+  "story_id": 917,
+  "columns": 3
  },
  {
   "source": "Full edition",
@@ -16521,7 +17438,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.42",
   "date": "2026-11-15",
   "confidence": "low",
-  "story_id": 918
+  "story_id": 918,
+  "columns": 1
  },
  {
   "source": "Full edition",
@@ -16539,7 +17457,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.42",
   "date": "2026-11-15",
   "confidence": "medium",
-  "story_id": 919
+  "story_id": 919,
+  "columns": 3
  },
  {
   "source": "Full edition",
@@ -16557,7 +17476,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.42",
   "date": "2026-11-15",
   "confidence": "medium",
-  "story_id": 920
+  "story_id": 920,
+  "columns": 1
  },
  {
   "source": "Full edition",
@@ -16575,7 +17495,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.43",
   "date": "2026-11-15",
   "confidence": "medium",
-  "story_id": 921
+  "story_id": 921,
+  "columns": 4
  },
  {
   "source": "Full edition",
@@ -16593,7 +17514,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.43",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 922
+  "story_id": 922,
+  "columns": 3
  },
  {
   "source": "Full edition",
@@ -16611,7 +17533,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.43",
   "date": "2026-11-15",
   "confidence": "medium",
-  "story_id": 923
+  "story_id": 923,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -16629,7 +17552,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.43",
   "date": "2026-11-15",
   "confidence": "medium",
-  "story_id": 924
+  "story_id": 924,
+  "columns": 1
  },
  {
   "source": "Full edition",
@@ -16647,7 +17571,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.43",
   "date": "2026-11-15",
   "confidence": "low",
-  "story_id": 925
+  "story_id": 925,
+  "columns": 3
  },
  {
   "source": "Full edition",
@@ -16665,7 +17590,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.44",
   "date": "2026-11-15",
   "confidence": "medium",
-  "story_id": 926
+  "story_id": 926,
+  "columns": 5
  },
  {
   "source": "Full edition",
@@ -16683,7 +17609,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.44",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 927
+  "story_id": 927,
+  "columns": 4
  },
  {
   "source": "Full edition",
@@ -16701,7 +17628,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.44",
   "date": "2026-11-15",
   "confidence": "medium",
-  "story_id": 928
+  "story_id": 928,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -16719,7 +17647,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.44",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 929
+  "story_id": 929,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -16737,7 +17666,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.45",
   "date": "2026-11-15",
   "confidence": "medium",
-  "story_id": 930
+  "story_id": 930,
+  "columns": 5
  },
  {
   "source": "Full edition",
@@ -16755,7 +17685,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.45",
   "date": "2026-11-15",
   "confidence": "low",
-  "story_id": 931
+  "story_id": 931,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -16773,7 +17704,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.45",
   "date": "2026-11-15",
   "confidence": "medium",
-  "story_id": 932
+  "story_id": 932,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -16791,7 +17723,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.45",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 933
+  "story_id": 933,
+  "columns": 1
  },
  {
   "source": "Full edition",
@@ -16809,7 +17742,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.45",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 934
+  "story_id": 934,
+  "columns": 1
  },
  {
   "source": "Full edition",
@@ -16827,7 +17761,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.45",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 935
+  "story_id": 935,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -16845,7 +17780,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.45",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 936
+  "story_id": 936,
+  "columns": 5
  },
  {
   "source": "Full edition",
@@ -16863,7 +17799,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.45",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 937
+  "story_id": 937,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -16881,7 +17818,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.46",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 938
+  "story_id": 938,
+  "columns": 5
  },
  {
   "source": "Full edition",
@@ -16899,7 +17837,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.46",
   "date": "2026-11-15",
   "confidence": "medium",
-  "story_id": 939
+  "story_id": 939,
+  "columns": 3
  },
  {
   "source": "Full edition",
@@ -16917,7 +17856,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.48",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 940
+  "story_id": 940,
+  "columns": 3
  },
  {
   "source": "Full edition",
@@ -16935,7 +17875,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.48",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 941
+  "story_id": 941,
+  "columns": 1
  },
  {
   "source": "Full edition",
@@ -16953,7 +17894,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.48",
   "date": "2026-11-15",
   "confidence": "low",
-  "story_id": 942
+  "story_id": 942,
+  "columns": 3
  },
  {
   "source": "Full edition",
@@ -16971,7 +17913,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.48",
   "date": "2026-11-15",
   "confidence": "medium",
-  "story_id": 943
+  "story_id": 943,
+  "columns": 4
  },
  {
   "source": "Full edition",
@@ -16989,7 +17932,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.49",
   "date": "2026-11-15",
   "confidence": "high",
-  "story_id": 944
+  "story_id": 944,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -17007,7 +17951,8 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.49",
   "date": "2026-11-15",
   "confidence": "medium",
-  "story_id": 945
+  "story_id": 945,
+  "columns": 2
  },
  {
   "source": "Full edition",
@@ -17025,6 +17970,7 @@
   "ref": "DISTRICT FRONT PAGE 15 NOVEMBER 2026.pdf p.49",
   "date": "2026-11-15",
   "confidence": "low",
-  "story_id": 946
+  "story_id": 946,
+  "columns": 3
  }
 ]
