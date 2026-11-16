@@ -1,0 +1,188 @@
+[
+ {
+  "story_id": 465,
+  "sentiment": "Positive",
+  "confidence": "low",
+  "reason": "Enforcement action by the state at a checkpost, challan issued."
+ },
+ {
+  "story_id": 477,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "Health department SAANS campaign reaching people."
+ },
+ {
+  "story_id": 478,
+  "sentiment": "Neutral",
+  "confidence": "low",
+  "reason": "Doctor's awareness advice, no government tilt."
+ },
+ {
+  "story_id": 480,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "Police goodwill act, returning purse."
+ },
+ {
+  "story_id": 481,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Robbery at pistol point is crime and law and order."
+ },
+ {
+  "story_id": 487,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "medium",
+  "reason": "BSF is a central force with no Punjab government role (rule 5)."
+ },
+ {
+  "story_id": 494,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Heroin recovery and arrests are always Positive."
+ },
+ {
+  "story_id": 495,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "low",
+  "reason": "Complaint against a private gas agency, no government role."
+ },
+ {
+  "story_id": 500,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Farmer union rallies raising paddy and stubble cases against govt."
+ },
+ {
+  "story_id": 504,
+  "sentiment": "Negative",
+  "confidence": "low",
+  "reason": "Foreign-job fraud is a crime story with no government credit."
+ },
+ {
+  "story_id": 507,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "AAP ticket speculation, no clear tilt."
+ },
+ {
+  "story_id": 509,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "low",
+  "reason": "Candidate campaign for another party (page is BJP-led), opposition internal."
+ },
+ {
+  "story_id": 139,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "CM announces ex gratia relief for victims' kin."
+ },
+ {
+  "story_id": 141,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Stubble burning rising and reversing five-year decline."
+ },
+ {
+  "story_id": 142,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Congress leader's internal politics, opposition internal."
+ },
+ {
+  "story_id": 144,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "BJP internal CM-face matter, opposition internal."
+ },
+ {
+  "story_id": 147,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Headline leads with SAD and Congress cornering AAP govt."
+ },
+ {
+  "story_id": 148,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Arrests of gang members are always Positive."
+ },
+ {
+  "story_id": 235,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "AAP spokesperson attacks SAD regime, counter-attack."
+ },
+ {
+  "story_id": 292,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Jathedar blames government for failing to check drugs."
+ },
+ {
+  "story_id": 293,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Dispute between SGPC faction and Centre, no Punjab govt role."
+ },
+ {
+  "story_id": 164,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "low",
+  "reason": "Court verdicts on 1990s police killings, not current government."
+ },
+ {
+  "story_id": 165,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "CM praises migrants at Chhath Puja, AAP outreach."
+ },
+ {
+  "story_id": 166,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Arrests of five criminals by Punjab Police."
+ },
+ {
+  "story_id": 167,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "Govt action sealing sugar mill for unpaid cane dues."
+ },
+ {
+  "story_id": 168,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "CM announces Rs 5L relief for victims' families."
+ },
+ {
+  "story_id": 169,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Own agriculture minister protesting over Kalkat Bhawan and denied ticket."
+ },
+ {
+  "story_id": 170,
+  "sentiment": "Neutral",
+  "confidence": "low",
+  "reason": "Unnamed IAS officer under flak holds havan, no clear tilt."
+ },
+ {
+  "story_id": 171,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "medium",
+  "reason": "Feature on poplar farming with no government angle."
+ },
+ {
+  "story_id": 172,
+  "sentiment": "Neutral",
+  "confidence": "low",
+  "reason": "Firing injury balanced by two arrests."
+ },
+ {
+  "story_id": 238,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Column on Capt Amarinder Singh, BJP and opposition politics."
+ }
+]

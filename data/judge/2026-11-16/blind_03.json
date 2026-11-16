@@ -1,0 +1,248 @@
+[
+ {
+  "story_id": 24,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "CM Mann honoured at Chhath, outreach to migrants."
+ },
+ {
+  "story_id": 25,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "Smuggler sentenced in hashish case; drug enforcement win."
+ },
+ {
+  "story_id": 26,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Arrests and arms recovery against gangster network."
+ },
+ {
+  "story_id": 27,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Seven smugglers arrested with heroin; police action."
+ },
+ {
+  "story_id": 28,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Statewide police raids and arrests in gangster campaign."
+ },
+ {
+  "story_id": 29,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Routine police directive on security, no clear tilt."
+ },
+ {
+  "story_id": 188,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Opposition leader Channi's yatra drawing crowds is opposition momentum."
+ },
+ {
+  "story_id": 189,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Congress internal organisational committee (opposition internal)."
+ },
+ {
+  "story_id": 247,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "medium",
+  "reason": "BJP internal appointments to committees (opposition internal)."
+ },
+ {
+  "story_id": 248,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "BJP backs Sewa Kendra employees against the government."
+ },
+ {
+  "story_id": 88,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "CM's OSD in CBI inquiry story, even with no new FIR."
+ },
+ {
+  "story_id": 91,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Raids and 199 arrests on day 299 of anti-gangster drive."
+ },
+ {
+  "story_id": 93,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Routine security instructions to SSPs."
+ },
+ {
+  "story_id": 225,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Akali Dal internal; leader rejoining party."
+ },
+ {
+  "story_id": 263,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "BJP chief attacks govt over Tirth Yatra bus accident, demands action."
+ },
+ {
+  "story_id": 265,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "SAD-BJP seat sharing talk, opposition internal."
+ },
+ {
+  "story_id": 266,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "BJP backs Sewa Kendra employees against the government."
+ },
+ {
+  "story_id": 50,
+  "sentiment": "Neutral",
+  "confidence": "low",
+  "reason": "Stubble burning case count vs satellite confirmation, factual with slight scrutiny."
+ },
+ {
+  "story_id": 221,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "medium",
+  "reason": "SGPC election protest march, no Punjab govt angle."
+ },
+ {
+  "story_id": 258,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "medium",
+  "reason": "BJP internal committees (opposition internal)."
+ },
+ {
+  "story_id": 290,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Jathedar says people will ask governments why drugs not stopped."
+ },
+ {
+  "story_id": 629,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Civic failure: garbage heaps in Ghall Kalan."
+ },
+ {
+  "story_id": 631,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Pensioners' arrears unpaid, grievance against government."
+ },
+ {
+  "story_id": 633,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Shooting injury, crime and law and order."
+ },
+ {
+  "story_id": 651,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Controversy over AAP MLA and district president's party meeting, internal discord."
+ },
+ {
+  "story_id": 661,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Heroin recovery and arrest, police action."
+ },
+ {
+  "story_id": 666,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Anganwadi workers to burn effigies of state government, protest."
+ },
+ {
+  "story_id": 672,
+  "sentiment": "Negative",
+  "confidence": "low",
+  "reason": "Opposition leader's reply to minister Bains' statement, political sparring."
+ },
+ {
+  "story_id": 691,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Govt's Mera Dukan Mere Naam scheme shows poor compliance."
+ },
+ {
+  "story_id": 32,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "AAP campaign launch on Foundation Day, AAP outreach."
+ },
+ {
+  "story_id": 37,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "medium",
+  "reason": "Central agency NCB raids, no Punjab govt role (Lesson 5)."
+ },
+ {
+  "story_id": 217,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Akali Dal internal; leader rejoining party."
+ },
+ {
+  "story_id": 252,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "medium",
+  "reason": "BJP internal committees (opposition internal)."
+ },
+ {
+  "story_id": 256,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "BJP leader pitches double engine govt, an attack on state govt."
+ },
+ {
+  "story_id": 563,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Heroin recovered at border village, police action."
+ },
+ {
+  "story_id": 564,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Farmers begin indefinite dharna at sugar mill, protest."
+ },
+ {
+  "story_id": 566,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Villagers' dharna over unpaid compensation."
+ },
+ {
+  "story_id": 567,
+  "sentiment": "Neutral",
+  "confidence": "low",
+  "reason": "Land dispute protest on water tank, govt role unclear."
+ },
+ {
+  "story_id": 569,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "AAP leader joins Congress, defection from AAP."
+ },
+ {
+  "story_id": 574,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Farmer leaders' dharna at DSP office, protest against police."
+ },
+ {
+  "story_id": 575,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Dharna at Powercom office, protest over services."
+ }
+]

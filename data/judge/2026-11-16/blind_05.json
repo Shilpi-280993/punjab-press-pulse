@@ -1,0 +1,12 @@
+[
+{"story_id":151,"sentiment":"Negative","confidence":"high","reason":"NHRC summons the Chief Secretary and the opposition blames the AAP govt for the Tarn Taran bus crash."},
+{"story_id":152,"sentiment":"Positive","confidence":"medium","reason":"Headline leads with the CM announcing Rs 5L relief for victims' families, a delivery item, though opposition criticism sits in the text."},
+{"story_id":153,"sentiment":"Not about AAP/Govt","confidence":"medium","reason":"Rajasthan ATS case on a Pak handler and rail track bomb, a central and other-state matter (rule 5)."},
+{"story_id":154,"sentiment":"Not about AAP/Govt","confidence":"medium","reason":"Follow-up of the Rajasthan ATS case on Pak handlers, with no Punjab government angle in the headline."},
+{"story_id":156,"sentiment":"Negative","confidence":"medium","reason":"Akal Takht Jathedar at Jhota's ardas urges the state to act on drugs, an implied criticism of the government."},
+{"story_id":157,"sentiment":"Positive","confidence":"high","reason":"CM Mann's Chhath outreach and praise for migrants is an AAP outreach event."},
+{"story_id":160,"sentiment":"Positive","confidence":"high","reason":"AGTF seizure of 11 pistols is police action on arms, always Positive."},
+{"story_id":161,"sentiment":"Negative","confidence":"medium","reason":"Ex-IPS officer who felt sidelined in AAP joins the BJP, a defection from AAP (headline also frames BJP ticket rivalry)."},
+{"story_id":162,"sentiment":"Neutral","confidence":"medium","reason":"Factual farm fire count with enforcement figures and no clear tilt."},
+{"story_id":163,"sentiment":"Not about AAP/Govt","confidence":"medium","reason":"Railway FOB at Kharar is a Railway Board project with no Punjab government role (rule 5)."}
+]

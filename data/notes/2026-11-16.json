@@ -1,0 +1,33 @@
+{
+  "validation": "Sentiment checked blind by a second model (Sonnet) on a sample of 162 of the 747 stories (every low-confidence row plus 100 at random), with Claude Fable 5.2 ruling on every disagreement: the check agreed with the coding on 132 (81%, and 91 of the 100 random rows); after review 5 labels were changed.",
+  "sources": "The monitoring deck's 293 clippings (slides 18 to 299), plus 457 stories the deck missed from every page of Dainik Savera (including its district pages), The Savera Times (including its district editions) and the District Front Page file. The other papers' main editions are covered by the deck only. Relevant = about AAP, the Punjab government or a state matter.",
+  "takeaway": "{negative_share} of the {relevant} relevant stories were negative and {positive_share} positive. The Tarn Taran pilgrim bus collision stayed the biggest story, in 14 papers with 8 front pages, but the CM's Rs 5 lakh aid to victims' families turned 13 of its 30 rows positive. Police action (157 stories), the CM at Chhath Puja and the sealing of the Phagwara sugar mill carried the rest of the good news.",
+  "well": [
+    [
+      "Police action again led the positives.",
+      "157 stories on seizures, arrests and busts, including the Afridi network's 11 pistols in 8 papers."
+    ],
+    [
+      "The CM's response softened the bus collision story.",
+      "13 of the 30 collision rows were positive, led by the CM's Rs 5 lakh aid to victims' families."
+    ],
+    [
+      "Festival and enforcement stories travelled.",
+      "The CM at Chhath Puja ran in 9 papers and the sealing of the Phagwara sugar mill in 9; all but one of those 19 rows were positive."
+    ]
+  ],
+  "improve": [
+    [
+      "The bus collision still drew criticism.",
+      "15 of its 30 rows were negative, including the NHRC summons to the Chief Secretary."
+    ],
+    [
+      "Opposition statements continued.",
+      "53 attacks (BJP 28, Congress 13, SAD 4, others 8). Jakhar backing Sewa Kendra employees ran in 8 papers, all negative."
+    ],
+    [
+      "Crime and civic complaints weigh on district pages.",
+      "73 crime stories, 64 of them negative, and 59 civic services stories, 37 of them negative."
+    ]
+  ]
+}

@@ -1,0 +1,188 @@
+[
+ {
+  "story_id": 6,
+  "final": "Positive",
+  "reason": "Headline and strap lead with two arrests from Gurdaspur in the Rajasthan rail blast case, and the opening paragraph says Rajasthan Police made them with the help of Gurdaspur police. Punjab Police took part, so it is a police arrest item. Same event is Positive in story 22.",
+  "rule": "Lesson 1 (police arrests are Positive)"
+ },
+ {
+  "story_id": 18,
+  "final": "Positive",
+  "reason": "The opening line says the Aam Aadmi Party declared Balvir Singh Pala Jalalpur its Shahkot candidate; he visits shrines and pledges development, with the party's halqa organisation in-charge present. AAP candidate outreach.",
+  "rule": "Lesson 3 (AAP outreach)"
+ },
+ {
+  "story_id": 88,
+  "final": "Neutral",
+  "reason": "Headline is a clarification that no new FIR has been registered against the CM's OSD; the paper corrects its own 15 Nov report and regrets the error. A factual correction with no attack in the lead. Same item is Neutral in story 23.",
+  "rule": "Neutral: factual items / headline's lead"
+ },
+ {
+  "story_id": 125,
+  "final": "Not about AAP/Govt",
+  "reason": "Headline is the Pakistani agent's honey trap and payment; the strap says Rajasthan Police arrested both and the disclosure comes from the Rajasthan ATS. The clipping gives the Punjab government or Punjab Police no role, so another state's case is treated like a central agency case under Lesson 5. Consistent with stories 153 and 154.",
+  "rule": "new case"
+ },
+ {
+  "story_id": 128,
+  "final": "Positive",
+  "reason": "Headline leads with two Gurdaspur residents held, and the report says they were picked up in a joint operation by the Rajasthan ATS, Sri Ganganagar police and Punjab Police. With Punjab Police part of the arrest it is relevant and a police arrest item, as in stories 6 and 22.",
+  "rule": "Lesson 1 (police arrests are Positive)",
+  "theme_group": "Police action on gangs, arms & drugs",
+  "detailed_theme": "Police action vs crime"
+ },
+ {
+  "story_id": 133,
+  "final": "Neutral",
+  "reason": "Headline leads with the CM's own stance (rejects NHRC concerns, rules out a probe); the strap has him urging the Opposition not to politicise, and the body adds his hospital visit and ex gratia. The NHRC summons and the CM's reply balance out, with no attacker in the lead.",
+  "rule": "Neutral: factual items / headline's lead"
+ },
+ {
+  "story_id": 134,
+  "final": "Neutral",
+  "reason": "Headline is only that hundreds attended Jhota's bhog. The Jathedar's and the father's criticism of the state government is in the body, not the lead. Consistent with the other tribute rows (41, 56, 155, 286, 346).",
+  "rule": "Headline's lead"
+ },
+ {
+  "story_id": 137,
+  "final": "Neutral",
+  "reason": "Opinion essay with a generic headline on defection politics. The body questions the BJP's induction of three AAP MLAs and the morality of defectors in general; it does not attack the government, and the lead is not a defection report.",
+  "rule": "Headline's lead"
+ },
+ {
+  "story_id": 147,
+  "final": "Neutral",
+  "reason": "Printed headline is 'Autopsy report faux pas' and the item opens with two SAD and Congress leaders making a faux pas while trying to corner the AAP government. The lead is the opposition's slip, not an attack that lands on the government.",
+  "rule": "Headline's lead"
+ },
+ {
+  "story_id": 156,
+  "final": "Neutral",
+  "reason": "Headline quotes the Jathedar that Punjab wants freedom from drugs; it is a call, not an attack. The urging of governments to move beyond claims is in the body. Consistent with story 155 and the other tribute rows.",
+  "rule": "Headline's lead"
+ },
+ {
+  "story_id": 161,
+  "final": "Not about AAP/Govt",
+  "reason": "Headline 'New entrant, old rivalries?' and the whole brief are about unease among BJP ticket aspirants in Amritsar after the ex-IPS officer's entry. His earlier exit from AAP is background in one clause, not the news of the item.",
+  "rule": "Lesson 4 (Opposition internal)"
+ },
+ {
+  "story_id": 172,
+  "final": "Negative",
+  "reason": "Headline leads with a firing that injured a man in Ludhiana; the two arrests come second. A shooting incident is a crime item by the headline's lead.",
+  "rule": "Negative: crime / headline's lead"
+ },
+ {
+  "story_id": 181,
+  "final": "Positive",
+  "reason": "Headline leads with a man held for consuming heroin, after a raid by Gate Hakima police with recoveries. The line about open drug use despite police claims is in the body, not the headline.",
+  "rule": "Lesson 1 (police arrests are Positive)"
+ },
+ {
+  "story_id": 201,
+  "final": "Not about AAP/Govt",
+  "reason": "Headline and strap are the Congress's own message and the welcome for Channi's Jawani Sambhal cycle yatra in Moga. His remarks against the AAP government are in the body only, so the lead is a Congress party event.",
+  "rule": "Lesson 4 (Opposition internal)",
+  "theme_group": "",
+  "detailed_theme": "Opposition internal"
+ },
+ {
+  "story_id": 337,
+  "final": "Neutral",
+  "reason": "Printed headline is only that the Congress district president Bhullar called the bus accident very sad. His call for an inquiry and accountability is in the body and is not the lead.",
+  "rule": "Headline's lead"
+ },
+ {
+  "story_id": 345,
+  "final": "Neutral",
+  "reason": "Headline is that police registered cases against those behind a robbery and vehicle thefts; the body lists the crimes alongside the cases and one accused in lock-up. Crime and police response are balanced, with no arrest or attack in the lead.",
+  "rule": "Neutral: factual items / headline's lead"
+ },
+ {
+  "story_id": 397,
+  "final": "Neutral",
+  "reason": "A complaint against a private builder, but it is before Punjab RERA and the item quotes the RERA chairman and the Additional Chief Administrator promising to examine it. State regulators are in the story, so it is relevant; nothing in the lead blames or credits the government.",
+  "rule": "Relevance / Neutral: factual items"
+ },
+ {
+  "story_id": 404,
+  "final": "Neutral",
+  "reason": "Headline is a vintage car rally raising awareness on drugs and cancer, run by Fortis Hospital; the Police Commissioner only flags it off. A private hospital's event with a police guest is not government delivery.",
+  "rule": "Neutral: factual items / headline's lead"
+ },
+ {
+  "story_id": 435,
+  "final": "Neutral",
+  "reason": "A pensioners' association delegation met the BDPO; the item says the meeting was cordial and the office gave assurances on pending instalments. A meeting, not a protest.",
+  "rule": "Neutral: factual items / headline's lead"
+ },
+ {
+  "story_id": 438,
+  "final": "Negative",
+  "reason": "Headline and strap announce the union joining the 26 Nov rallies in Amritsar, Jalandhar, Patiala and Bathinda, which the item says are against the Punjab government's breach of promises, with a warning of a bigger agitation. A protest against the government is the lead.",
+  "rule": "Negative: protests against the government"
+ },
+ {
+  "story_id": 448,
+  "final": "Neutral",
+  "reason": "Headline is the police pensioners' own stance that they will back whichever party works for Punjab's interests, at a routine monthly meeting. No attack on the government in the lead.",
+  "rule": "Lesson 6 (own stance in headline is Neutral)"
+ },
+ {
+  "story_id": 477,
+  "final": "Neutral",
+  "reason": "Headline is a government doctor's health advice on pneumonia signs during a routine inspection under the SAANS campaign. An advisory with no launch, grant or benefit claimed.",
+  "rule": "Neutral: factual items / headline's lead"
+ },
+ {
+  "story_id": 487,
+  "final": "Positive",
+  "reason": "The brief says BSF men caught the two with a pistol in a joint search with police staff, and Ferozepur City police registered the case under the Arms Act. Punjab Police took part, so Lesson 5 does not apply. Consistent with stories 110 and 418 and with 15 Nov story 441.",
+  "rule": "Lesson 1 (police arrests and seizures are Positive)"
+ },
+ {
+  "story_id": 495,
+  "final": "Not about AAP/Govt",
+  "reason": "A consumer's complaint that a private gas agency did not deliver a cylinder for 20 days and that its staff misbehaved. The administration is only asked to act; the item reports no government decision, failure or reply.",
+  "rule": "new case",
+  "theme_group": "",
+  "detailed_theme": "Others"
+ },
+ {
+  "story_id": 509,
+  "final": "Positive",
+  "reason": "The candidate's party is the ruling party: those present include the Punjab Agro chairman Mangal Singh Bassi, the Lok Sabha in-charge Raminik Singh Randhawa and the Trade Commission's halqa chairman. Deepak Bali is the AAP candidate for Jalandhar Cantt; the neighbouring BJP items are separate stories.",
+  "rule": "Lesson 3 (AAP outreach)"
+ },
+ {
+  "story_id": 536,
+  "final": "Neutral",
+  "reason": "Headline is students showing models at a block-level science exhibition, a routine Education Department event at a School of Eminence. No launch, grant or scheme benefit is claimed.",
+  "rule": "Neutral: factual items / headline's lead"
+ },
+ {
+  "story_id": 567,
+  "final": "Negative",
+  "reason": "More than two dozen villagers climbed a water tank demanding justice from the administration in a land dispute, raising slogans and saying nobody is hearing them. A protest against the administration is the lead.",
+  "rule": "Negative: protests against the government"
+ },
+ {
+  "story_id": 672,
+  "final": "Neutral",
+  "reason": "Headline only says the BJP's Dr Subhash Sharma replied after minister Bains' statement; the strap quotes his defiant line that he cannot be moved. It is a retort about his own position, not an attack on the government's record.",
+  "rule": "Headline's lead"
+ },
+ {
+  "story_id": 691,
+  "final": "Neutral",
+  "reason": "Headline says most shopkeepers do not meet the conditions of the 'Meri Dukan Mere Naam' scheme; the corporation is checking 144 applications and dues. The shortfall is the applicants', and the lead does not blame the government.",
+  "rule": "Neutral: factual items / headline's lead"
+ },
+ {
+  "story_id": 740,
+  "final": "Neutral",
+  "reason": "Two paramilitary companies deployed in Fazilka ahead of the elections, but the item is as much about the district police: 1,200 personnel, 700 to 800 in the field and extra checkpoints. Punjab Police has a role, so it is relevant and factual. Same treatment as 15 Nov stories 36 and 112.",
+  "rule": "Neutral: factual items"
+ }
+]

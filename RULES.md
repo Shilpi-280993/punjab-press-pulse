@@ -70,6 +70,11 @@ From owner review, 15 Nov 2026:
 
 8. `Court rebukes & govt finances` is for court rebukes, fines and strain on state finances, so it is never Positive. A court ruling in the government's favour (for example a penalty upheld in an illegal mining case) goes to `Governance, Assembly & politics` with detailed theme `Anti-corruption`, or to the group of its subject. Neutral finance items (bond issues, borrowing) may stay in the group.
 
+From the sentiment judge, 16 Nov 2026:
+
+9. New case: another state's police or ATS case (for example a Rajasthan rail-blast arrest of Punjab residents) is treated like a central agency case under Lesson 5: `Not about AAP/Govt` unless the clipping gives Punjab Police or the Punjab government a role.
+10. New case: a consumer complaint against a private business (a gas agency not delivering, staff misbehaving) is `Not about AAP/Govt` when it only asks the administration to act and reports no government decision, failure or reply.
+
 ## Daily commentary (data/notes/<date>.json)
 
 ```

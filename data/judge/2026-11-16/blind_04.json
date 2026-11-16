@@ -1,0 +1,182 @@
+[
+ {
+  "story_id": 194,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Congress internal committee on inducting leaders; Opposition internal."
+ },
+ {
+  "story_id": 262,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "BJP internal panels; Opposition internal."
+ },
+ {
+  "story_id": 578,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Opposition leader says AAP is misleading people; opposition attack."
+ },
+ {
+  "story_id": 581,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "AAP MLA proposes upgrading PHC to CHC; delivery."
+ },
+ {
+  "story_id": 587,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Subsidy on wheat seed and gypsum; scheme reaching farmers."
+ },
+ {
+  "story_id": 593,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Opposition leader vows fitting reply to the government's excesses."
+ },
+ {
+  "story_id": 594,
+  "sentiment": "Neutral",
+  "confidence": "low",
+  "reason": "Mayor attends Chhath Puja and greets devotees; no clear tilt."
+ },
+ {
+  "story_id": 595,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Farmer union protests against closing of mandis."
+ },
+ {
+  "story_id": 603,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Farmer organisations threaten indefinite road and rail jam."
+ },
+ {
+  "story_id": 611,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Opposition claim that education revolution is hollow; vacancies."
+ },
+ {
+  "story_id": 181,
+  "sentiment": "Neutral",
+  "confidence": "low",
+  "reason": "Arrest of a heroin user, but lead stresses open drug use despite police claims."
+ },
+ {
+  "story_id": 283,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "BJP internal poll panels; Opposition internal."
+ },
+ {
+  "story_id": 531,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Police arrests and drug seizures are always Positive."
+ },
+ {
+  "story_id": 536,
+  "sentiment": "Positive",
+  "confidence": "low",
+  "reason": "Students at School of Eminence science exhibition; government school scheme."
+ },
+ {
+  "story_id": 542,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Police seize suspicious drone; police action."
+ },
+ {
+  "story_id": 543,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "Police anti-drug drive combined with stubble-burning awareness."
+ },
+ {
+  "story_id": 549,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Police arrest two in heroin case under state anti-drug campaign."
+ },
+ {
+  "story_id": 551,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Nihangs thrash suspected peddlers; law and order lapse, drug problem persisting."
+ },
+ {
+  "story_id": 553,
+  "sentiment": "Negative",
+  "confidence": "low",
+  "reason": "Missing schoolgirl report; crime and law and order."
+ },
+ {
+  "story_id": 128,
+  "sentiment": "Positive",
+  "confidence": "low",
+  "reason": "Arrests in rail blast case with Punjab Police joint operation; Rajasthan-led."
+ },
+ {
+  "story_id": 129,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Bridge reopened by PWD restoration giving relief to 100 villages."
+ },
+ {
+  "story_id": 131,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Analysis of CM's lok milni and AAP campaign; no clear tilt."
+ },
+ {
+  "story_id": 133,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "NHRC concerns over bus crash and scheme safety; govt rejects probe."
+ },
+ {
+  "story_id": 134,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Bhog of anti-drug activist where family calls government blind, deaf and mute."
+ },
+ {
+  "story_id": 136,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "CM at Chhath Puja, hails migrants and announces arrangements."
+ },
+ {
+  "story_id": 137,
+  "sentiment": "Neutral",
+  "confidence": "low",
+  "reason": "Opinion on defection politics, generic lead."
+ },
+ {
+  "story_id": 203,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Congress ticket distribution; Opposition internal."
+ },
+ {
+  "story_id": 231,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "SAD internal rejoining; Opposition internal."
+ },
+ {
+  "story_id": 233,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Akali faction protest over SGPC elections targets Centre and SAD."
+ },
+ {
+  "story_id": 276,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "medium",
+  "reason": "RSS role in BJP poll battle; opposition side."
+ }
+]

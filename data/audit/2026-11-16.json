@@ -1,0 +1,52 @@
+{
+ "date": "2026-11-16",
+ "judge": "Claude Fable 5.2",
+ "rows_judged": 162,
+ "blind_agreement": 132,
+ "agreement_rate": 0.8148,
+ "disagreements": 30,
+ "sentiment_changed": 5,
+ "coder_kept": 25,
+ "patterns": [
+  {
+   "before": "Not about AAP/Govt",
+   "after": "Positive",
+   "rule": "Lesson 1 (police arrests are Positive)",
+   "count": 1
+  },
+  {
+   "before": "Negative",
+   "after": "Neutral",
+   "rule": "Headline's lead",
+   "count": 1
+  },
+  {
+   "before": "Neutral",
+   "after": "Not about AAP/Govt",
+   "rule": "Lesson 4 (Opposition internal)",
+   "count": 1
+  },
+  {
+   "before": "Neutral",
+   "after": "Negative",
+   "rule": "Negative: protests against the government",
+   "count": 1
+  },
+  {
+   "before": "Negative",
+   "after": "Not about AAP/Govt",
+   "rule": "new case",
+   "count": 1
+  }
+ ],
+ "new_cases": [
+  {
+   "story_id": 125,
+   "reason": "Headline is the Pakistani agent's honey trap and payment; the strap says Rajasthan Police arrested both and the disclosure comes from the Rajasthan ATS. The clipping gives the Punjab government or Punjab Police no role, so another state's case is treated like a central agency case under Lesson 5. Consistent with stories 153 and 154."
+  },
+  {
+   "story_id": 495,
+   "reason": "A consumer's complaint that a private gas agency did not deliver a cylinder for 20 days and that its staff misbehaved. The administration is only asked to act; the item reports no government decision, failure or reply."
+  }
+ ]
+}

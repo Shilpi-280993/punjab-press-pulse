@@ -1,0 +1,302 @@
+[
+ {
+  "story_id": 5,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "medium",
+  "reason": "No govt angle in a road accident."
+ },
+ {
+  "story_id": 6,
+  "sentiment": "Neutral",
+  "confidence": "low",
+  "reason": "Punjab-linked security arrests in a Rajasthan case; no clear tilt."
+ },
+ {
+  "story_id": 11,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "AAP candidate's office opening is AAP outreach."
+ },
+ {
+  "story_id": 13,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Projects stuck in controversy, a civic failure."
+ },
+ {
+  "story_id": 18,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "low",
+  "reason": "Candidate's pledge; party unclear, not shown as AAP."
+ },
+ {
+  "story_id": 215,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "medium",
+  "reason": "Opposition leader attacks the Centre on SGPC, no govt angle."
+ },
+ {
+  "story_id": 243,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "BJP leader demands state hand over papers to CBI, an opposition attack."
+ },
+ {
+  "story_id": 286,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Tribute gathering at Jhota's antim Ardas, no clear tilt."
+ },
+ {
+  "story_id": 110,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "BSF joint search catches armed youths, a police action."
+ },
+ {
+  "story_id": 111,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "CM announces relief for bus accident victims."
+ },
+ {
+  "story_id": 115,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "Govt action seals sugar mill over unpaid farmer dues."
+ },
+ {
+  "story_id": 116,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "ED summons AAP MLA in land acquisition case."
+ },
+ {
+  "story_id": 119,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Arrest with banned capsules is police action."
+ },
+ {
+  "story_id": 199,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Congress internal affairs."
+ },
+ {
+  "story_id": 270,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "BJP internal appointments."
+ },
+ {
+  "story_id": 268,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "BJP backs Sewa Kendra employees against the govt."
+ },
+ {
+  "story_id": 704,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Checking against drug smugglers is police action."
+ },
+ {
+  "story_id": 710,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Smoke and AQI 295 from stubble burning is a civic failure."
+ },
+ {
+  "story_id": 715,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Farmers oppose canal work, a protest against the project."
+ },
+ {
+  "story_id": 721,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Garbage city headline is a civic failure."
+ },
+ {
+  "story_id": 727,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Arrest with banned pills is police action."
+ },
+ {
+  "story_id": 739,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Arrest with pistol is police action."
+ },
+ {
+  "story_id": 740,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "low",
+  "reason": "Central paramilitary deployment with no state role."
+ },
+ {
+  "story_id": 125,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Pakistani agent plot, security case with no clear govt tilt."
+ },
+ {
+  "story_id": 201,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Congress leader's yatra."
+ },
+ {
+  "story_id": 295,
+  "sentiment": "Neutral",
+  "confidence": "low",
+  "reason": "Jail illness item, no tilt."
+ },
+ {
+  "story_id": 299,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Case against driver of govt bus after fatal accident."
+ },
+ {
+  "story_id": 301,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Drone recovery by BSF and police."
+ },
+ {
+  "story_id": 310,
+  "sentiment": "Neutral",
+  "confidence": "low",
+  "reason": "BJP leader's condolence visit to accident injured."
+ },
+ {
+  "story_id": 319,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "AAP leader's anti-drug rally is AAP outreach."
+ },
+ {
+  "story_id": 325,
+  "sentiment": "Neutral",
+  "confidence": "low",
+  "reason": "Light feature on MLA's ticket race."
+ },
+ {
+  "story_id": 336,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Private school bodies unite and warn of struggle."
+ },
+ {
+  "story_id": 337,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Calls for inquiry and accountability over bus accident."
+ },
+ {
+  "story_id": 340,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Administration under fire in land dispute."
+ },
+ {
+  "story_id": 342,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Police return lost purse."
+ },
+ {
+  "story_id": 345,
+  "sentiment": "Negative",
+  "confidence": "low",
+  "reason": "Loot and vehicle theft, a crime item."
+ },
+ {
+  "story_id": 359,
+  "sentiment": "Neutral",
+  "confidence": "high",
+  "reason": "Routine EVM checking, Election Commission process."
+ },
+ {
+  "story_id": 370,
+  "sentiment": "Positive",
+  "confidence": "low",
+  "reason": "AAP MLA joins festival event, outreach."
+ },
+ {
+  "story_id": 376,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Police post in-charge warns drug sellers."
+ },
+ {
+  "story_id": 383,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Cabinet minister's development meeting."
+ },
+ {
+  "story_id": 397,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "medium",
+  "reason": "Private builder dispute at RERA."
+ },
+ {
+  "story_id": 404,
+  "sentiment": "Positive",
+  "confidence": "low",
+  "reason": "Police commissioner flags off anti-drug awareness rally."
+ },
+ {
+  "story_id": 413,
+  "sentiment": "Neutral",
+  "confidence": "low",
+  "reason": "Local leader meets DC on bus stand issues."
+ },
+ {
+  "story_id": 423,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Language Department routine competition."
+ },
+ {
+  "story_id": 428,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Residents question police over rising thefts."
+ },
+ {
+  "story_id": 435,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Pensioners press officials over pension issues."
+ },
+ {
+  "story_id": 438,
+  "sentiment": "Negative",
+  "confidence": "low",
+  "reason": "Farmer union rallies planned against govt."
+ },
+ {
+  "story_id": 448,
+  "sentiment": "Negative",
+  "confidence": "low",
+  "reason": "Police pensioners signal support to another party."
+ },
+ {
+  "story_id": 453,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Garbage and sewer failures to dominate civic polls."
+ },
+ {
+  "story_id": 462,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Language department quiz, routine event."
+ }
+]

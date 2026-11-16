@@ -65,6 +65,8 @@
 .pp-search{display:flex;gap:var(--cds-gap-sm);flex-wrap:wrap;margin-bottom:var(--cds-gap-sm);align-items:center}
 .pp-search input,.pp-search select{font:inherit;padding:var(--cds-pad-xs) var(--cds-pad-sm);border:1px solid var(--color-border-line);border-radius:var(--cds-radius);background:var(--color-bg);color:var(--color-fg);min-width:0}
 .pp-search input{flex:1 1 14rem}
+.pp-chipf{display:inline-flex;align-items:center;gap:6px;padding:2px 4px 2px 10px;border-radius:999px;background:color-mix(in srgb, var(--color-fg) 10%, transparent);font-size:var(--cds-font-size-caption)}.pp-chipf button{border:0;background:none;color:inherit;font:inherit;cursor:pointer;padding:0 6px}
+.pp-click tbody tr{cursor:pointer}.pp-click tbody tr:hover{background:color-mix(in srgb, var(--color-fg) 6%, transparent)}.pp-click tbody tr:focus-visible{outline:2px solid var(--color-fg)}
 .pp-count{font-size:var(--cds-font-size-caption);color:var(--color-fg-muted)}
 .pp-list{margin:0;padding:0;list-style:none;display:flex;flex-direction:column;gap:var(--cds-gap-md)}
 .pp-list li{padding-left:var(--cds-pad-md);border-left:3px solid var(--lc)}
@@ -125,17 +127,17 @@
 
   <section id="themes">
     <div class="pp-sec-head"><span class="pp-num">2</span><h2 class="pp-h2">Themes: positive vs negative</h2></div>
-    <p class="pp-note">Top 10 themes on each side, ranked by space: the total number of newspaper columns the theme's stories took (each story counted by how many columns wide it runs). Measured from 15 Nov 2026; earlier dates show – and are ranked by number of stories.</p>
+    <p class="pp-note">Top 10 themes on each side, ranked by space: the total number of newspaper columns the theme's stories took (each story counted by how many columns wide it runs). Measured from 15 Nov 2026; earlier dates show – and are ranked by number of stories. Click a theme to see its stories.</p>
     <div class="pp-grid">
       <div class="pp-card accent-pos" id="pos-themes-card">
         <h3 class="pp-h3 pp-pos">Positive themes</h3>
-        <div class="pp-wrap"><table id="pos-themes" data-source="pos_themes" data-row-key="theme_group">
+        <div class="pp-wrap"><table id="pos-themes" class="pp-click" data-source="pos_themes" data-row-key="theme_group">
           <thead><tr><th data-field="rank">#</th><th data-field="theme_group">Theme</th><th class="n" data-field="stories">Stories</th><th class="n" data-field="papers">Papers</th><th class="n" data-field="front_pages">Front</th><th class="n" data-field="space">Columns</th></tr></thead>
           <tbody></tbody></table></div>
       </div>
       <div class="pp-card accent-neg" id="neg-themes-card">
         <h3 class="pp-h3 pp-neg">Negative themes</h3>
-        <div class="pp-wrap"><table id="neg-themes" data-source="neg_themes" data-row-key="theme_group">
+        <div class="pp-wrap"><table id="neg-themes" class="pp-click" data-source="neg_themes" data-row-key="theme_group">
           <thead><tr><th data-field="rank">#</th><th data-field="theme_group">Theme</th><th class="n" data-field="stories">Stories</th><th class="n" data-field="papers">Papers</th><th class="n" data-field="front_pages">Front</th><th class="n" data-field="space">Columns</th></tr></thead>
           <tbody></tbody></table></div>
       </div>
@@ -158,12 +160,14 @@
     <div class="pp-grid">
       <div class="pp-card" id="reach-card">
         <h3 class="pp-h3">Biggest stories of the day</h3>
-        <table id="reach" data-source="reach" data-row-key="story">
-          <thead><tr><th data-field="story">Story</th><th class="n" data-field="papers">Papers</th><th class="n" data-field="front_pages">Front</th><th data-field="tone">Tone</th></tr></thead>
+        <p class="pp-note">Columns = total newspaper columns across all papers. Click a story to see every copy.</p>
+        <table id="reach" class="pp-click" data-source="reach" data-row-key="story">
+          <thead><tr><th data-field="story">Story</th><th class="n" data-field="papers">Papers</th><th class="n" data-field="front_pages">Front</th><th class="n" data-field="columns">Columns</th><th data-field="tone">Tone</th></tr></thead>
           <tbody></tbody></table>
       </div>
       <div class="pp-card" id="voice-card">
         <h3 class="pp-h3">Share of voice</h3>
+        <p class="pp-note">Statements · columns of space. Click a party to see its stories.</p>
         <div class="pp-pie" id="voice" data-source="voice"><svg id="voice-svg" viewBox="0 0 240 240" width="100%" role="img" aria-label="Share of voice pie chart"></svg><div class="pp-pie-legend" id="voice-legend"></div><div class="pp-tip" id="voice-tip" hidden></div></div>
       </div>
     </div>
@@ -188,6 +192,7 @@
       <div class="pp-search">
         <input type="search" id="q" placeholder="Search headline, paper or theme" aria-label="Search stories">
         <select id="fsent" aria-label="Sentiment"><option value="">All sentiments</option><option>Positive</option><option>Neutral</option><option>Negative</option><option>Not about AAP/Govt</option><option>Govt ad</option></select>
+        <span class="pp-chipf" id="fchip" hidden><span id="fchip-text"></span><button type="button" id="fchip-x" aria-label="Clear filter">✕</button></span>
         <span class="pp-count" id="count"></span>
       </div>
       <div class="pp-scroll"><table id="story-table" data-source="stories" data-row-key="story_id">
@@ -307,7 +312,9 @@ dash.calc('reach', {
     const out = [...groups.values()].map(({ day, story, h }) => ({ story: dash.date() === 'all' ? `${story} (${shortDate(day)})` : story, h }));
     return out.map(({ story, h }) => {
       const pos = h.filter((r) => r.sentiment === 'Positive').length, neg = h.filter((r) => r.sentiment === 'Negative').length;
-      return { story, papers: new Set(h.map((r) => r.newspaper)).size, front_pages: h.filter((r) => Number(r.page_weight) === 3).length,
+      const sized = h.filter((r) => r.columns !== undefined && r.columns !== '' && !isNaN(Number(r.columns)));
+      return { story, label: h[0].story, papers: new Set(h.map((r) => r.newspaper)).size, front_pages: h.filter((r) => Number(r.page_weight) === 3).length,
+        columns: sized.length ? sized.reduce((a, r) => a + Number(r.columns), 0) : null,
         tone: (h.length - pos - neg) > (pos + neg) ? 'neutral' : pos > neg * 1.5 ? 'positive' : neg > pos * 1.5 ? 'negative' : 'mixed' };
     }).filter((x) => x.papers > 0).sort((a, b) => b.papers - a.papers || b.front_pages - a.front_pages).slice(0, 12);
   },
@@ -318,15 +325,16 @@ dash.calc('voice', {
   title: 'Share of voice',
   description: 'Opposition attacks on the government by party, against statements by AAP leaders.',
   fn: (stories) => {
-    const c = { BJP: 0, Congress: 0, SAD: 0, 'AAP leaders': 0 };
+    const c = { BJP: 0, Congress: 0, SAD: 0, 'AAP leaders': 0 }, cols = {}, sized = {};
+    const add = (k, r) => { c[k] = (c[k] || 0) + 1; const n = Number(r.columns); if (r.columns !== undefined && r.columns !== '' && !isNaN(n)) { cols[k] = (cols[k] || 0) + n; sized[k] = true; } };
     stories.forEach((r) => {
-      if (r.detailed_theme === 'Opposition attack: BJP') c.BJP += 1;
-      else if (r.detailed_theme === 'Opposition attack: Congress') c.Congress += 1;
-      else if (r.detailed_theme === 'Opposition attack: SAD') c.SAD += 1;
-      else if (r.detailed_theme === 'Opposition attack: Other') c.Others = (c.Others || 0) + 1;
-      else if (r.aap_voice === true || r.aap_voice === 'true') c['AAP leaders'] += 1;
+      if (r.detailed_theme === 'Opposition attack: BJP') add('BJP', r);
+      else if (r.detailed_theme === 'Opposition attack: Congress') add('Congress', r);
+      else if (r.detailed_theme === 'Opposition attack: SAD') add('SAD', r);
+      else if (r.detailed_theme === 'Opposition attack: Other') add('Others', r);
+      else if (r.aap_voice === true || r.aap_voice === 'true') add('AAP leaders', r);
     });
-    return Object.entries(c).map(([speaker, statements]) => ({ speaker, statements })).sort((a, b) => b.statements - a.statements);
+    return Object.entries(c).map(([speaker, statements]) => ({ speaker, statements, columns: sized[speaker] ? cols[speaker] : null })).sort((a, b) => b.statements - a.statements);
   },
 });
 
@@ -356,6 +364,8 @@ function fillThemes(id, tableId, color) {
       else { td.textContent = v; td.className = 'n'; }
       tr.appendChild(td);
     });
+    const sent = id === 'pos_themes' ? 'Positive' : 'Negative';
+    makeLink(tr, { theme_group: r.theme_group, sentiment: sent }, `${sent} · ${r.theme_group}`);
     tb.appendChild(tr);
   });
 }
@@ -373,13 +383,28 @@ function simpleTable(id, tableId, cols) {
 
 // All-stories table: search, sentiment filter and sortable headers
 let sortK = 'story_id', sortDir = 1;
+// Click-through from the theme and top-story tables: an exact filter on the All stories table.
+let fExact = null;
+function setExact(f, label) {
+  fExact = f;
+  const chip = document.getElementById('fchip');
+  chip.hidden = !f; document.getElementById('fchip-text').textContent = label || '';
+  if (f && f.sentiment) sEl.value = ''; // the exact filter carries its own sentiment
+  fillStories();
+}
+function makeLink(tr, f, label) {
+  tr.tabIndex = 0; tr.title = 'Show these stories in All stories';
+  const go = () => { setExact(f, label); document.getElementById('stories').scrollIntoView({ behavior: 'smooth', block: 'start' }); };
+  tr.addEventListener('click', go);
+  tr.addEventListener('keydown', (e) => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); go(); } });
+}
 const qEl = document.getElementById('q'), sEl = document.getElementById('fsent');
 function fillStories() {
   const d = dash.data('stories'), tb = document.querySelector('#story-table tbody');
   tb.replaceChildren();
   if (d.status !== 'ok') { document.getElementById('count').textContent = ''; return; }
   const q = qEl.value.trim().toLowerCase(), s = sEl.value;
-  const rows = d.data.filter((r) => (!s || r.sentiment === s) && (!q || `${r.headline} ${r.newspaper} ${r.theme_group} ${r.detailed_theme}`.toLowerCase().includes(q)))
+  const rows = d.data.filter((r) => (!s || r.sentiment === s) && (!fExact || Object.entries(fExact).every(([k, v]) => r[k] === v)) && (!q || `${r.headline} ${r.newspaper} ${r.theme_group} ${r.detailed_theme}`.toLowerCase().includes(q)))
     .sort((a, b) => { if (sortK === 'story_id' && a.date !== b.date) return (a.date > b.date ? -1 : 1); let x = a[sortK], y = b[sortK]; if (sortK === 'columns') { x = Number(x ?? -1); y = Number(y ?? -1); } else if (typeof x === 'number' || sortK === 'page_weight' || sortK === 'story_id') { x = Number(x); y = Number(y); } return (x > y ? 1 : x < y ? -1 : 0) * sortDir; });
   rows.forEach((r) => {
     const tr = document.createElement('tr');
@@ -396,6 +421,7 @@ function fillStories() {
   document.getElementById('count').textContent = `${fmt(rows.length)} of ${fmt(d.data.length)} stories`;
 }
 qEl.addEventListener('input', fillStories);
+document.getElementById('fchip-x').addEventListener('click', () => setExact(null));
 sEl.addEventListener('change', fillStories);
 document.querySelectorAll('#story-table th button').forEach((b) => b.addEventListener('click', () => {
   const k = b.dataset.k; sortDir = sortK === k ? -sortDir : (k === 'page_weight' || k === 'columns' ? -1 : 1); sortK = k;
@@ -417,7 +443,8 @@ function fillReach() {
     const p = document.createElement('td'); p.className = 'n'; p.textContent = fmt(r.papers);
     const f = document.createElement('td'); f.className = 'n'; f.textContent = fmt(r.front_pages);
     const t = document.createElement('td'); const dot = document.createElement('span'); dot.className = 'pp-tone'; dot.style.background = TONE[r.tone]; t.append(dot, document.createTextNode(r.tone));
-    tr.append(a, p, f, t); tb.appendChild(tr);
+    const c = document.createElement('td'); c.className = 'n'; c.textContent = r.columns === null ? '–' : fmt(r.columns);
+    tr.append(a, p, f, c, t); makeLink(tr, { story: r.label }, `Story: ${r.label}`); tb.appendChild(tr);
   });
 }
 const VOICE_COL = { 'AAP leaders': 'var(--color-ok)', BJP: dash.colors[1], Congress: dash.colors[0], SAD: dash.colors[3] };
@@ -434,7 +461,7 @@ function drawVoice() {
     .on('mousemove', (event, a) => {
       tip.hidden = false; tip.replaceChildren();
       const s = document.createElement('span'); s.textContent = a.data.speaker + ' ';
-      tip.append(s, document.createTextNode(`${fmt(a.data.statements)} statements · ${d3.format('.0%')(a.data.statements / total)}`));
+      tip.append(s, document.createTextNode(`${fmt(a.data.statements)} statements · ${d3.format('.0%')(a.data.statements / total)}${a.data.columns === null ? '' : ` · ${fmt(a.data.columns)} columns`}`));
       const rb = box.getBoundingClientRect(); let x = event.clientX - rb.left + 12, y = event.clientY - rb.top + 12;
       x = Math.min(x, rb.width - tip.offsetWidth - 4); tip.style.left = x + 'px'; tip.style.top = y + 'px';
     })
@@ -445,8 +472,10 @@ function drawVoice() {
   d.data.forEach((r) => {
     const row = document.createElement('div'); const sw = document.createElement('i'); sw.style.background = VOICE_COL[r.speaker] || 'var(--cds-chart-muted)';
     const nm = document.createElement('span'); nm.textContent = r.speaker === 'AAP leaders' ? 'AAP leaders' : r.speaker === 'Others' ? 'Other parties' : r.speaker + ' attacks';
-    const v = document.createElement('b'); v.textContent = fmt(r.statements);
+    const v = document.createElement('b'); v.textContent = fmt(r.statements) + (r.columns === null ? '' : ` · ${fmt(r.columns)} col`);
     row.append(sw, nm, v); leg.appendChild(row);
+    const f = r.speaker === 'AAP leaders' ? { aap_voice: true } : { detailed_theme: `Opposition attack: ${r.speaker === 'Others' ? 'Other' : r.speaker}` };
+    row.style.cursor = 'pointer'; makeLink(row, f, nm.textContent);
   });
 }
 VOICE_COL.Others = dash.colors[5];

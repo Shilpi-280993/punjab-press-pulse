@@ -1,0 +1,402 @@
+[
+ {
+  "story_id": 5,
+  "newspaper": "Ajit",
+  "page": "1",
+  "headline": "Five people, including three children and a woman, die in road accident near Fazilka",
+  "ref": "deck slide 22",
+  "source": "Monitoring deck"
+ },
+ {
+  "story_id": 6,
+  "newspaper": "Ajit",
+  "page": "1",
+  "headline": "Rajasthan railway track blast case linked to Punjab; two arrested from Gurdaspur",
+  "ref": "deck slide 23",
+  "source": "Monitoring deck"
+ },
+ {
+  "story_id": 11,
+  "newspaper": "Ajit",
+  "page": "6",
+  "headline": "AAP candidate Deepak Bali's office inaugurated by his mother Sarla Devi and father Dharampal Bali",
+  "ref": "deck slide 28",
+  "source": "Monitoring deck"
+ },
+ {
+  "story_id": 13,
+  "newspaper": "Ajit",
+  "page": "6",
+  "headline": "Many smart city projects in discussion and controversy for years",
+  "ref": "deck slide 30",
+  "source": "Monitoring deck"
+ },
+ {
+  "story_id": 18,
+  "newspaper": "Ajit",
+  "page": "E2",
+  "headline": "Meeting Shahkot people's expectations and all-round development will be main priority: Pala Jalalpur",
+  "ref": "deck slide 35",
+  "source": "Monitoring deck"
+ },
+ {
+  "story_id": 215,
+  "newspaper": "Ajit",
+  "page": "3",
+  "headline": "Centre taking away Sikhs' democratic rights by not holding SGPC elections: Giani Harpreet Singh",
+  "ref": "deck slide 220",
+  "source": "Monitoring deck"
+ },
+ {
+  "story_id": 243,
+  "newspaper": "Ajit",
+  "page": "9",
+  "headline": "State government should hand over all documents to CBI: Vijay Sampla",
+  "ref": "deck slide 248",
+  "source": "Monitoring deck"
+ },
+ {
+  "story_id": 286,
+  "newspaper": "Ajit",
+  "page": "3",
+  "headline": "Large gathering pays tribute to Bhai Parvinder Singh Jhota at antim Ardas",
+  "ref": "deck slide 292",
+  "source": "Monitoring deck"
+ },
+ {
+  "story_id": 110,
+  "newspaper": "Dainik Bhaskar",
+  "page": "J2",
+  "headline": "Two youths caught in Firozpur with weapon and 3 phones after BSF joint search",
+  "ref": "deck slide 127",
+  "source": "Monitoring deck"
+ },
+ {
+  "story_id": 111,
+  "newspaper": "Dainik Bhaskar",
+  "page": "J2",
+  "headline": "Tarn Taran bus accident: CM announces Rs 5 lakh for dead's dependents and Rs 1 lakh for injured",
+  "ref": "deck slide 128",
+  "source": "Monitoring deck"
+ },
+ {
+  "story_id": 115,
+  "newspaper": "Dainik Bhaskar",
+  "page": "J2",
+  "headline": "Phagwara sugar mill sealed: accused of making sugar without licence, Rs 28 crore farmers' dues unpaid",
+  "ref": "deck slide 131",
+  "source": "Monitoring deck"
+ },
+ {
+  "story_id": 116,
+  "newspaper": "Dainik Bhaskar",
+  "page": "J2",
+  "headline": "ED summons AAP MLA Dr Amandeep Kaur Arora of Moga and associates to Chandigarh for 10 days of questioning in land acquisition case",
+  "ref": "deck slide 132",
+  "source": "Monitoring deck"
+ },
+ {
+  "story_id": 119,
+  "newspaper": "Dainik Bhaskar",
+  "page": "J2",
+  "headline": "Youth held with 1,500 banned capsules in Abohar, two associates being traced",
+  "ref": "deck slide 135",
+  "source": "Monitoring deck"
+ },
+ {
+  "story_id": 199,
+  "newspaper": "Dainik Bhaskar",
+  "page": "J2",
+  "headline": "Congress's new strategy: local leadership's consent now mandatory before entry of outsiders; Pargat Singh forms 4-member committee",
+  "ref": "deck slide 204",
+  "source": "Monitoring deck"
+ },
+ {
+  "story_id": 270,
+  "newspaper": "Dainik Bhaskar",
+  "page": "J2",
+  "headline": "Punjab BJP chief announces two committees, Sunil Jakhar and Avinash Khanna made chairmen",
+  "ref": "deck slide 275",
+  "source": "Monitoring deck"
+ },
+ {
+  "story_id": 268,
+  "newspaper": "Dainik Jagran",
+  "page": "3",
+  "headline": "BJP stands firmly with Sewa Kendra employees: Jakhar",
+  "ref": "deck slide 273",
+  "source": "Monitoring deck"
+ },
+ {
+  "story_id": 704,
+  "newspaper": "Dainik Jagran",
+  "page": "Nawanshahr 1",
+  "headline": "Checking to curb drug smugglers in Balachaur",
+  "ref": "DISTRICT FRONT PAGE 16 NOVEMBER 2026.pdf p.34",
+  "source": "Full edition"
+ },
+ {
+  "story_id": 710,
+  "newspaper": "Dainik Jagran",
+  "page": "Bathinda 1",
+  "headline": "Smoke-laden air chokes Bathinda, AQI reaches 295 from stubble burning",
+  "ref": "DISTRICT FRONT PAGE 16 NOVEMBER 2026.pdf p.37",
+  "source": "Full edition"
+ },
+ {
+  "story_id": 715,
+  "newspaper": "Dainik Jagran",
+  "page": "Sangrur 1",
+  "headline": "Farmers of 37 villages oppose canal construction without consent",
+  "ref": "DISTRICT FRONT PAGE 16 NOVEMBER 2026.pdf p.38",
+  "source": "Full edition"
+ },
+ {
+  "story_id": 721,
+  "newspaper": "Dainik Jagran",
+  "page": "Ludhiana 1",
+  "headline": "Smart City Ludhiana has become garbage city",
+  "ref": "DISTRICT FRONT PAGE 16 NOVEMBER 2026.pdf p.39",
+  "source": "Full edition"
+ },
+ {
+  "story_id": 727,
+  "newspaper": "Dainik Jagran",
+  "page": "Kapurthala 1",
+  "headline": "Woman held with banned pills",
+  "ref": "DISTRICT FRONT PAGE 16 NOVEMBER 2026.pdf p.40",
+  "source": "Full edition"
+ },
+ {
+  "story_id": 739,
+  "newspaper": "Dainik Jagran",
+  "page": "Ferozepur 1",
+  "headline": "Two held with pistol on drone movement information",
+  "ref": "DISTRICT FRONT PAGE 16 NOVEMBER 2026.pdf p.43",
+  "source": "Full edition"
+ },
+ {
+  "story_id": 740,
+  "newspaper": "Dainik Jagran",
+  "page": "Ferozepur 1",
+  "headline": "Two companies of paramilitary force deployed in border district",
+  "ref": "DISTRICT FRONT PAGE 16 NOVEMBER 2026.pdf p.43",
+  "source": "Full edition"
+ },
+ {
+  "story_id": 125,
+  "newspaper": "Dainik Savera",
+  "page": "II",
+  "headline": "Pakistani agent trapped woman and youth in 'love', paid them Rs 2.23 lakh to blast railway track (Gurdaspur)",
+  "ref": "deck slide 141",
+  "source": "Monitoring deck"
+ },
+ {
+  "story_id": 201,
+  "newspaper": "Dainik Savera",
+  "page": "2",
+  "headline": "Real aim of politics is serving the people: Channi (welcomed on Jawani Sambhal cycle yatra in Moga)",
+  "ref": "deck slide 206",
+  "source": "Monitoring deck"
+ },
+ {
+  "story_id": 295,
+  "newspaper": "Dainik Savera",
+  "page": "2",
+  "headline": "Amritpal Singh's uncle Harjit Singh and aide Basant Singh fall ill in Bathinda jail, taken to civil hospital",
+  "ref": "file_062718.pdf p.4",
+  "source": "Full edition"
+ },
+ {
+  "story_id": 299,
+  "newspaper": "Dainik Savera",
+  "page": "Amritsar 1",
+  "headline": "Tarn Taran bus accident: five bodies handed over after post-mortem, case against driver of government bus, injured get discharged",
+  "ref": "file_062718.pdf p.13",
+  "source": "Full edition"
+ },
+ {
+  "story_id": 301,
+  "newspaper": "Dainik Savera",
+  "page": "Amritsar 1",
+  "headline": "Drone recovered near Mianwala village border by BSF and police",
+  "ref": "file_062718.pdf p.13",
+  "source": "Full edition"
+ },
+ {
+  "story_id": 310,
+  "newspaper": "Dainik Savera",
+  "page": "Amritsar 2",
+  "headline": "BJP's Harjit Singh Sandhu expresses deep grief over Naushehra Pannuan bus accident, visits injured",
+  "ref": "file_062718.pdf p.14",
+  "source": "Full edition"
+ },
+ {
+  "story_id": 319,
+  "newspaper": "Dainik Savera",
+  "page": "Amritsar 3",
+  "headline": "Advocate Vishal Khanna leads motorcycle rally against drugs and corruption with thousands of youth (AAP)",
+  "ref": "file_062718.pdf p.15",
+  "source": "Full edition"
+ },
+ {
+  "story_id": 325,
+  "newspaper": "Dainik Savera",
+  "page": "Amritsar 4",
+  "headline": "Once starved for tea, workers now treated to sweets: ticket race changes MLA's style",
+  "ref": "file_062718.pdf p.16",
+  "source": "Full edition"
+ },
+ {
+  "story_id": 336,
+  "newspaper": "Dainik Savera",
+  "page": "Amritsar 5",
+  "headline": "Eight major private school bodies form PIAS, to fight together for schools' rights; seven resolutions, struggle warning if demands not met",
+  "ref": "file_062718.pdf p.17",
+  "source": "Full edition"
+ },
+ {
+  "story_id": 337,
+  "newspaper": "Dainik Savera",
+  "page": "Amritsar 6",
+  "headline": "Bhullar: Naushehra Pannuan bus accident very sad, inquiry and accountability needed",
+  "ref": "file_062718.pdf p.18",
+  "source": "Full edition"
+ },
+ {
+  "story_id": 340,
+  "newspaper": "Dainik Savera",
+  "page": "Bathinda 1",
+  "headline": "Land dispute at Dayalpura Mirja: family climbs water tank over three-generation possession, administration under fire",
+  "ref": "file_062718.pdf p.19",
+  "source": "Full edition"
+ },
+ {
+  "story_id": 342,
+  "newspaper": "Dainik Savera",
+  "page": "Bathinda 1",
+  "headline": "Bathinda police return purse full of cash and documents to owner",
+  "ref": "file_062718.pdf p.19",
+  "source": "Full edition"
+ },
+ {
+  "story_id": 345,
+  "newspaper": "Dainik Savera",
+  "page": "Bathinda 1",
+  "headline": "Case registered against those behind loot and vehicle theft in Bathinda",
+  "ref": "file_062718.pdf p.19",
+  "source": "Full edition"
+ },
+ {
+  "story_id": 359,
+  "newspaper": "Dainik Savera",
+  "page": "Gurdaspur 1",
+  "headline": "First-level checking of EVMs and VVPATs under way in Gurdaspur",
+  "ref": "file_062718.pdf p.23",
+  "source": "Full edition"
+ },
+ {
+  "story_id": 370,
+  "newspaper": "Dainik Savera",
+  "page": "Hoshiarpur 1",
+  "headline": "MLA Jimpa joins Chhath celebrations in Hoshiarpur",
+  "ref": "file_062718.pdf p.27",
+  "source": "Full edition"
+ },
+ {
+  "story_id": 376,
+  "newspaper": "Dainik Savera",
+  "page": "Hoshiarpur 3",
+  "headline": "SI Karandeep takes charge of Samundra police post, warns drug sellers",
+  "ref": "file_062718.pdf p.29",
+  "source": "Full edition"
+ },
+ {
+  "story_id": 383,
+  "newspaper": "Dainik Savera",
+  "page": "Khanna 3",
+  "headline": "Cabinet Minister Sond meets Muslim Welfare Committee, discusses city development issues",
+  "ref": "file_062718.pdf p.33",
+  "source": "Full edition"
+ },
+ {
+  "story_id": 397,
+  "newspaper": "Dainik Savera",
+  "page": "Ludhiana 1",
+  "headline": "Aster Greens: plots sold on 35 acres with approval for 30.71 acres; complaint at Punjab RERA",
+  "ref": "file_062718.pdf p.39",
+  "source": "Full edition"
+ },
+ {
+  "story_id": 404,
+  "newspaper": "Dainik Savera",
+  "page": "Ludhiana 2",
+  "headline": "Fortis Hospital and Police Commissioner Swapan Sharma flag off car rally on drug and cancer awareness",
+  "ref": "file_062718.pdf p.40",
+  "source": "Full edition"
+ },
+ {
+  "story_id": 413,
+  "newspaper": "Dainik Savera",
+  "page": "Ludhiana 5",
+  "headline": "Poonam Arora meets DC Himanshu Aggarwal, discusses Ludhiana bus stand issues",
+  "ref": "file_062718.pdf p.43",
+  "source": "Full edition"
+ },
+ {
+  "story_id": 423,
+  "newspaper": "Dainik Savera",
+  "page": "Firozepur 2",
+  "headline": "Zonal-level Punjabi drama competition held in Ferozepur under Language Department",
+  "ref": "file_062718.pdf p.48",
+  "source": "Full edition"
+ },
+ {
+  "story_id": 428,
+  "newspaper": "Dainik Savera",
+  "page": "Fazilka/Abohar 3",
+  "headline": "2 youths held for motorcycle theft; councillor and residents question police over rising thefts",
+  "ref": "file_062718.pdf p.49",
+  "source": "Full edition"
+ },
+ {
+  "story_id": 435,
+  "newspaper": "Dainik Savera",
+  "page": "Moga 4",
+  "headline": "Punjab Government Pensioners Association delegation meets BDPO over pension issues",
+  "ref": "file_062718.pdf p.50",
+  "source": "Full edition"
+ },
+ {
+  "story_id": 438,
+  "newspaper": "Dainik Savera",
+  "page": "Moga 5",
+  "headline": "BKU Sabha Punjab to unite in 26 Nov rallies",
+  "ref": "file_062718.pdf p.51",
+  "source": "Full edition"
+ },
+ {
+  "story_id": 448,
+  "newspaper": "Dainik Savera",
+  "page": "Pathankot 2",
+  "headline": "Will support party working for Punjab's interests: police pensioners (Pathankot)",
+  "ref": "file_062718.pdf p.56",
+  "source": "Full edition"
+ },
+ {
+  "story_id": 453,
+  "newspaper": "Dainik Savera",
+  "page": "Patiala 1",
+  "headline": "Basic civic issues to echo in by-elections to 30 Nagar Nigam wards (garbage, sewer jams, encroachment)",
+  "ref": "file_062718.pdf p.59",
+  "source": "Full edition"
+ },
+ {
+  "story_id": 462,
+  "newspaper": "Dainik Savera",
+  "page": "Patiala 2",
+  "headline": "Language department to hold state-level children's knowledge quiz at Mata Gujri College on 18 November",
+  "ref": "file_062718.pdf p.60",
+  "source": "Full edition"
+ }
+]
