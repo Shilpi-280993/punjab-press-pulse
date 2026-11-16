@@ -27,10 +27,10 @@ Before coding, read RULES.md including its Lessons, and the last 7 days of `data
 
 6. Sentiment judge (VALIDATION.md): `python3 scripts/judge.py prep D` (picks every low-confidence row plus a random sample of 100 other rows), run the blind judges (Agent tool, `model: "sonnet"`, one per batch, in parallel), `python3 scripts/judge.py compare D`, run the Claude Fable 5.2 adjudication (`model: "fable"`) on the disagreements; its ruling is final, then `python3 scripts/judge.py apply D`. Turn any correction pattern seen 3 or more times, and every "new case", into a dated rule under Lessons in RULES.md, and recount the notes text if the changes affect it.
 
-7. Build and check: `python3 scripts/build.py` (it validates fields), then open `index.html` headlessly (playwright) and confirm: no console errors, D appears first in the date picker, the takeaway and the "Biggest stories" table show D's data, and "All dates" still works.
+7. Build and check: `python3 scripts/build.py` (it validates fields), then `python3 scripts/report_pdf.py D` for the owner's PDF report (`exports/Punjab_press_report_D.pdf`), then open `index.html` headlessly (playwright) and confirm: no console errors, D appears first in the date picker, the takeaway and the "Biggest stories" table show D's data, and "All dates" still works.
 
 8. Publish: commit `data/` (stories, notes, judge, audit), `RULES.md`, `exports/`, `index.html`, `stories.json` with message `Add D` and push to `main` (`git -c push.negotiate=true push`).
 
-9. Save to the Mac: commit `exports/AAP_media_analysis_D.csv` and `data/audit/D.csv` (as `judge_audit_D.csv`) into `D/`, and `index.html` + `stories.json` into `Dashboard/` (overwrite).
+9. Save to the Mac: commit `exports/AAP_media_analysis_D.csv`, `exports/Punjab_press_report_D.pdf` and `data/audit/D.csv` (as `judge_audit_D.csv`) into `D/`, and `index.html` + `stories.json` into `Dashboard/` (overwrite).
 
 10. Push notification (one line): relevant stories, negative and positive shares, the judge's agreement rate and number of labels changed, the top event, missing files if any, and the dashboard link.
