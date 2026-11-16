@@ -23,7 +23,7 @@ These rules reproduce the analysis built for 27 and 28 Oct 2026 (951 stories, au
 | sentiment | `Positive`, `Neutral`, `Negative` (relevant stories only), or `Not about AAP/Govt`, `Govt ad`, `Duplicate` |
 | theme_group | Ranked group (see list). Empty string for Not about AAP/Govt, Govt ad, Duplicate. |
 | detailed_theme | Finer label (see examples). |
-| aap_voice | true when an AAP leader or minister is the speaker making the point (including the CM attacking the BJP or the Centre) |
+| aap_voice | true only when an AAP leader or minister is attacking or rebutting the opposition (BJP, Congress, SAD, others) or the Centre, including fights over Punjab's rights and rebuttals of opposition criticism. Not for announcements, delivery, outreach events, festival greetings or campaign claims, even when an AAP leader is quoted (tightened 16 Nov 2026). |
 | story | Optional. Short label for a news event that ran in several papers, e.g. `Punjab Da Crorepati quiz launch`. Use the same label on every row of that event. Label the 10 to 15 biggest events of the day. |
 | ref | Where the clipping is, so the judge can find it: `deck slide 41` or `<edition file name> p.7`. Required from 15 Nov 2026. |
 | columns | How many newspaper columns wide the story runs (whole number, 1 to 12): count the text columns under its headline at the story's widest point, headline and photo included. Read it from the clipping, or render the edition page if the deck crop is unclear. From 15 Nov 2026. |
