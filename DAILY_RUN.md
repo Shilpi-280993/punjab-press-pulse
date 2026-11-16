@@ -31,6 +31,6 @@ Before coding, read RULES.md including its Lessons, and the last 7 days of `data
 
 8. Publish: commit `data/` (stories, notes, judge, audit), `RULES.md`, `exports/`, `index.html`, `stories.json` with message `Add D` and push to `main` (`git -c push.negotiate=true push`).
 
-9. Save to the Mac: commit `exports/AAP_media_analysis_D.csv`, `exports/Punjab_press_dashboard_D.pdf` and `data/audit/D.csv` (as `judge_audit_D.csv`) into `D/`, and `index.html` + `stories.json` into `Dashboard/` (overwrite).
+9. Save to the Mac: commit `exports/Punjab_press_dashboard_D.pdf` only into Shilpi's daily subfolder `/Users/shilpi.sharma/Documents/Personal/JS Work/Media Monitoring/<Dth Mon>/` (she creates it each day, named like `15th Nov`, `16th Nov`, `1st Dec`, `22nd Dec`; if it does not exist yet, create it with that name). Do not send the PDF into the chat (no SendUserFile) and do not put it anywhere else. Then commit `exports/AAP_media_analysis_D.csv` and `data/audit/D.csv` (as `judge_audit_D.csv`) into `D/`, and `index.html` + `stories.json` into `Dashboard/` (overwrite).
 
 10. Push notification (one line): relevant stories, negative and positive shares, the judge's agreement rate and number of labels changed, the top event, missing files if any, and the dashboard link.
