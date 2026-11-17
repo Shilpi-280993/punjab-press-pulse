@@ -1,0 +1,182 @@
+[
+ {
+  "story_id": 662,
+  "sentiment": "Negative",
+  "confidence": "low",
+  "reason": "Headline asks why no action despite questions on licence and bank accounts of Kingdom Consultant, implying administrative inaction."
+ },
+ {
+  "story_id": 663,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "Column says new operation theatres at Jalandhar Civil Hospital will greatly benefit people (health delivery)."
+ },
+ {
+  "story_id": 667,
+  "sentiment": "Neutral",
+  "confidence": "low",
+  "reason": "Headline says CBM betting software network active in Jalandhar West, police probe awaited; no clear tilt."
+ },
+ {
+  "story_id": 227,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Vigilance Bureau caught 11 govt officials taking bribes in Oct (anti-corruption)."
+ },
+ {
+  "story_id": 228,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Police arrested 195 in anti-gangster campaign; arrests are Positive."
+ },
+ {
+  "story_id": 230,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Veggie growers face losses from price gap and glut; minister says no policy yet."
+ },
+ {
+  "story_id": 236,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Punjab pavilion showcased at IITF 2026, promotional."
+ },
+ {
+  "story_id": 237,
+  "sentiment": "Neutral",
+  "confidence": "low",
+  "reason": "Lead is govt sealing Phagwara mill over unpaid cane dues, but farmers say they will still protest; mixed."
+ },
+ {
+  "story_id": 320,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "SAD-BJP alliance talks and Sukhbir meeting Shah; opposition internal."
+ },
+ {
+  "story_id": 321,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "SAD announces Moga rally on Dec 8; opposition rally announcement (Lesson 4)."
+ },
+ {
+  "story_id": 322,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Harsimrat says Malwa reeling under drugs and Mann's govt focuses on publicity."
+ },
+ {
+  "story_id": 254,
+  "sentiment": "Negative",
+  "confidence": "low",
+  "reason": "Photo of farmer burning paddy stubble near Amritsar; stubble-burning image, no text."
+ },
+ {
+  "story_id": 256,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "Mann appeals to PM to reopen Kartarpur Corridor on Guru Nanak jayanti (Punjab's rights/religious outreach)."
+ },
+ {
+  "story_id": 258,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Mann says bullock cart races to feature in Punjab R-Day tableau; football championship mentioned."
+ },
+ {
+  "story_id": 259,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Two rusted hand grenades found in Hoshiarpur and destroyed by bomb disposal squad; factual."
+ },
+ {
+  "story_id": 261,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Explainer on cycles and tractors as political symbols in Punjab; no tilt."
+ },
+ {
+  "story_id": 263,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "High alert in Pathankot and Gurdaspur after SUV stolen at gunpoint, border security concern."
+ },
+ {
+  "story_id": 264,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Two injured in firing with over 20 rounds in Patiala; law and order."
+ },
+ {
+  "story_id": 306,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "medium",
+  "reason": "Congress chief Pargat on inducting clean-image leaders; Congress internal, AAP criticism only in body."
+ },
+ {
+  "story_id": 308,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Photo of Sonia Gandhi memoir launch in Delhi; national, no Punjab govt angle."
+ },
+ {
+  "story_id": 350,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "BJP Ravidassia outreach yatra near Dera Ballan; opposition party programme."
+ },
+ {
+  "story_id": 362,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Employees' Sanjha Mulazam Manch dharna enters day 4 in CM's Sangrur, slogans against govt."
+ },
+ {
+  "story_id": 21,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Mann announces Punjab will host National Football Championship, Rs 51 lakh for Sarabha club."
+ },
+ {
+  "story_id": 25,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Second phase of census begins in Punjab and other states; central exercise, no state role."
+ },
+ {
+  "story_id": 28,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Cheema says farmers turning stubble into energy instead of burning; govt scheme claim."
+ },
+ {
+  "story_id": 29,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Vigilance Bureau caught 11 govt employees and 3 private persons red-handed in Oct."
+ },
+ {
+  "story_id": 30,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "AGTF foils murder plot in Kotkapura, arrests 4 aides of foreign gangster with weapons."
+ },
+ {
+  "story_id": 32,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Paddy lifting crosses record 150 lakh MT, Kataruchakk; procurement delivery."
+ },
+ {
+  "story_id": 106,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Harsimrat says Congress and AAP both responsible for drugs in Punjab; opposition attack."
+ },
+ {
+  "story_id": 119,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "BJP's Chugh attacks Rahul Gandhi over foreign platforms; national, no Punjab govt angle."
+ }
+]

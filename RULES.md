@@ -75,6 +75,13 @@ From the sentiment judge, 16 Nov 2026:
 9. New case: another state's police or ATS case (for example a Rajasthan rail-blast arrest of Punjab residents) is treated like a central agency case under Lesson 5: `Not about AAP/Govt` unless the clipping gives Punjab Police or the Punjab government a role.
 10. New case: a consumer complaint against a private business (a gas agency not delivering, staff misbehaving) is `Not about AAP/Govt` when it only asks the administration to act and reports no government decision, failure or reply.
 
+From the sentiment judge, 17 Nov 2026:
+
+11. Positive needs government delivery or action in the headline's lead. Items where the government or AAP is only incidental are Neutral: an AAP leader merely receiving an invitation, a court denying bail at a hearing, abandoned or rusted grenades found by villagers and destroyed, a routine notice of a free camp by an autonomous university. Seen 6 times (Positive changed to Neutral).
+12. Lesson 4 applies when the opposition's own event leads even if AAP appears in it: a Congress candidates' meeting, a Congress leader's own yatra announcement, Congress infighting at a yatra where AAP workers showed black flags further down. All `Not about AAP/Govt` (`Opposition internal`). Seen 3 times.
+13. New case: a central agency (ED) probe whose subject is Punjab's own officials or a state authority's decisions is relevant, not Lesson 5. ED questioning of GMADA officers over master plan changes or losses to the exchequer is Negative (`Governance, Assembly & politics`, `Anti-corruption`); a procedural court or attachment step in such a case (judicial custody for a retired ADC in a PMLA case built on a Punjab Vigilance FIR, ED attaching a middleman's accounts in the suspended DIG Bhullar case) is Neutral in the same theme. Code every paper's copy of the event alike.
+14. New case: a drug recovery from the state's own policeman (opium found on an IRB ASI on jail security, caught by jail staff) is Neutral under `Crime & law and order`, not a Lesson 1 Positive and not a crime Negative.
+
 ## Daily commentary (data/notes/<date>.json)
 
 ```

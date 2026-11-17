@@ -1,0 +1,254 @@
+[
+ {
+  "story_id": 4,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Headline: businessman shot at in daylight in Patiala after Rs 50 lakh extortion demand; crime."
+ },
+ {
+  "story_id": 5,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Headline: AAP announces 30 council candidates for three cities; factual organisational announcement."
+ },
+ {
+  "story_id": 6,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "medium",
+  "reason": "Headline: eight private school bodies form a joint platform; private bodies, no government role."
+ },
+ {
+  "story_id": 8,
+  "sentiment": "Neutral",
+  "confidence": "low",
+  "reason": "Headline: compensation raised from Rs 5 lakh to Rs 18 lakh after road jam; govt concession but sub-head questions unequal aid."
+ },
+ {
+  "story_id": 10,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Headline: Qadian says govt should fix responsibility for farmers' troubles in mandis; opposition attack."
+ },
+ {
+  "story_id": 11,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Headline: Anganwadi workers and helpers gherao CM at his Sangrur residence; protest against govt."
+ },
+ {
+  "story_id": 15,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Headline: cow protection talk while stray animals eat from garbage piles; civic failure."
+ },
+ {
+  "story_id": 104,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Headline: SAD's Dhindsa raises sewerage problem in Jalandhar North; opposition criticism of civic services."
+ },
+ {
+  "story_id": 114,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Headline: BJP president Nitin Nabin to visit Jalandhar for a yatra; BJP internal event."
+ },
+ {
+  "story_id": 115,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "low",
+  "reason": "Headline: BJP will bring development and good governance in 2027 (Dimpy); BJP's own pitch, attack on AAP only in body."
+ },
+ {
+  "story_id": 175,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Headline: ex-ADC and crusher businessman sent to jail till 30th in ED mining case; factual court custody."
+ },
+ {
+  "story_id": 177,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Headline: CM Mann does own census self-enumeration and announces hosting of national football championship; delivery and CM-led outreach."
+ },
+ {
+  "story_id": 178,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Headline: Punjab's bailgadi tableau for Republic Day and CM announces UPSC centre at Lok Milni; announcements/delivery."
+ },
+ {
+  "story_id": 180,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Headline: ED attaches middleman's accounts and Rs 26 lakh in suspended DIG Bhullar bribery case; central agency case on suspended Punjab official."
+ },
+ {
+  "story_id": 181,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Headline: Panbus-PRTC contract workers meet transport secretary, strike warning; employee protest threat."
+ },
+ {
+  "story_id": 182,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Headline: firing at Patiala property dealer over Rs 50 lakh extortion; crime."
+ },
+ {
+  "story_id": 184,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Headline: Abohar paddy purchase stalled, Markfed suspends officer; lifting irregularities and mandi failure."
+ },
+ {
+  "story_id": 187,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Headline: AAP writes to PM to reopen Kartarpur corridor; AAP leaders pressing Centre on religious issue."
+ },
+ {
+  "story_id": 188,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Headline: police break drug chain, 4 suppliers held with 2 kg heroin; seizure/arrest is Positive."
+ },
+ {
+  "story_id": 295,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Headline: Dr Navjot Dahiya made PPCC doctors' cell chairman; Congress internal appointment."
+ },
+ {
+  "story_id": 150,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Headline: car looted at gunpoint in Pathankot, alert in three states; law and order lapse."
+ },
+ {
+  "story_id": 158,
+  "sentiment": "Positive",
+  "confidence": "low",
+  "reason": "Headline: Fortuner overturns, 52 cartons illicit liquor recovered; seizure, though lead is an accident."
+ },
+ {
+  "story_id": 171,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Headline: stray dog mauls three children in Sultanpur Lodhi; civic failure, locals demand council act."
+ },
+ {
+  "story_id": 291,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Headline: Congress forms screening committee for 2027 polls; opposition internal."
+ },
+ {
+  "story_id": 292,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "low",
+  "reason": "Headline: Channi woos Dalit votes with reservation and free education promises on yatra; Congress campaign, criticism of AAP only in body."
+ },
+ {
+  "story_id": 293,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Headline: Pargat Singh targets BJP and AAP on drugs; opposition attack."
+ },
+ {
+  "story_id": 313,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Headline: gangsters will be finished once SAD govt is formed (Sukhbir); implied attack on law and order."
+ },
+ {
+  "story_id": 905,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Headline: vigil raised at inter-state borders, 15+ nakas after gunpoint car snatch; routine police response, no clear tilt."
+ },
+ {
+  "story_id": 913,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Headline: family will not allow postmortem until accused arrested in child's death; protest over police inaction."
+ },
+ {
+  "story_id": 915,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Headline: youth attacked at Bajwara, bike and mobile looted; crime."
+ },
+ {
+  "story_id": 920,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Headline: ticket fight with different equations in all four parties in Bathinda Urban; factual election preview."
+ },
+ {
+  "story_id": 922,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Headline: labourer robbed of Rs 200 at gunpoint in Bathinda; crime."
+ },
+ {
+  "story_id": 929,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Headline: new 18-foot-wide road for Sangatpura Changaliwala; development work."
+ },
+ {
+  "story_id": 931,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Headline: fish seller shot in stomach on Tajpur Road, serious; crime."
+ },
+ {
+  "story_id": 937,
+  "sentiment": "Neutral",
+  "confidence": "low",
+  "reason": "Headline: Phagwara should be given Central City status; local demand, no govt reply."
+ },
+ {
+  "story_id": 938,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "Headline: reflector drums placed at Subhash Chowk to ease jam; civic/traffic measure."
+ },
+ {
+  "story_id": 939,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Headline: demand raised to restart Phagwara sugar mill; farmers' grievance against govt."
+ },
+ {
+  "story_id": 942,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Headline: three accused held for heroin trafficking; arrest is Positive."
+ },
+ {
+  "story_id": 954,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Headline: Batala separate-district issue heats up, Gurdaspur lawyers oppose; administrative debate, no tilt."
+ },
+ {
+  "story_id": 956,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "medium",
+  "reason": "Headline: Congress infighting visible in Jawani Sambhal Yatra; opposition internal, AAP black flags secondary."
+ },
+ {
+  "story_id": 960,
+  "sentiment": "Negative",
+  "confidence": "low",
+  "reason": "Headline: case against 11 for firing and hooliganism in Muktsar; crime lead, police case registered."
+ },
+ {
+  "story_id": 964,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Headline: stalled work will restart once Congress forms govt (Rana KP); opposition attack implying AAP stalled works."
+ }
+]

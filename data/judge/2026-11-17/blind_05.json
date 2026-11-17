@@ -1,0 +1,195 @@
+[
+ {
+  "story_id": 47,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Headline: Pension Restoration Joint Forum to burn the CM's effigies, a protest against the government."
+ },
+ {
+  "story_id": 48,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Headline: Vigilance Bureau arrests 14 in 11 corruption cases in October, anti-corruption action."
+ },
+ {
+  "story_id": 51,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Headline: ED questions a woman IAS and two PCS officers of GMADA, state officials under central agency scrutiny."
+ },
+ {
+  "story_id": 52,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Headline: Punjab to host National Football Championship, Mann announces Rs 51 lakh for Sarhara club; delivery/sports."
+ },
+ {
+  "story_id": 94,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Headline: Congress forms screening committees for election-bound states, no Punjab government angle."
+ },
+ {
+  "story_id": 123,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Headline: BJP OBC Morcha in-charge honoured, opposition party internal event."
+ },
+ {
+  "story_id": 754,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Headline: Government cornered over unfinished development works, Congress leader Bains attacks."
+ },
+ {
+  "story_id": 756,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Headline: Protesters perch on water tank demanding justice, a protest against authorities."
+ },
+ {
+  "story_id": 761,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Sub-headline actually reads Ashu (Congress leader Bharat Bhushan Ashu) and councillors meeting probable candidates, under the Congress seven-wards item; not AAP.",
+  "headline_fix": "Ashu and councillors hold meeting with probable candidates"
+ },
+ {
+  "story_id": 762,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "Headline: CM Mann at Sabhra Lok Milni; AAP candidate Jassa Patti presents medical college and drug demands, CM promises to consider."
+ },
+ {
+  "story_id": 763,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Headline: AAP candidate Sabi alleges threats by rebel Multani's sons and supporters, an AAP internal rebellion row."
+ },
+ {
+  "story_id": 765,
+  "sentiment": "Negative",
+  "confidence": "low",
+  "reason": "Headline: case registered against two for abducting two minors, a local crime report with police case."
+ },
+ {
+  "story_id": 771,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "medium",
+  "reason": "Headline: JCB action on unauthorised colony; dateline Ambala (Haryana, Town Planning dept), no Punjab government role."
+ },
+ {
+  "story_id": 772,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "medium",
+  "reason": "Headline: security guard attacked at a private hospital in Dera Bassi, private-party crime with no government decision or failure reported (Lesson 10)."
+ },
+ {
+  "story_id": 74,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Headline: policeman Vinod Kumar given martyr status by Punjab government with state honours."
+ },
+ {
+  "story_id": 78,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Headline: Minister Sond announces one-time no-penalty window for domestic power consumers to clear arrears, a scheme."
+ },
+ {
+  "story_id": 113,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Headline: Shiromani Committee confined to Badal family, SGPC/SAD commentary with no government angle."
+ },
+ {
+  "story_id": 127,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Headline: Jakhar calls murder of another policeman tragic and says only gangsters and smugglers are safe, an opposition attack."
+ },
+ {
+  "story_id": 778,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Headline: inter-district chain-snatching gang busted, four from Moga held; police arrests."
+ },
+ {
+  "story_id": 779,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Headline: employees at Sangrur pakka morcha, thousands to reach, a protest against the government."
+ },
+ {
+  "story_id": 782,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "Headline: no compromise on health and safety of sanitation workers: Hardeep Gill, welfare assurance with medical check-ups."
+ },
+ {
+  "story_id": 790,
+  "sentiment": "Neutral",
+  "confidence": "low",
+  "reason": "Headline: Deputy Mayor flags off pilgrims' jatha to Mahakal; civic ceremonial event with no clear tilt."
+ },
+ {
+  "story_id": 791,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Headline: AAP Trade Wing's Nohla invited to a birth anniversary event, a routine invitation with no tilt."
+ },
+ {
+  "story_id": 792,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Headline: thousands of employees to reach Sangrur pakka morcha: Kishanpura; protest against the government."
+ },
+ {
+  "story_id": 794,
+  "sentiment": "Neutral",
+  "confidence": "low",
+  "reason": "Headline: after AAP's lists, talk intensifies over MLA Dalbir Tong's 2027 ticket; speculation only, no stated dissent."
+ },
+ {
+  "story_id": 795,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Headline: Cabinet Minister Sond chief guest at a school's annual function, ceremonial appearance."
+ },
+ {
+  "story_id": 797,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "Headline: AAP leader Baljinder Dhillon inspects Bhunharheri fire site and promises help to victims, outreach."
+ },
+ {
+  "story_id": 802,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Headline: Balkaur Sidhu gives Mera Ghar Mere Naam ownership cards to 113 families, a scheme delivery."
+ },
+ {
+  "story_id": 806,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "Headline: youth joining AAP in large numbers in villages: Harcharan Singh Mann, AAP organisation claim."
+ },
+ {
+  "story_id": 809,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Headline: CIA Handiaya gets a new in-charge, a routine police posting."
+ },
+ {
+  "story_id": 811,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Headline: AAP Punjab Trade Wing's Nohla invited to a birth anniversary event, a routine invitation."
+ },
+ {
+  "story_id": 819,
+  "sentiment": "Neutral",
+  "confidence": "low",
+  "reason": "Headline: demand for a speed breaker on Sadik Road up to the university, a civic request without failure or government reply."
+ }
+]

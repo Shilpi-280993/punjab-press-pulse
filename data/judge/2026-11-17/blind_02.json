@@ -1,0 +1,302 @@
+[
+ {
+  "story_id": 297,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "medium",
+  "reason": "Congress leader's own campaign pitch, opposition internal"
+ },
+ {
+  "story_id": 298,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "medium",
+  "reason": "Channi's Congress cycle yatra, opposition event with no govt angle"
+ },
+ {
+  "story_id": 365,
+  "sentiment": "Neutral",
+  "confidence": "low",
+  "reason": "Opium found on ASI at jail: a police-staff case, no clear tilt"
+ },
+ {
+  "story_id": 366,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Two youths held with heroin: police seizure and arrest"
+ },
+ {
+  "story_id": 379,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "BKU Rajewal says looting of farmers in mandis will not be tolerated: protest over procurement"
+ },
+ {
+  "story_id": 383,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Chawla says only seasonal raids on drug parties: opposition attack on police action"
+ },
+ {
+  "story_id": 384,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Two booked for enticing girls: routine police case"
+ },
+ {
+  "story_id": 385,
+  "sentiment": "Neutral",
+  "confidence": "low",
+  "reason": "Child welfare committee seeks action on child labour: no govt tilt"
+ },
+ {
+  "story_id": 398,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "medium",
+  "reason": "Councillor hears ward residents: local civic item with no govt decision"
+ },
+ {
+  "story_id": 399,
+  "sentiment": "Neutral",
+  "confidence": "low",
+  "reason": "Relief for PSPCL XEN after Vigilance action: employee body's claim, no clear tilt"
+ },
+ {
+  "story_id": 425,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Congress MLA says AAP govt has failed people: opposition attack"
+ },
+ {
+  "story_id": 428,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "medium",
+  "reason": "SDO takes charge at PSPCL sub-division: routine posting welcome"
+ },
+ {
+  "story_id": 438,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Police raid, one held with 40 bottles of illegal liquor: police action"
+ },
+ {
+  "story_id": 449,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Railing put up only after son's death: civic failure"
+ },
+ {
+  "story_id": 458,
+  "sentiment": "Neutral",
+  "confidence": "low",
+  "reason": "Case against seven for assault: routine FIR"
+ },
+ {
+  "story_id": 465,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "FIR against BJP councillor for assault: routine police case"
+ },
+ {
+  "story_id": 467,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Gold and cash stolen from locked house: crime"
+ },
+ {
+  "story_id": 474,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "FIR against BJP councillor for assault: routine police case"
+ },
+ {
+  "story_id": 488,
+  "sentiment": "Negative",
+  "confidence": "low",
+  "reason": "Massive fire at bus stand workshop with panic: civic failure"
+ },
+ {
+  "story_id": 489,
+  "sentiment": "Neutral",
+  "confidence": "low",
+  "reason": "Computer teachers thank unions after struggle: no clear tilt"
+ },
+ {
+  "story_id": 490,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "medium",
+  "reason": "Pregnant woman's suspicious death, husband seeks probe: private matter"
+ },
+ {
+  "story_id": 491,
+  "sentiment": "Neutral",
+  "confidence": "low",
+  "reason": "Case registered for assault: routine FIR"
+ },
+ {
+  "story_id": 502,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Case against two for stubble burning: routine enforcement"
+ },
+ {
+  "story_id": 503,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Congress council president joins Akali Dal: opposition internal"
+ },
+ {
+  "story_id": 506,
+  "sentiment": "Neutral",
+  "confidence": "low",
+  "reason": "Kisan Sabha meeting discusses farmers' problems: no lead attack"
+ },
+ {
+  "story_id": 507,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Employees and pensioners plan strategy against govt before elections: protest"
+ },
+ {
+  "story_id": 521,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Case registered for stubble burning: routine enforcement"
+ },
+ {
+  "story_id": 526,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Woman unsupported due to police slow action: police failure"
+ },
+ {
+  "story_id": 532,
+  "sentiment": "Negative",
+  "confidence": "low",
+  "reason": "Land dispute turns violent, family attacked: crime"
+ },
+ {
+  "story_id": 546,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "SSP briefs media on car loot, teams formed: routine"
+ },
+ {
+  "story_id": 547,
+  "sentiment": "Positive",
+  "confidence": "low",
+  "reason": "SSP inspects naka with CAPF: police vigilance before polls"
+ },
+ {
+  "story_id": 551,
+  "sentiment": "Negative",
+  "confidence": "low",
+  "reason": "Married woman's suspicious death, murder suspected: crime"
+ },
+ {
+  "story_id": 552,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Sword attack on two brothers: crime"
+ },
+ {
+  "story_id": 559,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Ugrahan farmers mobilise over police inaction against accused: protest"
+ },
+ {
+  "story_id": 565,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Officers not replying to letters: Sood's criticism of administration"
+ },
+ {
+  "story_id": 569,
+  "sentiment": "Negative",
+  "confidence": "low",
+  "reason": "Youth beaten at dhaba, case registered: crime"
+ },
+ {
+  "story_id": 571,
+  "sentiment": "Negative",
+  "confidence": "low",
+  "reason": "Businessman attacked with bricks: crime"
+ },
+ {
+  "story_id": 576,
+  "sentiment": "Neutral",
+  "confidence": "low",
+  "reason": "AAP MLA expresses grief over road accident deaths: condolence"
+ },
+ {
+  "story_id": 579,
+  "sentiment": "Negative",
+  "confidence": "low",
+  "reason": "Girl lured with marriage promise: crime"
+ },
+ {
+  "story_id": 580,
+  "sentiment": "Neutral",
+  "confidence": "low",
+  "reason": "SSP says press has key role in democracy: no tilt"
+ },
+ {
+  "story_id": 583,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Gold and cash stolen from locked house: crime"
+ },
+ {
+  "story_id": 591,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Labourer attacked and robbed: crime"
+ },
+ {
+  "story_id": 595,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "low",
+  "reason": "BJP Kisan Morcha chief meets party leaders: opposition party meeting"
+ },
+ {
+  "story_id": 596,
+  "sentiment": "Positive",
+  "confidence": "low",
+  "reason": "State-level function for Bhagat Namdev anniversary, preparations complete: religious outreach"
+ },
+ {
+  "story_id": 612,
+  "sentiment": "Negative",
+  "confidence": "low",
+  "reason": "Uncle and nephew attacked over land: crime"
+ },
+ {
+  "story_id": 616,
+  "sentiment": "Neutral",
+  "confidence": "low",
+  "reason": "Kisan Sabha state meeting, mobilisation for rally: no lead attack"
+ },
+ {
+  "story_id": 634,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Police slackness, unknown woman denied last rites for 72 hours: police failure"
+ },
+ {
+  "story_id": 639,
+  "sentiment": "Negative",
+  "confidence": "low",
+  "reason": "Land dispute turns violent, house attacked: crime"
+ },
+ {
+  "story_id": 646,
+  "sentiment": "Neutral",
+  "confidence": "low",
+  "reason": "Lions Club memorandum to Dr Chabbewal for Central City status: request, no tilt"
+ },
+ {
+  "story_id": 657,
+  "sentiment": "Negative",
+  "confidence": "low",
+  "reason": "Huge fire in old tyres at roadways depot: civic failure"
+ }
+]

@@ -1,0 +1,302 @@
+[
+ {
+  "story_id": 6,
+  "final": "Not about AAP/Govt",
+  "reason": "Eight private school associations form the 'Punjab Independent Schools Alliance' to raise their issues jointly. A private bodies' platform; the clipping reports no government decision, reply or attack on it.",
+  "rule": "Lesson 5",
+  "theme_group": "",
+  "detailed_theme": "Others"
+ },
+ {
+  "story_id": 25,
+  "final": "Not about AAP/Govt",
+  "reason": "Agency item datelined New Delhi: second phase of Census 2027 begins in Uttar Pradesh, Punjab and Goa. A central exercise with no Punjab government role in the item; same as story 167. Census rows where the CM, a DC or an MLA launches the drive stay Neutral.",
+  "rule": "Lesson 5",
+  "theme_group": "",
+  "detailed_theme": "Others"
+ },
+ {
+  "story_id": 51,
+  "final": "Negative",
+  "reason": "Headline and strap: ED questions a woman IAS officer (former GMADA chief administrator) and two PCS officers over master plan changes said to favour builders. The people questioned are Punjab government officers and the subject is a state authority's decisions, so Lesson 5 (no Punjab government role) does not apply; officials under a corruption probe is adverse, as in stories 186 and 892 and the 16 Nov ED summons to an AAP MLA.",
+  "rule": "new case"
+ },
+ {
+  "story_id": 180,
+  "final": "Neutral",
+  "reason": "Kicker names the suspended Punjab Police DIG Bhullar bribery case, so a Punjab officer is the subject and it is relevant. The lead is a procedural step (ED attaches the middleman's accounts and Rs 26 lakh, chargesheet filed, next hearing 20 Nov), with no blame on the government.",
+  "rule": "new case",
+  "theme_group": "Governance, Assembly & politics",
+  "detailed_theme": "Anti-corruption"
+ },
+ {
+  "story_id": 214,
+  "final": "Negative",
+  "reason": "Former GMADA additional chief administrator Rakesh Popli appears before the ED over land irregularities with an estimated loss of over Rs 100 crore to the exchequer. Same event as stories 51, 186 and 892: a probe into a Punjab authority's own officials and decisions is relevant and adverse.",
+  "rule": "new case",
+  "theme_group": "Governance, Assembly & politics",
+  "detailed_theme": "Anti-corruption"
+ },
+ {
+  "story_id": 222,
+  "final": "Neutral",
+  "reason": "Retired Pathankot ADC sent to 14-day judicial custody in a PMLA case on shamlat land and illegal mining; the item says the probe rests on a Punjab Vigilance Bureau FIR of 2023, so the state has a role and it is relevant. A court custody order with no blame on the government in the lead is a factual hearing item.",
+  "rule": "new case",
+  "theme_group": "Governance, Assembly & politics",
+  "detailed_theme": "Anti-corruption"
+ },
+ {
+  "story_id": 237,
+  "final": "Negative",
+  "reason": "Kicker 'Will block NH', headline ends 'cane farmers unmoved, to protest' and the intro leads with the SKM going ahead with the highway blockade from 20 Nov; an SKM leader says the sealing serves no purpose. The protest against the government is the news, the sealing is the background.",
+  "rule": "Headline's lead"
+ },
+ {
+  "story_id": 254,
+  "final": "Neutral",
+  "reason": "Stand-alone PTI photo captioned 'A farmer burns paddy stubble on the outskirts of Amritsar'. No text, no government failure or action named; same treatment as the day's stubble case rows.",
+  "rule": "Neutral: factual items"
+ },
+ {
+  "story_id": 259,
+  "final": "Neutral",
+  "reason": "Two rusted grenades lying abandoned in bushes were noticed by a villager; police cordoned the spot and the bomb squad destroyed them. Not a police seizure or arrest (Lesson 1 does not apply) and no attack or lapse is reported. Story 204 (same event) should match.",
+  "rule": "Neutral: factual items",
+  "theme_group": "Crime & law and order",
+  "detailed_theme": "Law & order / crime"
+ },
+ {
+  "story_id": 285,
+  "final": "Positive",
+  "reason": "Headline leads with the bridge reopening; the intro says connectivity is restored for around 100 villages and residents distributed sweets. Reopening of public infrastructure is delivery; the mining and three-year closure are background.",
+  "rule": "Positive: delivery"
+ },
+ {
+  "story_id": 309,
+  "final": "Not about AAP/Govt",
+  "reason": "Headline is the Congress president's call for party unity at a workers' meeting. His remarks against the AAP government are in the body only, as in the 16 Nov ruling on story 201; same headline type as stories 100 and 297.",
+  "rule": "Lesson 4"
+ },
+ {
+  "story_id": 332,
+  "final": "Not about AAP/Govt",
+  "reason": "Dr Vikramjit Singh Sahney announces that his Sun Foundation will train 5,000 anti-drug youth ambassadors. The clipping calls him only a Rajya Sabha member and names no AAP or government role: a private foundation's initiative, as coded in stories 121 and 159.",
+  "rule": "Lesson 5",
+  "theme_group": "",
+  "detailed_theme": "Others"
+ },
+ {
+  "story_id": 365,
+  "final": "Neutral",
+  "reason": "Opium was found on an IRB ASI posted on security at Amritsar Central Jail, caught by the jail's assistant superintendent. It is a recovery by jail staff (Lesson 1) but the person caught is the state's own policeman, which cuts the other way; the two cancel out.",
+  "rule": "new case",
+  "theme_group": "Crime & law and order",
+  "detailed_theme": "Law & order / crime"
+ },
+ {
+  "story_id": 384,
+  "final": "Negative",
+  "reason": "Two minor girls lured away in Tarn Taran; police have registered two cases and begun a search, with no arrest. An FIR with no arrest is a crime report, coded Negative as in the 15 and 16 Nov rows on registered cases.",
+  "rule": "Negative: crime"
+ },
+ {
+  "story_id": 398,
+  "final": "Positive",
+  "reason": "Strap says the councillor called municipal corporation officials to the spot and had residents' problems solved; the photo shows sewer work under way and the body credits the area's AAP MLA Dr Jasbir Singh Sandhu. A civic body acting on complaints is relevant and is delivery, not a neutral notice.",
+  "rule": "Positive: delivery"
+ },
+ {
+  "story_id": 428,
+  "final": "Neutral",
+  "reason": "A new SDO takes charge of a PSPCL sub-division and is welcomed by the employees' federation. PSPCL is a state utility, so it is relevant; taking-charge items are coded Neutral (15 Nov stories 317, 335, 337).",
+  "rule": "Relevance"
+ },
+ {
+  "story_id": 449,
+  "final": "Negative",
+  "reason": "Headline says the canal bridge got a railing only after a family's only son died falling into the canal; the body says a delegation had earlier asked the canal department's JE for it. A safety lapse fixed after a death is a civic failure.",
+  "rule": "Negative: civic failures"
+ },
+ {
+  "story_id": 458,
+  "final": "Negative",
+  "reason": "Assault and death threats in Sirthla village; police registered a case against seven, no arrest reported. Crime report, Negative as in earlier days' rows on registered assault cases.",
+  "rule": "Negative: crime"
+ },
+ {
+  "story_id": 490,
+  "final": "Negative",
+  "reason": "Kicker and headline: suspicious death of a pregnant woman, husband demands a high-level probe. The body says he has complained to Jamalpur police and the police are taking no action; the family is pictured outside the police station. Alleged police inaction makes it relevant and adverse.",
+  "rule": "Negative: crime"
+ },
+ {
+  "story_id": 491,
+  "final": "Negative",
+  "reason": "Same Sirthla assault item as story 458 on the Ludhiana page: case against seven, no arrest. Crime report.",
+  "rule": "Negative: crime"
+ },
+ {
+  "story_id": 547,
+  "final": "Neutral",
+  "reason": "SSP makes a surprise check of a naka manned with paramilitary forces ahead of the Assembly election and briefs the men. Routine security deployment with no seizure or arrest; same as stories 439, 464 and 905.",
+  "rule": "Neutral: factual items"
+ },
+ {
+  "story_id": 596,
+  "final": "Neutral",
+  "reason": "A gurdwara committee announces its state-level samagam for Bhagat Namdev's 756th birth anniversary; the strap carries its demand for a government holiday. No government function or decision and no attack in the lead; twin of story 413.",
+  "rule": "Neutral: factual items"
+ },
+ {
+  "story_id": 616,
+  "final": "Neutral",
+  "reason": "Printed headline is only that the Kul Hind Kisan Sabha's state meeting discussed farmers' problems; the rally is not in the headline. Same as the 15 Nov ruling on the BKU Krantikari meeting (story 486).",
+  "rule": "Headline's lead"
+ },
+ {
+  "story_id": 667,
+  "final": "Negative",
+  "reason": "Headline is the illegal CBM betting-software network growing; the strap says the matter is in the administration's notice and a police probe is awaited, and a box asks why the police do not know what journalists know. Same series and same ruling as 15 Nov story 402.",
+  "rule": "Negative: crime"
+ },
+ {
+  "story_id": 683,
+  "final": "Not about AAP/Govt",
+  "reason": "Headline and intro are a head-on collision of a wedding party's pick-up van on the Fazilka-Ferozepur road. No government vehicle, failure or decision in the lead; the same accident was Not about AAP/Govt on 16 Nov (story 5).",
+  "rule": "Relevance",
+  "theme_group": "",
+  "detailed_theme": "Others"
+ },
+ {
+  "story_id": 684,
+  "final": "Negative",
+  "reason": "A woman accuses her husband of beating her and throwing her out; Sadar police registered a case. A crime with an FIR and no arrest is a crime report, coded Negative like other registered-case rows.",
+  "rule": "Negative: crime"
+ },
+ {
+  "story_id": 697,
+  "final": "Negative",
+  "reason": "Same Amritsar assault complaint as story 684, on the city page. Crime report reported to the police.",
+  "rule": "Negative: crime"
+ },
+ {
+  "story_id": 699,
+  "final": "Negative",
+  "reason": "A youth was abducted at gunpoint in a Thar in Jalalabad town and was rescued by members of a social organisation, not the police; the sub-head says a pistol was recovered and accomplices escaped. An armed abduction is a law-and-order item.",
+  "rule": "Negative: crime"
+ },
+ {
+  "story_id": 703,
+  "final": "Neutral",
+  "reason": "The Deputy Commissioner, as Principal Census Officer, launches self-enumeration in Barnala and briefs the press. The district administration is the actor, so it is relevant; same as the day's other district census launches.",
+  "rule": "Relevance"
+ },
+ {
+  "story_id": 706,
+  "final": "Not about AAP/Govt",
+  "reason": "A Congress leader announces his own 'Nasha Mukt Ardas Yatra' across Dhuri from 18 Nov. Announcement of an opposition event; his concern about drugs is in the body and the headline carries no attack.",
+  "rule": "Lesson 4",
+  "theme_group": "",
+  "detailed_theme": "Opposition internal"
+ },
+ {
+  "story_id": 716,
+  "final": "Positive",
+  "reason": "Headline leads with the Rs 78 crore sports hub nearing completion, due by 15 Dec, with the municipal commissioner pushing deadlines. The 18-year delay spans earlier governments and is background; treated like the bridge reopening in story 285.",
+  "rule": "Positive: delivery"
+ },
+ {
+  "story_id": 724,
+  "final": "Neutral",
+  "reason": "A Mohali court rejects the regular bail pleas of two men arrested earlier in a Bambiha gang extortion case. A court order at hearing stage with no fresh police action, so Lesson 1 does not apply.",
+  "rule": "Neutral: factual items",
+  "theme_group": "Crime & law and order",
+  "detailed_theme": "Law & order / crime"
+ },
+ {
+  "story_id": 761,
+  "final": "Not about AAP/Govt",
+  "reason": "The item is 'Congress announces candidates for seven wards'; its sub-head reads 'Ashu and Kotli hold meeting with candidates' (Congress leaders Bharat Bhushan Ashu and Gurkirat Kotli), not an AAP leader. Opposition party business; headline needs fixing.",
+  "rule": "Lesson 4",
+  "theme_group": "",
+  "detailed_theme": "Opposition internal"
+ },
+ {
+  "story_id": 771,
+  "final": "Not about AAP/Govt",
+  "reason": "Dateline Ambala: Haryana's district town planning team razes roads of an illegal colony in Barara tehsil. Another state's government, no Punjab role.",
+  "rule": "Relevance",
+  "theme_group": "",
+  "detailed_theme": "Others"
+ },
+ {
+  "story_id": 772,
+  "final": "Negative",
+  "reason": "A hospital security guard on his way to duty in Dera Bassi was attacked with kirpans and robbed by two unidentified motorcyclists; police registered a case, no arrest. Street crime, not a private consumer dispute, so Lesson 10 does not apply.",
+  "rule": "Negative: crime"
+ },
+ {
+  "story_id": 791,
+  "final": "Neutral",
+  "reason": "A Shyam Sewa Society hands AAP Trade Wing chairman Sanjeev Nohla an invitation to its religious function. He is only the invitee; no outreach, announcement or delivery by AAP (Lesson 3 does not apply).",
+  "rule": "Neutral: factual items"
+ },
+ {
+  "story_id": 811,
+  "final": "Neutral",
+  "reason": "Same invitation item as story 791 on the Ferozepur page; the printed headline is only that the society presented the invitation.",
+  "rule": "Neutral: factual items"
+ },
+ {
+  "story_id": 819,
+  "final": "Neutral",
+  "reason": "A Lions Club office-bearer asks the DC and the department for speed breakers on Sadik Road. A civic request with no protest, no reported refusal or failure in the lead, like the 15 Nov millers' demand (story 907).",
+  "rule": "Headline's lead"
+ },
+ {
+  "story_id": 840,
+  "final": "Positive",
+  "reason": "Separate item headed 'Black flags shown to Channi': AAP workers showed black flags to Channi's cycle yatra in Faridkot and raised slogans. AAP workers' protest against the opposition, coded Positive on 15 Nov (stories 23, 322, 410) and today in story 816.",
+  "rule": "Lesson 2"
+ },
+ {
+  "story_id": 852,
+  "final": "Neutral",
+  "reason": "Brief notice that the state veterinary university's dairy college will hold a free milk-testing camp. A routine notice by an autonomous university, not a government scheme or announcement.",
+  "rule": "Neutral: factual items"
+ },
+ {
+  "story_id": 888,
+  "final": "Neutral",
+  "reason": "Census self-enumeration begins in Mohali with the AAP MLA Kulwant Singh enumerating his family and census officials present. A ruling-party MLA is the actor, so it is relevant; same as the day's other census launch rows.",
+  "rule": "Relevance"
+ },
+ {
+  "story_id": 892,
+  "final": "Negative",
+  "reason": "ED questions former GMADA officer Popli over master plan tampering, land-use changes and auction relaxations, with a box on a loss of over Rs 100 crore. Probe into a Punjab authority's officials and decisions; same event and label as stories 51, 186 and 214.",
+  "rule": "new case"
+ },
+ {
+  "story_id": 901,
+  "final": "Negative",
+  "reason": "A consumer alleges a PSPCL meter was transferred without the heirs' consent; the bullets say no action was taken despite complaints and seek a probe by senior Powercom officers, and a PSPCL official's reply is printed. A state utility's alleged inaction with its reply is relevant (the reverse of Lesson 10).",
+  "rule": "Lesson 10"
+ },
+ {
+  "story_id": 939,
+  "final": "Negative",
+  "reason": "BSP leaders demand the sealed Phagwara sugar mill be restarted under a DC-led committee and allege officials did not act in time despite violations. An opposition party's demand and charge against the administration; same event as story 647.",
+  "rule": "Negative: opposition attacks",
+  "theme_group": "Opposition attacks on the govt",
+  "detailed_theme": "Opposition attack: Other"
+ },
+ {
+  "story_id": 956,
+  "final": "Not about AAP/Govt",
+  "reason": "Headline is 'Congress factionalism seen in Jawani Sambhal Yatra' and the strap leads with the Warring group staying away; the AAP workers' black flags come second in the strap. The lead is the Congress's internal rift.",
+  "rule": "Lesson 4",
+  "theme_group": "",
+  "detailed_theme": "Opposition internal"
+ }
+]

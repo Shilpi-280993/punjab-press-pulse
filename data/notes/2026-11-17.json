@@ -1,0 +1,33 @@
+{
+  "validation": "Sentiment checked blind by a second model (Sonnet) on a sample of 221 of the 958 stories (every low-confidence row plus 100 at random), with Claude Fable 5.2 ruling on every disagreement: the check agreed with the coding on 176 (80%, and 93 of the 100 random rows); after review 24 labels were changed, and 8 more copies of the same events were aligned with those rulings.",
+  "sources": "The monitoring deck's 363 clippings (slides 18 to 358), plus 609 stories the deck missed from every page of Dainik Savera (including its district pages), The Savera Times (including its district editions) and the District Front Page file (Punjabi Tribune, Rozana Spokesman, Punjabi Jagran and Dainik Jagran district pages). The other papers' main editions are covered by the deck only; all 14 papers arrived. Relevant = about AAP, the Punjab government or a state matter.",
+  "takeaway": "{negative_share} of the {relevant} relevant stories were negative and {positive_share} positive. The killing of head constable Vinod Kumar in Gurdaspur was the biggest story, in 14 papers with 13 front pages, and 22 of its 31 rows were negative despite the CM's Rs 2 crore help to the family. The CM's appeal to reopen the Kartarpur corridor (14 papers, 10 front pages, all positive) and police action (141 stories) carried the good news.",
+  "well": [
+    [
+      "The Kartarpur appeal led the front pages.",
+      "The CM's and AAP's call on the Centre to reopen the Kartarpur corridor before Gurpurb ran in all 14 papers, on 10 front pages, all 18 rows positive."
+    ],
+    [
+      "Police action and anti-corruption work again led the positives.",
+      "141 stories on seizures, arrests and busts, all positive, plus the Vigilance Bureau's 14 bribery arrests in October in 9 papers."
+    ],
+    [
+      "Sports and outreach travelled.",
+      "Punjab hosting the national football championship ran in 9 papers with 6 front pages; the CM's lok milni at Sabhra gave 14 positive rows and Mera Ghar Mere Naam ownership cards 13."
+    ]
+  ],
+  "improve": [
+    [
+      "The police killing dominated.",
+      "Head constable Vinod Kumar's murder ran in 14 papers on 13 front pages; 22 of 31 rows were negative, calling him the sixth Punjab policeman killed this year, and BJP leaders Jakhar and Dhillon questioned police safety."
+    ],
+    [
+      "Crime and paddy kept district pages negative.",
+      "150 crime stories, 111 of them negative, including the Patiala property dealer firing in 8 papers and the Pathankot carjacking alert; 13 of 20 paddy rows were negative over halted purchase and road blockades."
+    ],
+    [
+      "Opposition statements outnumbered rebuttals.",
+      "60 attacks (Congress 25, BJP 17, SAD 14, others 4) against 11 AAP rebuttals; Harsimrat Badal on Malwa drug deaths ran in 8 papers."
+    ]
+  ]
+}

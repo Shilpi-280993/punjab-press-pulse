@@ -1,0 +1,128 @@
+{
+ "date": "2026-11-17",
+ "judge": "Claude Fable 5.2",
+ "rows_judged": 221,
+ "blind_agreement": 176,
+ "agreement_rate": 0.7964,
+ "disagreements": 45,
+ "sentiment_changed": 24,
+ "coder_kept": 21,
+ "patterns": [
+  {
+   "before": "Positive",
+   "after": "Neutral",
+   "rule": "Neutral: factual items",
+   "count": 5
+  },
+  {
+   "before": "Neutral",
+   "after": "Not about AAP/Govt",
+   "rule": "Lesson 5",
+   "count": 2
+  },
+  {
+   "before": "Not about AAP/Govt",
+   "after": "Neutral",
+   "rule": "new case",
+   "count": 2
+  },
+  {
+   "before": "Neutral",
+   "after": "Positive",
+   "rule": "Positive: delivery",
+   "count": 2
+  },
+  {
+   "before": "Negative",
+   "after": "Neutral",
+   "rule": "Headline's lead",
+   "count": 2
+  },
+  {
+   "before": "Positive",
+   "after": "Not about AAP/Govt",
+   "rule": "Lesson 4",
+   "count": 2
+  },
+  {
+   "before": "Neutral",
+   "after": "Negative",
+   "rule": "new case",
+   "count": 1
+  },
+  {
+   "before": "Not about AAP/Govt",
+   "after": "Negative",
+   "rule": "new case",
+   "count": 1
+  },
+  {
+   "before": "Positive",
+   "after": "Not about AAP/Govt",
+   "rule": "Lesson 5",
+   "count": 1
+  },
+  {
+   "before": "Positive",
+   "after": "Neutral",
+   "rule": "new case",
+   "count": 1
+  },
+  {
+   "before": "Neutral",
+   "after": "Negative",
+   "rule": "Negative: civic failures",
+   "count": 1
+  },
+  {
+   "before": "Negative",
+   "after": "Not about AAP/Govt",
+   "rule": "Relevance",
+   "count": 1
+  },
+  {
+   "before": "Neutral",
+   "after": "Not about AAP/Govt",
+   "rule": "Lesson 4",
+   "count": 1
+  },
+  {
+   "before": "Positive",
+   "after": "Not about AAP/Govt",
+   "rule": "Relevance",
+   "count": 1
+  },
+  {
+   "before": "Neutral",
+   "after": "Negative",
+   "rule": "Negative: opposition attacks",
+   "count": 1
+  }
+ ],
+ "new_cases": [
+  {
+   "story_id": 51,
+   "reason": "Headline and strap: ED questions a woman IAS officer (former GMADA chief administrator) and two PCS officers over master plan changes said to favour builders. The people questioned are Punjab government officers and the subject is a state authority's decisions, so Lesson 5 (no Punjab government role) does not apply; officials under a corruption probe is adverse, as in stories 186 and 892 and the 16 Nov ED summons to an AAP MLA."
+  },
+  {
+   "story_id": 180,
+   "reason": "Kicker names the suspended Punjab Police DIG Bhullar bribery case, so a Punjab officer is the subject and it is relevant. The lead is a procedural step (ED attaches the middleman's accounts and Rs 26 lakh, chargesheet filed, next hearing 20 Nov), with no blame on the government."
+  },
+  {
+   "story_id": 214,
+   "reason": "Former GMADA additional chief administrator Rakesh Popli appears before the ED over land irregularities with an estimated loss of over Rs 100 crore to the exchequer. Same event as stories 51, 186 and 892: a probe into a Punjab authority's own officials and decisions is relevant and adverse."
+  },
+  {
+   "story_id": 222,
+   "reason": "Retired Pathankot ADC sent to 14-day judicial custody in a PMLA case on shamlat land and illegal mining; the item says the probe rests on a Punjab Vigilance Bureau FIR of 2023, so the state has a role and it is relevant. A court custody order with no blame on the government in the lead is a factual hearing item."
+  },
+  {
+   "story_id": 365,
+   "reason": "Opium was found on an IRB ASI posted on security at Amritsar Central Jail, caught by the jail's assistant superintendent. It is a recovery by jail staff (Lesson 1) but the person caught is the state's own policeman, which cuts the other way; the two cancel out."
+  },
+  {
+   "story_id": 892,
+   "reason": "ED questions former GMADA officer Popli over master plan tampering, land-use changes and auction relaxations, with a box on a loss of over Rs 100 crore. Probe into a Punjab authority's officials and decisions; same event and label as stories 51, 186 and 214."
+  }
+ ]
+}

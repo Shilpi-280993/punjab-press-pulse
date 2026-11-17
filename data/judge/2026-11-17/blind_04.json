@@ -1,0 +1,194 @@
+[
+ {
+  "story_id": 133,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Headline leads with a Punjab Police head constable shot dead in Gurdaspur and a militant claim; the Rs 1 crore aid is a side box (attack on police)."
+ },
+ {
+  "story_id": 136,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Headline: CM Mann says Punjab will host the national football championship; sports delivery and announcement."
+ },
+ {
+  "story_id": 139,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Headline: Vigilance caught 14 people in 11 bribery cases in October; anti-corruption action."
+ },
+ {
+  "story_id": 141,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "Headline: Dhaliwal (AAP MP) says closed Kartarpur corridor deprives lakhs of devotees; AAP attack on the Centre."
+ },
+ {
+  "story_id": 144,
+  "sentiment": "Positive",
+  "confidence": "low",
+  "reason": "Headline: ASI at the central jail arrested with 35 g opium; police arrest, though it embarrasses jail staff."
+ },
+ {
+  "story_id": 146,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Headline: firing on property dealer and aides over Rs 1 crore extortion in Patiala; crime and law and order."
+ },
+ {
+  "story_id": 288,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "medium",
+  "reason": "Headline: Congress will give tickets to winnable, clean-image candidates (Pargat Singh); opposition internal, the lead is not about the government."
+ },
+ {
+  "story_id": 331,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Headline: BJP's Chugh says Rahul Gandhi defames India's institutions abroad; national BJP vs Congress, no Punjab govt angle."
+ },
+ {
+  "story_id": 332,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "low",
+  "reason": "Headline: Sun Foundation (Dr Sahney) to train 5,000 anti-drug youth ambassadors; a private foundation initiative with no government decision (Lesson 5 style)."
+ },
+ {
+  "story_id": 336,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Headline: Capt Amarinder praises Sonia Gandhi's book; Congress and personal news with no Punjab govt angle."
+ },
+ {
+  "story_id": 66,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Headline: PCS preliminary exam controversy reaches High Court; petitions allege irregularities in the PPSC process."
+ },
+ {
+  "story_id": 96,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Headline: Congress releases candidate list for Baghapurana MC elections; opposition internal."
+ },
+ {
+  "story_id": 125,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Headline: Union Agriculture Minister Chouhan to attend a central stubble-saving programme event in Samrala; central scheme with no state role (Lesson 5)."
+ },
+ {
+  "story_id": 836,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Headline: stopping paddy purchase in Punjab is unfortunate, says ex-minister Kaka; criticism of the state over procurement."
+ },
+ {
+  "story_id": 837,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Headline: ban on public display of weapons; routine administrative order, no tilt."
+ },
+ {
+  "story_id": 840,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Headline: black flags shown to Channi during the Congress yatra; Congress internal event."
+ },
+ {
+  "story_id": 845,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Headline: three robbers flee with laptop, jewellery and cash from newly married couple at sword point; crime."
+ },
+ {
+  "story_id": 846,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Headline: demand to close the cut near GNE college after accidents (car overturned, 3 hurt); civic and road failure."
+ },
+ {
+  "story_id": 850,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Headline: PCR did not reach despite call to control room; police service failure."
+ },
+ {
+  "story_id": 852,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Headline: free camp to test milk adulteration run by the state veterinary university; routine service, no tilt."
+ },
+ {
+  "story_id": 853,
+  "sentiment": "Neutral",
+  "confidence": "high",
+  "reason": "Headline: two Panchayat/Development department officers changed in Ludhiana; routine transfers."
+ },
+ {
+  "story_id": 856,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Headline: 'political earthquake in AAP in coming days' says Sandhu; opposition claim of AAP defections."
+ },
+ {
+  "story_id": 863,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Headline: two live shells found in Jian cut colony; factual item with no clear tilt."
+ },
+ {
+  "story_id": 864,
+  "sentiment": "Neutral",
+  "confidence": "high",
+  "reason": "Headline: Dr Kohli urges care of health in changing weather; routine health advisory."
+ },
+ {
+  "story_id": 872,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "Headline: Punjab Against Drugs bike rally on 19 November; government anti-drug campaign outreach."
+ },
+ {
+  "story_id": 878,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Headline: administration forgot to fill pits after laying sewerage and water pipelines; civic failure."
+ },
+ {
+  "story_id": 888,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "medium",
+  "reason": "Headline: Census-2027 second phase self-enumeration begins, MLA enumerates family online; central census exercise, no state decision (Lesson 5)."
+ },
+ {
+  "story_id": 889,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Headline: buffalo dies after drinking toxic water; pollution and civic failure."
+ },
+ {
+  "story_id": 891,
+  "sentiment": "Neutral",
+  "confidence": "low",
+  "reason": "Headline: action to be taken against dhabas and restaurants; routine civic enforcement notice."
+ },
+ {
+  "story_id": 892,
+  "sentiment": "Neutral",
+  "confidence": "low",
+  "reason": "Headline: ED questions Popli in GMADA master plan alteration case; probe into a state authority, no clear tilt."
+ },
+ {
+  "story_id": 901,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "low",
+  "reason": "Headline: allegation of electricity meter put in own name without heirs' consent; private dispute, no government decision."
+ },
+ {
+  "story_id": 902,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "Headline: CM meets district president and councillors; AAP organisation outreach."
+ }
+]

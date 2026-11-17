@@ -1,0 +1,212 @@
+[
+ {
+  "story_id": 284,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Headline leads with 4,934 cyber fraud complaints, over 71 per cent pending and police withholding refund figures: service failure."
+ },
+ {
+  "story_id": 285,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Headline says mining-hit bridge reopens after three years; no government credit or blame in the lead."
+ },
+ {
+  "story_id": 287,
+  "sentiment": "Positive",
+  "confidence": "low",
+  "reason": "Headline says escaped theft accused rearrested by Amritsar police; arrest rule, though text notes the escape embarrassed police."
+ },
+ {
+  "story_id": 309,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Headline has PPCC chief Pargat Singh on Cong unity; text attacks AAP govt on debt, drugs and paddy."
+ },
+ {
+  "story_id": 329,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Headline: Harsimrat Badal slams AAP over drug menace."
+ },
+ {
+  "story_id": 355,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Headline: three men open fire on car in Patiala over ransom; crime, with Bittu quote on govt letting criminals operate."
+ },
+ {
+  "story_id": 356,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Headline: BJP chief Dhillon flags rising attacks on Punjab police and questions law and order."
+ },
+ {
+  "story_id": 683,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "medium",
+  "reason": "Headline: five killed in Fazilka vehicle collision; road accident with no government failure or action in the lead."
+ },
+ {
+  "story_id": 684,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Headline: husband beats wife over affairs; private domestic matter."
+ },
+ {
+  "story_id": 687,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Headline: heroin recovered from drug smuggler by city police; seizure rule."
+ },
+ {
+  "story_id": 697,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Headline: wife beaten and thrown out of house; private domestic matter."
+ },
+ {
+  "story_id": 699,
+  "sentiment": "Neutral",
+  "confidence": "low",
+  "reason": "Headline leads with social workers rescuing abducted youth, one suspect arrested; no clear tilt."
+ },
+ {
+  "story_id": 701,
+  "sentiment": "Negative",
+  "confidence": "low",
+  "reason": "Headline: Bathinda chokes as AQI hits unhealthy 263 from stubble burning and smog; civic/pollution failure."
+ },
+ {
+  "story_id": 703,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "medium",
+  "reason": "Headline: Barnala launches online self-enumeration for Census 2027; central Census exercise (Lesson 5)."
+ },
+ {
+  "story_id": 705,
+  "sentiment": "Neutral",
+  "confidence": "low",
+  "reason": "Headline: Punjabi writers' body forms committees and seeks CM meeting; routine, no tilt."
+ },
+ {
+  "story_id": 706,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "low",
+  "reason": "Headline: Congress leader Daulatpur announces drug-free prayer march; opposition event announcement (Lesson 4)."
+ },
+ {
+  "story_id": 716,
+  "sentiment": "Positive",
+  "confidence": "low",
+  "reason": "Headline: Burlton Park Sports Hub nears completion (Rs 78 crore) though after 18-year delay; delivery lead."
+ },
+ {
+  "story_id": 724,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Headline: bail denied to 2 accused in Bambiha gang extortion case; court order, no tilt."
+ },
+ {
+  "story_id": 733,
+  "sentiment": "Neutral",
+  "confidence": "high",
+  "reason": "Headline: Muktsar police urge farmers to avoid stubble burning; routine awareness drive."
+ },
+ {
+  "story_id": 734,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Headline: Markfed suspends officer over delayed paddy procurement while farmers protest in Abohar; procurement failure and protests lead."
+ },
+ {
+  "story_id": 209,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Headline: sixth Punjab cop killed this year in targeted attack; crime and law and order."
+ },
+ {
+  "story_id": 212,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Headline: CM Mann at lok milni targets Badals and Congress; AAP counter-attack (aap_voice)."
+ },
+ {
+  "story_id": 214,
+  "sentiment": "Neutral",
+  "confidence": "low",
+  "reason": "Headline: ex-GMADA official appears before ED in money-laundering probe; central agency probe, no clear tilt."
+ },
+ {
+  "story_id": 215,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Headline: Amritpal seeks 3-day interim bail; court issues notice to Punjab govt; hearing item."
+ },
+ {
+  "story_id": 222,
+  "sentiment": "Neutral",
+  "confidence": "low",
+  "reason": "Headline: ex-ADC gets 14-day custody in PMLA case on shamlat land and illegal mining; court/ED procedure."
+ },
+ {
+  "story_id": 299,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Headline: Congress takes note of leaders skipping rallies; opposition internal affair."
+ },
+ {
+  "story_id": 319,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Headline: Harsimrat slams AAP over Rs 5L relief for bus accident victims."
+ },
+ {
+  "story_id": 239,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Headline: Mann urges PM to reopen Kartarpur for Gurpurb; Punjab's rights/religious outreach."
+ },
+ {
+  "story_id": 243,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Headline: AAP and SAD announce rally dates in Moga; neutral two-party announcement."
+ },
+ {
+  "story_id": 247,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "Headline: procurement target of 180L metric achieved; delivery lead though farmers complain in text."
+ },
+ {
+  "story_id": 248,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Headline: AAP lists 30 names for civic polls; routine candidate list."
+ },
+ {
+  "story_id": 250,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "Headline: Rs 34cr plan to keep Mohali roads clean; civic delivery plan."
+ },
+ {
+  "story_id": 303,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Headline: Capt at Sonia book launch and Rahul's anecdote; Congress/BJP personal matter with no Punjab govt angle."
+ },
+ {
+  "story_id": 305,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Headline: Balbir Sidhu calls AAP's pilgrimage scheme 'loot yatra'; opposition attack."
+ },
+ {
+  "story_id": 361,
+  "sentiment": "Neutral",
+  "confidence": "high",
+  "reason": "Headline: court seeks govt's response on Amritpal parole plea; hearing item."
+ }
+]
