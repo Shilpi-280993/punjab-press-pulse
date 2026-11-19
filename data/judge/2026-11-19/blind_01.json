@@ -1,0 +1,303 @@
+[
+ {
+  "story_id": 4,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Row is about the Akal Takht committee and the govt's coordination committee on the govt's sacrilege law, no tilt."
+ },
+ {
+  "story_id": 7,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Police only reported close to arrest in a car-theft case; no arrest or delivery yet (Lesson 11)."
+ },
+ {
+  "story_id": 9,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "CM pledges AAP welfare schemes will never stop."
+ },
+ {
+  "story_id": 11,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "AAP candidates merely meet Kejriwal and thank him; incidental, no delivery (Lesson 11)."
+ },
+ {
+  "story_id": 18,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Finance Minister orders women's safety at workplaces."
+ },
+ {
+  "story_id": 202,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Congress committee formation is opposition internal (Lesson 4/12)."
+ },
+ {
+  "story_id": 256,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "medium",
+  "reason": "Majithia's court plea to travel abroad is an opposition leader's personal matter, no govt role."
+ },
+ {
+  "story_id": 289,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Congress leader says govt has failed on every front."
+ },
+ {
+  "story_id": 333,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "SGPC president election is a religious body matter, no govt role."
+ },
+ {
+  "story_id": 107,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Chat names 6 officers in bribery deals in Bhullar case; Lesson 13 anti-corruption, damaging to officials."
+ },
+ {
+  "story_id": 110,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Govt forms state monitoring committee to stop manual scavenging."
+ },
+ {
+  "story_id": 111,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "PSEB gives students more time to correct data, headline calls it big relief."
+ },
+ {
+  "story_id": 112,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Rule change lets industry pay deferred VAT early; optional, no clear tilt."
+ },
+ {
+  "story_id": 114,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Finance Minister directs departments to report POSH compliance."
+ },
+ {
+  "story_id": 116,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "AAP media in-charge attacks BJP over drugs from Gujarat port (Lesson 2)."
+ },
+ {
+  "story_id": 118,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Heroin and drone recovered, arrest (Lesson 1)."
+ },
+ {
+  "story_id": 119,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Raids on 546 gangster hideouts, 204 arrested (Lesson 1)."
+ },
+ {
+  "story_id": 236,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "medium",
+  "reason": "Headline is Congress's own candidate list announcement (Lesson 12); attack on AAP is only in body."
+ },
+ {
+  "story_id": 341,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Car accident of BSP chief, no govt angle."
+ },
+ {
+  "story_id": 342,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Youth died at a farmers' highway dharna and police booked 52 farmers; protest-related friction for the govt."
+ },
+ {
+  "story_id": 101,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Akal Takht committee skips meeting with govt committee on the govt's Act; no clear tilt."
+ },
+ {
+  "story_id": 104,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "High Court service-law ruling on seniority; routine hearing outcome."
+ },
+ {
+  "story_id": 106,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Mann seeks Centre's permission; request only, with earlier blocked tours as background."
+ },
+ {
+  "story_id": 233,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Congress election committee is opposition internal (Lesson 12)."
+ },
+ {
+  "story_id": 989,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "medium",
+  "reason": "Traders' demand for police at bazaar entry points; no govt decision (Lesson 10).",
+  "headline_fix": "Demand to deploy policemen at bazaar entry points (traders, Patiala)"
+ },
+ {
+  "story_id": 991,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Procedural remand of a murder accused, no clear tilt."
+ },
+ {
+  "story_id": 993,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Arrest in a murder case, police action (Lesson 1)."
+ },
+ {
+  "story_id": 997,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Case registered over illegal mining allegation against unknown persons, no clear tilt."
+ },
+ {
+  "story_id": 998,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Smuggler held with heroin and charas, Lesson 1."
+ },
+ {
+  "story_id": 1000,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Youths held with heroin, police action."
+ },
+ {
+  "story_id": 1001,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "NHM employees' strike continues, services hit."
+ },
+ {
+  "story_id": 1008,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "Police case against drug user found positive in dope test, anti-drug action."
+ },
+ {
+  "story_id": 1013,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Suspected murder plot, crime."
+ },
+ {
+  "story_id": 1015,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Attack on policeman, uniform torn."
+ },
+ {
+  "story_id": 1016,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Fake registry fraud leads the headline."
+ },
+ {
+  "story_id": 1017,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "State child rights commission statement on songs, no clear tilt."
+ },
+ {
+  "story_id": 1018,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Former CM Amarinder (BJP) targets CM Mann, opposition attack."
+ },
+ {
+  "story_id": 1022,
+  "sentiment": "Neutral",
+  "confidence": "high",
+  "reason": "Routine voter awareness for election."
+ },
+ {
+  "story_id": 1023,
+  "sentiment": "Neutral",
+  "confidence": "high",
+  "reason": "Election observer arrival, Election Commission matter."
+ },
+ {
+  "story_id": 1024,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Highway cut risking accidents, NHAI and corporation blame each other, civic failure."
+ },
+ {
+  "story_id": 1029,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Pensioners burn effigy over old pension not restored, protest."
+ },
+ {
+  "story_id": 1031,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Committee to probe before work order, procedural civic step."
+ },
+ {
+  "story_id": 1032,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Stray dog attack, civic failure."
+ },
+ {
+  "story_id": 1033,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "Food safety drive with samples drawn, govt action."
+ },
+ {
+  "story_id": 1035,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Complaint of encroachment on marriage hall, civic failure."
+ },
+ {
+  "story_id": 1048,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Family stages dharna over land dispute, grievance against administration."
+ },
+ {
+  "story_id": 1050,
+  "sentiment": "Neutral",
+  "confidence": "low",
+  "reason": "Union backs special cadre demand, no protest or attack in the lead."
+ },
+ {
+  "story_id": 1052,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Lawyers' demand for Batala district, no clear tilt."
+ },
+ {
+  "story_id": 1054,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Councillors' uproar and House ends in 20 minutes."
+ },
+ {
+  "story_id": 1055,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "FIR against stubble burners, govt enforcement."
+ }
+]

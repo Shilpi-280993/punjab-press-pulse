@@ -1,0 +1,212 @@
+[
+ {
+  "story_id": 151,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "ED-probe fallout: govt scraps Rs 15,000-cr GMADA tender, a U-turn under ED scrutiny (Lesson 13)."
+ },
+ {
+  "story_id": 152,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Factual request to the MEA for clearance; no tilt."
+ },
+ {
+  "story_id": 153,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "CM counter-attacks SAD, BJP and Congress (Lesson 2)."
+ },
+ {
+  "story_id": 156,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Kejriwal slams BJP over blaming Punjab farmers; AAP counter-attack."
+ },
+ {
+  "story_id": 158,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Takht panel skips the govt committee meeting, a setback for the govt's Act."
+ },
+ {
+  "story_id": 161,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "NIA arrest in a central-agency case with no Punjab govt role (Lessons 5, 9)."
+ },
+ {
+  "story_id": 245,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "medium",
+  "reason": "Congress candidate list announcement leads; opposition internal (Lesson 12)."
+ },
+ {
+  "story_id": 278,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "medium",
+  "reason": "BKU faction backs SAD; opposition's own event leads (Lesson 12)."
+ },
+ {
+  "story_id": 325,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "low",
+  "reason": "Original headline leads with BJP's yatra flag-off; the attack on AAP is secondary (Lesson 12)."
+ },
+ {
+  "story_id": 174,
+  "sentiment": "Neutral",
+  "confidence": "low",
+  "reason": "Factual report of CM seeking Centre's nod; the denials framing is not an attack on the govt."
+ },
+ {
+  "story_id": 177,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Feature on parties' women's wings, including govt's scheme, no tilt."
+ },
+ {
+  "story_id": 180,
+  "sentiment": "Positive",
+  "confidence": "low",
+  "reason": "Murder probe with 16 arrests across states; arrests lead (Lesson 1)."
+ },
+ {
+  "story_id": 181,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "AAP ministers anxious over tickets and Khuddian's exit, an internal setback."
+ },
+ {
+  "story_id": 182,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Akal Takht panel fails to meet govt, blocking the Act's talks."
+ },
+ {
+  "story_id": 183,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "NIA arrest in a central-agency case, no Punjab govt role (Lessons 5, 9)."
+ },
+ {
+  "story_id": 250,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "medium",
+  "reason": "Congress candidate list announcement; opposition internal (Lesson 12)."
+ },
+ {
+  "story_id": 282,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "BJP-SAD alliance analysis; opposition internal (Lesson 4)."
+ },
+ {
+  "story_id": 328,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Headline is Nabin's attack: countdown to Mann govt's exit has begun."
+ },
+ {
+  "story_id": 26,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "CM says welfare schemes (free bus travel, Rs 1000, insurance) will continue."
+ },
+ {
+  "story_id": 29,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "medium",
+  "reason": "Customs case handed to NCB, central agencies with no Punjab govt role (Lesson 5)."
+ },
+ {
+  "story_id": 30,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Headline says hurdle on the Act remains and Akal Takht skipped the meeting."
+ },
+ {
+  "story_id": 207,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "medium",
+  "reason": "Court suspends a former MLA's defamation sentence; opposition personal matter."
+ },
+ {
+  "story_id": 259,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Harsimrat Badal attacks AAP govt over drugs (opposition attack: SAD)."
+ },
+ {
+  "story_id": 292,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "BJP's own yatra event (Lessons 4, 12)."
+ },
+ {
+  "story_id": 293,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "BJP manifesto committee timeline; opposition internal."
+ },
+ {
+  "story_id": 335,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "medium",
+  "reason": "BSP chief's vehicle hit; no govt role reported."
+ },
+ {
+  "story_id": 86,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "AAP leader Pannu counter-attacks BJP on drugs (Lesson 2)."
+ },
+ {
+  "story_id": 90,
+  "sentiment": "Negative",
+  "confidence": "low",
+  "reason": "Akal Takht panel does not attend; leads with the snub though the govt offers a new date."
+ },
+ {
+  "story_id": 227,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Channi says people feel cheated by AAP, an opposition attack."
+ },
+ {
+  "story_id": 229,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "low",
+  "reason": "Congress chief's statement on choosing a CM; only an implied dig at the govt (Lesson 12)."
+ },
+ {
+  "story_id": 231,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "medium",
+  "reason": "Tender notice from another state's department (Himachal), not Punjab govt."
+ },
+ {
+  "story_id": 306,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "BJP's yatra event photo (Lesson 12)."
+ },
+ {
+  "story_id": 309,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "BJP's candidate speculation for Ludhiana; opposition internal."
+ },
+ {
+  "story_id": 339,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "BSP and Waris Punjab De alliance talks; opposition internal."
+ },
+ {
+  "story_id": 340,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "medium",
+  "reason": "BSP chief's vehicle hit; no govt role reported."
+ }
+]

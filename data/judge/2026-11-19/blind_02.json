@@ -1,0 +1,302 @@
+[
+ {
+  "story_id": 1059,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "BJP leader attacks the corporation's management (anari log ke haath nigam ki kaman)."
+ },
+ {
+  "story_id": 1064,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "Recovery of drugs and phones with case registered; Lesson 1 seizure."
+ },
+ {
+  "story_id": 1065,
+  "sentiment": "Negative",
+  "confidence": "low",
+  "reason": "Civic mishap, tanker stuck in a pit on a road."
+ },
+ {
+  "story_id": 1066,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Slow road work, villages suffering; civic failure."
+ },
+ {
+  "story_id": 1069,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "medium",
+  "reason": "National safai karamchari commission meeting; central body, Lesson 5."
+ },
+ {
+  "story_id": 1073,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Violent attack on man who stopped drug selling; crime."
+ },
+ {
+  "story_id": 1077,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Routine half-day holiday notice for a local event."
+ },
+ {
+  "story_id": 131,
+  "sentiment": "Neutral",
+  "confidence": "low",
+  "reason": "High Court remark on a parole plea; no clear tilt for the government."
+ },
+ {
+  "story_id": 132,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Court dismisses Punjab govt appeals; ruling against the government."
+ },
+ {
+  "story_id": 240,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Channi attacks AAP govt on law and order, drugs; opposition attack."
+ },
+ {
+  "story_id": 275,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Harsimrat attacks AAP govt over drugs and gangster-police links in the text."
+ },
+ {
+  "story_id": 320,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "BJP president says AAP govt's reverse count has begun."
+ },
+ {
+  "story_id": 361,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Police arrest of heroin addict; Lesson 1."
+ },
+ {
+  "story_id": 364,
+  "sentiment": "Negative",
+  "confidence": "low",
+  "reason": "Killing of a hawaldar by militants; law and order, demand for action."
+ },
+ {
+  "story_id": 371,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Awareness lighting at state memorial; no government delivery or tilt."
+ },
+ {
+  "story_id": 372,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Sarpanch's Akhand Path for MLA; AAP only incidental, Lesson 11."
+ },
+ {
+  "story_id": 374,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "low",
+  "reason": "Census-awareness school competition; central exercise, no state role in lead."
+ },
+ {
+  "story_id": 378,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Heroin and drug money recovered, accused held; Lesson 1."
+ },
+ {
+  "story_id": 388,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "AAP leader blames BJP-run centre for unfinished Rego bridge."
+ },
+ {
+  "story_id": 398,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Supporters back an AAP ticket aspirant; internal party item."
+ },
+ {
+  "story_id": 407,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Congress leader says Punjab will progress only under Congress; opposition attack."
+ },
+ {
+  "story_id": 408,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Appeal over medicine supply shortage for patients in government hospitals."
+ },
+ {
+  "story_id": 410,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Employee and pensioner front plans rally and march; employee protest."
+ },
+ {
+  "story_id": 411,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "District employment bureau placement camp; government delivery."
+ },
+ {
+  "story_id": 413,
+  "sentiment": "Neutral",
+  "confidence": "low",
+  "reason": "Courtesy welcome for new DC; routine."
+ },
+ {
+  "story_id": 415,
+  "sentiment": "Neutral",
+  "confidence": "high",
+  "reason": "Meeting of Finance dept with NHM union, no decision, strike continues."
+ },
+ {
+  "story_id": 438,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Routine scheduled power shutdown notice for line maintenance."
+ },
+ {
+  "story_id": 445,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "District counsellor's routine drug-awareness appeal to students, no govt delivery in lead."
+ },
+ {
+  "story_id": 455,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Routine police case against court-declared proclaimed offenders, no seizure or arrest."
+ },
+ {
+  "story_id": 460,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Municipal council president's civic appeal, no govt decision or failure."
+ },
+ {
+  "story_id": 474,
+  "sentiment": "Neutral",
+  "confidence": "low",
+  "reason": "Government school students' educational tour, only incidental to govt."
+ },
+ {
+  "story_id": 478,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Opposition leader questions Punjab law and order after firing at trader's house."
+ },
+ {
+  "story_id": 491,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "medium",
+  "reason": "Census self-enumeration is a central exercise; Seechewal's appeal gives Punjab govt no role (Lesson 5)."
+ },
+ {
+  "story_id": 497,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "medium",
+  "reason": "Religious nagar kirtan and Kartarpur corridor demand, no Punjab govt action or role."
+ },
+ {
+  "story_id": 499,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Valmiki Sabha memorandum of demands submitted to ADC, no govt response."
+ },
+ {
+  "story_id": 502,
+  "sentiment": "Neutral",
+  "confidence": "low",
+  "reason": "Routine FIR against unknown person for bike theft, no tilt."
+ },
+ {
+  "story_id": 565,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Teachers' union meets DC over census duty timing, no clear tilt."
+ },
+ {
+  "story_id": 567,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Community mahapanchayat demands political share, stance only."
+ },
+ {
+  "story_id": 587,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "RTO's routine fog road-safety advisory."
+ },
+ {
+  "story_id": 588,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Police alert and nakabandi after carjack: response to a crime, no arrest or seizure."
+ },
+ {
+  "story_id": 600,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Social worker voices deep concern over worsening law and order and drugs in Punjab."
+ },
+ {
+  "story_id": 609,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Police case against protesters on tower; procedural, protest cause not in the lead."
+ },
+ {
+  "story_id": 612,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "Council clears Rs 23 crore development projects and a new chowk in Rajpura (delivery)."
+ },
+ {
+  "story_id": 647,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "AAP halqa in-charge tours Khanauri solving problems on the spot (Lesson 3 outreach)."
+ },
+ {
+  "story_id": 651,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Congress leader says people disappointed with present govt (opposition attack)."
+ },
+ {
+  "story_id": 678,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Routine SVEEP voter-awareness quiz, Election Commission activity."
+ },
+ {
+  "story_id": 688,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Punjab Da Crorepati quiz scheme held at ITI with Rs 1 crore prize (govt initiative delivery)."
+ },
+ {
+  "story_id": 691,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Mahapanchayat leads with demand for political share; minister only a guest."
+ },
+ {
+  "story_id": 712,
+  "sentiment": "Positive",
+  "confidence": "low",
+  "reason": "Column praises AAP Jalandhar mayor's civic work, though satirical in tone."
+ },
+ {
+  "story_id": 714,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Cremation ground committee publishes accounts to settle dispute; MP grant only background."
+ }
+]

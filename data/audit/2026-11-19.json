@@ -1,0 +1,102 @@
+{
+ "date": "2026-11-19",
+ "judge": "Claude Fable 5.2",
+ "rows_judged": 243,
+ "blind_agreement": 200,
+ "agreement_rate": 0.823,
+ "disagreements": 43,
+ "sentiment_changed": 18,
+ "coder_kept": 25,
+ "patterns": [
+  {
+   "before": "Positive",
+   "after": "Neutral",
+   "rule": "Lesson 11",
+   "count": 4
+  },
+  {
+   "before": "Neutral",
+   "after": "Negative",
+   "rule": "Sentiment: Negative",
+   "count": 3
+  },
+  {
+   "before": "Neutral",
+   "after": "Positive",
+   "rule": "Sentiment: Positive",
+   "count": 2
+  },
+  {
+   "before": "Negative",
+   "after": "Neutral",
+   "rule": "new case",
+   "count": 1
+  },
+  {
+   "before": "Positive",
+   "after": "Not about AAP/Govt",
+   "rule": "Lesson 5",
+   "count": 1
+  },
+  {
+   "before": "Negative",
+   "after": "Positive",
+   "rule": "Lesson 1",
+   "count": 1
+  },
+  {
+   "before": "Govt ad",
+   "after": "Not about AAP/Govt",
+   "rule": "Relevance",
+   "count": 1
+  },
+  {
+   "before": "Negative",
+   "after": "Not about AAP/Govt",
+   "rule": "Lesson 12",
+   "count": 1
+  },
+  {
+   "before": "Negative",
+   "after": "Not about AAP/Govt",
+   "rule": "Relevance",
+   "count": 1
+  },
+  {
+   "before": "Negative",
+   "after": "Neutral",
+   "rule": "Sentiment: Neutral",
+   "count": 1
+  },
+  {
+   "before": "Neutral",
+   "after": "Not about AAP/Govt",
+   "rule": "Lesson 10",
+   "count": 1
+  },
+  {
+   "before": "Neutral",
+   "after": "Not about AAP/Govt",
+   "rule": "Lesson 5",
+   "count": 1
+  }
+ ],
+ "new_cases": [
+  {
+   "story_id": 4,
+   "reason": "Headline only reports that the Akal Takht expert committee did not come to the talks, and the strap says the invitation will be sent again. A religious body's no-show at talks with the government is Neutral when the headline only reports the absence or the renewed invitation; it is Negative only when the headline leads with a standoff, hurdle or rejection of the law. Code every paper's copy by this test (stories 63, 182 and 348 should be rechecked)."
+  },
+  {
+   "story_id": 53,
+   "reason": "Stray dogs from a carcass dump killed a labourer sleeping in a field at Jagraon. Stray and rabid dog attacks are a civic matter the administration owns, so they are relevant and Negative (Civic issues) even when the item quotes no blame, and every paper's copy is coded alike (stories 503 and 1032 are Negative)."
+  },
+  {
+   "story_id": 90,
+   "reason": "Same event as story 4: headline is that the Akal Takht expert committee did not reach the meeting, strap is the government inviting it to fix a date at its convenience; the body is the government's conciliatory statement. Absence plus renewed invitation, no standoff or attack in the lead."
+  },
+  {
+   "story_id": 968,
+   "reason": "A rabid dog bit several people working in fields, and villagers ask the government and district administration to act against the dogs. Stray and rabid dog attacks are a civic matter the administration owns; coded like story 53."
+  }
+ ]
+}

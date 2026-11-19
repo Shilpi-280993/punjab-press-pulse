@@ -1,0 +1,284 @@
+[
+ {
+  "story_id": 4,
+  "final": "Neutral",
+  "reason": "Headline only reports that the Akal Takht expert committee did not come to the talks, and the strap says the invitation will be sent again. A religious body's no-show at talks with the government is Neutral when the headline only reports the absence or the renewed invitation; it is Negative only when the headline leads with a standoff, hurdle or rejection of the law. Code every paper's copy by this test (stories 63, 182 and 348 should be rechecked).",
+  "rule": "new case"
+ },
+ {
+  "story_id": 90,
+  "final": "Neutral",
+  "reason": "Same event as story 4: headline is that the Akal Takht expert committee did not reach the meeting, strap is the government inviting it to fix a date at its convenience; the body is the government's conciliatory statement. Absence plus renewed invitation, no standoff or attack in the lead.",
+  "rule": "new case"
+ },
+ {
+  "story_id": 7,
+  "final": "Neutral",
+  "reason": "Headline says police have got close to the robbers in the Pathankot car-snatching case and may soon disclose arrests and recovery. No arrest or recovery yet, so it is not a Lesson 1 Positive; crime and police progress are balanced.",
+  "rule": "Lesson 11"
+ },
+ {
+  "story_id": 29,
+  "final": "Not about AAP/Govt",
+  "reason": "Customs at Amritsar airport found the videos and handed the two youths to the NCB. Both are central agencies and the clipping gives Punjab Police no role.",
+  "rule": "Lesson 5",
+  "theme_group": "",
+  "detailed_theme": "Others"
+ },
+ {
+  "story_id": 53,
+  "final": "Negative",
+  "reason": "Stray dogs from a carcass dump killed a labourer sleeping in a field at Jagraon. Stray and rabid dog attacks are a civic matter the administration owns, so they are relevant and Negative (Civic issues) even when the item quotes no blame, and every paper's copy is coded alike (stories 503 and 1032 are Negative).",
+  "rule": "new case"
+ },
+ {
+  "story_id": 112,
+  "final": "Positive",
+  "reason": "Kicker is 'Relief': the government amended the rules (new Condition 4E) so industries can clear deferred VAT early. A government decision framed by the paper as relief for industry is action in the headline's lead.",
+  "rule": "Sentiment: Positive"
+ },
+ {
+  "story_id": 180,
+  "final": "Positive",
+  "reason": "Headline leads with the police probe widening across states and new foreign handlers coming on the radar; the kicker says 16 people are under arrest. The lead is police action and arrests, not the killing itself.",
+  "rule": "Lesson 1",
+  "theme_group": "Police action on gangs, arms & drugs",
+  "detailed_theme": "Police action vs crime"
+ },
+ {
+  "story_id": 200,
+  "final": "Negative",
+  "reason": "Headline says Punjab recorded 6,516 stubble fires 'despite action' and the intro says fires continue in several districts. The lead frames enforcement as not stopping the fires.",
+  "rule": "Sentiment: Negative"
+ },
+ {
+  "story_id": 231,
+  "final": "Not about AAP/Govt",
+  "reason": "The partly visible tender notice is for landslide mitigation works in Himachal Pradesh (Seraj division, Mandi roads), issued by another state's department. Not a Punjab government advertisement.",
+  "rule": "Relevance",
+  "theme_group": "",
+  "detailed_theme": "Others"
+ },
+ {
+  "story_id": 240,
+  "final": "Not about AAP/Govt",
+  "reason": "Printed headline is only 'Need to make Punjab prosperous and better: Channi' with the strap on his Jawani Sambhal cycle rally reaching Barnala. The attack on the AAP government is in the body, not the headline; an opposition leader's own campaign event leads. Same treatment as 15 Nov story 216 and today's story 254.",
+  "rule": "Lesson 12"
+ },
+ {
+  "story_id": 256,
+  "final": "Neutral",
+  "reason": "Majithia has applied to the Mohali special anti-corruption court for permission to travel abroad; hearing on 19 November. The case is the state Vigilance prosecution, so it is relevant, and a pending court application is a factual hearing item.",
+  "rule": "Sentiment: Neutral"
+ },
+ {
+  "story_id": 275,
+  "final": "Not about AAP/Govt",
+  "reason": "Printed headline is 'Punjab's women committed to ending drugs: Harsimrat Badal' with the strap on the SAD 'Mai Bhago Di Lalkar' event at Khanna. The attack on the AAP government is only in the body; the opposition's own event and slogan lead.",
+  "rule": "Lesson 12"
+ },
+ {
+  "story_id": 325,
+  "final": "Not about AAP/Govt",
+  "reason": "Printed headline is only 'Nabin flags off 16-day Dalit outreach yatra' and the first four paragraphs are about the BJP yatra and its Dalit outreach; the remarks on the AAP government come in the second half. The opposition's own event leads. Same as story 302.",
+  "rule": "Lesson 12",
+  "theme_group": "",
+  "detailed_theme": "Opposition internal"
+ },
+ {
+  "story_id": 335,
+  "final": "Not about AAP/Govt",
+  "reason": "An SUV hit the BSP state president's Innova; the BSP suspects a conspiracy and asks for a probe and security. A road accident with no government failure, decision or reply reported; the same event is Not about AAP/Govt in stories 340 and 341.",
+  "rule": "Relevance",
+  "theme_group": "",
+  "detailed_theme": "Others"
+ },
+ {
+  "story_id": 342,
+  "final": "Negative",
+  "reason": "A youth died hitting a trolley parked at the farmers' highway dharna at Mukerian; police booked 52 farmers and detained 3, and the farmers blame the police for not barricading. A death at a protest blockade with a case and no resolution is a crime and protest item; same event as story 1039 (Negative).",
+  "rule": "Sentiment: Negative",
+  "theme_group": "Farmers, stubble & paddy",
+  "detailed_theme": "Farmers' protest"
+ },
+ {
+  "story_id": 347,
+  "final": "Neutral",
+  "reason": "Court-ordered three-hour parole for Amritpal; the item says Amritsar Rural Police will bring him to the village and the administration is responsible for law and order. Punjab Police has a role, so it is relevant, and it is factual. Same as stories 331, 343 and 346.",
+  "rule": "Sentiment: Neutral"
+ },
+ {
+  "story_id": 372,
+  "final": "Positive",
+  "reason": "A sarpanch holds an Akhand Path bhog for AAP MLA Sarvan Singh Dhun's re-election, with party office-bearers and sarpanches attending and the MLA honoured. A public show of support for the AAP MLA in his halqa is AAP outreach, not an incidental mention.",
+  "rule": "Lesson 3"
+ },
+ {
+  "story_id": 374,
+  "final": "Neutral",
+  "reason": "The competitions were held at a Tarn Taran school on the directions of the Deputy Commissioner as Principal Census Officer, with district education officers. The district administration is the actor, so it is relevant, as in the day's other census rows and the 17 Nov census rulings.",
+  "rule": "Relevance"
+ },
+ {
+  "story_id": 408,
+  "final": "Neutral",
+  "reason": "On National Epilepsy Day a doctor appeals to the government to ensure regular medicine supply for epilepsy patients. An appeal with no protest, no reported refusal and no attack in the headline, like the 17 Nov speed-breaker demand (story 819).",
+  "rule": "Sentiment: Neutral"
+ },
+ {
+  "story_id": 455,
+  "final": "Neutral",
+  "reason": "Police registered a case under section 209 BNS against two men already declared proclaimed offenders by a court. A procedural step on the state's own initiative with no arrest or seizure is not a Lesson 1 Positive.",
+  "rule": "Lesson 11",
+  "theme_group": "Crime & law and order",
+  "detailed_theme": "Law & order / crime"
+ },
+ {
+  "story_id": 491,
+  "final": "Neutral",
+  "reason": "AAP Rajya Sabha MP Sant Seechewal enters his family's details on the census portal and appeals to people to take part in the self-enumeration drive running in Punjab. A ruling-party MP is the actor, so it is relevant, as in the 17 Nov ruling on MLA Kulwant Singh (story 888).",
+  "rule": "Relevance"
+ },
+ {
+  "story_id": 497,
+  "final": "Neutral",
+  "reason": "AAP Rajya Sabha MP Sant Seechewal leads environment-themed nagar kirtans where the demand to reopen the Kartarpur corridor is raised. An AAP MP is the actor and Kartarpur is a standing theme, so it is relevant; there is no government delivery or attack in the lead.",
+  "rule": "Lesson 11"
+ },
+ {
+  "story_id": 502,
+  "final": "Negative",
+  "reason": "A motorcycle theft at Phagwara with a case against an unknown person and no arrest. An FIR on a victim's complaint with no arrest is a crime report, coded Negative as in the 17 Nov rulings (stories 384, 458, 684).",
+  "rule": "Sentiment: Negative"
+ },
+ {
+  "story_id": 712,
+  "final": "Positive",
+  "reason": "The column addresses AAP mayor Vineet Dhir, now the party's Jalandhar North candidate: everyone praises his work, no mayor bought as much machinery or did as much sewer cleaning, and it wishes him success, adding friendly suggestions. Praise of an AAP mayor's civic delivery is the headline and the body.",
+  "rule": "Sentiment: Positive"
+ },
+ {
+  "story_id": 728,
+  "final": "Negative",
+  "reason": "Beas police registered a case against three women for trying to seize a widow's land and threatening her; no arrest. A crime with an FIR and no arrest is a crime report, relevant under law and order and Negative as in the 17 Nov rulings; neither Neutral nor Not about fits.",
+  "rule": "Sentiment: Negative"
+ },
+ {
+  "story_id": 730,
+  "final": "Neutral",
+  "reason": "The Amritsar Commissionerate issues a prohibitory order under section 163 BNSS banning flasher lights and hooters on private vehicles. A routine administrative order, with no delivery or enforcement result yet.",
+  "rule": "Sentiment: Neutral"
+ },
+ {
+  "story_id": 731,
+  "final": "Negative",
+  "reason": "Vandalism and theft at the home of a man who had a love marriage at Goindwal Sahib; case against seven named and twenty unidentified persons, no arrest. Crime report.",
+  "rule": "Sentiment: Negative"
+ },
+ {
+  "story_id": 738,
+  "final": "Positive",
+  "reason": "Seizure of 1.914 kg heroin and a drone in Ferozepur; cases are registered under the NDPS Act with named investigating officers, and the item cites the BSF and Punjab Police recoveries in the same sector. Punjab Police has a role, so Lesson 5 does not apply (as in 16 Nov story 487).",
+  "rule": "Lesson 1"
+ },
+ {
+  "story_id": 753,
+  "final": "Neutral",
+  "reason": "The NHRC member chairs a review with the Deputy Commissioner, SSP and district department heads and directs them on complaints and schemes; the DC assures compliance. State officials are the ones reviewed, so it is relevant, and it is a factual review.",
+  "rule": "Sentiment: Neutral"
+ },
+ {
+  "story_id": 793,
+  "final": "Neutral",
+  "reason": "Headline is the AAP MLA's own clarification that the incident pre-dates the poll code; no notice, finding or opposition attack leads this item. A rebuttal of an allegation that is neither an attack on the opposition nor a ruling against him.",
+  "rule": "Sentiment: Neutral"
+ },
+ {
+  "story_id": 824,
+  "final": "Positive",
+  "reason": "The district treasury office will hold a three-day pension service fair to do pensioners' e-KYC and digital life certificates under the government's pension service portal. A government service being taken to people.",
+  "rule": "Sentiment: Positive"
+ },
+ {
+  "story_id": 837,
+  "final": "Positive",
+  "reason": "A police round-up: besides the jail contraband case, the body lists several arrests with heroin (260 g, 5.97 g and others) and intoxicant tablets by Faridkot district police stations. Seizures and arrests make up the item.",
+  "rule": "Lesson 1"
+ },
+ {
+  "story_id": 864,
+  "final": "Neutral",
+  "reason": "Police registered a case against a man already declared an absconder by a court. Procedural step with no arrest; same as story 455.",
+  "rule": "Lesson 11",
+  "theme_group": "Crime & law and order",
+  "detailed_theme": "Law & order / crime"
+ },
+ {
+  "story_id": 873,
+  "final": "Not about AAP/Govt",
+  "reason": "A dispute inside a private housing society: the former treasurer is booked for keeping members' files and registers. A private body's internal dispute with no government decision or failure in the item.",
+  "rule": "Lesson 10",
+  "theme_group": "",
+  "detailed_theme": "Others"
+ },
+ {
+  "story_id": 968,
+  "final": "Negative",
+  "reason": "A rabid dog bit several people working in fields, and villagers ask the government and district administration to act against the dogs. Stray and rabid dog attacks are a civic matter the administration owns; coded like story 53.",
+  "rule": "new case"
+ },
+ {
+  "story_id": 973,
+  "final": "Negative",
+  "reason": "A PSPCL assistant lineman died 17 days after being burnt at work; the straps say employees protested the lack of safety equipment and are angry at Powercom. Same event as story 1014 (Negative).",
+  "rule": "Sentiment: Negative"
+ },
+ {
+  "story_id": 975,
+  "final": "Negative",
+  "reason": "The item says the district administration and the highway authority have made no safety arrangements at the cut in front of AIIMS Bathinda, and that letters and reminders to the DC went unheard; the traffic DSP is quoted. The district administration is named as failing, so Lesson 5 does not apply.",
+  "rule": "Sentiment: Negative"
+ },
+ {
+  "story_id": 989,
+  "final": "Negative",
+  "reason": "This is the traders' sidebar of the lead story on daily traffic jams in Patiala's bazaars: they say police acted for a day and the jams returned once the police left, and demand permanent deployment. A civic failure package, not a private complaint. Headline fix is right: the demand is for policemen at bazaar entry points, not about thefts.",
+  "rule": "Sentiment: Negative",
+  "theme_group": "Civic services & infrastructure",
+  "detailed_theme": "Civic issues"
+ },
+ {
+  "story_id": 997,
+  "final": "Neutral",
+  "reason": "On a Mining Department letter, Taragarh police confirmed illegal mining at several places and registered cases against unknown persons. Enforcement with no arrest or seizure, and it also confirms illegal mining is going on, so it is neither a Lesson 1 Positive nor an attack.",
+  "rule": "Lesson 11",
+  "theme_group": "Crime & law and order",
+  "detailed_theme": "Law & order / crime"
+ },
+ {
+  "story_id": 1016,
+  "final": "Negative",
+  "reason": "Alleged forged power of attorney and fake registry of a Rs 10 crore Mohali showroom; five booked, no arrest. A fraud crime report.",
+  "rule": "Sentiment: Negative"
+ },
+ {
+  "story_id": 1033,
+  "final": "Neutral",
+  "reason": "Headline is a consumer warning asking whether paneer, ghee and khoya are pure; the straps say 25 per cent of samples failed and the department drew 190 samples and has begun legal action. Widespread adulteration and the department's action are balanced.",
+  "rule": "Sentiment: Neutral"
+ },
+ {
+  "story_id": 1050,
+  "final": "Negative",
+  "reason": "Special cadre teachers have been on a dharna outside the CM's residence in Sangrur since 15 November for pay scales; the headline is the Elementary Teachers Union joining in support on the fourth day. A protest against the government gaining support.",
+  "rule": "Sentiment: Negative"
+ },
+ {
+  "story_id": 1069,
+  "final": "Not about AAP/Govt",
+  "reason": "The vice-chairman of the National Commission for Safai Karamcharis meets the BJP state vice-president and assures him that sanitation workers' demands will be considered. A central body's own assurance to a BJP leader; the item reports no Punjab government decision or reply.",
+  "rule": "Lesson 5",
+  "theme_group": "",
+  "detailed_theme": "Others"
+ }
+]

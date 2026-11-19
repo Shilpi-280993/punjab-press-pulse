@@ -1,0 +1,200 @@
+[
+ {
+  "story_id": 188,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "medium",
+  "reason": "BSF recovery with no Punjab govt role (Lesson 5)."
+ },
+ {
+  "story_id": 195,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "medium",
+  "reason": "BSF/central border seizures, Lesson 5."
+ },
+ {
+  "story_id": 198,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Minister orders compliance reports: govt action."
+ },
+ {
+  "story_id": 200,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Factual stubble-fire and penalty figures, no clear tilt."
+ },
+ {
+  "story_id": 330,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "BJP president accuses AAP govt of failing on drugs, jobs, law and order."
+ },
+ {
+  "story_id": 347,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "medium",
+  "reason": "Court-ordered parole of a jailed MP in Assam, no govt decision."
+ },
+ {
+  "story_id": 728,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "medium",
+  "reason": "Private land dispute FIR, no govt angle."
+ },
+ {
+  "story_id": 730,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "Police commissionerate bans flasher lights: administrative action."
+ },
+ {
+  "story_id": 731,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "low",
+  "reason": "Private family-dispute vandalism case."
+ },
+ {
+  "story_id": 732,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "Police special checking drive: police action."
+ },
+ {
+  "story_id": 738,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "medium",
+  "reason": "Border agencies' seizure, central forces lead (Lesson 5)."
+ },
+ {
+  "story_id": 740,
+  "sentiment": "Neutral",
+  "confidence": "low",
+  "reason": "Accident lead; Road Safety Force rescue is incidental (Lesson 11)."
+ },
+ {
+  "story_id": 753,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "medium",
+  "reason": "Central NHRC member's review, no state govt decision."
+ },
+ {
+  "story_id": 778,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Industrialists state demands of all parties, no attack on govt (Lesson 6)."
+ },
+ {
+  "story_id": 787,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Routine Election Commission voter-awareness event."
+ },
+ {
+  "story_id": 789,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Murder of bank manager: crime."
+ },
+ {
+  "story_id": 793,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "AAP MLA denies MCC violation; procedural rebuttal."
+ },
+ {
+  "story_id": 144,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "333 new Pind Clinics: delivery."
+ },
+ {
+  "story_id": 148,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "NIA arrest, central agency case (Lessons 5, 9)."
+ },
+ {
+  "story_id": 149,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Court anecdote, no govt angle."
+ },
+ {
+  "story_id": 150,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "medium",
+  "reason": "HC remark on parole, no govt role."
+ },
+ {
+  "story_id": 242,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Congress yatra, opposition internal (Lesson 12)."
+ },
+ {
+  "story_id": 276,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "SAD's own farmer push, opposition internal."
+ },
+ {
+  "story_id": 277,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Constituency analysis of a SAD challenge to AAP, no clear tilt."
+ },
+ {
+  "story_id": 324,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "BJP chargesheet drive against the CM: opposition attack."
+ },
+ {
+  "story_id": 164,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Kejriwal counter-attacks BJP (Lesson 2)."
+ },
+ {
+  "story_id": 166,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Govt renews talks offer, panel skips: no clear tilt."
+ },
+ {
+  "story_id": 168,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "KZF man held on deportation, central case."
+ },
+ {
+  "story_id": 171,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "333 more Pind Clinics: delivery."
+ },
+ {
+  "story_id": 173,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "Road widening project: development work."
+ },
+ {
+  "story_id": 326,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Both sides trade charges in headline."
+ },
+ {
+  "story_id": 327,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "BJP launches chargesheet campaign against AAP."
+ },
+ {
+  "story_id": 345,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Opposition party's internal appointment (Lesson 4)."
+ }
+]

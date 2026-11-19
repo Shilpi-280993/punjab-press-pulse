@@ -1,0 +1,188 @@
+[
+ {
+  "story_id": 53,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Stray dogs killing a migrant labourer; no government role or failure reported."
+ },
+ {
+  "story_id": 58,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Police case against PSPCL linesmen protesters who climbed a tower; employee protest against the government leads."
+ },
+ {
+  "story_id": 61,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Routine notice of a pensioners' service fair, an announcement under Lesson 11 rather than delivery."
+ },
+ {
+  "story_id": 217,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Channi attacks AAP and Akali governments over sacrilege on his Congress yatra; opposition attack leads."
+ },
+ {
+  "story_id": 876,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Health department raids illegal de-addiction centre and shifts patients; government action leads."
+ },
+ {
+  "story_id": 877,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Headline says police action over the centre sealing is under question."
+ },
+ {
+  "story_id": 879,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "Mobile and tobacco recovered from jail; a recovery under Lesson 1."
+ },
+ {
+  "story_id": 880,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Routine tour and meeting by a Food Commission chairman, no delivery or tilt."
+ },
+ {
+  "story_id": 891,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Opposition leader says Punjab government is misleading people; opposition attack."
+ },
+ {
+  "story_id": 894,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Notice of a placement camp tomorrow; routine announcement."
+ },
+ {
+  "story_id": 898,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Police action: nine caught after dope tests, Lesson 1."
+ },
+ {
+  "story_id": 899,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Routine PSPCL power shutdown notice."
+ },
+ {
+  "story_id": 904,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "Mobile phones and chargers recovered from jail; a recovery under Lesson 1."
+ },
+ {
+  "story_id": 907,
+  "sentiment": "Positive",
+  "confidence": "low",
+  "reason": "Police arrest of a theft suspect; Lesson 1 arrests are Positive."
+ },
+ {
+  "story_id": 919,
+  "sentiment": "Negative",
+  "confidence": "low",
+  "reason": "Nilgai incursions into villages continue; unresolved civic and farm problem."
+ },
+ {
+  "story_id": 923,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "CM-led people's meeting with a huge crowd for Jalalpur; AAP outreach, Lesson 3."
+ },
+ {
+  "story_id": 924,
+  "sentiment": "Neutral",
+  "confidence": "low",
+  "reason": "Official's transfer challenged and he is back in the chair; procedural item with no clear tilt."
+ },
+ {
+  "story_id": 938,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Administrative directive on registration under solid waste rules; no tilt."
+ },
+ {
+  "story_id": 939,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Liquor seizure and arrest; Lesson 1."
+ },
+ {
+  "story_id": 944,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Routine PSPCL power shutdown notice."
+ },
+ {
+  "story_id": 946,
+  "sentiment": "Neutral",
+  "confidence": "low",
+  "reason": "Workers hand a demand letter to the Finance Minister; a memorandum, not a protest against the government."
+ },
+ {
+  "story_id": 947,
+  "sentiment": "Positive",
+  "confidence": "low",
+  "reason": "Case registered over illegal mining and probe begins; police action."
+ },
+ {
+  "story_id": 955,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Special search campaign under Yudh Nashian Virudh; police action against drugs."
+ },
+ {
+  "story_id": 961,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Nodal officer reviews awareness activities; routine review."
+ },
+ {
+  "story_id": 962,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Crusher association warns of a strike on the 25th; industry pressure against the government."
+ },
+ {
+  "story_id": 968,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "medium",
+  "reason": "Rabid dog bites in fields; no government role reported."
+ },
+ {
+  "story_id": 973,
+  "sentiment": "Neutral",
+  "confidence": "low",
+  "reason": "Death of an assistant lineman after an accident; no government failure or action in the headline."
+ },
+ {
+  "story_id": 975,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "medium",
+  "reason": "Dangerous highway cut is an NHAI matter, covered by Lesson 5."
+ },
+ {
+  "story_id": 976,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Victim family on water tank for the fourth day demanding justice; protest over administration inaction."
+ },
+ {
+  "story_id": 980,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "Heroin and SIM recovered from jail with inmates booked; Lesson 1."
+ },
+ {
+  "story_id": 985,
+  "sentiment": "Neutral",
+  "confidence": "low",
+  "reason": "Routine clearing of bushes at a driving track; minor civic work."
+ }
+]

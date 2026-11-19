@@ -82,6 +82,17 @@ From the sentiment judge, 17 Nov 2026:
 13. New case: a central agency (ED) probe whose subject is Punjab's own officials or a state authority's decisions is relevant, not Lesson 5. ED questioning of GMADA officers over master plan changes or losses to the exchequer is Negative (`Governance, Assembly & politics`, `Anti-corruption`); a procedural court or attachment step in such a case (judicial custody for a retired ADC in a PMLA case built on a Punjab Vigilance FIR, ED attaching a middleman's accounts in the suspended DIG Bhullar case) is Neutral in the same theme. Code every paper's copy of the event alike.
 14. New case: a drug recovery from the state's own policeman (opium found on an IRB ASI on jail security, caught by jail staff) is Neutral under `Crime & law and order`, not a Lesson 1 Positive and not a crime Negative.
 
+From the sentiment judge, 19 Nov 2026:
+
+15. Lesson 1 needs an arrest, seizure, raid or recovery in the lead. A case registered on the state's own initiative with none of these (an FIR against men already declared proclaimed offenders or absconders, cases against unknown persons on a Mining Department letter) or police only "close to" the culprits is Neutral under `Crime & law and order`. Seen 4 times (Positive changed to Neutral).
+16. A crime reported through an FIR on the victim's complaint with no arrest (motorcycle theft, a bid to grab a widow's land, vandalism of a couple's home, a fake property registry) is a crime report: Negative, `Crime & law and order`, not Neutral and not `Not about AAP/Govt`. Seen 3 times (Neutral changed to Negative).
+17. Lesson 12 is decided by the printed headline. When the headline carries only the opposition's own event or slogan (a BJP leader flagging off a yatra, a Congress leader's cycle rally, a SAD women's event) and the attack on AAP is only in the strap or body, the row is `Not about AAP/Govt` (`Opposition internal`); it is Negative only when the attack is the headline's lead. Seen 3 times, both ways.
+18. New case: a religious body's no-show at talks with the government (the Akal Takht expert committee skipping the meeting on the Satkar Act) is Neutral when the headline only reports the absence or the government's renewed invitation; it is Negative only when the headline leads with a standoff, hurdle or rejection of the law. Code every paper's copy by this test.
+19. New case: stray or rabid dog attacks (dogs from a carcass dump killing a sleeping labourer, a rabid dog biting field workers) are a civic matter the administration owns: relevant and Negative, `Civic services & infrastructure`, `Civic issues`, even when no blame is quoted.
+From the merge, 19 Nov 2026:
+
+20. Dainik Savera's PDF can print the same district page twice (19 Nov: Bathinda 1 to Malwa 6 and Moga 4 to Moga 8 each appeared on two PDF pages). Rows from the second copy of a page are `Duplicate`, as for repeated deck clippings.
+
 ## Daily commentary (data/notes/<date>.json)
 
 ```

@@ -1,0 +1,266 @@
+[
+ {
+  "story_id": 47,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "BKS body's appeal to the Centre on irrigation has no Punjab government role (Lesson 5)."
+ },
+ {
+  "story_id": 212,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Congress leader on the BJP yatra and Amarinder is opposition internal (Lessons 4, 12)."
+ },
+ {
+  "story_id": 213,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Channi attacks the government for burying the state in debt; opposition attack leads."
+ },
+ {
+  "story_id": 263,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "SAD (Punar Surjit) election strategy is opposition internal."
+ },
+ {
+  "story_id": 296,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "medium",
+  "reason": "Opinion column on BJP's tactics in Punjab, no government action or AAP role."
+ },
+ {
+  "story_id": 797,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Congress leader Pargat says AAP's real face exposed; opposition attack leads."
+ },
+ {
+  "story_id": 798,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Infighting between AAP leaders reaching the police is negative for AAP."
+ },
+ {
+  "story_id": 801,
+  "sentiment": "Neutral",
+  "confidence": "low",
+  "reason": "Rights commission member's review meeting with officials, routine with no tilt."
+ },
+ {
+  "story_id": 804,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Union protest by electricity employees against the government's meter removal."
+ },
+ {
+  "story_id": 807,
+  "sentiment": "Negative",
+  "confidence": "low",
+  "reason": "Congress leader in a confrontation with a government official; friction with administration."
+ },
+ {
+  "story_id": 808,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Sewage standing on road for months is a civic failure."
+ },
+ {
+  "story_id": 809,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Heroin and drone recovered is police seizure (Lesson 1)."
+ },
+ {
+  "story_id": 810,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Many AAP ticket claimants is a factual party item with no clear tilt."
+ },
+ {
+  "story_id": 811,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Produce not being lifted is a shortage/civic failure with public anger."
+ },
+ {
+  "story_id": 817,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Accident protest with dharna announced against the police station."
+ },
+ {
+  "story_id": 69,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "MLA starts development works at a cost of Rs 12 lakh."
+ },
+ {
+  "story_id": 81,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Police recovery of heroin and drone is a seizure (Lesson 1)."
+ },
+ {
+  "story_id": 222,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Channi's attack on the government leads the headline."
+ },
+ {
+  "story_id": 338,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Farmers' union announces rallies, headline states only its own plan (Lesson 6)."
+ },
+ {
+  "story_id": 820,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Opposition leader says Punjab needs saving from drugs and gangsterism."
+ },
+ {
+  "story_id": 824,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Pension service fair is a government service delivered to people."
+ },
+ {
+  "story_id": 825,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Routine dengue awareness remark by a health official, no clear tilt."
+ },
+ {
+  "story_id": 827,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "Senior citizens back from the CM Tirth Yatra scheme met, scheme reaching people."
+ },
+ {
+  "story_id": 828,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Congress leader joining AAP is a gain for AAP."
+ },
+ {
+  "story_id": 831,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Routine RTO order on reflector tape, no clear tilt."
+ },
+ {
+  "story_id": 832,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Speaker's meeting with an association, routine outreach, no delivery named."
+ },
+ {
+  "story_id": 835,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "ADC's routine meeting with officials on traders' problems."
+ },
+ {
+  "story_id": 837,
+  "sentiment": "Neutral",
+  "confidence": "low",
+  "reason": "Routine FIRs listing, including jail contraband, no clear tilt (Lesson 14 spirit)."
+ },
+ {
+  "story_id": 838,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Farmer union opposes government's closing of cooperative societies under KCC policy."
+ },
+ {
+  "story_id": 842,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "AAP in-charge hears problems and gets several resolved on the spot (Lesson 3)."
+ },
+ {
+  "story_id": 845,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Dozens of Congress leaders joining AAP."
+ },
+ {
+  "story_id": 848,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Farmers protest over postponed cooperative society election."
+ },
+ {
+  "story_id": 849,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "BJP leader complains of security cut and death threats, going to court against the government."
+ },
+ {
+  "story_id": 850,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "MLA inaugurates new rooms and shed at a government school."
+ },
+ {
+  "story_id": 851,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Concern over poor state of a government animal hospital is a civic failure."
+ },
+ {
+  "story_id": 853,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Victim families' dharna continuing on fourth day is a protest."
+ },
+ {
+  "story_id": 860,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Grant released for a village water facility is delivery."
+ },
+ {
+  "story_id": 861,
+  "sentiment": "Neutral",
+  "confidence": "low",
+  "reason": "MLA's appeal to join the census, census is central, no clear tilt."
+ },
+ {
+  "story_id": 863,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "AAP leader welcomed at an MLA's house, incidental reception (Lesson 11)."
+ },
+ {
+  "story_id": 864,
+  "sentiment": "Neutral",
+  "confidence": "low",
+  "reason": "Routine case against an absconder, no clear tilt."
+ },
+ {
+  "story_id": 868,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Questions on children's safety with a probe demanded from departments."
+ },
+ {
+  "story_id": 869,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Teacher training under the Surakhiat Bachpan Abhiyan is government delivery."
+ },
+ {
+  "story_id": 873,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "medium",
+  "reason": "Case over a private housing society's record, no government role (Lesson 10 spirit)."
+ },
+ {
+  "story_id": 874,
+  "sentiment": "Neutral",
+  "confidence": "low",
+  "reason": "AAP candidate's obeisance at a gurdwara is campaign routine, no delivery."
+ }
+]

@@ -1,0 +1,33 @@
+{
+ "validation": "Sentiment checked blind by a second model (Sonnet) on a sample of 243 stories (every low-confidence row plus 100 at random), with Claude Fable 5.2 ruling on every disagreement: the check agreed with the coding on 200 (82%, and 88 of the 100 random rows); after review 18 labels were changed, and 6 more copies of the same events were aligned with those rulings.",
+ "sources": "The monitoring deck's 348 clippings (slides 18 to 355), plus 684 stories the deck missed from every page of Dainik Savera (including its district pages), The Savera Times (including its district editions) and the District Front Page file (Punjabi Tribune, Rozana Spokesman, Punjabi Jagran and Dainik Jagran district pages); 50 repeated copies (mostly Dainik Savera district pages printed twice in its PDF) are marked as duplicates. The other papers' main editions are covered by the deck only; all 14 papers arrived. Relevant = about AAP, the Punjab government or a state matter.",
+ "takeaway": "{negative_share} of the {relevant} relevant stories were negative and {positive_share} positive. BJP president Nitin Nabin's Samrasta Sankalp Yatra launch in Jalandhar was the most widely carried event, in 14 papers with 9 front pages, though 14 of its 21 rows led with the BJP's own yatra and only 6 led with his attack on the AAP government. The CM's pledge that welfare schemes will continue (11 papers, 7 front pages, all positive) and Baltej Pannu's reply asking Nabin about drugs via Gujarat (9 papers, 6 front pages) carried the day for AAP, with police action again the largest positive theme (157 stories).",
+ "well": [
+  [
+   "The CM's welfare pledge led the front pages.",
+   "'Welfare schemes will continue as long as AAP is in government' ran in 11 papers, 7 of them on page 1, all 11 rows positive."
+  ],
+  [
+   "AAP answered the BJP the same day.",
+   "Baltej Pannu's challenge to Nitin Nabin over drugs coming through Gujarat ran in 9 papers with 6 front pages, all 10 rows positive; 25 stories in all carried AAP leaders rebutting the opposition."
+  ],
+  [
+   "Police action and health delivery travelled.",
+   "157 police action stories, 149 positive; 333 more village clinics ran in 7 papers and the POSH Act compliance order in 8, 6 of them positive."
+  ]
+ ],
+ "improve": [
+  [
+   "Opposition statements outnumbered rebuttals.",
+   "60 attacks (Congress 24, BJP 24, SAD 8, others 4) against 25 AAP rebuttals; the BJP's chargesheet campaign starting from the CM's Dhuri constituency ran in 7 papers, all negative."
+  ],
+  [
+   "Employees and crime kept district pages negative.",
+   "56 employee-protest stories in 11 papers, 51 of them negative, and 109 crime stories, 87 negative, including an undertrial's death in Hoshiarpur jail in 5 papers."
+  ],
+  [
+   "Stubble and civic issues stayed sore points.",
+   "22 of 34 farm and stubble rows were negative, with the CAQM notice to six districts' DCs and SSPs in 4 papers; 53 civic-issue stories were negative."
+  ]
+ ]
+}
