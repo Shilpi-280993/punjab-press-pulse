@@ -1,0 +1,114 @@
+{
+ "date": "2026-11-20",
+ "judge": "Claude Fable 5.2",
+ "rows_judged": 228,
+ "blind_agreement": 196,
+ "agreement_rate": 0.8596,
+ "disagreements": 32,
+ "sentiment_changed": 20,
+ "coder_kept": 12,
+ "patterns": [
+  {
+   "before": "Neutral",
+   "after": "Negative",
+   "rule": "Sentiment: Negative",
+   "count": 4
+  },
+  {
+   "before": "Positive",
+   "after": "Neutral",
+   "rule": "Lesson 11",
+   "count": 3
+  },
+  {
+   "before": "Negative",
+   "after": "Neutral",
+   "rule": "Sentiment: Neutral",
+   "count": 2
+  },
+  {
+   "before": "Neutral",
+   "after": "Positive",
+   "rule": "Sentiment: Positive",
+   "count": 1
+  },
+  {
+   "before": "Not about AAP/Govt",
+   "after": "Neutral",
+   "rule": "Sentiment: Neutral",
+   "count": 1
+  },
+  {
+   "before": "Neutral",
+   "after": "Positive",
+   "rule": "Lesson 1",
+   "count": 1
+  },
+  {
+   "before": "Negative",
+   "after": "Not about AAP/Govt",
+   "rule": "Lesson 17",
+   "count": 1
+  },
+  {
+   "before": "Negative",
+   "after": "Positive",
+   "rule": "Lesson 1",
+   "count": 1
+  },
+  {
+   "before": "Not about AAP/Govt",
+   "after": "Negative",
+   "rule": "Lesson 17",
+   "count": 1
+  },
+  {
+   "before": "Positive",
+   "after": "Not about AAP/Govt",
+   "rule": "new case",
+   "count": 1
+  },
+  {
+   "before": "Negative",
+   "after": "Not about AAP/Govt",
+   "rule": "new case",
+   "count": 1
+  },
+  {
+   "before": "Neutral",
+   "after": "Not about AAP/Govt",
+   "rule": "Lesson 5",
+   "count": 1
+  },
+  {
+   "before": "Negative",
+   "after": "Positive",
+   "rule": "Sentiment: Positive",
+   "count": 1
+  },
+  {
+   "before": "Neutral",
+   "after": "Negative",
+   "rule": "new case",
+   "count": 1
+  }
+ ],
+ "new_cases": [
+  {
+   "story_id": 584,
+   "reason": "Headline is only the fire, but the body says it probably started from sparking power lines and the farmer alleges fire tenders came only after repeated calls: an accident report that itself records a failure of state services is Negative; with no such failure reported it would be Not about AAP/Govt."
+  },
+  {
+   "story_id": 735,
+   "reason": "BSF's 115 Battalion alone searched the fields and found the heroin; Punjab Police only took custody of it and registered the FIR. A BSF recovery is Not about AAP/Govt unless Punjab Police took part in the operation itself (joint search, arrest or tip-off); receiving the seizure and registering the case is not a role."
+  },
+  {
+   "story_id": 759,
+   "reason": "An unidentified private tipper hit a village welcome gate and villagers fear it may fall. No government decision, failure, reply or demand to the administration is reported, so by the accident test (see 584) it has no government angle."
+  },
+  {
+   "story_id": 1018,
+   "reason": "The State Information Commission raised the penalty on the Mohali tehsil office PIO to Rs 25,000 for repeatedly not giving information and ordered recovery from salary. A penalty or stricture on a state official by a statutory watchdog (Information Commission, Lokpal, human rights or SC commission) is treated like a court rebuke: Negative."
+  }
+ ]
+}

@@ -1,0 +1,224 @@
+[
+ {
+  "story_id": 710,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Courtesy visit to a religious head; no government delivery (Lesson 11)."
+ },
+ {
+  "story_id": 725,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "AAP candidate and mayor hear industry problems and assure solutions; AAP outreach (Lesson 3)."
+ },
+ {
+  "story_id": 158,
+  "sentiment": "Negative",
+  "confidence": "low",
+  "reason": "Bridge collapse with district probe ordered is a civic failure; NHAI role makes it arguable."
+ },
+ {
+  "story_id": 159,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Factual farm-fire statistics, with a fall of 54% noted."
+ },
+ {
+  "story_id": 160,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Woman burnt alive in field-fire accident, a harm story."
+ },
+ {
+  "story_id": 161,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "State agriculture department seeks a straw management policy, an action."
+ },
+ {
+  "story_id": 163,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Court hearing on whether NIA takes over the LPU probe; procedural."
+ },
+ {
+  "story_id": 164,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Employees protest outside the CM's residence."
+ },
+ {
+  "story_id": 267,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "SAD leader attacks AAP government over drugs."
+ },
+ {
+  "story_id": 324,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "low",
+  "reason": "Headline carries the Haryana CM's own BJP message, not an attack on AAP (Lesson 17)."
+ },
+ {
+  "story_id": 325,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Strap says AAP leaders join BJP: defection."
+ },
+ {
+  "story_id": 354,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Factual parole condition, family deposits cost with the state."
+ },
+ {
+  "story_id": 177,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Congress rules out alliance with AAP in Chandigarh polls; factual political item."
+ },
+ {
+  "story_id": 178,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "AAP cites Punjab's anti-sacrilege law as a model and presses BJP in Delhi."
+ },
+ {
+  "story_id": 180,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Routine civil defence mock drills ordered by the Centre."
+ },
+ {
+  "story_id": 183,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Punjab crosses ex-situ straw target and ships straw out; delivery."
+ },
+ {
+  "story_id": 184,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Minister announces reward for topper; government recognition."
+ },
+ {
+  "story_id": 239,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Opposition demands CBI probe and PPSC chief's removal after HC stay."
+ },
+ {
+  "story_id": 240,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Congress panel formation, opposition internal (Lesson 4)."
+ },
+ {
+  "story_id": 355,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "medium",
+  "reason": "Ground report on Amritpal's village, no government angle in the headline."
+ },
+ {
+  "story_id": 32,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Finance minister promises to solve unions' problems."
+ },
+ {
+  "story_id": 203,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Youth Congress protest alleging paper irregularities at PPSC; opposition attack."
+ },
+ {
+  "story_id": 250,
+  "sentiment": "Neutral",
+  "confidence": "high",
+  "reason": "Court hearing on Majithia's foreign trip plea."
+ },
+ {
+  "story_id": 251,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Harsimrat attacks the government's anti-drug campaign."
+ },
+ {
+  "story_id": 282,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Congress MLA joins BJP; no AAP angle in the headline (Lesson 17)."
+ },
+ {
+  "story_id": 284,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "BJP leader says attacks on anti-drug activists are worrying; opposition attack."
+ },
+ {
+  "story_id": 286,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Jakhar welcomes HC stay and attacks AAP recruitment process."
+ },
+ {
+  "story_id": 344,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Parole and police security arrangements; factual."
+ },
+ {
+  "story_id": 87,
+  "sentiment": "Negative",
+  "confidence": "low",
+  "reason": "Bridge collapse with trucks falling and injuries; NHAI probe, arguable role."
+ },
+ {
+  "story_id": 90,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Vigilance Bureau catches official taking bribe (arrest, Lesson 1)."
+ },
+ {
+  "story_id": 93,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "High Court questions the government on voter ID condition; court rebuke."
+ },
+ {
+  "story_id": 217,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Congress chief calls HC stay a win against the government."
+ },
+ {
+  "story_id": 219,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Congress yatra's own event leads (Lesson 12/17)."
+ },
+ {
+  "story_id": 220,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Youth Congress protest alleging PPSC paper irregularities."
+ },
+ {
+  "story_id": 259,
+  "sentiment": "Neutral",
+  "confidence": "high",
+  "reason": "Court hearing on Majithia's plea."
+ },
+ {
+  "story_id": 301,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "AAP leaders join BJP: defection leads the headline."
+ },
+ {
+  "story_id": 349,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Parole and security arrangements; factual."
+ }
+]

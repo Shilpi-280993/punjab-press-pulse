@@ -1,0 +1,33 @@
+{
+ "validation": "Sentiment checked blind by a second model (Sonnet) on a sample of 228 stories (every low-confidence row plus 100 at random), with Claude Fable 5.2 ruling on every disagreement: the check agreed with the coding on 196 (86%, and 91 of the 100 random rows); after review 20 labels were changed, and 8 more copies of the same events were aligned with those rulings.",
+ "sources": "The monitoring deck's 355 clippings (slides 18 to 351), plus 666 stories the deck missed from every page of Dainik Savera (including its district pages), The Savera Times (including its district editions) and the District Front Page file (Punjabi Tribune, Rozana Spokesman, Punjabi Jagran and Dainik Jagran district pages); 61 repeated copies (mostly Dainik Savera district pages printed twice in its PDF) are marked as duplicates. The other papers' main editions are covered by the deck only; all 14 papers arrived. Relevant = about AAP, the Punjab government or a state matter.",
+ "takeaway": "{negative_share} of the {relevant} relevant stories were negative and {positive_share} positive. Two front-page stories drove the day: the High Court's stay on PCS recruitment over alleged irregularities (14 papers, 9 front pages) and the collapse of the Bhakra canal bridge on the Patiala bypass (14 papers, 12 front pages, 21 of 23 rows negative). The stay set off 40 opposition statements demanding a CBI probe, against which Aman Arora's 72,000 merit jobs (7 front pages) and Baltej Pannu's reply on the bridge (9 papers) were the main positives.",
+ "well": [
+  [
+   "Jobs on merit made the front pages.",
+   "Aman Arora's claim of 72,000 government jobs on merit ran on 7 front pages, all positive; 625 veterinary officers recruited (5 papers) and Cheema's meetings with patwari and education unions (7 papers) added to it."
+  ],
+  [
+   "AAP answered on the bridge.",
+   "Baltej Pannu's 'century-old bridges stand, Akali-BJP era bridges collapse' ran in 9 papers, 3 on page 1, and minister ETO's letter to Gadkari seeking a safety audit of highway bridges in 6, all positive."
+  ],
+  [
+   "Police action held up.",
+   "108 police action stories, all positive, and the AAP's 26 November Moga rally was previewed in 9 stories across 6 papers."
+  ]
+ ],
+ "improve": [
+  [
+   "The PCS stay handed the opposition its biggest day.",
+   "The High Court stay ran in 14 papers with 9 front pages, and 40 more opposition statements (Jakhar, Kewal Dhillon, Pargat, Majithia, Harsimrat, Tarun Chugh) demanded a CBI probe; opposition attacks totalled 106 (BJP 39, Congress 33, SAD 20, others 14) against 18 AAP rebuttals."
+  ],
+  [
+   "The bridge collapse dominated page 1.",
+   "The Bhakra canal bridge on the Patiala bypass fell with two trucks on it: 23 rows in 14 papers, 12 of them front pages, 21 negative."
+  ],
+  [
+   "Courts and crime kept the pressure on.",
+   "19 court and finance stories, 14 negative (the Mavan Dhiyan scheme, 1984 riot claims, attachment of a government account); 143 crime stories, 102 negative; defections of AAP leaders to the BJP in 9 rows."
+  ]
+ ]
+}

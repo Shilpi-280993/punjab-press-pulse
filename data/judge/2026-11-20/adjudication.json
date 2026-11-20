@@ -1,0 +1,220 @@
+[
+ {
+  "story_id": 15,
+  "final": "Neutral",
+  "reason": "AAP halqa in-charge's courtesy call on the Dera Beas chief with a portrait; no delivery or government action in the headline. Same event is Neutral in Dainik Savera (709, 710).",
+  "rule": "Lesson 11",
+  "theme_group": "AAP organisation & outreach",
+  "detailed_theme": "AAP outreach"
+ },
+ {
+  "story_id": 18,
+  "final": "Neutral",
+  "reason": "Headline and box report a PIL and a High Court notice asking whether government employees' wives are eligible; a notice at a hearing, no rebuke, fine or adverse order in the lead.",
+  "rule": "Sentiment: Neutral"
+ },
+ {
+  "story_id": 73,
+  "final": "Negative",
+  "reason": "This row is the main report: bridge collapses, two trucks trapped, one on fire. Pannu's counter-attack is a separate boxed item with its own headline (row 74), so Lesson 2 does not apply here. All other papers' collapse reports are Negative.",
+  "rule": "Sentiment: Negative"
+ },
+ {
+  "story_id": 161,
+  "final": "Neutral",
+  "reason": "The agriculture department has only asked the state government and CAQM for a straw storage and rate policy; CAQM asked for a draft. A request inside government, no decision or delivery yet.",
+  "rule": "Lesson 11"
+ },
+ {
+  "story_id": 167,
+  "final": "Positive",
+  "reason": "Headline leads with the PWD minister's own action: a letter to Gadkari demanding a structural safety audit of all NH bridges, pressing the Centre on a central asset. Same item is Positive in five other papers (24, 69, 85, 114, 138).",
+  "rule": "Sentiment: Positive",
+  "theme_group": "Bhakra canal bridge collapse",
+  "detailed_theme": "Bridge safety audit sought from Centre"
+ },
+ {
+  "story_id": 177,
+  "final": "Neutral",
+  "reason": "Congress's own decision to contest all 35 Chandigarh wards alone; AAP is named in the headline so it is relevant, but there is no attack on AAP or the Punjab government, only a factual poll line-up item.",
+  "rule": "Sentiment: Neutral"
+ },
+ {
+  "story_id": 259,
+  "final": "Neutral",
+  "reason": "A hearing in the Punjab Vigilance Bureau's case against Majithia (Vigilance was due to file its reply; adjourned to 21 Nov). A state agency's case is relevant, and a hearing date is Neutral. Five other papers' copies are Neutral.",
+  "rule": "Sentiment: Neutral",
+  "theme_group": "Governance, Assembly & politics",
+  "detailed_theme": "Anti-corruption"
+ },
+ {
+  "story_id": 343,
+  "final": "Negative",
+  "reason": "Headline announces a dharna on 22 Nov outside the DSP Nakodar office; the body says police have not arrested the accused in an SC/ST Act case for over a month and act under political pressure. A protest against the police is a protest against the government. Matches Dainik Savera 722.",
+  "rule": "Sentiment: Negative",
+  "theme_group": "Crime & law and order",
+  "detailed_theme": "Law & order / crime"
+ },
+ {
+  "story_id": 355,
+  "final": "Neutral",
+  "reason": "Ground report on Amritpal's parole visit, which Punjab Police is escorting; part of the Amritpal parole event that is Neutral in every other paper, and the headline puts no blame on the government.",
+  "rule": "Sentiment: Neutral"
+ },
+ {
+  "story_id": 382,
+  "final": "Positive",
+  "reason": "Headline leads with a recovery: mobile phone, charger and other items found on a Central Jail convict during checking at a private hospital, and a case registered. Recovery plus case is Lesson 1; Lesson 14 does not apply because the item was found on a prisoner, not on the state's own staff. Matches The Savera Times 729.",
+  "rule": "Lesson 1",
+  "theme_group": "Police action on gangs, arms & drugs",
+  "detailed_theme": "Police action vs crime"
+ },
+ {
+  "story_id": 416,
+  "final": "Positive",
+  "reason": "The printed headline quotes Barnala's Chief Agriculture Officer Dr Sukhpal Singh Gill, a state official, on subsidised stubble machines benefiting farmers; the central official's inspection is only the overline. The state department has the lead role, so Lesson 5 does not apply. Matches Rozana Spokesman 884.",
+  "rule": "Sentiment: Positive"
+ },
+ {
+  "story_id": 481,
+  "final": "Neutral",
+  "reason": "Villagers alleged a scam in a Rs 25 lakh village playground and removed the CM's board; the MLA inspected and warned the contractor and staff. A warning after complaints of irregularities is not delivery, and the headline is not an attack either.",
+  "rule": "Lesson 11"
+ },
+ {
+  "story_id": 584,
+  "final": "Negative",
+  "reason": "Headline is only the fire, but the body says it probably started from sparking power lines and the farmer alleges fire tenders came only after repeated calls: an accident report that itself records a failure of state services is Negative; with no such failure reported it would be Not about AAP/Govt.",
+  "rule": "new case"
+ },
+ {
+  "story_id": 651,
+  "final": "Neutral",
+  "reason": "Headline states the union's own action (BKU Ugrahan stopping the attachment of a labourer's and a farmer's house and land over debts); the warning to the government and the debt-waiver demand to Centre and state are in the body, not the lead.",
+  "rule": "Lesson 6"
+ },
+ {
+  "story_id": 708,
+  "final": "Not about AAP/Govt",
+  "reason": "Overline is BJP trade cell leaders meeting Haryana CM Saini and the headline is BJP's own double-engine pitch; the remarks on Punjab's law and order and drugs are only in the body. Matches Ajit 276.",
+  "rule": "Lesson 17",
+  "theme_group": "",
+  "detailed_theme": "Opposition internal"
+ },
+ {
+  "story_id": 728,
+  "final": "Positive",
+  "reason": "A one-paragraph brief whose first words are that police have arrested the woman, with three teams formed and evidence recovered; the item reports a solved murder with an arrest, and no grievance against the police is voiced. Same case is Positive in Punjabi Tribune 800, Punjabi Jagran 962 and Dainik Jagran 1014.",
+  "rule": "Lesson 1",
+  "theme_group": "Police action on gangs, arms & drugs",
+  "detailed_theme": "Police action vs crime"
+ },
+ {
+  "story_id": 730,
+  "final": "Negative",
+  "reason": "The headline is Saini's verdict that Punjab lacks strong, visionary leadership, which is a comment on the present government and not a BJP event or slogan; the item then says he targeted the AAP government over hollow promises and debt rising to Rs 4.47 lakh crore. No joining event is in the headline. Matches Dainik Savera 315.",
+  "rule": "Lesson 17",
+  "theme_group": "Opposition attacks on the govt",
+  "detailed_theme": "Opposition attack: BJP"
+ },
+ {
+  "story_id": 735,
+  "final": "Not about AAP/Govt",
+  "reason": "BSF's 115 Battalion alone searched the fields and found the heroin; Punjab Police only took custody of it and registered the FIR. A BSF recovery is Not about AAP/Govt unless Punjab Police took part in the operation itself (joint search, arrest or tip-off); receiving the seizure and registering the case is not a role.",
+  "rule": "new case",
+  "theme_group": "",
+  "detailed_theme": "Others"
+ },
+ {
+  "story_id": 752,
+  "final": "Neutral",
+  "reason": "Ahmedgarh municipal council president and vice-president fill the online self-enumeration to encourage residents. Local bodies and district administrations are running the census drive, so there is a Punjab administration role and Lesson 5 does not apply; a routine awareness item. All other census rows on 19 and 20 Nov are Neutral.",
+  "rule": "Lesson 11"
+ },
+ {
+  "story_id": 754,
+  "final": "Negative",
+  "reason": "Headline leads with repeated unauthorised felling of mature trees in parks and colonies; the activist says the administration has not acted and has complained to the MC Commissioner, DC and Chief Secretary. The detention of three woodcutters comes second. Matches Dainik Savera 707.",
+  "rule": "Sentiment: Negative"
+ },
+ {
+  "story_id": 759,
+  "final": "Not about AAP/Govt",
+  "reason": "An unidentified private tipper hit a village welcome gate and villagers fear it may fall. No government decision, failure, reply or demand to the administration is reported, so by the accident test (see 584) it has no government angle.",
+  "rule": "new case",
+  "theme_group": "",
+  "detailed_theme": "Others"
+ },
+ {
+  "story_id": 768,
+  "final": "Positive",
+  "reason": "Seechewal is AAP's Rajya Sabha member; he hands 13 water tankers to Kapurthala panchayats with the Deputy Commissioner present. Delivery by an AAP MP is relevant even though the money is MPLADS, so Lesson 5 does not apply.",
+  "rule": "Sentiment: Positive"
+ },
+ {
+  "story_id": 889,
+  "final": "Neutral",
+  "reason": "Routine DC meeting reviewing departmental projects and schemes with directions to speed up; a review, not delivery. Same kind of item is Neutral in rows 799, 856 and 966.",
+  "rule": "Lesson 11"
+ },
+ {
+  "story_id": 901,
+  "final": "Negative",
+  "reason": "The printed headline is the protest: 'After allegations of rule violations, protest by Mansa's netball players', with a sub-head on serious charges against officials and coaches at the state's Khedan Watan Punjab Diyan games. The players' return after the administration acted is only the strap. The row's English headline was taken from the strap and should be corrected.",
+  "rule": "Sentiment: Negative",
+  "theme_group": "Hockey & sports",
+  "detailed_theme": "Khedan Watan Punjab Diyan"
+ },
+ {
+  "story_id": 959,
+  "final": "Not about AAP/Govt",
+  "reason": "A Railways engineering team starts the survey for the Nangal underpass after Railway Ministry approval, announced and credited by BJP vice-president Dr Subhash Sharma. A central project with no Punjab government action; the state is mentioned only as a future party to talks.",
+  "rule": "Lesson 5",
+  "theme_group": "",
+  "detailed_theme": "Others"
+ },
+ {
+  "story_id": 965,
+  "final": "Neutral",
+  "reason": "Mid-day meal cooks hand a demand letter to the Education Minister and get an assurance on pay; a promise, with no decision or order yet.",
+  "rule": "Lesson 11"
+ },
+ {
+  "story_id": 1005,
+  "final": "Negative",
+  "reason": "Headline is a former AAP MLA explaining his move to the BJP and calling his AAP years mere training; a defection from AAP is Negative, and the body adds his attack on gangsterism and law and order. Lesson 17 does not fit because the headline is about leaving AAP, not a BJP event. Matches Punjabi Jagran 293 and Dainik Savera 577.",
+  "rule": "Sentiment: Negative"
+ },
+ {
+  "story_id": 1007,
+  "final": "Positive",
+  "reason": "The Ranjit Sagar Dam project administration, a Punjab government body and not BBMB, rounded up stray cattle from Shahpurkandi township roads and shut them in the project's cattle pound on the chief engineer's orders. Government action on a civic nuisance is the headline's lead. 'Thana' here is the cattle pound, not a police station; correct the English headline.",
+  "rule": "Sentiment: Positive",
+  "theme_group": "Civic services & infrastructure",
+  "detailed_theme": "Civic issues"
+ },
+ {
+  "story_id": 1018,
+  "final": "Negative",
+  "reason": "The State Information Commission raised the penalty on the Mohali tehsil office PIO to Rs 25,000 for repeatedly not giving information and ordered recovery from salary. A penalty or stricture on a state official by a statutory watchdog (Information Commission, Lokpal, human rights or SC commission) is treated like a court rebuke: Negative.",
+  "rule": "new case"
+ },
+ {
+  "story_id": 1022,
+  "final": "Neutral",
+  "reason": "Routine filing of nomination papers by AAP's seven Dharamkot candidates; no delivery. Same event is Neutral in Punjabi Tribune 814 and Punjabi Jagran 912.",
+  "rule": "Lesson 11"
+ },
+ {
+  "story_id": 1035,
+  "final": "Negative",
+  "reason": "Headline calls the new dengue-challan condition on the TS-1 certificate a hitch, and the body says corporation officials' arbitrary working is burdening the public, with rules applied without process: a civic failure.",
+  "rule": "Sentiment: Negative"
+ },
+ {
+  "story_id": 1068,
+  "final": "Neutral",
+  "reason": "ADC previews an upcoming River Festival while checking preparations; an announcement of a future event, no delivery yet.",
+  "rule": "Lesson 11"
+ }
+]

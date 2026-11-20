@@ -1,0 +1,242 @@
+[
+ {
+  "story_id": 7,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "medium",
+  "reason": "ITI topper honoured by PM; no state government role in lead."
+ },
+ {
+  "story_id": 10,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "AAP minister honouring office bearers is AAP organisation work (Lesson 3 type)."
+ },
+ {
+  "story_id": 11,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Sanitation workers strike and protest against corporation over unmet demands."
+ },
+ {
+  "story_id": 15,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "AAP in-charge's courtesy meeting with Dera chief; no delivery or tilt (Lesson 11)."
+ },
+ {
+  "story_id": 18,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Court notice on a PIL about scheme eligibility; a hearing step, not a rebuke."
+ },
+ {
+  "story_id": 19,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "High Court sets aside govt decision and asks it to treat 1984 victims sympathetically."
+ },
+ {
+  "story_id": 23,
+  "sentiment": "Positive",
+  "confidence": "low",
+  "reason": "Photo of CM's Lok Milni outreach at Shahkot with warm welcome."
+ },
+ {
+  "story_id": 245,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "SGPC and SAD internal meeting (Opposition internal)."
+ },
+ {
+  "story_id": 247,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Harsimrat Badal's own SAD event; headline carries no attack on govt (Lesson 17)."
+ },
+ {
+  "story_id": 343,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Farmers' dharna over police failing to arrest accused; protest against police."
+ },
+ {
+  "story_id": 117,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Court orders attachment of Punjab govt account over unpaid compensation."
+ },
+ {
+  "story_id": 119,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "High Court stays PCS mains result and recruitment; govt and PPSC asked to reply."
+ },
+ {
+  "story_id": 120,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "medium",
+  "reason": "Border fencing is a central/BSF project with no Punjab govt role in headline (Lesson 5)."
+ },
+ {
+  "story_id": 126,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Stubble burning causes crash and woman's death despite ban."
+ },
+ {
+  "story_id": 127,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Punjab Vigilance arrests official taking bribe; arrest in the lead."
+ },
+ {
+  "story_id": 128,
+  "sentiment": "Neutral",
+  "confidence": "low",
+  "reason": "Case solved but no arrest, police only writing to army (Lesson 15)."
+ },
+ {
+  "story_id": 227,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Congress protest at PPSC office alleging rigging; opposition attack on govt body."
+ },
+ {
+  "story_id": 310,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Minister Aman Arora rebuts opposition claims on PCS exam."
+ },
+ {
+  "story_id": 311,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Congress MLA joining BJP is Opposition internal."
+ },
+ {
+  "story_id": 312,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "AAP leaders defecting to BJP."
+ },
+ {
+  "story_id": 97,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Canal bridge collapse, civic infrastructure failure."
+ },
+ {
+  "story_id": 112,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Investigators' finding on TTH and handlers in police killing; no tilt."
+ },
+ {
+  "story_id": 114,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "PWD minister acts by seeking safety audit of bridges from Gadkari."
+ },
+ {
+  "story_id": 221,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Opposition welcomes stay on PCS recruitment and demands probe."
+ },
+ {
+  "story_id": 308,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "AAP leaders joining BJP (defections)."
+ },
+ {
+  "story_id": 1003,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Govt school pre-primary children without uniforms; service failure."
+ },
+ {
+  "story_id": 1005,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "low",
+  "reason": "BJP leader's own account of his political journey (Lesson 17)."
+ },
+ {
+  "story_id": 1007,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "medium",
+  "reason": "Bhakra project (BBMB) colony stray animals; no state govt role."
+ },
+ {
+  "story_id": 1013,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Routine civil defence mock drill notice."
+ },
+ {
+  "story_id": 1018,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Information Commission raises fine on PIO; official's failure."
+ },
+ {
+  "story_id": 1022,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Routine nomination filing by AAP candidates; no delivery."
+ },
+ {
+  "story_id": 1033,
+  "sentiment": "Positive",
+  "confidence": "low",
+  "reason": "SDM assures priority for pensioners' work; administrative delivery."
+ },
+ {
+  "story_id": 1035,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Corporation adds dengue challan to TS-1 certificate; civic burden."
+ },
+ {
+  "story_id": 1045,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Fraud case registered on complaint, no arrest (Lesson 16)."
+ },
+ {
+  "story_id": 1054,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Death after attack and family dharna outside police station."
+ },
+ {
+  "story_id": 1056,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Arrest with pistol (Lesson 1)."
+ },
+ {
+  "story_id": 1063,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "Mobile recovered from prisoner by jail staff (recovery)."
+ },
+ {
+  "story_id": 1068,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "Administration promoting River Festival event."
+ },
+ {
+  "story_id": 1070,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "STP capacity delivery giving relief to 3.60 lakh people."
+ },
+ {
+  "story_id": 1073,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Routine posting of officers at DC office."
+ }
+]

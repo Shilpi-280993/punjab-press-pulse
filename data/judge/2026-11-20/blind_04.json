@@ -1,0 +1,206 @@
+[
+ {
+  "story_id": 58,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Court stay on PCS recruitment is a court rebuke of the government's process."
+ },
+ {
+  "story_id": 67,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "High Court directs government to reconsider Sikh riot victims' claims, quashing its rejection as arbitrary."
+ },
+ {
+  "story_id": 68,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "Finance minister Cheema assures unions early resolution: government delivery/outreach in the lead."
+ },
+ {
+  "story_id": 210,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Congress leader flags bridge collapse and demands repairs: civic failure."
+ },
+ {
+  "story_id": 293,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Ex-AAP leader now in BJP says AAP ruined Punjab: attack on the government leads."
+ },
+ {
+  "story_id": 901,
+  "sentiment": "Positive",
+  "confidence": "low",
+  "reason": "Players return to the field after administration acted on rule violations; resolution by authorities."
+ },
+ {
+  "story_id": 904,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Opposition leader targets minister Aman Arora: attack on the government."
+ },
+ {
+  "story_id": 915,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Drug department raids on three medical stores: Lesson 1 raid."
+ },
+ {
+  "story_id": 917,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Dilapidated bridge is a civic failure."
+ },
+ {
+  "story_id": 920,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "Nine caught and NDPS cases registered: arrests in the lead (Lesson 1)."
+ },
+ {
+  "story_id": 922,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Murder report: crime and law and order."
+ },
+ {
+  "story_id": 924,
+  "sentiment": "Neutral",
+  "confidence": "low",
+  "reason": "Municipal transfers taken up for discussion again: routine, no tilt."
+ },
+ {
+  "story_id": 943,
+  "sentiment": "Negative",
+  "confidence": "low",
+  "reason": "Crop damage and falling rates hurting farmers; farm distress with no government delivery."
+ },
+ {
+  "story_id": 953,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Union decides to launch struggle over stalled funds: protest against government."
+ },
+ {
+  "story_id": 959,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "medium",
+  "reason": "Railway team survey for a railway underpass: central agency project (Lesson 5)."
+ },
+ {
+  "story_id": 965,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "Assurance of pay rise for mid-day meal cooks: government assurance/delivery."
+ },
+ {
+  "story_id": 966,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Departmental review meeting of pending cases: routine, no tilt."
+ },
+ {
+  "story_id": 967,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Bribe demand for a birth certificate: corruption/service failure."
+ },
+ {
+  "story_id": 974,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "BJYM protest against alleged irregularities: opposition attack."
+ },
+ {
+  "story_id": 984,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Three held for thefts: arrests (Lesson 1)."
+ },
+ {
+  "story_id": 987,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Pendency and staff shortage slowing work: shortage."
+ },
+ {
+  "story_id": 997,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Arrest with illicit liquor: Lesson 1."
+ },
+ {
+  "story_id": 36,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Court stay on PCS results is a court rebuke."
+ },
+ {
+  "story_id": 288,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "BJP chief says recruitment scam exposed: opposition attack."
+ },
+ {
+  "story_id": 289,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "BJP's Jakhar attacks AAP over PCS recruitment: opposition attack."
+ },
+ {
+  "story_id": 801,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Minister Bains promotes Punjab Da Crorepati competition: government launch."
+ },
+ {
+  "story_id": 802,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Illegal mining probe sought: demand/attack on government over mining."
+ },
+ {
+  "story_id": 805,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Two die in mysterious circumstances: crime report (Lesson 16)."
+ },
+ {
+  "story_id": 808,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Arrest of accused demanded in Sandhpura case: crime and protest."
+ },
+ {
+  "story_id": 810,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Medical practitioners' body warns DCs with struggle announcement: protest."
+ },
+ {
+  "story_id": 817,
+  "sentiment": "Negative",
+  "confidence": "low",
+  "reason": "Paddy straw dump fire troubling residents: civic matter (Lesson 19 reasoning)."
+ },
+ {
+  "story_id": 822,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Kaka Jandsar questions the government's sampling 'drama' on Harp Chemicals: criticism."
+ },
+ {
+  "story_id": 825,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Election officer checks voting machines: Election Commission routine."
+ },
+ {
+  "story_id": 826,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Singla calls HC stay on PCS recruitment a government failure: opposition attack."
+ }
+]

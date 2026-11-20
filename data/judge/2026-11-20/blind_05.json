@@ -1,0 +1,296 @@
+[
+ {
+  "story_id": 73,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "Lead is bridge collapse but the clipping carries AAP's Pannu hitting Akali-BJP rule (Lesson 2)."
+ },
+ {
+  "story_id": 82,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "Finance Minister meets unions and promises quick resolution of pay issues."
+ },
+ {
+  "story_id": 836,
+  "sentiment": "Neutral",
+  "confidence": "high",
+  "reason": "Election Commission voter-list hearing camps, routine."
+ },
+ {
+  "story_id": 842,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "AAP halqa in-charge mobilising volunteers for party rally (Lesson 3)."
+ },
+ {
+  "story_id": 849,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Medical practitioners send warning letter to government via DC."
+ },
+ {
+  "story_id": 851,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "AAP MLA hears employees and assures a solution."
+ },
+ {
+  "story_id": 877,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Villagers protest, anger at government over mobile network."
+ },
+ {
+  "story_id": 882,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Farmer leader demands government announce cane rate."
+ },
+ {
+  "story_id": 889,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Routine DC departmental review (Lesson 11)."
+ },
+ {
+  "story_id": 195,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Congress leader Singla attacks AAP government over PPSC stay."
+ },
+ {
+  "story_id": 241,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "PPCC chief accuses police and state government of acting for AAP."
+ },
+ {
+  "story_id": 242,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Congress yatra is the opposition's own event (Lessons 4, 12)."
+ },
+ {
+  "story_id": 243,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Congress poll committee is opposition internal (Lesson 17)."
+ },
+ {
+  "story_id": 728,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "Police arrest woman in child murder case (Lesson 1)."
+ },
+ {
+  "story_id": 729,
+  "sentiment": "Positive",
+  "confidence": "low",
+  "reason": "Phone recovered by jail staff; recovery in lead (Lesson 1)."
+ },
+ {
+  "story_id": 730,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "BJP joining event with AAP defectors; Saini attacks AAP govt debt in body."
+ },
+ {
+  "story_id": 734,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "Editorial credits Punjab's stubble-burning effort with results."
+ },
+ {
+  "story_id": 735,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "low",
+  "reason": "BSF seizure; Punjab Police only receive it (Lesson 5)."
+ },
+ {
+  "story_id": 737,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Routine surprise police station check."
+ },
+ {
+  "story_id": 740,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "Government school face-attendance initiative, Mission Raftaar."
+ },
+ {
+  "story_id": 741,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Road safety and enforcement failure with passengers on bus roof."
+ },
+ {
+  "story_id": 746,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Central official reviews stubble machinery; routine review."
+ },
+ {
+  "story_id": 747,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Red Cross secretary post vacant 19 months, administrative lapse."
+ },
+ {
+  "story_id": 750,
+  "sentiment": "Neutral",
+  "confidence": "high",
+  "reason": "SVEEP voter awareness, Election Commission item."
+ },
+ {
+  "story_id": 751,
+  "sentiment": "Positive",
+  "confidence": "low",
+  "reason": "AAP MP recommends Rs 2 crore grants."
+ },
+ {
+  "story_id": 752,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "medium",
+  "reason": "Census self-enumeration is a central exercise (Lesson 5)."
+ },
+ {
+  "story_id": 754,
+  "sentiment": "Negative",
+  "confidence": "low",
+  "reason": "Tree-felling incidents, civic complaint to administration."
+ },
+ {
+  "story_id": 757,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Civil defence blackout drill under central directive, routine."
+ },
+ {
+  "story_id": 759,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "medium",
+  "reason": "Private tipper accident damaging a village gate, no govt role (Lesson 10)."
+ },
+ {
+  "story_id": 761,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Routine SSP night security drive."
+ },
+ {
+  "story_id": 762,
+  "sentiment": "Neutral",
+  "confidence": "low",
+  "reason": "Admin preparations for religious procession, routine."
+ },
+ {
+  "story_id": 765,
+  "sentiment": "Neutral",
+  "confidence": "high",
+  "reason": "SVEEP competitions, Election Commission item."
+ },
+ {
+  "story_id": 766,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Routine admin arrangements for Prakash Purb."
+ },
+ {
+  "story_id": 768,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "medium",
+  "reason": "MP's MPLADS tankers, no state government role."
+ },
+ {
+  "story_id": 772,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Police arrest proclaimed offender (Lesson 1)."
+ },
+ {
+  "story_id": 773,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Shopkeepers still awaiting ownership under delayed scheme."
+ },
+ {
+  "story_id": 774,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Mysterious death with police detaining two for questioning, crime report (Lesson 16)."
+ },
+ {
+  "story_id": 779,
+  "sentiment": "Negative",
+  "confidence": "low",
+  "reason": "Government approvals RERA and GLADA questioned over land."
+ },
+ {
+  "story_id": 784,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "Two arrested in robbery bid shooting (Lesson 1)."
+ },
+ {
+  "story_id": 786,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "FIR on complaint for violent dispute, crime report (Lesson 16)."
+ },
+ {
+  "story_id": 788,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Minister Sond gives ownership cards to 205 families under scheme."
+ },
+ {
+  "story_id": 789,
+  "sentiment": "Neutral",
+  "confidence": "low",
+  "reason": "Sports championship opening, no clear tilt."
+ },
+ {
+  "story_id": 790,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Routine late-night police checkpoint inspection."
+ },
+ {
+  "story_id": 791,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "DC inspects collapsed central highway bridge; routine response."
+ },
+ {
+  "story_id": 792,
+  "sentiment": "Neutral",
+  "confidence": "high",
+  "reason": "Voter awareness competitions, Election Commission item."
+ },
+ {
+  "story_id": 793,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Routine civil defence mock drill notice."
+ },
+ {
+  "story_id": 797,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Routine admin review of event arrangements."
+ },
+ {
+  "story_id": 798,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Routine police night vigil."
+ },
+ {
+  "story_id": 799,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Routine DC first review meeting (Lesson 11)."
+ }
+]

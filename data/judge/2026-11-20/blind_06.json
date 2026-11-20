@@ -1,0 +1,110 @@
+[
+ {
+  "story_id": 150,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Election-seat preview of the Lambi contest; no clear tilt for govt."
+ },
+ {
+  "story_id": 155,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "High Court asks the Punjab Government to relook its approach: a court rebuke."
+ },
+ {
+  "story_id": 156,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Headline leads with lapses in procurement and officials noticed; CBI probe demanded."
+ },
+ {
+  "story_id": 231,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Headline itself says Congress targets govt."
+ },
+ {
+  "story_id": 232,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Congress defection to BJP; Opposition internal."
+ },
+ {
+  "story_id": 233,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Congress organisational appointments; Opposition internal."
+ },
+ {
+  "story_id": 321,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "AAP leaders joining BJP is a defection from AAP in the headline."
+ },
+ {
+  "story_id": 322,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Congress exit to BJP; Opposition internal."
+ },
+ {
+  "story_id": 166,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Bridge collapse on a Patiala-Sangrur road is a civic failure, headline lead."
+ },
+ {
+  "story_id": 167,
+  "sentiment": "Positive",
+  "confidence": "low",
+  "reason": "Punjab minister acts by writing to Centre for a safety audit of bridges; government action in lead."
+ },
+ {
+  "story_id": 168,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Teaser on the bridge collapse; civic failure."
+ },
+ {
+  "story_id": 170,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "medium",
+  "reason": "Routine notice of a PHDCCI trade expo, private body event (Lesson 5/11)."
+ },
+ {
+  "story_id": 171,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "CAQM notices to DCs and SSPs over farm fires; non-compliance by state officials."
+ },
+ {
+  "story_id": 172,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "AAP foundation day rally announcement with CM and Kejriwal; outreach (Lesson 3)."
+ },
+ {
+  "story_id": 235,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Headline: opposition turns heat on AAP govt over PCS row."
+ },
+ {
+  "story_id": 236,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Printed lead carries 'Mann Govt failed to fulfil promises: Pilot'; Cong attack on govt."
+ },
+ {
+  "story_id": 328,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Headline: opposition turns heat on AAP govt over PCS row."
+ },
+ {
+  "story_id": 329,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "low",
+  "reason": "MP's MPLAD consultation is a central-fund item at his private complex; no Punjab govt role."
+ }
+]

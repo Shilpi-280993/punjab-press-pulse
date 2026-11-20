@@ -89,6 +89,15 @@ From the sentiment judge, 19 Nov 2026:
 17. Lesson 12 is decided by the printed headline. When the headline carries only the opposition's own event or slogan (a BJP leader flagging off a yatra, a Congress leader's cycle rally, a SAD women's event) and the attack on AAP is only in the strap or body, the row is `Not about AAP/Govt` (`Opposition internal`); it is Negative only when the attack is the headline's lead. Seen 3 times, both ways.
 18. New case: a religious body's no-show at talks with the government (the Akal Takht expert committee skipping the meeting on the Satkar Act) is Neutral when the headline only reports the absence or the government's renewed invitation; it is Negative only when the headline leads with a standoff, hurdle or rejection of the law. Code every paper's copy by this test.
 19. New case: stray or rabid dog attacks (dogs from a carcass dump killing a sleeping labourer, a rabid dog biting field workers) are a civic matter the administration owns: relevant and Negative, `Civic services & infrastructure`, `Civic issues`, even when no blame is quoted.
+From the sentiment judge, 20 Nov 2026:
+
+21. Lesson 11 also covers routine administration: a courtesy call, a DC's or ADC's routine review meeting or inspection with directions to speed up, candidates filing nomination papers, and an MLA's warning or assurance about future work are Neutral, not Positive. Seen 7 times (3 coder Positives changed to Neutral, 4 blind-check Positives rejected).
+22. An item that leads with a grievance about a state body's inaction or a new burden it imposes is Negative even when no opposition party speaks: a dharna called because police have not arrested an accused, residents saying the administration ignores repeated tree felling, a civic certificate tied to a new challan condition. Seen 4 times (Neutral changed to Negative).
+23. Lesson 5 does not apply when a state official, a local body or an AAP MP leads the item, even if the scheme or money is central (crop residue machine subsidy, Census, MPLADS works): the row stays relevant. Seen 3 times.
+24. New case: an accident or fire with no government angle in the headline is Negative only when the item itself records a failure of a state service (sparking power lines, fire tenders arriving late after repeated calls); otherwise it is `Not about AAP/Govt` (a private tipper hitting a village gate).
+25. New case: a BSF recovery is `Not about AAP/Govt` unless Punjab Police took part in the operation itself (a joint search, an arrest or a tip-off); taking custody of the seizure and registering the FIR is not a role.
+26. New case: a penalty or stricture on a state official by a statutory watchdog (State Information Commission, Lokpal, human rights or SC commission) is treated like a court rebuke: Negative.
+
 From the merge, 19 Nov 2026:
 
 20. Dainik Savera's PDF can print the same district page twice (19 Nov: Bathinda 1 to Malwa 6 and Moga 4 to Moga 8 each appeared on two PDF pages). Rows from the second copy of a page are `Duplicate`, as for repeated deck clippings.

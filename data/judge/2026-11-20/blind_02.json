@@ -1,0 +1,302 @@
+[
+ {
+  "story_id": 230,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "medium",
+  "reason": "Headline carries only Channi's own yatra; attack on AAP is in the strap (Lesson 17)."
+ },
+ {
+  "story_id": 313,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Leaders of AAP, SAD and Congress join BJP: defections from AAP."
+ },
+ {
+  "story_id": 367,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Alleged shamlat land encroachment and demand for vigilance probe against municipal council: civic/governance failure."
+ },
+ {
+  "story_id": 376,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "BSP leaders question Punjab govt and police over attack: opposition criticism."
+ },
+ {
+  "story_id": 382,
+  "sentiment": "Positive",
+  "confidence": "low",
+  "reason": "Phone and items recovered from jail accused, case registered (Lesson 1 recovery)."
+ },
+ {
+  "story_id": 385,
+  "sentiment": "Neutral",
+  "confidence": "low",
+  "reason": "General ticket-seeking politics ahead of 2027, no clear tilt."
+ },
+ {
+  "story_id": 386,
+  "sentiment": "Neutral",
+  "confidence": "low",
+  "reason": "Routine census self-enumeration drive in schools by education officials."
+ },
+ {
+  "story_id": 390,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Road safety rules flouted, administration criticised: civic failure."
+ },
+ {
+  "story_id": 393,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Administration's door-to-door drive under Yudh Nashian Virudh: govt delivery."
+ },
+ {
+  "story_id": 397,
+  "sentiment": "Neutral",
+  "confidence": "high",
+  "reason": "Election Commission SVEEP awareness contest, routine."
+ },
+ {
+  "story_id": 398,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Arrest of two armed criminals (Lesson 1)."
+ },
+ {
+  "story_id": 404,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Firing at dairy by soldiers, crime report with no arrest."
+ },
+ {
+  "story_id": 409,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Union postpones dharna over mandi charges, factual."
+ },
+ {
+  "story_id": 414,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "AAP MP announces grant for institutions: delivery in the lead."
+ },
+ {
+  "story_id": 416,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "low",
+  "reason": "Central scheme subsidy and central agriculture official's inspection, no Punjab govt role (Lesson 5)."
+ },
+ {
+  "story_id": 417,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Routine census awareness van."
+ },
+ {
+  "story_id": 422,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Municipal head does census self-enumeration to raise awareness, routine."
+ },
+ {
+  "story_id": 426,
+  "sentiment": "Neutral",
+  "confidence": "high",
+  "reason": "First level EVM/VVPAT checking, Election Commission routine."
+ },
+ {
+  "story_id": 433,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Alleged shamlat land encroachment and demand for vigilance probe against municipal council."
+ },
+ {
+  "story_id": 435,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "SAD leader says law and order collapsing: opposition attack."
+ },
+ {
+  "story_id": 441,
+  "sentiment": "Neutral",
+  "confidence": "high",
+  "reason": "Routine officer takes charge."
+ },
+ {
+  "story_id": 442,
+  "sentiment": "Negative",
+  "confidence": "low",
+  "reason": "Lawyers' strike pressing a demand on the government."
+ },
+ {
+  "story_id": 444,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Alleged shamlat land encroachment and demand for vigilance probe against municipal council."
+ },
+ {
+  "story_id": 450,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Municipal commissioner urges census self-enumeration, routine."
+ },
+ {
+  "story_id": 466,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Arrest in assault case but headline ends with release on bail, no clear tilt."
+ },
+ {
+  "story_id": 481,
+  "sentiment": "Positive",
+  "confidence": "low",
+  "reason": "AAP MLA warns against laxity in playground works, action on irregularities."
+ },
+ {
+  "story_id": 496,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Murder over land partition (crime report)."
+ },
+ {
+  "story_id": 500,
+  "sentiment": "Neutral",
+  "confidence": "high",
+  "reason": "Routine power shutdown notice."
+ },
+ {
+  "story_id": 544,
+  "sentiment": "Neutral",
+  "confidence": "high",
+  "reason": "Election Commission voter awareness contest, routine."
+ },
+ {
+  "story_id": 577,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Ex-AAP leader joins BJP and slams govt on law and order: defection and attack."
+ },
+ {
+  "story_id": 584,
+  "sentiment": "Neutral",
+  "confidence": "low",
+  "reason": "Stubble dump fire, no clear government angle."
+ },
+ {
+  "story_id": 591,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Private group head courtesy call on new DC, incidental (Lesson 11)."
+ },
+ {
+  "story_id": 600,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Congress leader says every section unhappy with govt: opposition attack."
+ },
+ {
+  "story_id": 601,
+  "sentiment": "Neutral",
+  "confidence": "high",
+  "reason": "Election office quiz and essay contest, routine."
+ },
+ {
+  "story_id": 607,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Employees' federation group joins Sangrur protest march against the government."
+ },
+ {
+  "story_id": 611,
+  "sentiment": "Neutral",
+  "confidence": "high",
+  "reason": "Routine civil defence mock drill notice."
+ },
+ {
+  "story_id": 612,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "Govt pensioners' service fair with e-KYC at treasuries: service delivery."
+ },
+ {
+  "story_id": 618,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Announcement of state rowing championship, no tilt."
+ },
+ {
+  "story_id": 620,
+  "sentiment": "Neutral",
+  "confidence": "high",
+  "reason": "Routine civil defence mock drill notice."
+ },
+ {
+  "story_id": 621,
+  "sentiment": "Neutral",
+  "confidence": "high",
+  "reason": "Routine police station charge-taking."
+ },
+ {
+  "story_id": 630,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "CCTV shows bike looted before dairy firing: crime report, no arrest."
+ },
+ {
+  "story_id": 635,
+  "sentiment": "Neutral",
+  "confidence": "high",
+  "reason": "Election Commission SVEEP awareness drive, routine."
+ },
+ {
+  "story_id": 651,
+  "sentiment": "Negative",
+  "confidence": "low",
+  "reason": "Union stops auction of labourers' land and houses, protest stance against authorities."
+ },
+ {
+  "story_id": 654,
+  "sentiment": "Neutral",
+  "confidence": "high",
+  "reason": "Civil Surgeon's routine meeting on antibiotic use."
+ },
+ {
+  "story_id": 655,
+  "sentiment": "Neutral",
+  "confidence": "high",
+  "reason": "Election Commission voter list revision camps, routine."
+ },
+ {
+  "story_id": 664,
+  "sentiment": "Neutral",
+  "confidence": "high",
+  "reason": "Administration registering young voters, Election Commission routine."
+ },
+ {
+  "story_id": 679,
+  "sentiment": "Negative",
+  "confidence": "low",
+  "reason": "Election posters spoiling city walls, residents upset: civic issue."
+ },
+ {
+  "story_id": 701,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Routine Newborn Care Week observed at CHC."
+ },
+ {
+  "story_id": 708,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "medium",
+  "reason": "BJP trade cell leader's own pitch for double-engine govt (Lessons 12, 17)."
+ },
+ {
+  "story_id": 709,
+  "sentiment": "Neutral",
+  "confidence": "low",
+  "reason": "Mayor's personal courtesy visit to religious head, no government delivery."
+ }
+]
