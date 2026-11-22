@@ -1,0 +1,33 @@
+{
+ "validation": "Sentiment checked blind by a second model (Sonnet) on a sample of 213 stories (every low-confidence row plus 100 at random), with Claude Fable 5.2 ruling on every disagreement: the check agreed with the coding on 168 (79%, and 85 of the 100 random rows); after review 18 labels were changed, and 10 more copies of the same events were aligned with those rulings.",
+ "sources": "The monitoring deck's 251 clippings (slides 18 to 265), plus 288 stories the deck missed from every page of the attached editions: The Savera Times (including its district editions), the District Front Page file (Punjabi Tribune, Rozana Spokesman, Punjabi Jagran and Dainik Jagran district pages), and, as a one-day test, the main editions of Ajit, Jagbani, Punjabi Tribune, Punjabi Jagran, Rozana Spokesman, Punjab Kesari, Dainik Jagran, Dainik Bhaskar, The Tribune, Indian Express and Times of India; 54 repeated copies (mostly The Savera Times' shared district pages) are marked as duplicates. Dainik Savera and Hindustan Times editions were not available, so they are covered by the deck only. Relevant = about AAP, the Punjab government or a state matter.",
+ "takeaway": "{negative_share} of the {relevant} relevant stories were negative and {positive_share} positive, a lighter Sunday. Amritpal Singh's return to Punjab for his grandmother's cremation was the most widely carried event (14 papers, 8 front pages), coded neutral. AAP's objection to the Bihar bridge being named 'Nitish Setu' was its best story (11 papers, 7 front pages, all 14 rows positive), while the Tarn Taran langar firing (8 papers) and Congress's Insaaf March (7 papers) led the negatives.",
+ "well": [
+  [
+   "AAP set the agenda on the Nitish Setu row.",
+   "AAP leaders' demand to name the Bihar bridge after Guru Gobind Singh ran in 11 papers with 7 front pages, all 14 rows positive; 17 stories in all carried AAP leaders rebutting the opposition."
+  ],
+  [
+   "Police action dominated the positives.",
+   "75 of 76 police action stories were positive, including the second shooter held in the ASI Iqbal Singh murder (8 papers) and the Pathankot SUV loot arrests (4 papers); minister Goyal's action against illegal mining at Anandpur Sahib ran in 8 papers, all positive."
+  ],
+  [
+   "Government advertising reached every paper.",
+   "The electricity bill OTS waiver ran as a full-page Punjab government ad in 8 papers; the deck carries no ads, so these were found only in the full editions."
+  ]
+ ],
+ "improve": [
+  [
+   "Opposition statements outnumbered rebuttals.",
+   "43 opposition attacks (Congress 21, BJP 20, SAD 1, others 1) against 17 AAP rebuttals; the ED summons to the Chief Secretary drew attacks in 6 papers and Pargat Singh's jail visit and the Youth Congress PCS protest in 5."
+  ],
+  [
+   "Shootings kept law and order negative.",
+   "The Tarn Taran langar firing ran in 8 papers and the Mohali firings in 5, all negative; 48 of 80 crime stories were negative."
+  ],
+  [
+   "Farm and civic issues stayed sore points.",
+   "12 of 23 farm and stubble rows were negative, and 17 of 39 civic stories were negative."
+  ]
+ ]
+}

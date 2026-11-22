@@ -98,6 +98,12 @@ From the sentiment judge, 20 Nov 2026:
 25. New case: a BSF recovery is `Not about AAP/Govt` unless Punjab Police took part in the operation itself (a joint search, an arrest or a tip-off); taking custody of the seizure and registering the FIR is not a role.
 26. New case: a penalty or stricture on a state official by a statutory watchdog (State Information Commission, Lokpal, human rights or SC commission) is treated like a court rebuke: Negative.
 
+From the sentiment judge, 22 Nov 2026:
+
+27. New case: a Lok Adalat held by the judiciary or the legal services authority that only reports cases settled (cheque-bounce cases, state-level totals) is `Not about AAP/Govt` (`Others`): it records no state government decision, delivery or failure. Seen 8 times once every paper's copy was aligned (Neutral changed to Not about).
+28. Lesson 3 covers AAP's own party-promotion events: announcements and preparations for AAP's Foundation Day rally in Moga, and an AAP leader's public meeting to mobilise workers for it, are Positive (`AAP organisation & outreach`), as on 16, 17 and 20 Nov. Lesson 21 keeps internal courtesies (felicitations, nominations, courtesy calls) Neutral. Seen 3 times (Neutral changed to Positive).
+29. Lesson 25 is decided by who acted, not by the intro: a BSF recovery described as "joint action" stays `Not about AAP/Govt` when the body shows the BSF handing the haul to Punjab Police, who only weighed it and registered the FIR. Seen 3 times (Positive changed to Not about).
+
 From the merge, 19 Nov 2026:
 
 20. Dainik Savera's PDF can print the same district page twice (19 Nov: Bathinda 1 to Malwa 6 and Moga 4 to Moga 8 each appeared on two PDF pages). Rows from the second copy of a page are `Duplicate`, as for repeated deck clippings.

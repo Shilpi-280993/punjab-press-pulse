@@ -1,0 +1,112 @@
+{
+ "date": "2026-11-22",
+ "judge": "Claude Fable 5.2",
+ "rows_judged": 213,
+ "blind_agreement": 168,
+ "agreement_rate": 0.7887,
+ "disagreements": 45,
+ "sentiment_changed": 18,
+ "coder_kept": 27,
+ "patterns": [
+  {
+   "before": "Positive",
+   "after": "Neutral",
+   "rule": "Lesson 11",
+   "count": 2
+  },
+  {
+   "before": "Negative",
+   "after": "Not about AAP/Govt",
+   "rule": "Lesson 17",
+   "count": 2
+  },
+  {
+   "before": "Neutral",
+   "after": "Positive",
+   "rule": "Lesson 1",
+   "count": 2
+  },
+  {
+   "before": "Positive",
+   "after": "Not about AAP/Govt",
+   "rule": "Lesson 25",
+   "count": 1
+  },
+  {
+   "before": "Neutral",
+   "after": "Positive",
+   "rule": "Lesson 3",
+   "count": 1
+  },
+  {
+   "before": "Not about AAP/Govt",
+   "after": "Negative",
+   "rule": "Lesson 17",
+   "count": 1
+  },
+  {
+   "before": "Neutral",
+   "after": "Not about AAP/Govt",
+   "rule": "new case",
+   "count": 1
+  },
+  {
+   "before": "Negative",
+   "after": "Not about AAP/Govt",
+   "rule": "Lesson 4",
+   "count": 1
+  },
+  {
+   "before": "Negative",
+   "after": "Neutral",
+   "rule": "Lesson 11",
+   "count": 1
+  },
+  {
+   "before": "Neutral",
+   "after": "Negative",
+   "rule": "Lesson 22",
+   "count": 1
+  },
+  {
+   "before": "Neutral",
+   "after": "Not about AAP/Govt",
+   "rule": "Lesson 12",
+   "count": 1
+  },
+  {
+   "before": "Positive",
+   "after": "Neutral",
+   "rule": "Lesson 15",
+   "count": 1
+  },
+  {
+   "before": "Negative",
+   "after": "Not about AAP/Govt",
+   "rule": "Lesson 5",
+   "count": 1
+  },
+  {
+   "before": "Neutral",
+   "after": "Not about AAP/Govt",
+   "rule": "Lesson 5",
+   "count": 1
+  },
+  {
+   "before": "Neutral",
+   "after": "Not about AAP/Govt",
+   "rule": "Lesson 9",
+   "count": 1
+  }
+ ],
+ "new_cases": [
+  {
+   "story_id": 108,
+   "reason": "State-level special Lok Adalat figures (22,723 heard, 5,267 settled) from the legal services authority. The judiciary's own forum with no state government role; same ruling as row 274 and the other papers' copies (74, 123, 164)."
+  },
+  {
+   "story_id": 274,
+   "reason": "A Lok Adalat held by the District and Sessions Judge and the legal services authority settles 41 cheque-bounce cases. It is the judiciary's own forum; the item reports no state government decision, delivery or failure. Coded like the state-level Lok Adalat rows (74, 123, 164)."
+  }
+ ]
+}

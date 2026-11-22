@@ -1,0 +1,248 @@
+[
+ {
+  "story_id": 6,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Minister announces action on illegal mining: machine seized, case registered."
+ },
+ {
+  "story_id": 8,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "NIA case on Babbar Khalsa; central agency, no Punjab govt role (Lesson 5)."
+ },
+ {
+  "story_id": 10,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Mayor calls routine meeting on union strike (Lesson 21)."
+ },
+ {
+  "story_id": 17,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Routine mandi visit by officer; claim of efforts only (Lesson 21)."
+ },
+ {
+  "story_id": 21,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Halqa in-charge inaugurates CM's Playground: AAP outreach (Lesson 3)."
+ },
+ {
+  "story_id": 209,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Opposition leader says deaths of power staff question govt's working."
+ },
+ {
+  "story_id": 232,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "medium",
+  "reason": "Amritpal Singh's family funeral; no govt action in lead."
+ },
+ {
+  "story_id": 539,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Roll observer inspects polling booths: election administration, routine."
+ },
+ {
+  "story_id": 542,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "SSF force clears traffic after trolley overturned: state service delivery."
+ },
+ {
+  "story_id": 544,
+  "sentiment": "Negative",
+  "confidence": "low",
+  "reason": "Faction clash over land with three injured: crime report (Lesson 16)."
+ },
+ {
+  "story_id": 101,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Firing kills youth; family says police took no action on threats."
+ },
+ {
+  "story_id": 102,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Four arrested and SUV recovered in loot case (Lesson 1)."
+ },
+ {
+  "story_id": 104,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "medium",
+  "reason": "Speaker appeals to PM on Bihar bridge name; no Punjab govt matter."
+ },
+ {
+  "story_id": 108,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Lok Adalat figures from legal services authority; factual, no tilt."
+ },
+ {
+  "story_id": 109,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "JCBs seized and case registered on illegal mining (Lesson 1)."
+ },
+ {
+  "story_id": 114,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "Punjab launches AI smart traffic signals, pilot in Bathinda: delivery."
+ },
+ {
+  "story_id": 115,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "ED chargesheet says middleman fixed postings for many IAS/IPS officers (Lesson 13)."
+ },
+ {
+  "story_id": 188,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Congress infighting over Warring's march (Lesson 12)."
+ },
+ {
+  "story_id": 580,
+  "sentiment": "Govt ad",
+  "confidence": "high",
+  "reason": "Verka (state cooperative federation) recruitment notice advertisement."
+ },
+ {
+  "story_id": 91,
+  "sentiment": "Positive",
+  "confidence": "low",
+  "reason": "PPCB expands Plastic Champions campaign to six more districts: state programme delivery."
+ },
+ {
+  "story_id": 92,
+  "sentiment": "Neutral",
+  "confidence": "high",
+  "reason": "Election Commission voter camps for SSR (Election Commission order)."
+ },
+ {
+  "story_id": 96,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Akal Takht committee says meeting only after govt reply; no rejection of law (Lesson 18)."
+ },
+ {
+  "story_id": 185,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "medium",
+  "reason": "Headline carries Congress's own Insaaf March event (Lesson 17)."
+ },
+ {
+  "story_id": 186,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Headline leads with Warring cornering AAP govt on law and order and drugs."
+ },
+ {
+  "story_id": 496,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Congress yet to get opposition leader: opposition internal."
+ },
+ {
+  "story_id": 499,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Mayor states aim of garbage-free city: statement only (Lesson 21)."
+ },
+ {
+  "story_id": 500,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "Case and arrests of factory owners over pollution (Lesson 1)."
+ },
+ {
+  "story_id": 501,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Order barring dharna near mill: factual administrative item."
+ },
+ {
+  "story_id": 502,
+  "sentiment": "Negative",
+  "confidence": "low",
+  "reason": "Robbery with police still scanning cameras, no arrest: crime report (Lesson 16)."
+ },
+ {
+  "story_id": 504,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Railways cancellations; no Punjab govt role."
+ },
+ {
+  "story_id": 506,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Official appeal to complete Census self-enumeration: routine (Lessons 21, 23)."
+ },
+ {
+  "story_id": 507,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "Leader inaugurates modern sports ground, urges saving youth from drugs."
+ },
+ {
+  "story_id": 510,
+  "sentiment": "Neutral",
+  "confidence": "low",
+  "reason": "AAP MP demands Kartarpur corridor open; Centre's matter, only a demand."
+ },
+ {
+  "story_id": 513,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Lok Adalat settles 42 cases: factual."
+ },
+ {
+  "story_id": 521,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Residents' memorandum on traffic problem: grievance on administration (Lesson 22)."
+ },
+ {
+  "story_id": 525,
+  "sentiment": "Neutral",
+  "confidence": "high",
+  "reason": "Routine health notice of polio drops (Lesson 11)."
+ },
+ {
+  "story_id": 533,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Police failed to find conspiracy evidence; youth acquitted after 10 years."
+ },
+ {
+  "story_id": 534,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Three accused held with stolen vehicles (Lesson 1)."
+ },
+ {
+  "story_id": 535,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Weak monitoring at shooting range: administrative lapse."
+ },
+ {
+  "story_id": 536,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Congress leader's own pledge if Congress forms govt (Lessons 12, 17)."
+ },
+ {
+  "story_id": 581,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "ED questioning step in Bhullar case: procedural (Lesson 13)."
+ }
+]

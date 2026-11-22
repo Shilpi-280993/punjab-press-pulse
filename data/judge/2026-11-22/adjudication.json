@@ -1,0 +1,303 @@
+[
+ {
+  "story_id": 56,
+  "final": "Not about AAP/Govt",
+  "reason": "BSF jawans on patrol near BOP Pul Moran found the packet of five kilos of heroin; Lopoke police only registered the case against unknown smugglers. Taking custody and filing the FIR is not a role in the operation. The 25 g arrest by Chatiwind police is a closing line, not the headline's lead.",
+  "rule": "Lesson 25",
+  "theme_group": "",
+  "detailed_theme": "Others"
+ },
+ {
+  "story_id": 104,
+  "final": "Positive",
+  "reason": "Speaker Kultar Singh Sandhwan, an AAP leader, appeals to the PM to reverse the naming of the Bihar bridge after Nitish Kumar instead of Guru Gobind Singh. It is part of AAP's objection to the 'Nitish Setu' name, coded Positive as an AAP counter-attack in every other paper (rows 1, 25, 41, 42, 59, 83, 87, 88, 103, 117, 126, 139, 145, 157); it is an AAP statement, so not 'Not about'.",
+  "rule": "Lesson 2"
+ },
+ {
+  "story_id": 108,
+  "final": "Not about AAP/Govt",
+  "reason": "State-level special Lok Adalat figures (22,723 heard, 5,267 settled) from the legal services authority. The judiciary's own forum with no state government role; same ruling as row 274 and the other papers' copies (74, 123, 164).",
+  "rule": "new case"
+ },
+ {
+  "story_id": 124,
+  "final": "Positive",
+  "reason": "Sandhwan, with AAP leaders at Moga, calls 26 November historic and announces the party's 15th foundation day event; strap says AAP was born to be the common people's voice. An AAP organisation and outreach item, coded Positive like the foundation day rows on 16, 17 and 20 Nov and the day's other Moga rally rows.",
+  "rule": "Lesson 3"
+ },
+ {
+  "story_id": 142,
+  "final": "Neutral",
+  "reason": "The state has only proposed that Railways add refrigerated wagons on Vande Bharat and Shatabdi trains, raised by a secretary at a trade meet. A request to the Centre with no decision or delivery, as with the 20 Nov 'Agri dept seeks policy' row.",
+  "rule": "Lesson 11"
+ },
+ {
+  "story_id": 162,
+  "final": "Positive",
+  "reason": "Announcement of AAP's 15th Foundation Day celebrations at Moga by Sandhwan, with a call to workers and the party's claims on education, health and power. AAP's own outreach event: Positive like the other papers' copies (124, 398, 408, 409, 421, 445, 446, 486) and the foundation day rows of 16, 17 and 20 Nov.",
+  "rule": "Lesson 3"
+ },
+ {
+  "story_id": 169,
+  "final": "Negative",
+  "reason": "Headline is Pilot's rebuke of the government ('raising questions and seeking answers from the government is every citizen's right') and the intro says he attacked the Punjab government over police action against Youth Congress chief Shubham Sharma. The government is the headline's subject, not a Congress event; Punjab Kesari's copy (181) is Negative.",
+  "rule": "Lesson 17",
+  "theme_group": "Opposition attacks on the govt",
+  "detailed_theme": "Opposition attack: Congress"
+ },
+ {
+  "story_id": 170,
+  "final": "Not about AAP/Govt",
+  "reason": "Headline is Channi on the pain of mothers who lose sons to drugs, from his Jawani Sambhal Yatra; neither headline nor body blames the government. An opposition leader's own yatra remark with no attack in the lead; Punjab Kesari's copy (183) is coded the same.",
+  "rule": "Lesson 17",
+  "theme_group": "",
+  "detailed_theme": "Opposition internal"
+ },
+ {
+  "story_id": 173,
+  "final": "Not about AAP/Govt",
+  "reason": "The ruckus is men in Nihang dress and their supporters showing black flags and shouting slogans against the Punjab Congress during Warring's Insaaf March; police only kept the two sides apart. The protest targets the Congress, not the government.",
+  "rule": "Lesson 12"
+ },
+ {
+  "story_id": 189,
+  "final": "Not about AAP/Govt",
+  "reason": "Printed headline is only Congress's own claim ('Congress had restored peace in Punjab through hard work: Raja Warring') with the strap on the Insaaf March he led; the attack on the Mann government is in the body. Same as Punjabi Jagran's copy (177).",
+  "rule": "Lesson 17",
+  "theme_group": "",
+  "detailed_theme": "Opposition internal"
+ },
+ {
+  "story_id": 232,
+  "final": "Neutral",
+  "reason": "Amritpal Singh, held under the NSA on the state's case, attends his grandmother's cremation on parole under heavy Punjab Police security. Law and order is a state matter, so the row is relevant, and the headline has no tilt. Coded Neutral under Crime & law and order like every Amritpal parole and funeral row on 20 Nov and the day's other copies.",
+  "rule": "Sentiment: Neutral"
+ },
+ {
+  "story_id": 233,
+  "final": "Neutral",
+  "reason": "Amritpal Singh, held under the NSA on the state's case, attends his grandmother's cremation on parole under heavy Punjab Police security. Law and order is a state matter, so the row is relevant, and the headline has no tilt. Coded Neutral under Crime & law and order like every Amritpal parole and funeral row on 20 Nov and the day's other copies.",
+  "rule": "Sentiment: Neutral"
+ },
+ {
+  "story_id": 238,
+  "final": "Neutral",
+  "reason": "Amritpal Singh, held under the NSA on the state's case, attends his grandmother's cremation on parole under heavy Punjab Police security. Law and order is a state matter, so the row is relevant, and the headline has no tilt. Coded Neutral under Crime & law and order like every Amritpal parole and funeral row on 20 Nov and the day's other copies.",
+  "rule": "Sentiment: Neutral"
+ },
+ {
+  "story_id": 241,
+  "final": "Neutral",
+  "reason": "Amritpal Singh, held under the NSA on the state's case, attends his grandmother's cremation on parole under heavy Punjab Police security. Law and order is a state matter, so the row is relevant, and the headline has no tilt. Coded Neutral under Crime & law and order like every Amritpal parole and funeral row on 20 Nov and the day's other copies.",
+  "rule": "Sentiment: Neutral"
+ },
+ {
+  "story_id": 246,
+  "final": "Neutral",
+  "reason": "Amritpal Singh, held under the NSA on the state's case, attends his grandmother's cremation on parole under heavy Punjab Police security. Law and order is a state matter, so the row is relevant, and the headline has no tilt. Coded Neutral under Crime & law and order like every Amritpal parole and funeral row on 20 Nov and the day's other copies.",
+  "rule": "Sentiment: Neutral"
+ },
+ {
+  "story_id": 248,
+  "final": "Neutral",
+  "reason": "Amritpal Singh, held under the NSA on the state's case, attends his grandmother's cremation on parole under heavy Punjab Police security. Law and order is a state matter, so the row is relevant, and the headline has no tilt. Coded Neutral under Crime & law and order like every Amritpal parole and funeral row on 20 Nov and the day's other copies.",
+  "rule": "Sentiment: Neutral"
+ },
+ {
+  "story_id": 249,
+  "final": "Neutral",
+  "reason": "Amritpal Singh, held under the NSA on the state's case, attends his grandmother's cremation on parole under heavy Punjab Police security. Law and order is a state matter, so the row is relevant, and the headline has no tilt. Coded Neutral under Crime & law and order like every Amritpal parole and funeral row on 20 Nov and the day's other copies.",
+  "rule": "Sentiment: Neutral"
+ },
+ {
+  "story_id": 258,
+  "final": "Neutral",
+  "reason": "A district education officer (nodal officer) urges nursing students to finish Census self-enumeration ('Swagan') by 30 November. A state official leads the item, so it stays relevant; an awareness appeal with no delivery is Neutral, as with the 19 and 20 Nov self-enumeration rows.",
+  "rule": "Lesson 23"
+ },
+ {
+  "story_id": 268,
+  "final": "Neutral",
+  "reason": "An executive engineer of the Municipal Corporation is promoted to Superintending Engineer and the Commissioner congratulates him. A posting inside a local body is a government personnel matter, so it is relevant; routine administration with no tilt.",
+  "rule": "Lesson 21"
+ },
+ {
+  "story_id": 274,
+  "final": "Not about AAP/Govt",
+  "reason": "A Lok Adalat held by the District and Sessions Judge and the legal services authority settles 41 cheque-bounce cases. It is the judiciary's own forum; the item reports no state government decision, delivery or failure. Coded like the state-level Lok Adalat rows (74, 123, 164).",
+  "rule": "new case",
+  "theme_group": "",
+  "detailed_theme": "Others"
+ },
+ {
+  "story_id": 329,
+  "final": "Positive",
+  "reason": "Photo item: city police led by the ADCP run a Cordon and Search Operation at the Ludhiana ISBT, checking luggage and buses under the state's 'Yudh Nashian Virudh' campaign. A search operation is police action in the lead; CASO rows on 15 to 19 Nov were all Positive.",
+  "rule": "Lesson 1",
+  "theme_group": "Police action on gangs, arms & drugs",
+  "detailed_theme": "Police action vs drugs"
+ },
+ {
+  "story_id": 383,
+  "final": "Not about AAP/Govt",
+  "reason": "The chairman is Dev Kumar Sharma of the Haryana Seed Development Corporation, a BJP leader; the item is about the trouble his remarks on farmer leaders cause the BJP in Punjab, and his apology. A row between farm unions and a BJP leader with no Punjab government role.",
+  "rule": "Lesson 4",
+  "theme_group": "",
+  "detailed_theme": "Opposition internal"
+ },
+ {
+  "story_id": 391,
+  "final": "Neutral",
+  "reason": "A feature on Ambe Apartment residents in Patiala managing their own waste and earning plastic-free colony status under the city's garbage-free drive, pictured with the corporation team. No civic failure is reported, so not Negative; the residents, not the corporation, do the work, so not Positive.",
+  "rule": "Lesson 11"
+ },
+ {
+  "story_id": 395,
+  "final": "Positive",
+  "reason": "An AAP worker's statement praising MLA Principal Budh Ram for raising Budhlada's development and public issues in the Assembly and for carrying party policies door to door, and rebutting rumours against him. A party promotion item under AAP organisation and outreach, which is coded Positive; it is not an assurance about future work.",
+  "rule": "Lesson 3"
+ },
+ {
+  "story_id": 398,
+  "final": "Positive",
+  "reason": "The 26 November state-level event at Nathuwala Jadeed (the Moga foundation day rally) is presented as the platform to carry the government's welfare initiatives to people; the Speaker and adviser Deepak Bali review preparations. AAP outreach, Positive like the other Moga rally rows.",
+  "rule": "Lesson 3"
+ },
+ {
+  "story_id": 400,
+  "final": "Negative",
+  "reason": "Headline leads with the SKM's decision to hold big protests at four district headquarters including Bathinda on 26 November, with demands on the Punjab government in the body. A protest plan, not a statement of the body's own stance; the same 26 Nov rally mobilisation was ruled Negative on 15 Nov (rows 464, 734).",
+  "rule": "Sentiment: Negative"
+ },
+ {
+  "story_id": 416,
+  "final": "Neutral",
+  "reason": "A Congress leader hands the Municipal Commissioner a demand letter on roads, garbage and sewerage and gets an assurance. The subject is the corporation's civic services, so it is not an opposition internal matter; the headline leads with the meeting and the letter, not an attack or protest, so it is Neutral like the 19 and 20 Nov demand-letter rows.",
+  "rule": "Sentiment: Neutral"
+ },
+ {
+  "story_id": 422,
+  "final": "Negative",
+  "reason": "BKU Ekta Dakaunda's Faridkot block says farmers will join the SKM's 26 November programme in big numbers. Mobilisation for the same protest as row 400, ruled Negative on 15 Nov (rows 464, 734).",
+  "rule": "Sentiment: Negative"
+ },
+ {
+  "story_id": 434,
+  "final": "Positive",
+  "reason": "Both classifiers agree on Positive: police arrest. The clipping is the two-column brief 'Two arrested with illegal pistol'; there is no liquor in it.",
+  "rule": "Lesson 1",
+  "headline_fix": "Two arrested with illegal pistol"
+ },
+ {
+  "story_id": 435,
+  "final": "Negative",
+  "reason": "Six-column headline is only the grievance: the railway crossing on Jandiala Road in Tarn Taran has become a cause of trouble for commuters, with photos of the jams. The AAP leader's 'Mann government will solve it' is a small box below, an assurance and not delivery.",
+  "rule": "Lesson 22"
+ },
+ {
+  "story_id": 442,
+  "final": "Neutral",
+  "reason": "Tejinder Mehta is an AAP leader in Patiala (the item traces his AAP ticket bids and chairman post), so this is not opposition internal. A speculative piece on an AAP man's mayoral ambition, with no tilt for or against the government.",
+  "rule": "Sentiment: Neutral"
+ },
+ {
+  "story_id": 444,
+  "final": "Positive",
+  "reason": "Both classifiers agree on Positive: one man held. The body says 140 intoxicant tablets were recovered, so 'golian' here is tablets, not bullets.",
+  "rule": "Lesson 1",
+  "headline_fix": "One held with banned tablets"
+ },
+ {
+  "story_id": 449,
+  "final": "Neutral",
+  "reason": "The Member Secretary of the Punjab Biodiversity Board, a state body, visits the community seed bank set up with the Board's support and praises the NGO running it. A state official leads the item, so it is relevant; a routine visit with praise for a private body is not government delivery.",
+  "rule": "Lesson 23"
+ },
+ {
+  "story_id": 451,
+  "final": "Positive",
+  "reason": "Both classifiers agree on Positive: Sahnewal police arrest an accused. The printed headline says intoxicant tablets ('nashilian golian'), not bullets.",
+  "rule": "Lesson 1",
+  "headline_fix": "Accused arrested with intoxicant tablets in Sahnewal"
+ },
+ {
+  "story_id": 453,
+  "final": "Positive",
+  "reason": "Headline leads with a recovery: 28 g of intoxicant powder found in the jeans of an undertrial lodged in the Central Jail, and a case registered. A contraband recovery from an inmate by jail staff is a seizure, as ruled on 20 Nov (row 382); Lesson 14's Neutral is only for the state's own policeman. 'Sealed jeans' is a mistranslation of 'band hawalati' (lodged undertrial).",
+  "rule": "Lesson 1",
+  "theme_group": "Police action on gangs, arms & drugs",
+  "detailed_theme": "Police action vs drugs",
+  "headline_fix": "28 g intoxicant powder found in jeans of undertrial lodged in Central Jail"
+ },
+ {
+  "story_id": 454,
+  "final": "Not about AAP/Govt",
+  "reason": "A BJP district vice-president and ticket hopeful tells a village meeting about the Modi government's schemes. A BJP event about central schemes with no Punjab government role.",
+  "rule": "Lesson 12",
+  "theme_group": "",
+  "detailed_theme": "Opposition internal"
+ },
+ {
+  "story_id": 468,
+  "final": "Neutral",
+  "reason": "Headline is 'Case registered against drug user'. Police on patrol act on an informer's tip and book the man under the NDPS Act; the item reports no arrest and no recovery. A case on the state's own initiative with neither is Neutral.",
+  "rule": "Lesson 15",
+  "theme_group": "Crime & law and order",
+  "detailed_theme": "Law & order / crime"
+ },
+ {
+  "story_id": 488,
+  "final": "Neutral",
+  "reason": "Headline reports a court order: workers may hold their dharna only beyond 300 metres of the OCM mill. A court order in a private labour dispute is a factual item; the police action against the workers is the separate lead story on the page (row 487, Negative). Same as Dainik Jagran's copy (501, Neutral).",
+  "rule": "Sentiment: Neutral"
+ },
+ {
+  "story_id": 502,
+  "final": "Neutral",
+  "reason": "Follow-up to a snatching near Tagore Model School: headline leads with police scanning 30 cameras to identify the robber; a case is registered against an unknown person and no one is held. Police effort with no arrest is not Positive, and the headline does not lead with the crime.",
+  "rule": "Lesson 15"
+ },
+ {
+  "story_id": 504,
+  "final": "Not about AAP/Govt",
+  "reason": "Railways cancels, reschedules and diverts Amritsar trains until January for work at Ludhiana station. A Railways matter with no Punjab government role or blame.",
+  "rule": "Lesson 5",
+  "theme_group": "",
+  "detailed_theme": "Others"
+ },
+ {
+  "story_id": 525,
+  "final": "Neutral",
+  "reason": "Routine notice that the pulse polio round starts today, with the teams deployed. A scheduled health campaign announcement, not delivery; the day's other polio rows (259, 393, 426, 458) are Neutral.",
+  "rule": "Lesson 11"
+ },
+ {
+  "story_id": 552,
+  "final": "Not about AAP/Govt",
+  "reason": "The printed headline is 'Directions to give NOC to plot holders': the Supreme Court tells the Lodha committee in the Pearls (PACL) case to issue NOCs to eligible allottees of the company's Mohali sectors 100 and 104. A court order to a court-appointed committee in a private company's case; no Punjab government body, burden or decision is involved, so neither Neutral nor a Lesson 22 Negative.",
+  "rule": "Lesson 5",
+  "theme_group": "",
+  "detailed_theme": "Others",
+  "headline_fix": "Supreme Court directs Lodha committee to give NOCs to plot holders of Pearls' Mohali sectors 100 and 104"
+ },
+ {
+  "story_id": 555,
+  "final": "Neutral",
+  "reason": "Opinion piece: 'Punjab demands answers from leaders', strap on decades of waiting for lasting solutions. The body faults every party in turn (AAP's campaign, Congress's Insaaf yatra, the Akali Dal) and asks voters to hold all to account. Criticism of the whole political class over decades is not an attack on the government in the headline's lead.",
+  "rule": "Sentiment: Neutral"
+ },
+ {
+  "story_id": 560,
+  "final": "Not about AAP/Govt",
+  "reason": "National-page item: the police commissioner of a Gujarat city describes security arrangements for a Diljit Dosanjh concert there. Another state's police, with no Punjab government role.",
+  "rule": "Lesson 9",
+  "theme_group": "",
+  "detailed_theme": "Others"
+ },
+ {
+  "story_id": 581,
+  "final": "Negative",
+  "reason": "Same event as rows 65, 115, 132 and 143: the ED's findings on Krishnu Sharda, the middleman in the suspended DIG Bhullar bribery case, here his claim that the unexplained income came from hockey coaching. An ED disclosure about corruption around a Punjab police officer, not a procedural court step; every paper's copy is coded alike.",
+  "rule": "Lesson 13"
+ }
+]

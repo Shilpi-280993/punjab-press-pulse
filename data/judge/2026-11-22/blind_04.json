@@ -1,0 +1,302 @@
+[
+ {
+  "story_id": 32,
+  "sentiment": "Neutral",
+  "confidence": "high",
+  "reason": "Election Commission item: candidate count for municipal polls."
+ },
+ {
+  "story_id": 34,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Firing death is a crime report."
+ },
+ {
+  "story_id": 175,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Headline leads with Congress opening a front against the government."
+ },
+ {
+  "story_id": 176,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Opposition leader denied jail meeting and attacks AAP government."
+ },
+ {
+  "story_id": 375,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Congress workers joining AAP."
+ },
+ {
+  "story_id": 378,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Attack on a prisoner inside a state jail."
+ },
+ {
+  "story_id": 380,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Crime report with farmers demanding action, no arrest."
+ },
+ {
+  "story_id": 381,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Firing incidents are law and order failures."
+ },
+ {
+  "story_id": 383,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "medium",
+  "reason": "Controversy over a BJP leader chairman remarks, opposition internal."
+ },
+ {
+  "story_id": 384,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Lesson 21: assurance by AAP leader ending a dharna is routine."
+ },
+ {
+  "story_id": 385,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Officials-committee talks fail in a land dispute, grievance lead."
+ },
+ {
+  "story_id": 386,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Farmers angry as procurement centre closed, Lesson 22."
+ },
+ {
+  "story_id": 391,
+  "sentiment": "Neutral",
+  "confidence": "low",
+  "reason": "Residents run own waste management with municipal team, no tilt."
+ },
+ {
+  "story_id": 549,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "MLA credits CM Mann for halqa development in supplement message."
+ },
+ {
+  "story_id": 550,
+  "sentiment": "Govt ad",
+  "confidence": "medium",
+  "reason": "Paid police greeting advertisement citing government directions."
+ },
+ {
+  "story_id": 552,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "New NOC burden on plot holders imposed by authority, Lesson 22."
+ },
+ {
+  "story_id": 66,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Global sugar and rice output forecast, no Punjab govt angle."
+ },
+ {
+  "story_id": 79,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Liquor smuggler arrested with big recovery, Lesson 1."
+ },
+ {
+  "story_id": 179,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Pargat Singh attack on government after denial of jail meeting."
+ },
+ {
+  "story_id": 218,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "BJP yatra event, opposition internal (Lesson 17)."
+ },
+ {
+  "story_id": 394,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "BSP padyatra against drugs and law and order is an opposition attack."
+ },
+ {
+  "story_id": 395,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Lesson 21: MLA raised issues in Assembly, routine."
+ },
+ {
+  "story_id": 398,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Announcement of AAP rally event, no delivery yet."
+ },
+ {
+  "story_id": 399,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Pilgrims return from Mukh Mantri Tirth Yatra scheme."
+ },
+ {
+  "story_id": 400,
+  "sentiment": "Neutral",
+  "confidence": "low",
+  "reason": "SKM protest announcement stating own plan, Lesson 6."
+ },
+ {
+  "story_id": 402,
+  "sentiment": "Neutral",
+  "confidence": "high",
+  "reason": "Routine census appeal by district officials."
+ },
+ {
+  "story_id": 404,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Youth body found near drone drop field, crime/drug link."
+ },
+ {
+  "story_id": 405,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "Administration action challaning overloaded vehicles."
+ },
+ {
+  "story_id": 406,
+  "sentiment": "Neutral",
+  "confidence": "high",
+  "reason": "Routine census awareness camp."
+ },
+ {
+  "story_id": 407,
+  "sentiment": "Neutral",
+  "confidence": "high",
+  "reason": "Routine voter list camps, Election Commission item."
+ },
+ {
+  "story_id": 409,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "AAP halqa workers preparing for party rally, outreach."
+ },
+ {
+  "story_id": 410,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "AAP leader claims party will form government again."
+ },
+ {
+  "story_id": 411,
+  "sentiment": "Neutral",
+  "confidence": "high",
+  "reason": "Routine SDM meeting with election officials."
+ },
+ {
+  "story_id": 412,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Routine meeting under state NGO mission, Lesson 21."
+ },
+ {
+  "story_id": 414,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "AAP leader praises CM as not bowing to Centre."
+ },
+ {
+  "story_id": 415,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Industrialists say PSIEC policy obstructs industry."
+ },
+ {
+  "story_id": 416,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "medium",
+  "reason": "Congress leader meets commissioner with demands, opposition-led item."
+ },
+ {
+  "story_id": 421,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "AAP foundation day event announcement by AAP leader, outreach."
+ },
+ {
+  "story_id": 422,
+  "sentiment": "Neutral",
+  "confidence": "low",
+  "reason": "Farmer leaders' programme participation, own stance only."
+ },
+ {
+  "story_id": 425,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Liquor recovered and one held, Lesson 1."
+ },
+ {
+  "story_id": 428,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Firing at two places in Mohali spreads terror."
+ },
+ {
+  "story_id": 564,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Farm feature on stubble burning with no govt tilt."
+ },
+ {
+  "story_id": 566,
+  "sentiment": "Neutral",
+  "confidence": "high",
+  "reason": "Voter awareness competitions, Election Commission item."
+ },
+ {
+  "story_id": 569,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Court hearing: arrest protection for minister's father, procedural."
+ },
+ {
+  "story_id": 571,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Routine traffic police awareness campaign, Lesson 21."
+ },
+ {
+  "story_id": 572,
+  "sentiment": "Neutral",
+  "confidence": "high",
+  "reason": "Routine Lok Adalat notice."
+ },
+ {
+  "story_id": 573,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Court asks police for status report, routine hearing."
+ },
+ {
+  "story_id": 574,
+  "sentiment": "Neutral",
+  "confidence": "high",
+  "reason": "Routine census appeal."
+ },
+ {
+  "story_id": 577,
+  "sentiment": "Neutral",
+  "confidence": "high",
+  "reason": "Voter awareness competitions, Election Commission item."
+ },
+ {
+  "story_id": 578,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "College awareness event on govt quiz, government incidental (Lesson 11)."
+ }
+]

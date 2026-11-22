@@ -1,0 +1,299 @@
+[
+ {
+  "story_id": 82,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Shooting death of a youth at a langar: crime and a protest at the police."
+ },
+ {
+  "story_id": 83,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "AAP minister attacks Bihar NDA government's bridge renaming (Lesson 2 counter-attack)."
+ },
+ {
+  "story_id": 84,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Mining department seizure of poclain machine, FIR (Lesson 1)."
+ },
+ {
+  "story_id": 181,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Congress leader Pilot attacks Punjab government over police action against Youth Congress chief."
+ },
+ {
+  "story_id": 183,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "medium",
+  "reason": "Congress leader's own yatra remark on drug deaths; no attack on govt in headline (Lessons 12, 17)."
+ },
+ {
+  "story_id": 207,
+  "sentiment": "Neutral",
+  "confidence": "high",
+  "reason": "Court hearing with no relief for Majithia, next date fixed (Lesson 11)."
+ },
+ {
+  "story_id": 221,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "BJP leader attacks CM over ED illegal mining exposure."
+ },
+ {
+  "story_id": 238,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Last rites of MP's grandmother, no government angle."
+ },
+ {
+  "story_id": 44,
+  "sentiment": "Neutral",
+  "confidence": "high",
+  "reason": "Election Commission special voter camps, factual."
+ },
+ {
+  "story_id": 47,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Routine seminar by state sports university, incidental (Lesson 11)."
+ },
+ {
+  "story_id": 49,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "medium",
+  "reason": "Ex-official's letter to Amit Shah on SGPC elections, a religious body matter."
+ },
+ {
+  "story_id": 56,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "medium",
+  "reason": "BSF recovery with no Punjab Police role in the operation (Lesson 25)."
+ },
+ {
+  "story_id": 178,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Congress state chief denied meeting jailed youth leaders, protest against govt."
+ },
+ {
+  "story_id": 433,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Firing over old rivalry, FIR, no arrest (Lesson 16)."
+ },
+ {
+  "story_id": 434,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "Arrest by police; clipping shows illegal pistol arrests, not liquor (Lesson 1).",
+  "headline_fix": "Two held with illegal pistol"
+ },
+ {
+  "story_id": 435,
+  "sentiment": "Negative",
+  "confidence": "low",
+  "reason": "Headline leads with commuters' trouble at railway crossing, govt only assures (Lesson 22)."
+ },
+ {
+  "story_id": 436,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "AAP leaders list development delivery in villages and cities."
+ },
+ {
+  "story_id": 438,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "AAP leader says all sections pleased with government's development works."
+ },
+ {
+  "story_id": 439,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Routine meeting of hospital doctors, no tilt."
+ },
+ {
+  "story_id": 442,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "medium",
+  "reason": "Ex-mayor's own mayoral ambition, opposition internal (Lesson 4)."
+ },
+ {
+  "story_id": 444,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "Police arrest with banned items (Lesson 1).",
+  "headline_fix": "One held with banned tablets"
+ },
+ {
+  "story_id": 447,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Appeal to cooperate in Census, routine (Lesson 21)."
+ },
+ {
+  "story_id": 449,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "medium",
+  "reason": "Praise for a private seed mission by a board member (Lesson 5)."
+ },
+ {
+  "story_id": 450,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Police action against drug smugglers and users (Lesson 1)."
+ },
+ {
+  "story_id": 451,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "Accused arrested with drug tablets; 'goliyan' means pills here (Lesson 1).",
+  "headline_fix": "Accused held with banned intoxicant tablets at Sahnewal"
+ },
+ {
+  "story_id": 452,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Stolen motorcycle recovered, accused arrested (Lesson 1)."
+ },
+ {
+  "story_id": 453,
+  "sentiment": "Positive",
+  "confidence": "low",
+  "reason": "Recovery of drug powder from a prisoner's jeans by jail staff (Lesson 1)."
+ },
+ {
+  "story_id": 454,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "medium",
+  "reason": "BJP leader briefing people on Centre's schemes, not Punjab govt."
+ },
+ {
+  "story_id": 455,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Development works worth Rs 3.36 crore sanctioned."
+ },
+ {
+  "story_id": 456,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Routine dengue house checking (Lesson 21)."
+ },
+ {
+  "story_id": 457,
+  "sentiment": "Neutral",
+  "confidence": "high",
+  "reason": "Voter list claims and objections camp, election routine."
+ },
+ {
+  "story_id": 458,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Routine staff training for pulse polio drive (Lesson 21)."
+ },
+ {
+  "story_id": 464,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Assault reported through FIR (Lesson 16)."
+ },
+ {
+  "story_id": 468,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Case registered against drug users with no seizure in lead (Lesson 15)."
+ },
+ {
+  "story_id": 469,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "medium",
+  "reason": "Sarpanch and families leave Congress for SAD, opposition internal (Lesson 4)."
+ },
+ {
+  "story_id": 473,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Inspector's routine appeal for public cooperation (Lesson 21)."
+ },
+ {
+  "story_id": 478,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Tractor driver hits youth with rod, crime report (Lesson 16)."
+ },
+ {
+  "story_id": 480,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Dharna outside GMADA over transfer problem, grievance against state body (Lesson 22)."
+ },
+ {
+  "story_id": 485,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Lok Adalat settlement figure, routine."
+ },
+ {
+  "story_id": 487,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Police detained and warned workers in mill dispute (Lesson 7)."
+ },
+ {
+  "story_id": 488,
+  "sentiment": "Negative",
+  "confidence": "low",
+  "reason": "Protest barred near mill in the same employer dispute (Lesson 7)."
+ },
+ {
+  "story_id": 491,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Shots fired outside a house, crime."
+ },
+ {
+  "story_id": 492,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "Factory sealed by authority for violations, enforcement action."
+ },
+ {
+  "story_id": 554,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Editorial analysing CM's remark, no clear tilt."
+ },
+ {
+  "story_id": 555,
+  "sentiment": "Negative",
+  "confidence": "low",
+  "reason": "Headline leads with leaders failing to deliver lasting solutions."
+ },
+ {
+  "story_id": 557,
+  "sentiment": "Positive",
+  "confidence": "low",
+  "reason": "Police caught the youth who fled with girl's phone and cash (Lesson 1)."
+ },
+ {
+  "story_id": 558,
+  "sentiment": "Neutral",
+  "confidence": "high",
+  "reason": "High Court denies bail to accused at hearing (Lesson 11)."
+ },
+ {
+  "story_id": 560,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Gujarat police arrangements for a concert, no Punjab angle."
+ },
+ {
+  "story_id": 561,
+  "sentiment": "Govt ad",
+  "confidence": "high",
+  "reason": "Punjab Directorate lottery result notice, government advertising."
+ }
+]

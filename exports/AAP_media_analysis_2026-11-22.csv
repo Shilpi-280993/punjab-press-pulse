@@ -1,0 +1,592 @@
+﻿Story #,Source,Newspaper,Page,Front page,Headline (English),Relevant to AAP/Govt,Sentiment,Theme (ranked group),Detailed theme,AAP spokesperson voice,Page weight,Columns,Story
+1,Monitoring deck,Ajit,1,Yes,Naming Bihar bridge after Nitish Kumar insults Sikh sentiments: Cheema,Yes,Positive,AAP leaders' counter-attacks,AAP attack on opposition,Yes,3,3,AAP objects to Nitish Setu name
+2,Monitoring deck,Ajit,3,No,Second shooter in Tarn Taran ASI murder case arrested from Amritsar,Yes,Positive,"Police action on gangs, arms & drugs",Police action vs crime,,2,5,ASI Iqbal Singh murder: second shooter held
+3,Monitoring deck,Ajit,3,No,Main accused in Pathankot car robbery case arrested from Gujarat,Yes,Positive,"Police action on gangs, arms & drugs",Police action vs crime,,2,4,
+4,Monitoring deck,Ajit,3,No,Youth shot dead in broad daylight,Yes,Negative,Crime & law and order,Murder,,2,5,Tarn Taran langar firing
+5,Monitoring deck,Ajit,3,No,Vigilance refuses to withdraw lookout notice against former university VC,Yes,Neutral,"Governance, Assembly & politics",Anti-corruption,,2,4,
+6,Monitoring deck,Ajit,3,No,"Strict action against illegal mining, Poclain machine seized, case registered: Goyal",Yes,Positive,"Governance, Assembly & politics",Anti-corruption,,2,3,Illegal mining crackdown: Goyal
+7,Monitoring deck,Ajit,3,No,"Mustard oil price hits Rs 230 a bottle, kitchen budget hit",No,Not about AAP/Govt,,Others,,2,5,
+8,Monitoring deck,Ajit,3,No,NIA gets 90 more days to probe Babbar Khalsa case,No,Not about AAP/Govt,,Others,,2,5,
+9,Monitoring deck,Ajit,11,No,Municipal Corporation needs new town hall; decision may come after assembly elections,Yes,Neutral,Civic services & infrastructure,Civic issues,,1,4,
+10,Monitoring deck,Ajit,12,No,Mayor calls meeting today on Municipal Corporation union strike,Yes,Neutral,"Schools, health & employees",Employee protests,,1,5,
+11,Monitoring deck,Ajit,12,No,"Deepak Bali starts road construction in Latifpura, Ward 35",Yes,Positive,Civic services & infrastructure,Development works,,1,4,
+12,Monitoring deck,Ajit,14,No,Can shifting political loyalties distort the math in Punjab assembly elections?,Yes,Neutral,"Governance, Assembly & politics",Election analysis,,1,5,
+13,Monitoring deck,Ajit,14,No,Five-member expert committee will not attend joint meeting called by govt coordination committee tomorrow,Yes,Neutral,"Governance, Assembly & politics",Satkar Act,,1,3,Akal Takht panel and Satkar Act talks
+14,Monitoring deck,Ajit,15,No,"Pala Jalalpur donates Rs 11,000 to Gurdwara Singh Sabha Shahkot committee",Yes,Neutral,AAP organisation & outreach,AAP outreach,,1,4,
+15,Monitoring deck,Ajit,15,No,Dozens of organisations protest in front of DSP Nakodar office today,Yes,Negative,Crime & law and order,Protest against police,,1,4,
+16,Monitoring deck,Ajit,15,No,Illegal activities will not be tolerated in Jalandhar Cantt: Deepak Bali,Yes,Neutral,AAP organisation & outreach,AAP outreach,,1,3,
+17,Monitoring deck,Ajit,15,No,"Naib Tehsildar visits Phillaur, Dosanjh Kalan mandis as paddy procurement ends; govt making full efforts: Sukhdeep Singh Appra",Yes,Neutral,"Farmers, stubble & paddy",Paddy procurement,,1,6,
+18,Monitoring deck,Ajit,E1,No,"333 more village clinics to open in Punjab, total 591: Inderjit Kaur Mann",Yes,Positive,"Schools, health & employees",Health services,,2,3,
+19,Monitoring deck,Ajit,E1,No,"Cheques worth Rs 14,84,725 given to Anganwadi workers under Mawan Dhiyan Satkar Yojana in Kartarpur: MLA Balkar Singh",Yes,Positive,Welfare schemes,Social welfare,,2,5,
+20,Monitoring deck,Ajit,E1,No,Adampur bus stand park to be renovated at Rs 13 lakh: Pawan Kumar Tinu,Yes,Positive,Civic services & infrastructure,Development works,,2,4,
+21,Monitoring deck,Ajit,E2,No,Halqa in-charge inaugurates CM's Playground at village Mandi,Yes,Positive,Hockey & sports,Sports ground,,2,3,
+22,Monitoring deck,Ajit,E2,No,Anganwadi workers invited to join Dec 1-2 gherao of Parliament,No,Not about AAP/Govt,,Others,,2,5,
+23,Monitoring deck,Jagbani,1,Yes,Railway track bomb blast case: another Punjab youth arrested,No,Not about AAP/Govt,,Others,,3,2,
+24,Monitoring deck,Jagbani,1,Yes,"Firing on youths serving langar in Tarn Taran, 1 killed",Yes,Negative,Crime & law and order,Murder,,3,4,Tarn Taran langar firing
+25,Monitoring deck,Jagbani,3,No,Changing name of bridge proposed for Guru Gobind Singh Ji is unacceptable: Harpal Cheema,Yes,Positive,AAP leaders' counter-attacks,AAP attack on opposition,Yes,2,3,AAP objects to Nitish Setu name
+26,Monitoring deck,Jagbani,3,No,"Major action against illegal mining in Sri Anandpur Sahib, Poclain seized: Goyal",Yes,Positive,"Governance, Assembly & politics",Anti-corruption,,2,4,Illegal mining crackdown: Goyal
+27,Monitoring deck,Jagbani,3,No,"Second shooter in ASI Iqbal Singh murder case arrested from Bhinda, Amritsar",Yes,Positive,"Police action on gangs, arms & drugs",Police action vs crime,,2,5,ASI Iqbal Singh murder: second shooter held
+28,Monitoring deck,Jagbani,3,No,"Gunpoint car snatching case traced, 4 arrested, stolen XUV-500 recovered",Yes,Positive,"Police action on gangs, arms & drugs",Police action vs crime,,2,3,
+29,Monitoring deck,Jagbani,6,No,274 DSPs and ACPs of Punjab transferred,Yes,Neutral,"Governance, Assembly & politics",Administrative reshuffle,,1,4,
+30,Monitoring deck,Punjabi Tribune,1,Yes,Krishanu Sharda also worked as middleman for others: ED,Yes,Negative,"Governance, Assembly & politics",Anti-corruption,,3,3,ED: Sharda middleman for officers
+31,Monitoring deck,Punjabi Tribune,1,Yes,Sale of pregabalin above 75 mg banned,Yes,Positive,Drugs & medicine access,Drugs & medicine access,,3,3,
+32,Monitoring deck,Punjabi Tribune,3,No,Municipal elections: 257 candidates in the fray,Yes,Neutral,"Governance, Assembly & politics",Election Commission,,2,5,
+33,Monitoring deck,Punjabi Tribune,3,No,Vigilance will not withdraw lookout notice against former VC,Yes,Neutral,"Governance, Assembly & politics",Anti-corruption,,2,3,
+34,Monitoring deck,Punjabi Tribune,4,No,"One dead, three injured in firing over dispute",Yes,Negative,Crime & law and order,Law & order / crime,,1,3,
+35,Monitoring deck,Punjabi Tribune,4,No,Discussion on letter from govt coordination committee,Yes,Neutral,"Governance, Assembly & politics",Satkar Act,,1,3,Akal Takht panel and Satkar Act talks
+36,Monitoring deck,Punjabi Tribune,4,No,State session of Rural Workers Union postponed,No,Not about AAP/Govt,,Others,,1,4,
+37,Monitoring deck,Punjabi Tribune,4,No,Pash case: intellectuals to gather today as accused not arrested despite case,Yes,Negative,Crime & law and order,Protest against police,,1,3,
+38,Monitoring deck,Punjabi Tribune,4,No,Electricity bills of cow shelters waived,Yes,Positive,Welfare schemes,Social welfare,,1,3,
+39,Monitoring deck,Punjabi Tribune,10,No,Arrested with illegal liquor,Yes,Positive,"Police action on gangs, arms & drugs",Police action vs crime,,1,2,
+40,Monitoring deck,Punjabi Jagran,1,Yes,Firing on youths serving langar before Jagran,Yes,Negative,Crime & law and order,Murder,,3,3,Tarn Taran langar firing
+41,Monitoring deck,Punjabi Jagran,1,Yes,Rejecting bridge resolution in Guru Gobind Singh Ji's name insults Sikh sentiments: Cheema,Yes,Positive,AAP leaders' counter-attacks,AAP attack on opposition,Yes,3,5,AAP objects to Nitish Setu name
+42,Monitoring deck,Punjabi Jagran,1,Yes,No one is above Guru Sahib's legacy: Dhaliwal,Yes,Positive,AAP leaders' counter-attacks,AAP attack on opposition,Yes,3,2,AAP objects to Nitish Setu name
+43,Monitoring deck,Punjabi Jagran,1,Yes,"Govt backs out of raising Rs 15,000 crore through GMADA",Yes,Negative,Court rebukes & govt finances,Govt finances,,3,4,
+44,Monitoring deck,Punjabi Jagran,2,No,Special voter camps at all polling booths today,Yes,Neutral,"Governance, Assembly & politics",Election Commission,,2,2,
+45,Monitoring deck,Punjabi Jagran,2,No,Satkar Act issue: expert committee ready for joint meeting,Yes,Neutral,"Governance, Assembly & politics",Satkar Act,,2,3,Akal Takht panel and Satkar Act talks
+46,Monitoring deck,Punjabi Jagran,2,No,"Action against illegal mining, Poclain machine seized",Yes,Positive,"Governance, Assembly & politics",Anti-corruption,,2,3,Illegal mining crackdown: Goyal
+47,Monitoring deck,Punjabi Jagran,2,No,Take a scientific approach to sports,Yes,Neutral,Hockey & sports,Hockey & sports,,2,5,
+48,Monitoring deck,Punjabi Jagran,2,No,Release Amritpal and other jailed Sikhs: Bhim Singh,No,Not about AAP/Govt,,Others,,2,2,
+49,Monitoring deck,Punjabi Jagran,2,No,KBS Sidhu writes to Amit Shah for SGPC elections,No,Not about AAP/Govt,,Others,,2,3,
+50,Monitoring deck,Punjabi Jagran,2,No,Children's Aadhaar update free till September 2027,No,Not about AAP/Govt,,Others,,2,2,
+51,Monitoring deck,Punjabi Jagran,2,No,NIA working for extradition of Dalla and Pasia,No,Not about AAP/Govt,,Others,,2,3,
+52,Monitoring deck,Punjabi Jagran,5,No,Crores in cash and jewellery found at CGST Superintendent's house,No,Not about AAP/Govt,,Others,,1,6,
+53,Monitoring deck,Punjabi Jagran,5,No,Heroin and arms dropped by drone recovered,Yes,Positive,"Police action on gangs, arms & drugs",Police action vs drugs,,1,2,
+54,Monitoring deck,Punjabi Jagran,5,No,"NGT strict on Bhogpur biogas plant, notice issued",Yes,Negative,Court rebukes & govt finances,Court rebuke,,1,3,
+55,Monitoring deck,Punjabi Jagran,5,No,Excise inspectors' association announces do-or-die fight over pending demands,Yes,Negative,"Schools, health & employees",Employee protests,,1,2,
+56,Monitoring deck,Punjabi Jagran,5,No,Five kilos of heroin sent by Pakistani smugglers recovered,No,Not about AAP/Govt,,Others,,1,2,
+57,Monitoring deck,Punjabi Jagran,5,No,Sirhind Canal closed; wheat sowing affected in Malwa,Yes,Negative,"Farmers, stubble & paddy",Agriculture & stubble,,1,6,
+58,Monitoring deck,Punjabi Jagran,6,No,"Raids at 570 places, 219 arrested",Yes,Positive,"Police action on gangs, arms & drugs",Police action vs drugs,,1,4,
+59,Monitoring deck,Rozana Spokesman,1,Yes,Naming bridge 'Nitish' insults Sikh sentiments: Harpal Cheema,Yes,Positive,AAP leaders' counter-attacks,AAP attack on opposition,Yes,3,5,AAP objects to Nitish Setu name
+60,Monitoring deck,Rozana Spokesman,2,No,Global stability only through Guru Nanak Dev Ji's philosophy: Seechewal,Yes,Neutral,"Religious outreach: Valmiki, Kartarpur",Religious outreach,,2,3,
+61,Monitoring deck,Rozana Spokesman,2,No,Repeated adjournments prolong wait for victims: Giaspura,No,Not about AAP/Govt,,Others,,2,5,
+62,Monitoring deck,Rozana Spokesman,4,No,MLA Rai launches new PRTC bus route from Jakhwali to Rajpura,Yes,Positive,Civic services & infrastructure,Development works,,1,6,
+63,Monitoring deck,Rozana Spokesman,4,No,AAP joint secretary celebrates Verka Milk Plant director's birthday with cake,Yes,Neutral,AAP organisation & outreach,AAP outreach,,1,4,
+64,Monitoring deck,Rozana Spokesman,7,No,AAP's 15th foundation day to be celebrated as public festival in Moga: Sandhwan,Yes,Positive,AAP organisation & outreach,AAP outreach,,1,5,"AAP foundation day rally, Moga"
+65,Monitoring deck,Rozana Spokesman,7,No,"Krishnu Sharda, close aide of ex-DIG Bhullar, was middleman for several officers: ED",Yes,Negative,"Governance, Assembly & politics",Anti-corruption,,1,4,ED: Sharda middleman for officers
+66,Monitoring deck,Rozana Spokesman,7,No,Sugar and rice production likely to decline,No,Not about AAP/Govt,,Others,,1,5,
+67,Monitoring deck,Rozana Spokesman,7,No,"Clash between inmates in Kapurthala jail, 3 injured",Yes,Negative,Crime & law and order,Law & order / crime,,1,2,
+68,Monitoring deck,Rozana Spokesman,7,No,Second shooter also arrested in ASI murder case,Yes,Positive,"Police action on gangs, arms & drugs",Police action vs crime,,1,2,ASI Iqbal Singh murder: second shooter held
+69,Monitoring deck,Rozana Spokesman,9,No,SSP visits drug hot-spots under War Against Drugs,Yes,Neutral,"Police action on gangs, arms & drugs",Police action vs drugs,,1,4,
+70,Monitoring deck,Rozana Spokesman,9,No,State-level event in Moga on Nov 26 for AAP foundation day: Sekhon,Yes,Positive,AAP organisation & outreach,AAP outreach,,1,3,"AAP foundation day rally, Moga"
+71,Monitoring deck,Rozana Spokesman,9,No,Many Punjab Govt pensioners benefit from three-day Pensioner Service Fair,Yes,Positive,Welfare schemes,Social welfare,,1,4,
+72,Monitoring deck,Rozana Spokesman,9,No,MLA Amolak Singh meets Kejriwal,Yes,Neutral,AAP organisation & outreach,AAP outreach,,1,3,
+73,Monitoring deck,Rozana Spokesman,10,No,"1,236 families in 6 villages given ownership of homes: Barinder Kumar Goyal",Yes,Positive,Welfare schemes,Social welfare,,1,5,
+74,Monitoring deck,Rozana Spokesman,10,No,"5,267 cheque bounce cases settled in special Lok Adalat, Rs 206.63 crore",No,Not about AAP/Govt,,Others,,1,4,
+75,Monitoring deck,Rozana Spokesman,10,No,Strict action against illegal mining in Sri Anandpur Sahib,Yes,Positive,"Governance, Assembly & politics",Anti-corruption,,1,4,Illegal mining crackdown: Goyal
+76,Monitoring deck,Rozana Spokesman,10,No,219 held on 305th day of crackdown on gangsters,Yes,Positive,"Police action on gangs, arms & drugs",Police action vs gangs,,1,3,
+77,Monitoring deck,Rozana Spokesman,10,No,Electricity bills waived for 538 registered gaushalas in Punjab,Yes,Positive,Welfare schemes,Social welfare,,1,6,
+78,Monitoring deck,Rozana Spokesman,10,No,Aadhaar biometric update mandatory for growing children,No,Not about AAP/Govt,,Others,,1,4,
+79,Monitoring deck,Rozana Spokesman,10,No,1 arrested with large quantity of illicit liquor,Yes,Positive,"Police action on gangs, arms & drugs",Police action vs crime,,1,4,
+80,Monitoring deck,Rozana Spokesman,10,No,Medical Practitioners Association writes open letter to Bhagwant Mann,Yes,Negative,"Schools, health & employees",Health services,,1,5,
+81,Monitoring deck,Rozana Spokesman,10,No,"5 kg heroin recovered, 4 accused named",Yes,Positive,"Police action on gangs, arms & drugs",Police action vs drugs,,1,2,
+82,Monitoring deck,Punjab Kesari,1,Yes,"Firing on youths serving langar in Tarn Taran, one dead",Yes,Negative,Crime & law and order,Murder,,3,5,Tarn Taran langar firing
+83,Monitoring deck,Punjab Kesari,3,No,Renaming of bridge proposed after Guru Gobind Singh as 'Nitish Setu' unacceptable: Harpal Cheema,Yes,Positive,AAP leaders' counter-attacks,AAP attack on BJP (national),Yes,2,3,AAP objects to Nitish Setu name
+84,Monitoring deck,Punjab Kesari,3,No,"Big action against illegal mining in Anandpur Sahib, poclain machine seized: Goyal",Yes,Positive,"Police action on gangs, arms & drugs",Police action vs crime,,2,3,Illegal mining crackdown: Goyal
+85,Monitoring deck,Punjab Kesari,6,No,Second shooter Bhinda in ASI Iqbal Singh murder arrested from Amritsar,Yes,Positive,"Police action on gangs, arms & drugs",Police action vs gangs,,1,4,ASI Iqbal Singh murder: second shooter held
+86,Monitoring deck,Punjab Kesari,6,No,Transfers of 274 DSPs and ACPs in Punjab,Yes,Neutral,"Governance, Assembly & politics",Police transfers (Election Commission),,1,3,
+87,Monitoring deck,Dainik Jagran,1,Yes,Disregarding Guru Gobind Singh's name insults sentiments: Cheema,Yes,Positive,AAP leaders' counter-attacks,AAP attack on BJP (national),Yes,3,5,AAP objects to Nitish Setu name
+88,Monitoring deck,Dainik Jagran,1,Yes,No one above Guru Sahib's legacy: Dhaliwal,Yes,Positive,AAP leaders' counter-attacks,AAP attack on BJP (national),Yes,3,2,AAP objects to Nitish Setu name
+89,Monitoring deck,Dainik Jagran,1,Yes,"Punjab govt withdraws from Rs 15,000 crore GMADA collection, tender cancelled",Yes,Neutral,"Governance, Assembly & politics",Anti-corruption,,3,4,
+90,Monitoring deck,Dainik Jagran,2,No,"Firing on youths preparing for Bhagwati Jagran in Tarn Taran, one dead",Yes,Negative,Crime & law and order,Murder,,2,6,Tarn Taran langar firing
+91,Monitoring deck,Dainik Jagran,2,No,Plastic Champions campaign to run in six more districts,Yes,Positive,Civic services & infrastructure,Development works,,2,2,
+92,Monitoring deck,Dainik Jagran,2,No,Special voter camps at all polling booths in the state today,Yes,Neutral,"Governance, Assembly & politics",Election Commission,,2,2,
+93,Monitoring deck,Dainik Jagran,2,No,Four held for robbing SUV at gunpoint in Pathankot,Yes,Positive,"Police action on gangs, arms & drugs",Police action vs crime,,2,4,Pathankot SUV loot arrests
+94,Monitoring deck,Dainik Jagran,2,No,"Seven-hour probe, truck pulled out after 36 hours: NHAI team at collapsed Bhakhra canal bridge in Patiala",Yes,Neutral,Bhakra canal bridge collapse,Civic issues,,2,5,
+95,Monitoring deck,Dainik Jagran,3,No,"5.5 kg heroin recovered on border (BSF, drone-dropped, near Pul Moran)",No,Not about AAP/Govt,,Others,,2,3,
+96,Monitoring deck,Dainik Jagran,3,No,Meeting on Satkar law only after govt's reply: Akal Takht expert committee,Yes,Neutral,"Governance, Assembly & politics",Satkar Act standoff,,2,4,
+97,Monitoring deck,Dainik Jagran,3,No,Pending SGPC election matter raised before Centre (ex-official KBS Sidhu writes to Amit Shah),No,Not about AAP/Govt,,Others,,2,2,
+98,Monitoring deck,Dainik Jagran,3,No,"Fazilka and Sangrur have most stubble burning cases: 6,937 cases in state till 20 Nov",Yes,Negative,"Farmers, stubble & paddy",Agriculture & stubble,,2,2,
+99,Monitoring deck,Dainik Bhaskar,J3,No,"Fazilka has most stubble burning, 39 sites",Yes,Negative,"Farmers, stubble & paddy",Agriculture & stubble,,2,4,
+100,Monitoring deck,Dainik Bhaskar,J3,No,Snowfall in Himachal drops day temperature up to 2 degrees in five districts including Patiala,No,Not about AAP/Govt,,Weather (not govt),,2,4,
+101,Monitoring deck,Dainik Bhaskar,J3,No,"Firing on youths preparing for langar, one dead",Yes,Negative,Crime & law and order,Murder,,2,8,Tarn Taran langar firing
+102,Monitoring deck,Dainik Bhaskar,J4,No,"Four arrested including main accused from Vadodara, SUV recovered (Pathankot gunpoint loot)",Yes,Positive,"Police action on gangs, arms & drugs",Police action vs crime,,1,4,Pathankot SUV loot arrests
+103,Monitoring deck,Dainik Bhaskar,J4,No,Bihar govt's decision heats politics: AAP objects to 'Nitish Setu' name; FM Cheema says insult to Guru Sahib,Yes,Positive,AAP leaders' counter-attacks,AAP attack on BJP (national),Yes,1,8,AAP objects to Nitish Setu name
+104,Monitoring deck,Dainik Bhaskar,J4,No,Other ways to honour exist: Sandhwan appeals to PM on bridge name,Yes,Positive,AAP leaders' counter-attacks,AAP attack on BJP (national),Yes,1,4,AAP objects to Nitish Setu name
+105,Monitoring deck,Dainik Bhaskar,J4,No,273 IPS and DSP level officers transferred,Yes,Neutral,"Governance, Assembly & politics",Police transfers (Election Commission),,1,3,
+106,Monitoring deck,Dainik Bhaskar,J4,No,ASI murder case: second shooter Bhupinder Bhinda arrested from Amritsar,Yes,Positive,"Police action on gangs, arms & drugs",Police action vs gangs,,1,4,ASI Iqbal Singh murder: second shooter held
+107,Monitoring deck,Dainik Bhaskar,J4,No,"Relief for parents: Aadhaar biometric update free for children aged 5 to 17, camps in schools",No,Not about AAP/Govt,,Others,,1,6,
+108,Monitoring deck,Dainik Bhaskar,J4,No,"Lok Adalat: 22,723 cases heard, 5,267 settled",No,Not about AAP/Govt,,Others,,1,3,
+109,Monitoring deck,Dainik Bhaskar,J4,No,"Two JCBs seized in Pathankot on illegal mining charge, case against three",Yes,Positive,"Police action on gangs, arms & drugs",Police action vs crime,,1,5,Illegal mining crackdown: Goyal
+110,Monitoring deck,Dainik Bhaskar,J4,No,752 cartons of liquor and beer seized from truck from Rajasthan in Faridkot,Yes,Positive,"Police action on gangs, arms & drugs",Police action vs crime,,1,3,
+111,Monitoring deck,Dainik Bhaskar,J4,No,Firing outside architect's house and salon in Mohali,Yes,Negative,Crime & law and order,Law & order / crime,,1,3,
+112,Monitoring deck,Dainik Bhaskar,J4,No,Sale and stock of pregabalin above 75 mg banned (Fazilka),Yes,Positive,Drugs & medicine access,Drug medicine curbs,,1,3,
+113,Monitoring deck,Dainik Bhaskar,1,Yes,"Rainwater from roofs of 19,000 Punjab schools to be recharged into ground",Yes,Positive,"Schools, health & employees",School infrastructure,,3,6,
+114,Monitoring deck,Dainik Bhaskar,1,Yes,"Gadis will not be stuck at red lights on empty roads: AI smart traffic signals, pilot in Bathinda",Yes,Positive,Civic services & infrastructure,Development works,,3,3,
+115,Monitoring deck,Dainik Bhaskar,1,Yes,Bhullar's middleman did fixing for many IAS and IPS officers: ED chargesheet,Yes,Negative,"Governance, Assembly & politics",Anti-corruption,,3,4,
+116,Monitoring deck,Dainik Bhaskar,1,Yes,"PCS exam record sealed, to be submitted by tomorrow (PPSC seals recruitment record after HC stay)",Yes,Neutral,"Governance, Assembly & politics",Court / recruitment hearing,,3,1,
+117,Monitoring deck,Dainik Savera,1,Yes,Naming bridge after Nitish Kumar despite proposal for Guru Gobind Singh insults Sikh sentiments: Harpal Singh Cheema,Yes,Positive,AAP leaders' counter-attacks,AAP attack on BJP (national),Yes,3,4,AAP objects to Nitish Setu name
+118,Monitoring deck,Dainik Savera,2,No,5.32 kg heroin recovered from India-Pakistan border (Lopoke police and BSF joint operation),No,Not about AAP/Govt,,Others,,2,2,
+119,Monitoring deck,Dainik Savera,2,No,Action against illegal mining in Sri Anandpur Sahib; poclain machine seized: Barinder Goyal,Yes,Positive,"Governance, Assembly & politics",Anti-corruption,,2,3,Illegal mining crackdown: Goyal
+120,Monitoring deck,Dainik Savera,2,No,Second shooter Bhinda in ASI Iqbal Singh murder arrested from Amritsar,Yes,Positive,"Police action on gangs, arms & drugs",Police action vs gangs,,2,4,ASI Iqbal Singh murder: second shooter held
+121,Monitoring deck,Dainik Savera,2,No,4 accused of XUV loot at gunpoint held; main accused hiding in Gujarat,Yes,Positive,"Police action on gangs, arms & drugs",Police action vs crime,,2,2,Pathankot SUV loot arrests
+122,Monitoring deck,Dainik Savera,3,No,"Indiscriminate firing on youths preparing langar: 1 dead, 3 injured; family protests with body on road",Yes,Negative,Crime & law and order,Murder,,2,4,Tarn Taran langar firing
+123,Monitoring deck,Dainik Savera,3,No,"Special Lok Adalat: 5,267 cheque bounce cases settled, Rs 206.63 crore",No,Not about AAP/Govt,,Others,,2,3,
+124,Monitoring deck,Dainik Savera,3,No,26 November a historic day in Indian politics: Kultar Sandhwan,Yes,Positive,AAP organisation & outreach,AAP outreach,,2,4,
+125,Monitoring deck,Dainik Savera,3,No,4 pistols and heroin recovered from drone drop in Khalra (BSF and police joint action),Yes,Positive,"Police action on gangs, arms & drugs",Police action vs arms,,2,3,
+126,Monitoring deck,The Tribune,1,Yes,Guru's name dropped: AAP slams 'Nitish Setu' tag for bridge near Takht Patna Sahib,Yes,Positive,AAP leaders' counter-attacks,AAP attack on BJP (national),Yes,3,3,AAP objects to Nitish Setu name
+127,Monitoring deck,The Tribune,2,No,Dept has intensified crackdown on illegal mining: Minister Goyal,Yes,Positive,"Governance, Assembly & politics",Anti-corruption,,2,3,Illegal mining crackdown: Goyal
+128,Monitoring deck,The Tribune,2,No,State produces 2.11L tonne fish annually: Khudian,Yes,Positive,"Farmers, stubble & paddy",Agriculture & stubble,,2,1,
+129,Monitoring deck,The Tribune,2,No,Faridkot court gives police month to file theft case report,Yes,Negative,Crime & law and order,Law & order / crime,,2,1,
+130,Monitoring deck,The Tribune,2,No,Written assurance must for talks on sacrilege law: Takht,Yes,Negative,"Governance, Assembly & politics",Satkar Act,,2,2,Akal Takht panel and Satkar Act talks
+131,Monitoring deck,The Tribune,6,No,Guru's name dropped: AAP slams 'Nitish Setu'... (continuation from page 1),No,Duplicate,,Duplicate,,1,1,AAP objects to Nitish Setu name
+132,Monitoring deck,The Tribune,3,No,"Bhullar aide ran network for transfers, postings: ED to court; flags Rs 1.12-cr unexplained funds",Yes,Negative,"Governance, Assembly & politics",Anti-corruption,,2,4,ED: Sharda middleman for officers
+133,Monitoring deck,The Tribune,3,No,Govt limits access to pregabalin above 75 mg; patients worried,Yes,Negative,Drugs & medicine access,Drug access restrictions,,2,4,
+134,Monitoring deck,The Tribune,3,No,SC gives Bhullar's father protection from arrest in suicide case,Yes,Neutral,Crime & law and order,Law & order / crime,,2,1,
+135,Monitoring deck,The Tribune,3,No,"Retrospective regularisation must carry actual benefits, rules HC",Yes,Negative,Court rebukes & govt finances,Court rebuke,,2,3,
+136,Monitoring deck,The Tribune,4,No,"Haryana, Punjab have fallen short of capital expenditure targets: Report",Yes,Negative,Court rebukes & govt finances,State finances,,1,4,
+137,Monitoring deck,Hindustan Times,2,No,4 wanted in Pathankot gunpoint carjacking case traced to Gujarat,Yes,Positive,"Police action on gangs, arms & drugs",Police action vs crime,,2,3,Pathankot SUV loot arrests
+138,Monitoring deck,Hindustan Times,2,No,"19-year-old shot dead in Tarn Taran, 3 hurt",Yes,Negative,Crime & law and order,Murder,,2,2,Tarn Taran langar firing
+139,Monitoring deck,Hindustan Times,2,No,AAP slams Bihar govt for naming bridge after Nitish instead of 10th Sikh Guru,Yes,Positive,AAP leaders' counter-attacks,AAP attack on BJP (national),Yes,2,3,AAP objects to Nitish Setu name
+140,Monitoring deck,Hindustan Times,2,No,Khera shares govt doc for naming bridge after Guru Gobind Singh,No,Not about AAP/Govt,,Others,,2,2,AAP objects to Nitish Setu name
+141,Monitoring deck,Hindustan Times,2,No,Second shooter held in Tarn Taran ASI's murder case,Yes,Positive,"Police action on gangs, arms & drugs",Police action vs gangs,,2,1,ASI Iqbal Singh murder: second shooter held
+142,Monitoring deck,Hindustan Times,2,No,"Punjab seeks refrigerated wagons on Vande Bharat, Shatabdi",Yes,Neutral,"Farmers, stubble & paddy",Agriculture & stubble,,2,4,
+143,Monitoring deck,Hindustan Times,3,No,ED: Bhullar's aide Sharda acted as middleman for several officials,Yes,Negative,"Governance, Assembly & politics",Anti-corruption,,2,4,ED: Sharda middleman for officers
+144,Monitoring deck,Hindustan Times,8,No,AAP to go it alone on all 70 seats for polls (Uttarakhand),Yes,Neutral,AAP organisation & outreach,AAP outreach,,1,1,
+145,Monitoring deck,Times of India,1,Yes,"AAP, Cong protest not naming Bihar bridge after Guru",Yes,Positive,AAP leaders' counter-attacks,AAP attack on BJP (national),Yes,3,2,AAP objects to Nitish Setu name
+146,Monitoring deck,Times of India,3,No,Field-fire crash claims second life in Ludhiana; farmer held a day after SUV driver's arrest,Yes,Negative,"Farmers, stubble & paddy",Agriculture & stubble,,2,4,
+147,Monitoring deck,Times of India,3,No,"Punjab's farm fires cross 7K mark, up 37% from last year",Yes,Negative,"Farmers, stubble & paddy",Agriculture & stubble,,2,4,
+148,Monitoring deck,Times of India,3,No,ASI murder: 2nd 'shooter' arrested,Yes,Positive,"Police action on gangs, arms & drugs",Police action vs gangs,,2,3,ASI Iqbal Singh murder: second shooter held
+149,Monitoring deck,Times of India,3,No,Pb youth dies in Canada; kin seek govt help to bring back body,No,Not about AAP/Govt,,Others,,2,3,
+150,Monitoring deck,Times of India,3,No,Never refused to meet govt panel: Akal Takht committee,Yes,Neutral,"Religious outreach: Valmiki, Kartarpur",Satkar Act talks,,2,2,Akal Takht panel and Satkar Act talks
+151,Monitoring deck,Times of India,3,No,2 DSGMC members barred from religious activities,No,Not about AAP/Govt,,Others,,2,2,
+152,Monitoring deck,Times of India,1,Yes,'Being framed in property dispute': Firing accused to DGP,Yes,Negative,Crime & law and order,Law & order / crime,,3,3,
+153,Monitoring deck,Times of India,3,No,42.7 LMT legacy waste yet to be remediated in Punjab,Yes,Negative,Civic services & infrastructure,Civic issues,,2,4,
+154,Monitoring deck,Indian Express,6,No,"'Make people sick, then open hospitals': Seechewal questions free treatment logic",Yes,Negative,"Governance, Assembly & politics",Own MLAs' complaints,,1,4,
+155,Monitoring deck,Indian Express,6,No,Punjab records 23.5% decline in burnt area despite 22.4% spike in farm fires,Yes,Neutral,"Farmers, stubble & paddy",Agriculture & stubble,,1,5,
+156,Monitoring deck,Indian Express,10,No,"Two Punjab brothers killed in Greece, relative held; family seeks probe",No,Not about AAP/Govt,,Others,,1,4,
+157,Monitoring deck,The Savera Times,1,Yes,"AAP reject 'Nitish Setu', seek Guru Gobind Singh's name for bridge",Yes,Positive,AAP leaders' counter-attacks,AAP attack on BJP (national),Yes,3,3,
+158,Monitoring deck,The Savera Times,2,No,"Second shooter arrested in ASI Iqbal Singh murder case, both assailants nabbed",Yes,Positive,"Police action on gangs, arms & drugs",Police action vs crime,,2,4,
+159,Monitoring deck,The Savera Times,2,No,Illegal mining busted in Pathankot,Yes,Positive,"Police action on gangs, arms & drugs",Police action vs crime,,2,2,
+160,Monitoring deck,The Savera Times,2,No,Aadhaar biometric updates free for children aged 5-17 till Sept 2027,No,Not about AAP/Govt,,Others,,2,4,
+161,Monitoring deck,The Savera Times,2,No,13 dengue cases reported in Abohar,Yes,Neutral,"Schools, health & employees",Health services,,2,2,
+162,Monitoring deck,The Savera Times,2,No,AAP's 15th Foundation Day celebrations in Moga on Nov 26: Sandhwan,Yes,Positive,AAP organisation & outreach,AAP outreach,,2,3,
+163,Monitoring deck,The Savera Times,2,No,"Punjab mining department crackdown illegal mining, seizes Poclain machine",Yes,Positive,"Police action on gangs, arms & drugs",Police action vs crime,,2,3,
+164,Monitoring deck,The Savera Times,3,No,"Punjab Lok Adalat settles 5,267 cheque bounce cases worth Rs 206.63 cr",No,Not about AAP/Govt,,Others,,2,5,
+165,Monitoring deck,The Savera Times,3,No,Case registered against 34 OCM mill workers in Amritsar,Yes,Negative,Crime & law and order,Law & order / crime,,2,2,
+166,Monitoring deck,The Savera Times,3,No,Man arrested for heroin consumption in Verka,Yes,Positive,"Police action on gangs, arms & drugs",Police action vs drugs,,2,2,
+167,Monitoring deck,The Savera Times,3,No,Pathankot XUV robbery: main accused arrested in Gujarat,Yes,Positive,"Police action on gangs, arms & drugs",Police action vs crime,,2,3,
+168,Monitoring deck,The Savera Times,3,No,Gangstran Te Vaar: 219 arrested in 570 police raids across state,Yes,Positive,"Police action on gangs, arms & drugs",Police action vs gangs,,2,5,
+169,Monitoring deck,Jagbani,3,No,Right of every citizen to question and seek answers from govt: Pilot,Yes,Negative,Opposition attacks on the govt,Opposition attack: Congress,,2,3,Warring Insaaf March
+170,Monitoring deck,Jagbani,3,No,Pain of mothers who lose sons to drugs hard to express: Channi,No,Not about AAP/Govt,,Opposition internal,,2,3,
+171,Monitoring deck,Jagbani,3,No,Public trusted 'one chance' slogan but got only disappointment: Warring,Yes,Negative,Opposition attacks on the govt,Opposition attack: Congress,,2,6,Warring Insaaf March
+172,Monitoring deck,Jagbani,3,No,Stopping Youth Congress leaders' jail meeting is proof of govt's dictatorship: Pargat Singh,Yes,Negative,Opposition attacks on the govt,Opposition attack: Congress,,2,4,
+173,Monitoring deck,Jagbani,6,No,"Ruckus during Insaaf March, protesters chant slogans at Nihang Singhs' base",No,Not about AAP/Govt,,Opposition internal,,1,3,Warring Insaaf March
+174,Monitoring deck,Punjabi Tribune,1,Yes,Punjab elections: Congress eyes 80 seats,No,Not about AAP/Govt,,Opposition internal,,3,5,
+175,Monitoring deck,Punjabi Tribune,3,No,Warring opens front against govt with Insaaf March,Yes,Negative,Opposition attacks on the govt,Opposition attack: Congress,,2,5,Warring Insaaf March
+176,Monitoring deck,Punjabi Tribune,3,No,"Pargat Singh, who came to meet youth leaders in jail, returns empty-handed",Yes,Negative,Opposition attacks on the govt,Opposition attack: Congress,,2,4,
+177,Monitoring deck,Punjabi Jagran,2,No,Congressmen sacrificed their lives for peace: Warring,No,Not about AAP/Govt,,Opposition internal,,2,6,Warring Insaaf March
+178,Monitoring deck,Punjabi Jagran,2,No,Pargat not allowed to meet jailed youth leaders,Yes,Negative,Opposition attacks on the govt,Opposition attack: Congress,,2,3,
+179,Monitoring deck,Rozana Spokesman,7,No,Fighting for youth's rights is not a crime: Pargat Singh,Yes,Negative,Opposition attacks on the govt,Opposition attack: Congress,,1,5,
+180,Monitoring deck,Rozana Spokesman,7,No,Raja Warring holds Insaaf March in Ludhiana,No,Not about AAP/Govt,,Opposition internal,,1,4,Warring Insaaf March
+181,Monitoring deck,Punjab Kesari,Jalandhar 3,No,Questioning govt in democracy is every citizen's right: Pilot,Yes,Negative,Opposition attacks on the govt,Opposition attack: Congress,,2,2,Pargat jail visit / Youth Congress PCS protest
+182,Monitoring deck,Punjab Kesari,Jalandhar 3,No,Barring meeting with Youth Congress leaders in jail proves govt's dictatorship: Pargat Singh,Yes,Negative,Opposition attacks on the govt,Opposition attack: Congress,,2,4,Pargat jail visit / Youth Congress PCS protest
+183,Monitoring deck,Punjab Kesari,Jalandhar 3,No,Hard to put into words the pain of losing sons to drugs: Channi,No,Not about AAP/Govt,,Opposition internal,,2,2,
+184,Monitoring deck,Punjab Kesari,Jalandhar 3,No,"People trusted 'give one chance' slogan, got only disappointment: Raja Warring",Yes,Negative,Opposition attacks on the govt,Opposition attack: Congress,,2,4,Warring Insaaf March
+185,Monitoring deck,Dainik Jagran,Jalandhar 3,No,"After cycle yatra, Congress's Insaaf March; Warring starts march in Ludhiana",No,Not about AAP/Govt,,Opposition internal,,2,8,Warring Insaaf March
+186,Monitoring deck,Dainik Jagran,Jalandhar 3,No,"Law and order, drugs: Warring corners AAP govt",Yes,Negative,Opposition attacks on the govt,Opposition attack: Congress,,2,2,Warring Insaaf March
+187,Monitoring deck,Dainik Jagran,Jalandhar 3,No,Pargat Singh fumes at being stopped from meeting Youth Congress leaders in jail,Yes,Negative,Opposition attacks on the govt,Opposition attack: Congress,,2,2,Pargat jail visit / Youth Congress PCS protest
+188,Monitoring deck,Dainik Bhaskar,Jalandhar 1,No,"Picture changed in two days: Channi with, top leaders absent from Warring's march",No,Not about AAP/Govt,,Opposition internal,,2,6,Warring Insaaf March
+189,Monitoring deck,Dainik Savera,Jalandhar 3,No,Congress had restored peace in Punjab through hard work: Raja Warring,No,Not about AAP/Govt,,Opposition internal,,2,8,Warring Insaaf March
+190,Monitoring deck,Dainik Savera,Jalandhar 2,No,Pargat Singh and MP Dharamvir Gandhi stopped from meeting jailed Youth Congress leaders at Patiala Central Jail,Yes,Negative,Opposition attacks on the govt,Opposition attack: Congress,,2,8,Pargat jail visit / Youth Congress PCS protest
+191,Monitoring deck,The Tribune,Jalandhar 2,No,"Denied meeting with jailed youth Cong leaders, Pargat slams 'dictatorial' govt",Yes,Negative,Opposition attacks on the govt,Opposition attack: Congress,,2,4,Pargat jail visit / Youth Congress PCS protest
+192,Monitoring deck,The Tribune,Jalandhar 2,No,Warring's Insaaf Yatra met with black flags in Ludhiana,No,Not about AAP/Govt,,Opposition internal,,2,3,Warring Insaaf March
+193,Monitoring deck,Hindustan Times,Jalandhar 4,No,"Warring corners AAP govt over law & order, economic distress",Yes,Negative,Opposition attacks on the govt,Opposition attack: Congress,,1,4,Warring Insaaf March
+194,Monitoring deck,Hindustan Times,Jalandhar 4,No,"Denied meeting with jailed Youth Cong leaders, Pargat slams AAP govt",Yes,Negative,Opposition attacks on the govt,Opposition attack: Congress,,1,3,Pargat jail visit / Youth Congress PCS protest
+195,Monitoring deck,Indian Express,6,No,"Cong needs fighters, not leaders afraid of ED, CBI: Pargat Singh",No,Not about AAP/Govt,,Opposition internal,,1,3,
+196,Monitoring deck,Indian Express,6,No,"Warring kicks off 'Insaaf march', targets Mann govt over law and order situation",Yes,Negative,Opposition attacks on the govt,Opposition attack: Congress,,1,3,Warring Insaaf March
+197,Monitoring deck,The Savera Times,2,No,Pargat Singh slams Mann govt over jail meeting denial,Yes,Negative,Opposition attacks on the govt,Opposition attack: Congress,,2,3,
+198,Monitoring deck,The Savera Times,3,No,Channi highlights youth protection during Ahmedgarh visit (Jawani Sambhal Yatra),No,Not about AAP/Govt,,Opposition internal,,2,3,
+199,Monitoring deck,The Savera Times,3,No,Raja Warring launches 'Insaaf March' in Ludhiana,No,Not about AAP/Govt,,Opposition internal,,2,3,
+200,Monitoring deck,Ajit,3,No,Vigilance files response on Majithia's plea to go abroad,Yes,Neutral,"Governance, Assembly & politics",Anti-corruption,,2,4,Majithia foreign travel plea
+201,Monitoring deck,Jagbani,3,No,"Majithia gets no relief to travel abroad, hearing resumes tomorrow",Yes,Neutral,"Governance, Assembly & politics",Anti-corruption,,2,3,Majithia foreign travel plea
+202,Monitoring deck,Punjabi Tribune,1,Yes,Majithia gets no relief to travel abroad,Yes,Neutral,"Governance, Assembly & politics",Anti-corruption,,3,3,Majithia foreign travel plea
+203,Monitoring deck,Punjabi Jagran,2,No,Majithia not given permission to travel abroad,Yes,Neutral,"Governance, Assembly & politics",Anti-corruption,,2,2,Majithia foreign travel plea
+204,Monitoring deck,Punjabi Jagran,4,No,"Sukhbir Badal on X: sand looted, rivers ruined, village common land grabbed under this govt's nose",Yes,Negative,Opposition attacks on the govt,Opposition attack: SAD,,1,3,
+205,Monitoring deck,Rozana Spokesman,2,No,Leaders separated from Akali Dal Waris Punjab De form coordination committee,No,Not about AAP/Govt,,Opposition internal,,2,3,
+206,Monitoring deck,Rozana Spokesman,7,No,No information on Majithia's whereabouts abroad: Vigilance,Yes,Neutral,"Governance, Assembly & politics",Anti-corruption,,1,2,Majithia foreign travel plea
+207,Monitoring deck,Punjab Kesari,3,No,"Majithia denied relief on plea to go abroad, hearing again tomorrow",Yes,Neutral,"Governance, Assembly & politics",Anti-corruption,,2,2,Majithia foreign travel plea
+208,Monitoring deck,Dainik Bhaskar,J3,No,Court raises questions: information incomplete in Majithia's plea to go abroad,Yes,Neutral,"Governance, Assembly & politics",Anti-corruption,,2,2,Majithia foreign travel plea
+209,Monitoring deck,Ajit,11,No,Continuous deaths of electricity employees raise questions on govt's working: Brar,Yes,Negative,Opposition attacks on the govt,Opposition attack: BJP,,1,6,
+210,Monitoring deck,Ajit,14,No,AAP govt has forgotten women workers: Kewal Singh Dhillon,Yes,Negative,Opposition attacks on the govt,Opposition attack: BJP,,1,2,
+211,Monitoring deck,Ajit,14,No,Punjab's political situation turns Sunil Jakhar's focus back to election field,No,Not about AAP/Govt,,Opposition internal,,1,4,
+212,Monitoring deck,Jagbani,3,No,ED summons expose govt's claims of corruption-free governance: Dhillon,Yes,Negative,Opposition attacks on the govt,Opposition attack: BJP,,2,3,ED summons to Chief Secretary
+213,Monitoring deck,Jagbani,3,No,Rs 367.5 crore illegal mining case exposed AAP govt: Ashwani Sharma,Yes,Negative,Opposition attacks on the govt,Opposition attack: BJP,,2,3,
+214,Monitoring deck,Punjabi Tribune,4,No,AAP's 'Kattar imaandar' government image exposed: Dhillon,Yes,Negative,Opposition attacks on the govt,Opposition attack: BJP,,1,4,ED summons to Chief Secretary
+215,Monitoring deck,Punjabi Jagran,2,No,KBS Sidhu writes to Amit Shah for SGPC elections,No,Duplicate,,Duplicate,,2,3,
+216,Monitoring deck,Punjabi Jagran,6,No,Broken promises to women workers: Kewal Dhillon,Yes,Negative,Opposition attacks on the govt,Opposition attack: BJP,,1,3,
+217,Monitoring deck,Rozana Spokesman,2,No,Raja Warring should clarify whether he seeks justice from Rahul or Pargat Singh: Rajnish Dhiman,No,Not about AAP/Govt,,Opposition internal,,2,4,
+218,Monitoring deck,Rozana Spokesman,7,No,'Samrasta Sankalp Yatra' gets grand welcome in Sangrur and Bathinda,No,Not about AAP/Govt,,Opposition internal,,1,5,
+219,Monitoring deck,Rozana Spokesman,10,No,Govt should give proper compensation to family of deceased Satwinder Singh: Brar,Yes,Negative,Opposition attacks on the govt,Opposition attack: BJP,,1,2,
+220,Monitoring deck,Punjab Kesari,3,No,ED summons expose the claims of corruption-free governance: Dhillon,Yes,Negative,Opposition attacks on the govt,Opposition attack: BJP,,2,3,ED summons to Chief Secretary
+221,Monitoring deck,Punjab Kesari,3,No,CM should get ED's Rs 367.5 crore illegal mining exposure probed: Ashwani Sharma,Yes,Negative,Opposition attacks on the govt,Opposition attack: BJP,,2,2,
+222,Monitoring deck,Dainik Savera,II,No,Government should heed employees' demands: Kewal Singh Dhillon,Yes,Negative,Opposition attacks on the govt,Opposition attack: BJP,,1,3,
+223,Monitoring deck,Dainik Savera,3,No,Kewal Dhillon attacks government (ED summons to top officials),Yes,Negative,Opposition attacks on the govt,Opposition attack: BJP,,2,2,ED summons to Chief Secretary
+224,Monitoring deck,Dainik Savera,3,No,Ashwani Sharma voices concern over illegal mining,Yes,Negative,Opposition attacks on the govt,Opposition attack: BJP,,2,2,
+225,Monitoring deck,The Tribune,2,No,"AAP's kattar imaandar image exposed, Dhillon flags corruption charges",Yes,Negative,Opposition attacks on the govt,Opposition attack: BJP,,2,3,ED summons to Chief Secretary
+226,Monitoring deck,Indian Express,6,No,BJP's Samrasta Sankalp Yatra to mark Guru Ravidas's birth anniversary reaches Sangrur,No,Not about AAP/Govt,,Opposition internal,,1,2,
+227,Monitoring deck,The Savera Times,2,No,Mann govt betrayed thousands of honorarium workers: Dhillon,Yes,Negative,Opposition attacks on the govt,Opposition attack: BJP,,2,3,
+228,Monitoring deck,The Savera Times,2,No,Samrasta Sankalp Yatra receives grand welcome in Sangrur,No,Not about AAP/Govt,,Opposition internal,,2,5,
+229,Monitoring deck,The Savera Times,3,No,Nitin Nabin to launch BJP's Chandigarh poll campaign,No,Not about AAP/Govt,,Opposition internal,,2,3,
+230,Monitoring deck,The Savera Times,3,No,ED's Rs 367.5 cr illegal mining dossier raise questions over Punjab govt: Ashwani Sharma,Yes,Negative,Opposition attacks on the govt,Opposition attack: BJP,,2,3,
+231,Monitoring deck,The Savera Times,3,No,Kewal Dhillon targets AAP over ED summons to top bureaucrats,Yes,Negative,Opposition attacks on the govt,Opposition attack: BJP,,2,3,ED summons to Chief Secretary
+232,Monitoring deck,Ajit,1,Yes,Amritpal Singh attends grandmother's funeral under tight security,Yes,Neutral,Crime & law and order,Law & order / crime,,3,5,Amritpal at grandmother's cremation
+233,Monitoring deck,Jagbani,3,No,MP Amritpal performs last rites of grandmother Charan Kaur,Yes,Neutral,Crime & law and order,Law & order / crime,,2,6,Amritpal at grandmother's cremation
+234,Monitoring deck,Punjabi Tribune,1,Yes,Amritpal bids farewell to grandmother,Yes,Neutral,Crime & law and order,Law & order / crime,,3,4,Amritpal at grandmother's cremation
+235,Monitoring deck,Punjabi Jagran,2,No,MP Amritpal attends grandmother's funeral,Yes,Neutral,Crime & law and order,Law & order / crime,,2,5,Amritpal at grandmother's cremation
+236,Monitoring deck,Rozana Spokesman,1,Yes,2 Delhi Committee members barred in sacrilege case,No,Not about AAP/Govt,,Others,,3,5,
+237,Monitoring deck,Rozana Spokesman,1,Yes,Thousands bid final farewell to Amritpal Singh's grandmother,Yes,Neutral,Crime & law and order,Law & order / crime,,3,5,Amritpal at grandmother's cremation
+238,Monitoring deck,Punjab Kesari,3,No,MP Amritpal gives grandmother Charan Kaur last rites,Yes,Neutral,Crime & law and order,Law & order / crime,,2,4,Amritpal at grandmother's cremation
+239,Monitoring deck,Dainik Jagran,2,No,"After grandmother's last rites, police take Amritpal to Assam",Yes,Neutral,Crime & law and order,Law & order / crime,,2,3,Amritpal at grandmother's cremation
+240,Monitoring deck,Dainik Bhaskar,J3,No,Amritpal arrives from Dibrugarh for grandmother's funeral; Rs 10 lakh cost of convoy,Yes,Neutral,Crime & law and order,Law & order / crime,,2,4,Amritpal at grandmother's cremation
+241,Monitoring deck,Dainik Savera,1,Yes,"Amritpal out of Dibrugarh jail after 3.5 years, returns to jail after grandmother's cremation",Yes,Neutral,Crime & law and order,Law & order / crime,,3,6,Amritpal at grandmother's cremation
+242,Monitoring deck,The Tribune,1,Yes,Jailed MP Amritpal attends grandmother's last rites amid strict vigil in Amritsar; event peaceful,Yes,Neutral,Crime & law and order,Law & order / crime,,3,5,Amritpal at grandmother's cremation
+243,Monitoring deck,The Tribune,2,No,Big turnout at last rites of Amritpal's grandmother sparks political buzz,Yes,Neutral,Crime & law and order,Law & order / crime,,2,5,Amritpal at grandmother's cremation
+244,Monitoring deck,Hindustan Times,2,No,Amritpal attends grandmother's cremation under heavy security,Yes,Neutral,Crime & law and order,Law & order / crime,,2,5,Amritpal at grandmother's cremation
+245,Monitoring deck,Hindustan Times,2,No,"BSP rethinks solo stand in Punjab, opens back-channel talks with WPD",No,Not about AAP/Govt,,Opposition internal,,2,5,
+246,Monitoring deck,Times of India,1,Yes,"For 3 hours after 3.5 years, Amritpal returns home for grandmother's cremation",Yes,Neutral,Crime & law and order,Law & order / crime,,3,3,Amritpal at grandmother's cremation
+247,Monitoring deck,Times of India,1,Yes,Amritpal's three-hour visit: What it means for ADWPD and Punjab politics,Yes,Neutral,Crime & law and order,Law & order / crime,,3,4,Amritpal at grandmother's cremation
+248,Monitoring deck,Indian Express,1,Yes,"A funeral, a homecoming and a silent MP: Amritpal's return turns into political spectacle",Yes,Neutral,Crime & law and order,Law & order / crime,,3,6,Amritpal at grandmother's cremation
+249,Monitoring deck,Indian Express,2,No,"Amritpal (continued): supporters, security and political presence at the cremation",Yes,Neutral,Crime & law and order,Law & order / crime,,2,4,Amritpal at grandmother's cremation
+250,Monitoring deck,The Savera Times,1,Yes,Amritpal comes home after 3.5 years in jail,Yes,Neutral,Crime & law and order,Law & order / crime,,3,5,Amritpal at grandmother's cremation
+251,Monitoring deck,The Savera Times,2,No,Amritpal Singh's grandmother cremated after 13 days; MP taken back to Assam jail,Yes,Neutral,Crime & law and order,Law & order / crime,,2,3,Amritpal at grandmother's cremation
+252,Full edition,The Savera Times,3,No,"Dhirendra Shastri's katha in Pathankot from today; DC, SSP review arrangements, CM Mann and Kejriwal to attend Nov 24",Yes,Neutral,"Governance, Assembly & politics",Religious event arrangements,,2,1,
+253,Full edition,The Savera Times,3,No,"2 bodies found in house in Dhuri, police probe suspected murder",Yes,Negative,Crime & law and order,Murder,,2,1,
+254,Full edition,The Savera Times,5,No,"Govt ad: 25 lakh domestic electricity consumers get 100% waiver on interest and late payment surcharge (PSPCL OTS scheme), Dept of Information and Public Relations, Punjab",No,Govt ad,,Government advertising,,1,12,
+255,Full edition,The Savera Times,Amritsar 1,No,Amritsar Commissionerate Police intensifies 'Yuddh Nashiyan Viruddh'; CASO in sensitive areas,Yes,Positive,"Police action on gangs, arms & drugs",Police action vs drugs,,2,5,
+256,Full edition,The Savera Times,Amritsar 1,No,Woman robbed of her purse; 14 theft and robbery incidents in the city in 2 days,Yes,Negative,Crime & law and order,Law & order / crime,,2,3,
+257,Full edition,The Savera Times,Amritsar 1,No,"Computer operators meeting on Nov 27: outsourced employees protest, strike 9 to 11 am against govt's broken promises",Yes,Negative,"Schools, health & employees",Employee protests,,2,1,
+258,Full edition,The Savera Times,Amritsar 1,No,Programme on 'Swagan' held for nursing students (District Education Officer),Yes,Neutral,"Schools, health & employees",Health services,,2,3,
+259,Full edition,The Savera Times,Amritsar 1,No,Pulse Polio rounds to be held from today; Civil Surgeon reviews campaign in Tarn Taran,Yes,Neutral,"Schools, health & employees",Health services,,2,2,
+260,Full edition,The Savera Times,Amritsar 1,No,Guru Ravidas Ji's teachings convey message of brotherhood: Sandhu (BJP Samrasta Sankalp Yatra),No,Not about AAP/Govt,,Opposition internal,,2,5,
+261,Full edition,The Savera Times,Amritsar 1,No,Raju Mallian held a meeting with Pargat Singh (Congress SC wing),No,Not about AAP/Govt,,Opposition internal,,2,4,
+262,Full edition,The Savera Times,Amritsar 2,No,"4 pistols, ammunition and heroin recovered in village Kalsian (BSF and police joint operation)",Yes,Positive,"Police action on gangs, arms & drugs",Police action vs arms,,2,7,
+263,Full edition,The Savera Times,Amritsar 2,No,Pb Govt committed to eliminate drugs: MLA Sarwan Singh Dhunn,Yes,Positive,"Police action on gangs, arms & drugs",Police action vs drugs,,2,3,
+264,Full edition,The Savera Times,Amritsar 2,No,Municipal corporation removed illegal stalls in Amritsar anti-encroachment drive,Yes,Neutral,Civic services & infrastructure,Civic issues,,2,1,
+265,Full edition,The Savera Times,Amritsar 2,No,District and Sessions Judge inspected jail in Amritsar,Yes,Neutral,"Governance, Assembly & politics",Jail inspection,,2,3,
+266,Full edition,The Savera Times,Amritsar 2,No,"Arrested with drug money, heroin and foreign liquor (Cantt Police)",Yes,Positive,"Police action on gangs, arms & drugs",Police action vs drugs,,2,3,
+267,Full edition,The Savera Times,Amritsar 2,No,"Arrested with pistol, magazine and cartridges (CIA staff, Ranjit Avenue)",Yes,Positive,"Police action on gangs, arms & drugs",Police action vs arms,,2,1,
+268,Full edition,The Savera Times,Amritsar 2,No,XEN Bhallinder becomes Superintending Engineer at Municipal Corporation,Yes,Neutral,"Governance, Assembly & politics",Official appointment,,2,3,
+269,Full edition,The Savera Times,Amritsar 3,No,Faridkot police conduct CASO operations across 13 drug hotspots,Yes,Positive,"Police action on gangs, arms & drugs",Police action vs drugs,,2,7,
+270,Full edition,The Savera Times,Amritsar 3,No,Two brothers arrested for murder of Tarn Taran man (Abohar Police),Yes,Positive,"Police action on gangs, arms & drugs",Police action vs crime,,2,3,
+271,Full edition,The Savera Times,Amritsar 3,No,Police seize 752 liquor cases in smuggling operation in Faridkot,Yes,Positive,"Police action on gangs, arms & drugs",Police action vs crime,,2,1,
+272,Full edition,The Savera Times,Amritsar 3,No,"Guru Ravidas Ji's teachings are path to social equality: Kunwar Vijay Pratap (BJP yatra, Sri Muktsar Sahib)",No,Not about AAP/Govt,,Opposition internal,,2,2,
+273,Full edition,The Savera Times,Amritsar 3,No,"Dhuri Vikas Manch plans medical camp, raises civic demands (widen Malerkotla-Sangrur highway, overbridges)",Yes,Negative,Civic services & infrastructure,Civic issues,,2,5,
+274,Full edition,The Savera Times,Amritsar 3,No,Special Lok Adalat settles 41 cases in Faridkot,No,Not about AAP/Govt,,Others,,2,2,
+275,Full edition,The Savera Times,Amritsar 3,No,"Over 85% rural RO plants shut down in Pb, says BJP's Kuldeep Singh Bhangewala",Yes,Negative,Opposition attacks on the govt,Opposition attack: BJP,,2,4,
+276,Full edition,The Savera Times,Amritsar 3,No,One held with illicit liquor in Dhuri,Yes,Positive,"Police action on gangs, arms & drugs",Police action vs crime,,2,2,
+277,Full edition,The Savera Times,Amritsar 3,No,"Amargarh MLA completes family self-enumeration, urges public participation (Census-2027)",Yes,Neutral,"Governance, Assembly & politics",Census,,2,5,
+278,Full edition,The Savera Times,Amritsar 3,No,Barnala holds district-level competitions to promote voter awareness,Yes,Neutral,"Governance, Assembly & politics",Election Commission,,2,5,
+279,Full edition,The Savera Times,Jalandhar 1,No,BJP leader raises alarm over deaths of PSPCL employees (BJP's Jagbir Singh Brar demands probe),Yes,Negative,Opposition attacks on the govt,Opposition attack: BJP,,2,3,
+280,Full edition,The Savera Times,Jalandhar 1,No,Police conduct special naka checking in Jalandhar,Yes,Neutral,Crime & law and order,Law & order / crime,,2,1,
+281,Full edition,The Savera Times,Jalandhar 1,No,"Road named after freedom fighter Maharaj Krishan Khanna (Mayor, AAP halqa incharge Nitin Kohli)",Yes,Neutral,AAP organisation & outreach,AAP outreach,,2,5,
+282,Full edition,The Savera Times,Jalandhar 1,No,"Punjab to add 333 Pind Clinics, expanding rural healthcare network",Yes,Positive,"Schools, health & employees",Health services,,2,2,
+283,Full edition,The Savera Times,Jalandhar 1,No,Roll Observer reviews voter registration work in Jalandhar,Yes,Neutral,"Governance, Assembly & politics",Election Commission,,2,4,
+284,Full edition,The Savera Times,Jalandhar 1,No,Lok Adalat settles 284 cheque-bounce cases amicably in Jalandhar,No,Not about AAP/Govt,,Others,,2,3,
+285,Full edition,The Savera Times,Jalandhar 2,No,Police intensify night checks under Night Domination drive,Yes,Neutral,Crime & law and order,Law & order / crime,,2,5,
+286,Full edition,The Savera Times,Jalandhar 2,No,Kapurthala Lok Adalat settles 42 cheque-bounce cases amicably,No,Not about AAP/Govt,,Others,,2,3,
+287,Full edition,The Savera Times,Jalandhar 2,No,Inmate suffers serious injuries in Kapurthala jail assault,Yes,Negative,Crime & law and order,Law & order / crime,,2,1,
+288,Full edition,The Savera Times,Jalandhar 2,No,RBPU hosts Synergy 6th to promote drug-free youth under 'Yudh Nasheyan Virudh',Yes,Positive,"Police action on gangs, arms & drugs",Anti-drug awareness,,2,3,
+289,Full edition,The Savera Times,Jalandhar 2,No,Punjab plans three-day celebrations for Guru Ravidas' 650th Parkash Purab,Yes,Positive,"Religious outreach: Valmiki, Kartarpur",Guru Ravidas Purab,,2,5,
+290,Full edition,The Savera Times,Jalandhar 2,No,Four Shobha Yatras to converge at Khuralgarh for historic celebrations,Yes,Positive,"Religious outreach: Valmiki, Kartarpur",Guru Ravidas Purab,,2,3,
+291,Full edition,The Savera Times,Jalandhar 2,No,Police educate tractor-trolley drivers on road safety in Hoshiarpur,Yes,Neutral,Crime & law and order,Law & order / crime,,2,1,
+292,Full edition,The Savera Times,Jalandhar 3,No,Faridkot police conduct CASO operations across 13 drug hotspots,No,Duplicate,,Duplicate,,2,7,
+293,Full edition,The Savera Times,Jalandhar 3,No,Two brothers arrested for murder of Tarn Taran man (Abohar Police),No,Duplicate,,Duplicate,,2,3,
+294,Full edition,The Savera Times,Jalandhar 3,No,Police seize 752 liquor cases in smuggling operation in Faridkot,No,Duplicate,,Duplicate,,2,1,
+295,Full edition,The Savera Times,Jalandhar 3,No,"Guru Ravidas Ji's teachings are path to social equality: Kunwar Vijay Pratap (BJP yatra, Sri Muktsar Sahib)",No,Duplicate,,Duplicate,,2,2,
+296,Full edition,The Savera Times,Jalandhar 3,No,"Dhuri Vikas Manch plans medical camp, raises civic demands (widen Malerkotla-Sangrur highway, overbridges)",No,Duplicate,,Duplicate,,2,5,
+297,Full edition,The Savera Times,Jalandhar 3,No,Special Lok Adalat settles 41 cases in Faridkot,No,Duplicate,,Duplicate,,2,2,
+298,Full edition,The Savera Times,Jalandhar 3,No,"Over 85% rural RO plants shut down in Pb, says BJP's Kuldeep Singh Bhangewala",No,Duplicate,,Duplicate,,2,4,
+299,Full edition,The Savera Times,Jalandhar 3,No,One held with illicit liquor in Dhuri,No,Duplicate,,Duplicate,,2,2,
+300,Full edition,The Savera Times,Jalandhar 3,No,"Amargarh MLA completes family self-enumeration, urges public participation (Census-2027)",No,Duplicate,,Duplicate,,2,5,
+301,Full edition,The Savera Times,Jalandhar 3,No,Barnala holds district-level competitions to promote voter awareness,No,Duplicate,,Duplicate,,2,5,
+302,Full edition,The Savera Times,Chandigarh 2,No,"Pathankot crackdown uncovers illegal mining operation, two JCBs seized (joint police and mining department raid)",Yes,Positive,"Governance, Assembly & politics",Anti-corruption,,2,5,
+303,Full edition,The Savera Times,Chandigarh 2,No,"Thieves break into bakery, steal cash in Jaito",Yes,Negative,Crime & law and order,Law & order / crime,,2,1,
+304,Full edition,The Savera Times,Chandigarh 2,No,"Sangrur police register 49 cases, arrest 60 accused in 20 days",Yes,Positive,"Police action on gangs, arms & drugs",Police action vs drugs,,2,3,
+305,Full edition,The Savera Times,Chandigarh 2,No,Barnala honours election awareness competition winners,Yes,Neutral,"Governance, Assembly & politics",Election Commission,,2,1,
+306,Full edition,The Savera Times,Chandigarh 2,No,"Four held with heroin, ganja in Lehragaga drive",Yes,Positive,"Police action on gangs, arms & drugs",Police action vs drugs,,2,5,
+307,Full edition,The Savera Times,Chandigarh 2,No,Barnala admin intensifies public awareness drive for Census-2027 self-enumeration,Yes,Neutral,"Governance, Assembly & politics",Census,,2,5,
+308,Full edition,The Savera Times,Chandigarh 2,No,Barnala dominates state-level netball tournament across three age categories (Khedan Watan Punjab Diyan-2026),Yes,Positive,Hockey & sports,Khedan Watan Punjab Diyan,,2,5,
+309,Full edition,The Savera Times,Chandigarh 2,No,Malerkotla special Lok Adalat settles 45 cheque bounce cases,No,Not about AAP/Govt,,Others,,2,12,
+310,Full edition,The Savera Times,Chandigarh 2,No,DGP Gaurav Yadav honours Inspector Harshjot Toor,Yes,Neutral,"Governance, Assembly & politics",Police administration,,2,5,
+311,Full edition,The Savera Times,Chandigarh 2,No,Kamal Dhaliwal highlights Rahul Gandhi's US visit after returning,No,Not about AAP/Govt,,Opposition internal,,2,3,
+312,Full edition,The Savera Times,Chandigarh 3,No,Faridkot police conduct CASO operations across 13 drug hotspots,No,Duplicate,,Duplicate,,2,7,
+313,Full edition,The Savera Times,Chandigarh 3,No,Two brothers arrested for murder of Tarn Taran man (Abohar Police),No,Duplicate,,Duplicate,,2,3,
+314,Full edition,The Savera Times,Chandigarh 3,No,Police seize 752 liquor cases in smuggling operation in Faridkot,No,Duplicate,,Duplicate,,2,1,
+315,Full edition,The Savera Times,Chandigarh 3,No,"Guru Ravidas Ji's teachings are path to social equality: Kunwar Vijay Pratap (BJP yatra, Sri Muktsar Sahib)",No,Duplicate,,Duplicate,,2,2,
+316,Full edition,The Savera Times,Chandigarh 3,No,"Dhuri Vikas Manch plans medical camp, raises civic demands (widen Malerkotla-Sangrur highway, overbridges)",No,Duplicate,,Duplicate,,2,5,
+317,Full edition,The Savera Times,Chandigarh 3,No,Special Lok Adalat settles 41 cases in Faridkot,No,Duplicate,,Duplicate,,2,2,
+318,Full edition,The Savera Times,Chandigarh 3,No,"Over 85% rural RO plants shut down in Pb, says BJP's Kuldeep Singh Bhangewala",No,Duplicate,,Duplicate,,2,4,
+319,Full edition,The Savera Times,Chandigarh 3,No,One held with illicit liquor in Dhuri,No,Duplicate,,Duplicate,,2,2,
+320,Full edition,The Savera Times,Chandigarh 3,No,"Amargarh MLA completes family self-enumeration, urges public participation (Census-2027)",No,Duplicate,,Duplicate,,2,5,
+321,Full edition,The Savera Times,Chandigarh 3,No,Barnala holds district-level competitions to promote voter awareness,No,Duplicate,,Duplicate,,2,5,
+322,Full edition,The Savera Times,Ludhiana 1,No,"Stubble fire accident claims second life in Doraha; car driver arrested, farmer booked",Yes,Negative,"Farmers, stubble & paddy",Agriculture & stubble,,2,5,
+323,Full edition,The Savera Times,Ludhiana 1,No,MC suspends Tehbazari official as encroachments return within a day,Yes,Negative,Civic services & infrastructure,Civic issues,,2,3,
+324,Full edition,The Savera Times,Ludhiana 1,No,"Special lok adalat settles 3,628 cheque bounce cases worth Rs 110.87 crore",No,Not about AAP/Govt,,Others,,2,5,
+325,Full edition,The Savera Times,Ludhiana 1,No,"Minister Tarunpreet Singh Sond interacts with traders, reviews development works in Khanna",Yes,Neutral,Civic services & infrastructure,Development works,,2,8,
+326,Full edition,The Savera Times,Ludhiana 1,No,AAP workers wave black flags at Insaaf March; Warring brands AAP workers 'Mann's quackerwodgers',Yes,Negative,Opposition attacks on the govt,Opposition attack: Congress,,2,8,Warring Insaaf March
+327,Full edition,The Savera Times,Ludhiana 1,No,Activist seeks probe into Ludhiana LPG raid lapses (Food and Civil Supplies dept),Yes,Negative,Civic services & infrastructure,Civic issues,,2,8,
+328,Full edition,The Savera Times,Ludhiana 1,No,BJP's Dhiman questions motive behind Warring's insaaf march,No,Not about AAP/Govt,,Opposition internal,,2,4,Warring Insaaf March
+329,Full edition,The Savera Times,Ludhiana 2,No,Cordon and Search Operation across city at ISBT under 'Yudh Nashian Virudh',Yes,Positive,"Police action on gangs, arms & drugs",Police action vs drugs,,2,12,
+330,Full edition,The Savera Times,Ludhiana 2,No,Mayor Inderjit Kaur inaugurates third annual book fair by Punjabi Sahit Akademy,Yes,Neutral,"Governance, Assembly & politics",AAP organisation & outreach,,2,7,
+331,Full edition,The Savera Times,Ludhiana 2,No,Vet varsity to organise free milk adulteration testing camp,Yes,Neutral,"Schools, health & employees",Health services,,2,1,
+332,Full edition,The Savera Times,Ludhiana 2,No,Khanna SSP conducts surprise inspection of City-2 Police Station,Yes,Neutral,Crime & law and order,Law & order / crime,,2,4,
+333,Full edition,The Savera Times,Ludhiana 2,No,Senior citizens shine at Khedan Watan Punjab Dian 2026,Yes,Positive,Hockey & sports,Khedan Watan Punjab Diyan,,2,7,
+334,Full edition,The Savera Times,Ludhiana 2,No,"AI in agriculture must benefit farmers, not just corporates (Punjab State Farmers and Farm Workers Commission symposium)",Yes,Neutral,"Farmers, stubble & paddy",Agriculture & stubble,,2,4,
+335,Full edition,The Savera Times,Ludhiana 3,No,Faridkot police conduct CASO operations across 13 drug hotspots,No,Duplicate,,Duplicate,,2,7,
+336,Full edition,The Savera Times,Ludhiana 3,No,Two brothers arrested for murder of Tarn Taran man (Abohar Police),No,Duplicate,,Duplicate,,2,3,
+337,Full edition,The Savera Times,Ludhiana 3,No,Police seize 752 liquor cases in smuggling operation in Faridkot,No,Duplicate,,Duplicate,,2,1,
+338,Full edition,The Savera Times,Ludhiana 3,No,"Guru Ravidas Ji's teachings are path to social equality: Kunwar Vijay Pratap (BJP yatra, Sri Muktsar Sahib)",No,Duplicate,,Duplicate,,2,2,
+339,Full edition,The Savera Times,Ludhiana 3,No,"Dhuri Vikas Manch plans medical camp, raises civic demands (widen Malerkotla-Sangrur highway, overbridges)",No,Duplicate,,Duplicate,,2,5,
+340,Full edition,The Savera Times,Ludhiana 3,No,Special Lok Adalat settles 41 cases in Faridkot,No,Duplicate,,Duplicate,,2,2,
+341,Full edition,The Savera Times,Ludhiana 3,No,"Over 85% rural RO plants shut down in Pb, says BJP's Kuldeep Singh Bhangewala",No,Duplicate,,Duplicate,,2,4,
+342,Full edition,The Savera Times,Ludhiana 3,No,One held with illicit liquor in Dhuri,No,Duplicate,,Duplicate,,2,2,
+343,Full edition,The Savera Times,Ludhiana 3,No,"Amargarh MLA completes family self-enumeration, urges public participation (Census-2027)",No,Duplicate,,Duplicate,,2,5,
+344,Full edition,The Savera Times,Ludhiana 3,No,Barnala holds district-level competitions to promote voter awareness,No,Duplicate,,Duplicate,,2,5,
+345,Full edition,The Savera Times,Patiala 1,No,165 candidates remain in fray for Patiala civic polls; 36 nominations withdrawn,Yes,Neutral,"Governance, Assembly & politics",Election Commission,,2,7,
+346,Full edition,The Savera Times,Patiala 1,No,Cracks threaten Bhakra Canal bridge on Samana-Cheeka Road,Yes,Negative,Civic services & infrastructure,Civic issues,,2,3,
+347,Full edition,The Savera Times,Patiala 1,No,Punjab Sports University hosts national seminar on integration of sports and science,Yes,Neutral,Hockey & sports,Sports,,2,7,
+348,Full edition,The Savera Times,Patiala 1,No,"3 day pension service camp concludes, e-KYC facility extended (Treasury Office, Patiala)",Yes,Positive,Welfare schemes,Social welfare,,2,8,
+349,Full edition,The Savera Times,Patiala 1,No,"Strict vigil, proactive checking to maintain law and order across Patiala district",Yes,Neutral,Crime & law and order,Law & order / crime,,2,3,
+350,Full edition,The Savera Times,Patiala 1,No,"Patiala dominates volleyball, lawn tennis at Sports Punjab 2026 (Sports Homeland Punjab)",Yes,Positive,Hockey & sports,Khedan Watan Punjab Diyan,,2,5,
+351,Full edition,The Savera Times,Patiala 1,No,Police arrest man with narcotics in Nabha (25 grams),Yes,Positive,"Police action on gangs, arms & drugs",Police action vs drugs,,2,3,
+352,Full edition,The Savera Times,Patiala 1,No,MLA Kohli accuses Cong leader of creating 'hue and cry' over Patiala issue,Yes,Positive,AAP leaders' counter-attacks,AAP attack on Congress,Yes,2,3,
+353,Full edition,The Savera Times,Patiala 1,No,HC denies woman anticipatory bail in Rs 7Cr PMAY scam (Patiala Municipal Corporation),Yes,Neutral,"Governance, Assembly & politics",Anti-corruption,,2,7,
+354,Full edition,The Savera Times,Patiala 2,No,"Pathankot crackdown uncovers illegal mining operation, two JCBs seized (joint police and mining department raid)",No,Duplicate,,Duplicate,,2,5,
+355,Full edition,The Savera Times,Patiala 2,No,"Thieves break into bakery, steal cash in Jaito",No,Duplicate,,Duplicate,,2,1,
+356,Full edition,The Savera Times,Patiala 2,No,"Sangrur police register 49 cases, arrest 60 accused in 20 days",No,Duplicate,,Duplicate,,2,3,
+357,Full edition,The Savera Times,Patiala 2,No,Barnala honours election awareness competition winners,No,Duplicate,,Duplicate,,2,1,
+358,Full edition,The Savera Times,Patiala 2,No,"Four held with heroin, ganja in Lehragaga drive",No,Duplicate,,Duplicate,,2,5,
+359,Full edition,The Savera Times,Patiala 2,No,Barnala admin intensifies public awareness drive for Census-2027 self-enumeration,No,Duplicate,,Duplicate,,2,5,
+360,Full edition,The Savera Times,Patiala 2,No,Barnala dominates state-level netball tournament across three age categories (Khedan Watan Punjab Diyan-2026),No,Duplicate,,Duplicate,,2,5,
+361,Full edition,The Savera Times,Patiala 2,No,Malerkotla special Lok Adalat settles 45 cheque bounce cases,No,Duplicate,,Duplicate,,2,12,
+362,Full edition,The Savera Times,Patiala 2,No,DGP Gaurav Yadav honours Inspector Harshjot Toor,No,Duplicate,,Duplicate,,2,5,
+363,Full edition,The Savera Times,Patiala 2,No,Kamal Dhaliwal highlights Rahul Gandhi's US visit after returning,No,Duplicate,,Duplicate,,2,3,
+364,Full edition,The Savera Times,Patiala 3,No,Faridkot police conduct CASO operations across 13 drug hotspots,No,Duplicate,,Duplicate,,2,7,
+365,Full edition,The Savera Times,Patiala 3,No,Two brothers arrested for murder of Tarn Taran man (Abohar Police),No,Duplicate,,Duplicate,,2,3,
+366,Full edition,The Savera Times,Patiala 3,No,Police seize 752 liquor cases in smuggling operation in Faridkot,No,Duplicate,,Duplicate,,2,1,
+367,Full edition,The Savera Times,Patiala 3,No,"Guru Ravidas Ji's teachings are path to social equality: Kunwar Vijay Pratap (BJP yatra, Sri Muktsar Sahib)",No,Duplicate,,Duplicate,,2,2,
+368,Full edition,The Savera Times,Patiala 3,No,"Dhuri Vikas Manch plans medical camp, raises civic demands (widen Malerkotla-Sangrur highway, overbridges)",No,Duplicate,,Duplicate,,2,5,
+369,Full edition,The Savera Times,Patiala 3,No,Special Lok Adalat settles 41 cases in Faridkot,No,Duplicate,,Duplicate,,2,2,
+370,Full edition,The Savera Times,Patiala 3,No,"Over 85% rural RO plants shut down in Pb, says BJP's Kuldeep Singh Bhangewala",No,Duplicate,,Duplicate,,2,4,
+371,Full edition,The Savera Times,Patiala 3,No,One held with illicit liquor in Dhuri,No,Duplicate,,Duplicate,,2,2,
+372,Full edition,The Savera Times,Patiala 3,No,"Amargarh MLA completes family self-enumeration, urges public participation (Census-2027)",No,Duplicate,,Duplicate,,2,5,
+373,Full edition,The Savera Times,Patiala 3,No,Barnala holds district-level competitions to promote voter awareness,No,Duplicate,,Duplicate,,2,5,
+374,Full edition,Punjabi Tribune,Majha-Doaba 10,No,ED has exposed illegal mining: Sharma,Yes,Negative,Opposition attacks on the govt,Opposition attack: BJP,,1,3,
+375,Full edition,Punjabi Tribune,Majha-Doaba 10,No,"Hundreds of workers from Congress join AAP, Nangal Shahid Singh cadre",Yes,Positive,AAP organisation & outreach,AAP outreach,,1,3,
+376,Full edition,Punjabi Tribune,Majha-Doaba 10,No,Pargat Singh surrounds AAP govt,Yes,Negative,Opposition attacks on the govt,Opposition attack: Congress,,1,2,
+377,Full edition,Punjabi Tribune,Majha-Doaba 10,No,"Firing in dispute: one dead, three injured",Yes,Negative,Crime & law and order,Law & order / crime,,1,3,
+378,Full edition,Punjabi Tribune,Majha-Doaba 10,No,Attack on prisoner in Modern Jail,Yes,Negative,Crime & law and order,Law & order / crime,,1,2,
+379,Full edition,Punjabi Tribune,Majha-Doaba 10,No,Farmers' firm morcha continues at sugar mill,Yes,Negative,"Farmers, stubble & paddy",Agriculture & stubble,,1,4,
+380,Full edition,Punjabi Tribune,Majha-Doaba 10,No,Wheat crop destroyed by poison spray; farmers demand action,Yes,Negative,"Farmers, stubble & paddy",Agriculture & stubble,,1,2,
+381,Full edition,Punjabi Tribune,Chandigarh 11,No,Two firing incidents in Mohali,Yes,Negative,Crime & law and order,Law & order / crime,,1,3,
+382,Full edition,Punjabi Tribune,Malwa 10,No,Panchayat member climbs water tank in Shehnpanji village over lack of development,Yes,Negative,Civic services & infrastructure,Civic issues,,1,5,
+383,Full edition,Punjabi Tribune,Malwa 10,No,"Controversy over chairman's sharp words about farmers; farmer leaders offered Rs 2,000 and Rs 5,000 in vote deal",No,Not about AAP/Govt,,Opposition internal,,1,4,
+384,Full edition,Punjabi Tribune,Malwa 10,No,Dharna ends after AAP leader's assurance,Yes,Neutral,AAP organisation & outreach,AAP outreach,,1,2,
+385,Full edition,Punjabi Tribune,Malwa 10,No,Land dispute: meeting of officials and Sangharsh Committee fails,Yes,Negative,Civic services & infrastructure,Civic issues,,1,4,
+386,Full edition,Punjabi Tribune,Malwa 10,No,Farmers angry as procurement centre closed,Yes,Negative,"Farmers, stubble & paddy",Paddy procurement,,1,3,
+387,Full edition,Punjabi Tribune,Malwa 10,No,18 accused held with intoxicants,Yes,Positive,"Police action on gangs, arms & drugs",Police action vs drugs,,1,2,
+388,Full edition,Punjabi Tribune,Patiala-Sangrur 10,No,Clash between AAP and BJP candidates' supporters in civic poll ward 1; five injured including two girls,Yes,Negative,Crime & law and order,Law & order / crime,,1,5,
+389,Full edition,Punjabi Tribune,Patiala-Sangrur 10,No,165 candidates in fray for civic polls,Yes,Neutral,"Governance, Assembly & politics",Election Commission,,1,3,
+390,Full edition,Punjabi Tribune,Patiala-Sangrur 10,No,29 apprentice workers sent to jail after climbing tower,Yes,Negative,"Schools, health & employees",Employee protests,,1,6,
+391,Full edition,Punjabi Tribune,Patiala-Sangrur 10,No,Apartment residents manage garbage themselves,Yes,Neutral,Civic services & infrastructure,Civic issues,,1,3,
+392,Full edition,Rozana Spokesman,Mansa 9,No,SDM Navdeep Kumar flags off digital van for Census awareness,Yes,Neutral,"Governance, Assembly & politics",Census,,1,4,
+393,Full edition,Rozana Spokesman,Mansa 9,No,Polio drops for all children under five from 22 to 24 November: Civil Surgeon,Yes,Neutral,"Schools, health & employees",Health services,,1,4,
+394,Full edition,Rozana Spokesman,Mansa 9,No,BSP padyatra against drugs and law and order situation,Yes,Negative,Opposition attacks on the govt,Opposition attack: Other,,1,4,
+395,Full edition,Rozana Spokesman,Mansa 9,No,Principal Budh Ram raised Budhlada's development and public issues in Vidhan Sabha: Bola Singh Nargot,Yes,Positive,AAP organisation & outreach,AAP outreach,,1,3,
+396,Full edition,Rozana Spokesman,Moga 4,No,Projects worth Rs 11 lakh inaugurated at village Ghall Kalan,Yes,Positive,Civic services & infrastructure,Development works,,1,6,
+397,Full edition,Rozana Spokesman,Moga 4,No,Families leave Akali Dal and join AAP under Dr Amandeep Kaur Arora,Yes,Positive,AAP organisation & outreach,AAP outreach,,1,4,
+398,Full edition,Rozana Spokesman,Moga 4,No,26 Nov Rajpandhri event at Nathuwala Jadeed to carry government's welfare initiatives to people,Yes,Positive,AAP organisation & outreach,AAP outreach,,1,5,
+399,Full edition,Rozana Spokesman,Moga 4,No,Elderly return from Mukh Mantri Tirth Yatra Yojana; MLA Bilaspur meets them,Yes,Positive,Welfare schemes,Social welfare,,1,3,
+400,Full edition,Rozana Spokesman,Bathinda 4,No,SKM decides big protest at four district headquarters including Bathinda on Delhi march anniversary,Yes,Negative,"Farmers, stubble & paddy",Agriculture & stubble,,1,7,
+401,Full edition,Rozana Spokesman,Bathinda 4,No,Paddy procurement in district mandis reaches 15.51 lakh metric tonnes,Yes,Neutral,"Farmers, stubble & paddy",Paddy procurement,,1,3,
+402,Full edition,Rozana Spokesman,Bathinda 4,No,Bathinda district officials appeal for cooperation in Census 2027 self-enumeration,Yes,Neutral,"Governance, Assembly & politics",Census,,1,3,
+403,Full edition,Rozana Spokesman,Sangrur-Malerkotla 4,No,MLA Narinder Kaur Bharaj inaugurates Mukh Mantri Khed Ground built at Rs 66.63 lakh in village,Yes,Positive,Hockey & sports,Sports infrastructure,,1,6,
+404,Full edition,Rozana Spokesman,Sangrur-Malerkotla 4,No,Youth's body found near drone drop field,Yes,Negative,Crime & law and order,Law & order / crime,,1,3,
+405,Full edition,Rozana Spokesman,Rupnagar 4,No,Administration strict against overloaded vehicles: three tippers and a bus without permit challaned,Yes,Positive,Civic services & infrastructure,Development works,,1,4,
+406,Full edition,Rozana Spokesman,Rupnagar 4,No,Awareness camp on Census 2027 self-enumeration at school,Yes,Neutral,"Governance, Assembly & politics",Census,,1,3,
+407,Full edition,Rozana Spokesman,Rupnagar 4,No,Special camps for voter list; Ropar officials to visit on 27 November,Yes,Neutral,"Governance, Assembly & politics",Election Commission,,1,2,
+408,Full edition,Rozana Spokesman,Patiala 9,No,Huge enthusiasm among AAP workers in Samana for 26 November Moga rally,Yes,Positive,AAP organisation & outreach,AAP outreach,,1,8,"AAP foundation day rally, Moga"
+409,Full edition,Rozana Spokesman,Patiala 9,No,Ghanaur halqa: NRIs and locals prepare for Moga rally,Yes,Positive,AAP organisation & outreach,AAP outreach,,1,3,"AAP foundation day rally, Moga"
+410,Full edition,Rozana Spokesman,Patiala 9,No,AAP will form government in Punjab again: Jassi Sangha,Yes,Positive,AAP organisation & outreach,AAP outreach,,1,3,
+411,Full edition,Rozana Spokesman,Patiala 9,No,SDM holds meeting with election officials,Yes,Neutral,"Governance, Assembly & politics",Election Commission,,1,2,
+412,Full edition,Rozana Spokesman,Amritsar-Tarn Taran 4,No,Special meeting at Amritsar under Punjab NGO Digitization Mission; 15 NGOs take part,Yes,Neutral,Welfare schemes,Social welfare,,1,4,
+413,Full edition,Rozana Spokesman,Amritsar-Tarn Taran 4,No,"Lok Nirman minister hands appointment letters to Anganwadi helpers of villages Rajdhan, Butter Khurd, Butter Sivian and Palla",Yes,Positive,Welfare schemes,Social welfare,,1,4,
+414,Full edition,Rozana Spokesman,Ludhiana 4,No,Bhagwant Mann is the CM who did not bow before the Centre: Pali,Yes,Positive,AAP organisation & outreach,AAP outreach,,1,3,
+415,Full edition,Rozana Spokesman,Ludhiana 4,No,PSIEC policy is becoming an obstacle to industrial development: industrialists,Yes,Negative,Civic services & infrastructure,Development works,,1,3,
+416,Full edition,Rozana Spokesman,Ludhiana 4,No,"Congress leader Mohammad Gulab meets Municipal Commissioner, submits demand letter",Yes,Neutral,Civic services & infrastructure,Civic issues,,1,5,
+417,Full edition,Rozana Spokesman,Ferozepur-Fazilka 4,No,Elderly return from Mukh Mantri Tirth Yatra Yojana; MLA Bilaspur meets them (same item as Moga 4),No,Duplicate,,Duplicate,,1,3,
+418,Full edition,Rozana Spokesman,Faridkot 9,No,Special summary revision of voter list begins in Faridkot; claims and objections to be decided by 28 December: District Election Officer,Yes,Neutral,"Governance, Assembly & politics",Election Commission,,1,6,
+419,Full edition,Rozana Spokesman,Faridkot 9,No,Large number of pensioners benefit from Punjab govt's three-day pensioners' service mela,Yes,Positive,Welfare schemes,Social welfare,,1,4,
+420,Full edition,Rozana Spokesman,Faridkot 9,No,Under Yudh Nashian Virudh campaign SSP visits drug hotspots,Yes,Positive,"Police action on gangs, arms & drugs",Police action vs drugs,,1,4,
+421,Full edition,Rozana Spokesman,Faridkot 9,No,26 November Moga event on AAP foundation day: Sekhon,Yes,Positive,AAP organisation & outreach,AAP outreach,,1,3,"AAP foundation day rally, Moga"
+422,Full edition,Rozana Spokesman,Faridkot 9,No,Farmers to take part in huge numbers in 26 November programme: farmer leaders,Yes,Negative,"Farmers, stubble & paddy",Agriculture & stubble,,1,4,
+423,Full edition,Rozana Spokesman,Doaba 9,No,Dharna against garbage dump at Lakkar Mandi Naushera ends after Cabinet Minister Dr Ravjot's written assurance,Yes,Neutral,Civic services & infrastructure,Civic issues,,1,6,
+424,Full edition,Rozana Spokesman,Doaba 9,No,Mukh Mantri Tirth Yatra bus leaves for Khatu Shyam and Salasar Dham from Kala Singhian,Yes,Positive,Welfare schemes,Social welfare,,1,3,
+425,Full edition,Rozana Spokesman,Doaba 9,No,"Liquor recovered, one held (Hoshiarpur police)",Yes,Positive,"Police action on gangs, arms & drugs",Police action vs crime,,1,2,
+426,Full edition,Rozana Spokesman,Barnala 4,No,Polio drops from 22 to 24 November: District Immunisation Officer,Yes,Neutral,"Schools, health & employees",Health services,,1,3,
+427,Full edition,Rozana Spokesman,Barnala 4,No,"16-km road to be rebuilt at Rs 18.11 crore, big relief for Mehal Kalan villages: MLA Kulwant Singh Pandori",Yes,Positive,Civic services & infrastructure,Development works,,1,4,
+428,Full edition,Rozana Spokesman,Chandigarh-Ludhiana 1,No,"Shots fired at two places in Mohali, terror in the area",Yes,Negative,Crime & law and order,Law & order / crime,,2,6,Mohali firing
+429,Full edition,Rozana Spokesman,Chandigarh-Ludhiana 1,No,Special camps at all polling booths of three Mohali district assembly constituencies today,Yes,Neutral,"Governance, Assembly & politics",Election Commission,,2,3,
+430,Full edition,Punjabi Jagran,Tarn Taran 4,No,BJP leaders stage three-hour dharna in Tarn Taran shooting case; halqa in-charge Harjit Singh Sandhu joins,Yes,Negative,Opposition attacks on the govt,Opposition attack: BJP,,1,6,Tarn Taran langar firing
+431,Full edition,Punjabi Jagran,Tarn Taran 4,No,Deputy Commissioner inspects SDM complex,Yes,Neutral,"Governance, Assembly & politics",Routine administration,,1,2,
+432,Full edition,Punjabi Jagran,Tarn Taran 4,No,"Kacha Pakka police arrests two heroin users, case registered",Yes,Positive,"Police action on gangs, arms & drugs",Police action vs drugs,,1,3,
+433,Full edition,Punjabi Jagran,Tarn Taran 4,No,"Old-rivalry firing in Amritsar, accused case",Yes,Negative,Crime & law and order,Law & order / crime,,1,2,
+434,Full edition,Punjabi Jagran,Tarn Taran 4,No,Two held with illegal pistol,Yes,Positive,"Police action on gangs, arms & drugs",Police action vs crime,,1,2,
+435,Full edition,Punjabi Jagran,Tarn Taran 4,No,Railway level crossing becomes cause of trouble for commuters; Mann govt will solve problems: Yadwinder Yadav,Yes,Negative,Civic services & infrastructure,Civic issues,,1,6,
+436,Full edition,Punjabi Jagran,Barnala-Sangrur-Malerkotla 2,No,AAP govt has changed the face of villages and cities,Yes,Positive,AAP organisation & outreach,AAP outreach,,2,8,
+437,Full edition,Punjabi Jagran,Barnala-Sangrur-Malerkotla 2,No,State's development is being given priority under AAP govt: Mayor,Yes,Positive,AAP organisation & outreach,AAP outreach,,2,3,
+438,Full edition,Punjabi Jagran,Barnala-Sangrur-Malerkotla 2,No,Every section pleased with govt's development works: Sidhu,Yes,Positive,AAP organisation & outreach,AAP outreach,,2,2,
+439,Full edition,Punjabi Jagran,Barnala-Sangrur-Malerkotla 2,No,Civil Hospital doctors' meeting with Fortis doctors,Yes,Neutral,"Schools, health & employees",Health services,,2,5,
+440,Full edition,Punjabi Jagran,Patiala-Fatehgarh Sahib 4,No,"Civic polls: BJP and AAP workers clash in ward 1; family members including six-year-old child injured; BJP leader Jaidev Kaur visits injured, demands action",Yes,Negative,Crime & law and order,Law & order / crime,,1,6,
+441,Full edition,Punjabi Jagran,Patiala-Fatehgarh Sahib 4,No,BJP trying to spoil the atmosphere: MLA,Yes,Positive,AAP leaders' counter-attacks,AAP attack on BJP,Yes,1,3,
+442,Full edition,Punjabi Jagran,Patiala-Fatehgarh Sahib 4,No,Tejinder Mehta eyes mayor's chair again,Yes,Neutral,"Governance, Assembly & politics",Local body politics,,1,5,
+443,Full edition,Punjabi Jagran,Patiala-Fatehgarh Sahib 4,No,Man held with 25 g intoxicating powder,Yes,Positive,"Police action on gangs, arms & drugs",Police action vs drugs,,1,3,
+444,Full edition,Punjabi Jagran,Patiala-Fatehgarh Sahib 4,No,One held with banned tablets,Yes,Positive,"Police action on gangs, arms & drugs",Police action vs arms,,1,2,
+445,Full edition,Punjabi Jagran,Moga-Faridkot 2,No,26 November 'Khushal Punjab Rally' to be held at Moga,Yes,Positive,AAP organisation & outreach,AAP outreach,,2,2,"AAP foundation day rally, Moga"
+446,Full edition,Punjabi Jagran,Moga-Faridkot 2,No,Historic 'Khushal Punjab Rally' of AAP on 26 November at Moga,Yes,Positive,AAP organisation & outreach,AAP outreach,,2,3,"AAP foundation day rally, Moga"
+447,Full edition,Punjabi Jagran,Moga-Faridkot 2,No,Appeal to people to cooperate fully in Census,Yes,Neutral,"Governance, Assembly & politics",Census,,2,3,
+448,Full edition,Punjabi Jagran,Moga-Faridkot 2,No,"Person held with 9 g heroin, case registered",Yes,Positive,"Police action on gangs, arms & drugs",Police action vs drugs,,2,2,
+449,Full edition,Punjabi Jagran,Moga-Faridkot 2,No,Praise for Kheti Virasat Mission's efforts to save indigenous seeds: Biodiversity Board member Shailender Kaur,Yes,Neutral,"Farmers, stubble & paddy",Agriculture & stubble,,2,6,
+450,Full edition,Punjabi Jagran,Ludhiana 2,No,Action against drug smugglers and users,Yes,Positive,"Police action on gangs, arms & drugs",Police action vs drugs,,2,4,
+451,Full edition,Punjabi Jagran,Ludhiana 2,No,Accused held with banned intoxicant tablets at Sahnewal,Yes,Positive,"Police action on gangs, arms & drugs",Police action vs arms,,2,3,
+452,Full edition,Punjabi Jagran,Ludhiana 2,No,"Stolen motorcycle recovered, one arrested",Yes,Positive,"Police action on gangs, arms & drugs",Police action vs crime,,2,3,
+453,Full edition,Punjabi Jagran,Ludhiana 2,No,28 g intoxicant powder found in sealed jeans at Central Jail,Yes,Positive,"Police action on gangs, arms & drugs",Police action vs drugs,,2,3,
+454,Full edition,Punjabi Jagran,Ludhiana 2,No,Information given on public welfare schemes,No,Not about AAP/Govt,,Opposition internal,,2,3,
+455,Full edition,Punjabi Jagran,Hoshiarpur-Nawanshahr 2,No,Development works worth Rs 3.36 crore sanctioned,Yes,Positive,Civic services & infrastructure,Development works,,2,4,
+456,Full edition,Punjabi Jagran,Hoshiarpur-Nawanshahr 2,No,Dengue drive: checking of houses continues,Yes,Neutral,"Schools, health & employees",Health services,,2,3,
+457,Full edition,Punjabi Jagran,Hoshiarpur-Nawanshahr 2,No,Camp today to file claims and objections on voter list,Yes,Neutral,"Governance, Assembly & politics",Election Commission,,2,3,
+458,Full edition,Punjabi Jagran,Hoshiarpur-Nawanshahr 2,No,Staff trained for sub-national pulse polio campaign,Yes,Neutral,"Schools, health & employees",Health services,,2,4,
+459,Full edition,Punjabi Jagran,Gurdaspur 2,No,2027 will again see an AAP government: Chahal,Yes,Positive,AAP organisation & outreach,AAP outreach,,2,1,
+460,Full edition,Punjabi Jagran,Fazilka 2,No,Accused held with heroin by police,Yes,Positive,"Police action on gangs, arms & drugs",Police action vs drugs,,2,1,
+461,Full edition,Punjabi Jagran,Fazilka 2,No,Heroin user caught,Yes,Positive,"Police action on gangs, arms & drugs",Police action vs drugs,,2,1,
+462,Full edition,Punjabi Jagran,Fazilka 2,No,"One gram heroin, man arrested",Yes,Positive,"Police action on gangs, arms & drugs",Police action vs drugs,,2,1,
+463,Full edition,Punjabi Jagran,Fazilka 2,No,"Woman assaulted, case against 4",Yes,Negative,Crime & law and order,Law & order / crime,,2,1,
+464,Full edition,Punjabi Jagran,Fazilka 2,No,Case registered against 2 for assault,Yes,Negative,Crime & law and order,Law & order / crime,,2,1,
+465,Full edition,Punjabi Jagran,Fazilka 2,No,"Man held with heroin, case registered",Yes,Positive,"Police action on gangs, arms & drugs",Police action vs drugs,,2,1,
+466,Full edition,Punjabi Jagran,Fazilka 2,No,Two held with 30 grams heroin,Yes,Positive,"Police action on gangs, arms & drugs",Police action vs drugs,,2,1,
+467,Full edition,Punjabi Jagran,Fazilka 2,No,Man held with illicit liquor,Yes,Positive,"Police action on gangs, arms & drugs",Police action vs drugs,,2,1,
+468,Full edition,Punjabi Jagran,Fazilka 2,No,Case registered against drug user (2 items),Yes,Neutral,Crime & law and order,Law & order / crime,,2,1,
+469,Full edition,Punjabi Jagran,Fazilka 2,No,Hundreds of families join Akali Dal with sarpanch,No,Not about AAP/Govt,,Opposition internal,,2,5,
+470,Full edition,Punjabi Jagran,Rupnagar 2,No,Large number of people join AAP,Yes,Positive,AAP organisation & outreach,AAP outreach,,2,3,
+471,Full edition,Punjabi Jagran,Rupnagar 2,No,Linemen's arrest condemned,Yes,Negative,"Schools, health & employees",Employee protests,,2,2,
+472,Full edition,Punjabi Jagran,Rupnagar 2,No,Teachers and employees angry with government,Yes,Negative,"Schools, health & employees",Employee protests,,2,5,
+473,Full edition,Punjabi Jagran,Rupnagar 2,No,People's cooperation essential to end crime: Inspector,Yes,Neutral,Crime & law and order,Law & order / crime,,2,2,
+474,Full edition,Punjabi Jagran,Rupnagar 2,No,EDC reviews EVM checking process,Yes,Neutral,"Governance, Assembly & politics",Election Commission,,2,2,
+475,Full edition,Punjabi Jagran,Rupnagar 2,No,Camp held on survey-enumeration process,Yes,Neutral,"Governance, Assembly & politics",Census,,2,3,
+476,Full edition,Punjabi Jagran,SAS Nagar 4,No,"Firing at two places in Mohali in broad daylight, major mishap averted",Yes,Negative,Crime & law and order,Law & order / crime,,1,12,Mohali firing
+477,Full edition,Punjabi Jagran,SAS Nagar 4,No,Over Rs 100 crore help to 538 gaushalas: Kimti Bhagat,Yes,Positive,Welfare schemes,Social welfare,,1,5,
+478,Full edition,Punjabi Jagran,SAS Nagar 4,No,Tractor driver hits youth on head with rod when asked for way,Yes,Negative,Crime & law and order,Law & order / crime,,1,2,
+479,Full edition,Punjabi Jagran,SAS Nagar 4,No,Three members of gang held with stolen vehicles,Yes,Positive,"Police action on gangs, arms & drugs",Police action vs crime,,1,3,
+480,Full edition,Punjabi Jagran,SAS Nagar 4,No,Dharna outside GMADA on 23rd,Yes,Negative,Civic services & infrastructure,Civic issues,,1,3,
+481,Full edition,Punjabi Jagran,SAS Nagar 4,No,500 bags of fake cement and 3 vehicles seized,Yes,Positive,"Police action on gangs, arms & drugs",Police action vs crime,,1,3,
+482,Full edition,Punjabi Jagran,SAS Nagar 4,No,"Youth held with illegal pistol and cartridges, case registered",Yes,Positive,"Police action on gangs, arms & drugs",Police action vs arms,,1,3,
+483,Full edition,Punjabi Jagran,SAS Nagar 4,No,"Cyber fraud: 6 cases registered, over Rs 17.16 lakh cheated",Yes,Negative,Crime & law and order,Law & order / crime,,1,3,
+484,Full edition,Punjabi Jagran,SAS Nagar 4,No,Mohali police on roads at night,Yes,Positive,"Police action on gangs, arms & drugs",Police action vs crime,,1,6,
+485,Full edition,Punjabi Jagran,SAS Nagar 4,No,"Lok Adalat: 5,267 cases settled",No,Not about AAP/Govt,,Others,,1,12,
+486,Full edition,Punjabi Jagran,Bathinda 2,No,Preparations for AAP foundation day function in full swing,Yes,Positive,AAP organisation & outreach,AAP outreach,,2,5,
+487,Full edition,Punjabi Jagran,Amritsar 1,No,Tension between mill management and workers; detained workers warned by police officials and released late at night,Yes,Negative,Crime & law and order,Law & order / crime,,2,12,
+488,Full edition,Punjabi Jagran,Amritsar 1,No,Dharna not allowed within 300 metres of OCM mill,Yes,Neutral,Crime & law and order,Law & order / crime,,2,6,
+489,Full edition,Punjabi Jagran,Amritsar 1,No,"New company to lift garbage in 20 wards, will deploy 100 vehicles",Yes,Neutral,Civic services & infrastructure,Civic issues,,2,5,
+490,Full edition,Punjabi Jagran,Amritsar 1,No,Contractor's staff misbehaving with patients,Yes,Negative,Civic services & infrastructure,Civic issues,,2,3,
+491,Full edition,Punjabi Jagran,Amritsar 1,No,Shots fired outside house,Yes,Negative,Crime & law and order,Law & order / crime,,2,4,
+492,Full edition,Punjabi Jagran,Amritsar 1,No,Factory sealed for violations,Yes,Positive,"Police action on gangs, arms & drugs",Police action vs crime,,2,2,
+493,Full edition,Punjabi Jagran,Amritsar 1,No,Arrested with illicit liquor,Yes,Positive,"Police action on gangs, arms & drugs",Police action vs drugs,,2,1,
+494,Full edition,Dainik Jagran,Jalandhar 4,No,"Jalandhar flyovers gasping under overloaded vehicles; suspension joints and rubber bearings need yearly change, no work in a year",Yes,Negative,Civic services & infrastructure,Civic issues,,1,9,
+495,Full edition,Dainik Jagran,Jalandhar 4,No,"Census self-enumeration: location a hurdle, 1.5 hours to fill form",Yes,Neutral,"Governance, Assembly & politics",Census,,1,3,
+496,Full edition,Dainik Jagran,Jalandhar 4,No,Congress yet to get leader of opposition in the House,No,Not about AAP/Govt,,Opposition internal,,1,3,
+497,Full edition,Dainik Jagran,Amritsar 5,No,"Garbage problem in Amritsar West constituency to be solved, new company to deploy 100 vehicles",Yes,Positive,Civic services & infrastructure,Civic issues,,1,9,
+498,Full edition,Dainik Jagran,Amritsar 5,No,"Parking contractors' goondagardi in Civil Lines, charging extra",Yes,Negative,Civic services & infrastructure,Civic issues,,1,4,
+499,Full edition,Dainik Jagran,Amritsar 5,No,Mayor: aim is to make the city garbage free,Yes,Neutral,Civic services & infrastructure,Civic issues,,1,1,
+500,Full edition,Dainik Jagran,Amritsar 5,No,Case and arrests against owners of Amar Colour Chem India factory over pollution,Yes,Positive,"Police action on gangs, arms & drugs",Police action vs crime,,1,3,
+501,Full edition,Dainik Jagran,Amritsar 5,No,No dharna within 300 metres of OCM mill,Yes,Neutral,Crime & law and order,Law & order / crime,,1,3,
+502,Full edition,Dainik Jagran,Amritsar 5,No,30 cameras scanned to identify robbers,Yes,Neutral,Crime & law and order,Law & order / crime,,1,3,
+503,Full edition,Dainik Jagran,Amritsar 5,No,Two held with illegal pistol,Yes,Positive,"Police action on gangs, arms & drugs",Police action vs arms,,1,1,
+504,Full edition,Dainik Jagran,Amritsar 5,No,Amritsar trains affected till January,No,Not about AAP/Govt,,Others,,1,12,
+505,Full edition,Dainik Jagran,Faridkot 2,No,"Speed up paddy lifting, ensure payment to farmers: Deputy Commissioner",Yes,Neutral,"Farmers, stubble & paddy",Paddy procurement,,2,2,
+506,Full edition,Dainik Jagran,Faridkot 2,No,Complete online self-enumeration by 30 November: Dilawal,Yes,Neutral,"Governance, Assembly & politics",Census,,2,1,
+507,Full edition,Dainik Jagran,Gurdaspur 2,No,Bahal inaugurates modern sports ground at Tung; says children need saving from mobile and drugs,Yes,Positive,"Governance, Assembly & politics",Development works,,2,5,
+508,Full edition,Dainik Jagran,Gurdaspur 2,No,Awareness session held on Punjab Da Crorepati quiz programme,Yes,Positive,Welfare schemes,Social welfare,,2,4,Punjab Da Crorepati quiz launch
+509,Full edition,Dainik Jagran,Kapurthala 2,No,"Prakashotsav: parking at every place, CCTV monitoring; DC and SSP review arrangements with officers",Yes,Neutral,"Governance, Assembly & politics",Others,,2,5,
+510,Full edition,Dainik Jagran,Kapurthala 2,No,Kartarpur Sahib corridor should open before Prakashotsav: Dr Raj Kumar,Yes,Neutral,"Religious outreach: Valmiki, Kartarpur",Kartarpur corridor,,2,2,
+511,Full edition,Dainik Jagran,Kapurthala 2,No,"Satyanarayan Bazaar road choked by encroachment, municipal corporation not acting",Yes,Negative,Civic services & infrastructure,Civic issues,,2,6,
+512,Full edition,Dainik Jagran,Kapurthala 2,No,Aided school teachers and employees raise voice against government,Yes,Negative,"Schools, health & employees",Employee protests,,2,4,
+513,Full edition,Dainik Jagran,Kapurthala 2,No,Lok Adalat settles 42 cases,No,Not about AAP/Govt,,Others,,2,5,
+514,Full edition,Dainik Jagran,Kapurthala 2,No,Punjab Da Crorepati contest will give youth a chance to prove talent,Yes,Positive,Welfare schemes,Social welfare,,2,5,Punjab Da Crorepati quiz launch
+515,Full edition,Dainik Jagran,Ludhiana 6,No,"Scam: Rs 100 road work to cost only Rs 34; tenders 40 percent below estimate, mayor also admits work looks impossible",Yes,Negative,Civic services & infrastructure,Civic issues,,1,12,
+516,Full edition,Dainik Jagran,Ludhiana 6,No,Corporation to open development coffers: 87 proposals in F&CC meeting on Monday,Yes,Neutral,Civic services & infrastructure,Development works,,1,5,
+517,Full edition,Dainik Jagran,Ludhiana 6,No,Relief: beds to increase in Civil Hospital emergency,Yes,Positive,"Schools, health & employees",Health services,,1,5,
+518,Full edition,Dainik Jagran,Sangrur 2,No,Awareness programme on 'Punjab Da Crorepati' quiz held at college,Yes,Positive,Welfare schemes,Social welfare,,2,3,Punjab Da Crorepati quiz launch
+519,Full edition,Dainik Jagran,Sangrur 2,No,Pensioner service fair reviewed,Yes,Positive,Welfare schemes,Social welfare,,2,3,
+520,Full edition,Dainik Jagran,Sangrur 2,No,MLA appeals to people to take part in census self-enumeration,Yes,Neutral,"Governance, Assembly & politics",Census,,2,3,
+521,Full edition,Dainik Jagran,Sangrur 2,No,Residents' memorandum to DC on traffic problem,Yes,Negative,Civic services & infrastructure,Civic issues,,2,2,
+522,Full edition,Dainik Jagran,Bathinda 2,No,"SDM visits grain market, hears traders' problems",Yes,Neutral,"Farmers, stubble & paddy",Paddy procurement,,2,3,
+523,Full edition,Dainik Jagran,Bathinda 2,No,Farmers urged to make fodder from paddy stubble instead of burning it,Yes,Neutral,"Farmers, stubble & paddy",Agriculture & stubble,,2,3,
+524,Full edition,Dainik Jagran,Bathinda 2,No,MLA inaugurates gym hall built at cost of Rs 14 lakh,Yes,Positive,"Governance, Assembly & politics",Development works,,2,6,
+525,Full edition,Dainik Jagran,Bathinda 2,No,Polio drops to be given to children,Yes,Neutral,"Schools, health & employees",Health services,,2,2,
+526,Full edition,Dainik Jagran,Moga 2,No,Complete online self-enumeration by 30 November: Dilawal,Yes,Neutral,"Governance, Assembly & politics",Census,,2,1,
+527,Full edition,Dainik Jagran,Mohali 1,No,"Illegal parking on Singhpura flyover service road, daily jams",Yes,Negative,Civic services & infrastructure,Civic issues,,2,6,
+528,Full edition,Dainik Jagran,Mohali 1,No,"First salon, then architect's house: firing at two places in Mohali within 10 minutes",Yes,Negative,Crime & law and order,Law & order / crime,,2,8,Mohali firing
+529,Full edition,Dainik Jagran,Mohali 1,No,Special camps at polling booths today,Yes,Neutral,"Governance, Assembly & politics",Election Commission,,2,2,
+530,Full edition,Dainik Jagran,Mohali 1,No,NIA gets 90 more days to investigate Babbar Khalsa case,No,Not about AAP/Govt,,Others,,2,2,
+531,Full edition,Dainik Jagran,Mohali 1,No,"Partnership land sold without consent, father and son booked",Yes,Negative,Crime & law and order,Law & order / crime,,2,4,
+532,Full edition,Dainik Jagran,Mohali 1,No,Tractor driver attacked with rod; case registered,Yes,Negative,Crime & law and order,Law & order / crime,,2,3,
+533,Full edition,Dainik Jagran,Mohali 1,No,"Police could not find evidence of conspiracy, youth acquitted after 10 years",Yes,Negative,Crime & law and order,Law & order / crime,,2,3,
+534,Full edition,Dainik Jagran,Mohali 1,No,Three accused held with stolen vehicles,Yes,Positive,"Police action on gangs, arms & drugs",Police action vs crime,,2,4,
+535,Full edition,Dainik Jagran,Mohali 1,No,"Monitoring weak at shooting range run by jugaad, between encounters",Yes,Negative,Crime & law and order,Law & order / crime,,2,6,
+536,Full edition,Dainik Jagran,Nawanshahr 2,No,We will do all-round development of Punjab when Congress forms government: Husan Lal,No,Not about AAP/Govt,,Opposition internal,,2,4,
+537,Full edition,Ajit,4,No,"Editorial: Ready for the elections - Election Commission voter-roll revision, special camps across Punjab on 22 Nov",Yes,Neutral,"Governance, Assembly & politics",Election Commission,,1,1,
+538,Full edition,Ajit,11,No,Road from Lajpat Nagar to Gulab Park named after freedom fighter Maharaj Krishan Khanna; Mayor and others inaugurate road,Yes,Positive,Civic services & infrastructure,Development works,,1,3,
+539,Full edition,Ajit,12,No,Roll observer-cum-Divisional Commissioner Ramvir Singh inspects polling booths,Yes,Neutral,"Governance, Assembly & politics",Election Commission,,1,3,
+540,Full edition,Ajit,13,No,Punjab govt OTS scheme: 100% interest and late payment surcharge waived on arrears of 25 lakh domestic power consumers (CM Bhagwant Singh Mann),No,Govt ad,,Government advertising,,1,6,
+541,Full edition,Ajit,14,No,ED: Krishnu Shardai worked as middleman for many other Punjab officers too,Yes,Negative,"Governance, Assembly & politics",Anti-corruption,,1,2,
+542,Full edition,Ajit,15,No,SSF force clears overturned potato trolley from road and restores traffic,Yes,Positive,Civic services & infrastructure,Civic issues,,1,2,
+543,Full edition,Ajit,15,No,Memorandum given to keep paddy purchase going and get rice mills started,Yes,Negative,"Farmers, stubble & paddy",Paddy procurement,,1,2,
+544,Full edition,Ajit,E1,No,"Lohian: clash between factions over land dispute at village Chak Chela, three injured",Yes,Negative,Crime & law and order,Law & order / crime,,2,3,
+545,Full edition,Ajit,E1,No,Road from Lajpat Nagar to Gulab Park named after freedom fighter Maharaj Krishan Khanna (second copy of p.11 item),No,Duplicate,,Duplicate,,2,3,
+546,Full edition,Jagbani,3,No,"Firing outside finance company office in Batala, two injured",Yes,Negative,Crime & law and order,Law & order / crime,,2,2,
+547,Full edition,Jagbani,5,No,Punjab govt OTS scheme: 100% interest and late payment surcharge waived on arrears of 25 lakh domestic power consumers,No,Govt ad,,Government advertising,,1,6,
+548,Full edition,Jagbani,10,No,Verka (Milkfed Punjab) recruitment notice for 172 posts,No,Govt ad,,Government advertising,,1,3,
+549,Full edition,Punjabi Tribune,2,No,"Dharamkot MLA Davinderjit Singh Laddi Dhose's Gurpurab supplement message credits CM Bhagwant Mann's guidance for halqa development, promises more ahead of 2027 polls",Yes,Positive,AAP organisation & outreach,AAP outreach,,2,4,
+550,Full edition,Punjabi Tribune,2,No,Moga SSP Daljit Singh Brar's Gurpurab greeting ad cites Punjab government directions and drive against drugs and anti-social elements,No,Govt ad,,Government advertising,,2,3,
+551,Full edition,Punjabi Tribune,11,No,"Firing at two places in Mohali: shots at a seller's and an architect's homes, DIG probing",Yes,Negative,Crime & law and order,Law & order / crime,,1,3,Mohali firing
+552,Full edition,Punjabi Tribune,11,No,Plot holders in Mohali sectors 100 and 104 told to obtain NOC after court-driven order,No,Not about AAP/Govt,,Others,,1,3,
+553,Full edition,Punjabi Jagran,3,No,Punjab Government ad: 100% interest and late payment surcharge waived on arrears for 25 lakh domestic power consumers under OTS scheme (CM Bhagwant Mann),No,Govt ad,,Government advertising,,2,8,
+554,Full edition,Punjabi Jagran,4,No,"Editorial 'Eyes elsewhere, target elsewhere': CM Mann's remark on Akali Dal voters and the 2027 AAP, Congress, SAD contest",Yes,Neutral,"Governance, Assembly & politics",Editorial,,1,2,
+555,Full edition,Punjabi Jagran,4,No,Punjab demands answers from leaders: decades of waiting for lasting solutions to problems (Deepa Bandala),Yes,Neutral,"Governance, Assembly & politics",Editorial,,1,5,
+556,Full edition,Punjabi Jagran,5,No,Pathankot: four arrested with looted XUV,Yes,Positive,"Police action on gangs, arms & drugs",Police action vs crime,,1,1,
+557,Full edition,Punjabi Jagran,5,No,"Amritsar: 15-year-old girl reaches city on Rs 10,000; youth who took her to hotel and fled with mobile and cash caught by police",Yes,Positive,"Police action on gangs, arms & drugs",Police action vs crime,,1,2,
+558,Full edition,Punjabi Jagran,5,No,High Court denies bail to three accused in Rs 8 crore cyber fraud on retired IG Amar Singh Chahal,Yes,Neutral,Crime & law and order,Law & order / crime,,1,4,
+559,Full edition,Punjabi Jagran,6,No,Punjab Pollution Control Board expands Plastic Champions campaign to more districts,Yes,Positive,Civic services & infrastructure,Development works,,1,2,
+560,Full edition,Punjabi Jagran,8,No,"Security arrangements made for Diljit Dosanjh concert, police commissioner says",No,Not about AAP/Govt,,Others,,1,2,
+561,Full edition,Punjabi Jagran,8,No,"Punjab State weekly lottery result notice (Directorate of Small Savings, Banking and Lotteries, Punjab)",No,Govt ad,,Government advertising,,1,2,
+562,Full edition,Punjabi Jagran,9,No,43rd Surjit Hockey Tournament starts today in Jalandhar; Cabinet Ministers Mohinder Bhagat and Tarunpreet Singh Sond to inaugurate,Yes,Neutral,Hockey & sports,Hockey tournament,,1,3,
+563,Full edition,Punjab Kesari,5,No,"Full-page Punjab govt ad: 100% interest and late-payment surcharge waived on arrears of 25 lakh domestic power consumers (OTS scheme), CM Bhagwant Mann",No,Govt ad,,Government advertising,,1,6,
+564,Full edition,Rozana Spokesman,2,No,Stubble smoke or the farmer's compulsion (farm feature on paddy straw burning),Yes,Neutral,"Farmers, stubble & paddy",Agriculture & stubble,,2,6,
+565,Full edition,Rozana Spokesman,4,No,"Fatehgarh Sahib: second phase of census begins in the district, DC reviews",Yes,Neutral,"Governance, Assembly & politics",Census,,1,3,
+566,Full edition,Rozana Spokesman,4,No,Fatehgarh Sahib: quiz and essay competitions held in schools and colleges for voter awareness,Yes,Neutral,"Governance, Assembly & politics",Election Commission,,1,4,
+567,Full edition,Rozana Spokesman,5,No,"Full-page Punjab govt ad: 100% interest and late-payment surcharge waived on arrears of 25 lakh domestic power consumers (OTS scheme), CM Bhagwant Mann",No,Govt ad,,Government advertising,,1,6,
+568,Full edition,Rozana Spokesman,7,No,Concern expressed over incidents of shooting in Punjab; law and order under AAP govt questioned (Congress),Yes,Negative,Opposition attacks on the govt,Opposition attack: Congress,,1,2,
+569,Full edition,Rozana Spokesman,7,No,Supreme Court gives relief to Punjab minister Lalajit Bhullar's father Sukhdev Singh Bhullar (arrest protection) in Punjab case; another accused's anticipatory bail rejected,Yes,Neutral,"Governance, Assembly & politics",Anti-corruption,,1,2,
+570,Full edition,Rozana Spokesman,9,No,Special summary revision of voter list in Faridkot: claims and objections till 28 Dec - District Election Officer,Yes,Neutral,"Governance, Assembly & politics",Election Commission,,1,5,
+571,Full edition,Rozana Spokesman,9,No,Traffic police campaign in Faridkot to make people aware of road rules,Yes,Neutral,Crime & law and order,Police outreach,,1,2,
+572,Full edition,Rozana Spokesman,9,No,Special Lok Adalat organised at Faridkot and Jaito,No,Not about AAP/Govt,,Others,,1,3,
+573,Full edition,Rozana Spokesman,9,No,Court seeks status report from police within a month in theft case,Yes,Neutral,Crime & law and order,Law & order / crime,,1,1,
+574,Full edition,Rozana Spokesman,9,No,Kotkapura: Up-Mandal official appeals to residents to complete census self-enumeration by 30 November,Yes,Neutral,"Governance, Assembly & politics",Census,,1,2,
+575,Full edition,Rozana Spokesman,9,No,"Faridkot police stations register many cases of fights, assault, gambling and heroin",Yes,Negative,Crime & law and order,Law & order / crime,,1,3,
+576,Full edition,Rozana Spokesman,9,No,"Jaito: Rs 20,000 stolen from shop after thieves break through roof",Yes,Negative,Crime & law and order,Law & order / crime,,1,4,
+577,Full edition,Rozana Spokesman,9,No,"SVEEP: essay and quiz competitions on voter awareness at Faridkot, Kotkapura and Jaito",Yes,Neutral,"Governance, Assembly & politics",Election Commission,,1,2,
+578,Full edition,Rozana Spokesman,9,No,SBS College makes students aware of 'Punjab da Crorepati' quiz,Yes,Neutral,"Governance, Assembly & politics",Punjab Da Crorepati quiz,,1,2,Punjab Da Crorepati quiz launch
+579,Full edition,Rozana Spokesman,10,No,"Shots fired during Jagran preparations in Tarn Taran: one dead, three injured; family stages dharna with body at civil hospital against police",Yes,Negative,Crime & law and order,Murder,,1,4,
+580,Full edition,Dainik Bhaskar,Himachal-Haryana 3,No,"Govt ad: Punjab State Cooperative Milk Producers Federation (Verka) recruitment related notice, 172 Deputy Manager and other posts",No,Govt ad,,Government advertising,,2,3,
+581,Full edition,Dainik Jagran,3,No,"Asked by ED, middleman said he earned from hockey coaching (suspended DIG Bhullar bribery case, Krishnu Shardha)",Yes,Negative,"Governance, Assembly & politics",Anti-corruption,,2,1,
+582,Full edition,Dainik Jagran,5,No,"Govt ad: Punjab OTS scheme, 100% interest and late surcharge waived on arrears for 25 lakh domestic power consumers (CM Bhagwant Singh Mann)",No,Govt ad,,Government advertising,,1,6,
+583,Full edition,The Tribune,3,No,"Verka (Punjab State Cooperative Milk Producers' Federation) recruitment notice: 172 posts of Deputy Managers and others, certificate verification on 26 Nov",No,Govt ad,,Government advertising,,2,2,
+584,Full edition,Indian Express,11,No,Punjab Police Housing Corporation Ltd: e-tender notice 24/2026-27 for construction and repair works,No,Govt ad,,Government advertising,,1,1,
+585,Full edition,Times of India,2,No,"25 lakh domestic electricity consumers get 100% waiver on interest and late payment surcharge (PSPCL OTS scheme, full-page ad)",No,Govt ad,,Government advertising,,2,12,
+586,Full edition,Times of India,3,No,Key suspect in SUV snatching case arrested (Pathankot police arrest main accused),Yes,Positive,"Police action on gangs, arms & drugs",Police action vs crime,,2,2,
+587,Full edition,Times of India,Chandigarh Times 1,No,"Mohali firing: Phase 11 house, Sec 79 salon targeted",Yes,Negative,Crime & law and order,Law & order / crime,,2,3,Mohali firing
+588,Full edition,Times of India,Chandigarh Times 2,No,Man held with pistol in Mohali,Yes,Positive,"Police action on gangs, arms & drugs",Police action vs arms,,2,1,
+589,Full edition,Times of India,Chandigarh Times 2,No,"When warnings go down the drain: Rs 49.2L penalty on Chandigarh MC justified, PPCB cites repeated lapses at Diggian STP",Yes,Neutral,"Governance, Assembly & politics",Pollution Control Board,,2,4,
+590,Full edition,Times of India,Chandigarh Times 2,No,"33-bigha deal: man, son face FIR (Mohali, Derabassi police case on land deal)",Yes,Negative,Crime & law and order,Law & order / crime,,2,3,
+591,Full edition,Times of India,Chandigarh Times 3,No,HC grants ex-Navy man benefits for service during 1962 Emergency (Punjab govt order of 2000 set aside),Yes,Negative,Court rebukes & govt finances,Court order against govt,,2,3,
