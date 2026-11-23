@@ -1,0 +1,240 @@
+[
+ {
+  "story_id": 3,
+  "final": "Not about AAP/Govt",
+  "reason": "The Centre's plan to ban or tax non-basmati rice exports; the strap only fears a price effect on Punjab varieties and no Punjab government decision, reply or role is reported.",
+  "rule": "Lesson 5"
+ },
+ {
+  "story_id": 57,
+  "final": "Not about AAP/Govt",
+  "reason": "BSF's 27 Battalion found the 1 kg 13 g heroin packet on its own search; Kalanaur police only joined the follow-up search after the recovery.",
+  "rule": "Lesson 25",
+  "theme_group": "",
+  "detailed_theme": "Others"
+ },
+ {
+  "story_id": 80,
+  "final": "Neutral",
+  "reason": "The High Court raps BBMB, a central board, in a petition where Punjab, the Mohali DC and Kharar council are respondents on the sarovar. Punjab is neither rebuked nor handed a ruling; the matter is adjourned to 25 Nov. When a court raps a central body (BBMB) in a case where the Punjab government is a party and owns the project, but the hearing gives Punjab neither a rebuke nor a ruling in its favour, the row is relevant and Neutral under the subject's group, in every paper.",
+  "rule": "new case",
+  "theme_group": "Punjab's rights: water, PU, Chandigarh",
+  "detailed_theme": "Court on BBMB (Kharar sarovar)"
+ },
+ {
+  "story_id": 111,
+  "final": "Neutral",
+  "reason": "Same hearing as row 80: the rebuke is for BBMB, the petition itself is against Punjab authorities over sewage in the sarovar, and Punjab only sought time to file a roadmap. No win secured by the government, so not Positive. When a court raps a central body (BBMB) in a case where the Punjab government is a party and owns the project, but the hearing gives Punjab neither a rebuke nor a ruling in its favour, the row is relevant and Neutral under the subject's group, in every paper.",
+  "rule": "new case",
+  "theme_group": "Punjab's rights: water, PU, Chandigarh",
+  "detailed_theme": "Court on BBMB (Kharar sarovar)"
+ },
+ {
+  "story_id": 122,
+  "final": "Neutral",
+  "reason": "A feature on the state veterinary university's goat milk soap and shampoo technology and its planned tie-up with self-help groups. A state institution, so relevant, but an autonomous university's product news with no government delivery in the lead.",
+  "rule": "Lesson 11",
+  "theme_group": "Farmers, stubble & paddy",
+  "detailed_theme": "Agriculture & stubble"
+ },
+ {
+  "story_id": 123,
+  "final": "Negative",
+  "reason": "A retired Punjab IAS officer's column whose headline leads with governance fault lines in Punjab; it lists debt at 45.1 percent of GSDP, incoherent policy, unstable postings and CAG findings on local bodies. The tilt is critical of the state's governance even though it addresses all parties.",
+  "rule": "Sentiment: Negative"
+ },
+ {
+  "story_id": 237,
+  "final": "Not about AAP/Govt",
+  "reason": "The printed headline carries only the BJP's own pitch (Punjab needs BJP to restore development) and names neither AAP nor the government; the attack on the AAP government is in the body. Same as the other papers' copies with the BJP-pitch headline (200, 217, 226); only the copies headlined on AAP ruining the state (206, 942) are Negative.",
+  "rule": "Lesson 17"
+ },
+ {
+  "story_id": 248,
+  "final": "Neutral",
+  "reason": "The item is about a disqualification petition pending before the Assembly Speaker and the Secretariat putting up the file: Assembly business, not a party's internal affair. Matches Punjabi Tribune row 243.",
+  "rule": "Sentiment: Neutral"
+ },
+ {
+  "story_id": 250,
+  "final": "Not about AAP/Govt",
+  "reason": "A short opinion item on the political silence around the jailed MP's three-hour parole; the police deployment is a passing line and no state decision is discussed. Matches the day's other rows on this event (240, 241, 244, 245, 247, 249).",
+  "rule": "Relevance"
+ },
+ {
+  "story_id": 379,
+  "final": "Neutral",
+  "reason": "The main headline leads with villagers' unmet demands put to the CM (bridge repair, school upgrades, closed bus routes); the grants are only in the strap. Demands and announcement balance out, so no clear tilt.",
+  "rule": "Sentiment: Neutral"
+ },
+ {
+  "story_id": 449,
+  "final": "Neutral",
+  "reason": "A community (non-party) meeting whose headline blames political parties in general for neglecting Christians; the displeasure with the present government is only in the body.",
+  "rule": "Lesson 6"
+ },
+ {
+  "story_id": 465,
+  "final": "Neutral",
+  "reason": "A case registered on the forest beat in-charge's own complaint after his patrol found three men carting wood; the headline reports only the case, with no arrest by police. Not a victim's crime report, so not Negative.",
+  "rule": "Lesson 15"
+ },
+ {
+  "story_id": 569,
+  "final": "Negative",
+  "reason": "A disorder incident (a dismissed DSP creating a ruckus at a wedding, video viral) with police only taking cognisance and no arrest: a crime and law-and-order report. Lesson 14 does not apply because he is no longer the state's own officer.",
+  "rule": "Sentiment: Negative"
+ },
+ {
+  "story_id": 598,
+  "final": "Positive",
+  "reason": "Commissionerate police held Samadhan Camps at police stations and gave on-the-spot solutions to residents' complaints: service delivered, and it is the headline's lead.",
+  "rule": "Sentiment: Positive"
+ },
+ {
+  "story_id": 602,
+  "final": "Neutral",
+  "reason": "Punjab's own pollution board leads the item, defending before the NGT the penalty it imposed on Chandigarh's civic body. A state regulator is the actor, so it is relevant; a filing at a hearing, with the failure being Chandigarh's, is Neutral.",
+  "rule": "Lesson 23"
+ },
+ {
+  "story_id": 638,
+  "final": "Negative",
+  "reason": "The headline says paddy purchase at the mandi opened only because of the Ugrahan union's struggle; the body has farmers gheraoing the market committee office until officials ordered purchase. A grievance about a state body's inaction leads.",
+  "rule": "Lesson 22"
+ },
+ {
+  "story_id": 671,
+  "final": "Neutral",
+  "reason": "The headline is the minister attending a village kabaddi cup; the playgrounds line is an assurance of commitment, with no grant, opening or delivery reported.",
+  "rule": "Lesson 21"
+ },
+ {
+  "story_id": 673,
+  "final": "Positive",
+  "reason": "The Punjab Sakhi Shakti Mela and River Festival is the administration's own event for women's self-help groups, and the item reports it running successfully on day two. Coded like the day's other government event rows and Dainik Savera's copy (475).",
+  "rule": "Sentiment: Positive"
+ },
+ {
+  "story_id": 696,
+  "final": "Positive",
+  "reason": "A government school teacher's Punjabi Varnmala video, made with government school children, crosses 2.20 crore views and he is honoured by the education department; the item credits the government's school education.",
+  "rule": "Sentiment: Positive"
+ },
+ {
+  "story_id": 697,
+  "final": "Neutral",
+  "reason": "A routine notice of a free training batch and its interview date; no delivery yet. The printed headline is about free dairy training from 30 Nov with the interview on 23 Nov, so the judge's headline fix stands.",
+  "rule": "Lesson 11"
+ },
+ {
+  "story_id": 698,
+  "final": "Neutral",
+  "reason": "An AAP leader's visit to a saint to seek blessings: a courtesy call, not a public meeting or party mobilisation.",
+  "rule": "Lesson 21"
+ },
+ {
+  "story_id": 733,
+  "final": "Neutral",
+  "reason": "Police of two posts chased a tip about 600 sacks of poppy husk for three hours and it proved a rumour. Police acted but there is no seizure or arrest, and no failure or complaint against them is recorded.",
+  "rule": "Lesson 15"
+ },
+ {
+  "story_id": 735,
+  "final": "Not about AAP/Govt",
+  "reason": "Two road accidents caused by rash private drivers; the item records no failure of a road, signal or state service.",
+  "rule": "Lesson 24",
+  "theme_group": "",
+  "detailed_theme": "Others"
+ },
+ {
+  "story_id": 738,
+  "final": "Neutral",
+  "reason": "An announcement that special nakas will be set up four nights a week: a plan for future policing, with no arrest, seizure or raid. Matches the day's naka inspection rows (329, 593).",
+  "rule": "Lesson 21"
+ },
+ {
+  "story_id": 773,
+  "final": "Negative",
+  "reason": "As far as the small print can be read, the item blames sagging power lines that the owner had asked the power department to raise, and he seeks action and compensation: a failure of a state service is recorded. The scan is poor, so confidence is medium.",
+  "rule": "Lesson 24"
+ },
+ {
+  "story_id": 784,
+  "final": "Not about AAP/Govt",
+  "reason": "A follow-up on a student's death at a Jawahar Navodaya Vidyalaya (a central school): he left a note, the family suspects no one, and no crime, FIR or state failure is reported. Matches Dainik Jagran row 851.",
+  "rule": "Lesson 24"
+ },
+ {
+  "story_id": 787,
+  "final": "Not about AAP/Govt",
+  "reason": "A seasonal feature on viral illness after the change in weather with doctors' advice; no shortage, lapse or new step of the health service is reported. A seasonal illness or health advice feature that reports no shortage, failure or new service of the state health system is Not about AAP/Govt (weather), even when government hospital doctors are quoted.",
+  "rule": "new case",
+  "theme_group": "",
+  "detailed_theme": "Weather (not govt)"
+ },
+ {
+  "story_id": 827,
+  "final": "Positive",
+  "reason": "The health department's pulse polio round has started and children are being given drops: a health service reaching people. This differs from the 22 Nov rows, which were notices before the round began.",
+  "rule": "Sentiment: Positive"
+ },
+ {
+  "story_id": 829,
+  "final": "Neutral",
+  "reason": "A sessions court sentences two men in a robbery case investigated by Punjab Police and run by the state's prosecution: a law-and-order matter the state owns, so relevant, but a routine court outcome with no government action in the lead. A trial court's conviction or sentence in an ordinary Punjab Police case is relevant and Neutral under Crime & law and order.",
+  "rule": "new case",
+  "theme_group": "Crime & law and order",
+  "detailed_theme": "Law & order / crime"
+ },
+ {
+  "story_id": 846,
+  "final": "Neutral",
+  "reason": "Same event as row 733: police chased a false tip for three hours. Police are the actor in the headline, so it is relevant; no seizure, arrest or recorded failure.",
+  "rule": "Lesson 15"
+ },
+ {
+  "story_id": 862,
+  "final": "Neutral",
+  "reason": "The headline's lead is the SMO's health advice on heart attack and stroke signs; the Mukh Mantri Sehat Yojana is mentioned only in a side box as available, with no delivery reported.",
+  "rule": "Lesson 11"
+ },
+ {
+  "story_id": 877,
+  "final": "Not about AAP/Govt",
+  "reason": "The election of an employees' union president: the union's own office-bearer matter, with no demand, protest or government decision.",
+  "rule": "Lesson 5",
+  "theme_group": "",
+  "detailed_theme": "Others"
+ },
+ {
+  "story_id": 894,
+  "final": "Neutral",
+  "reason": "The headline leads with the council's notice to recover Rs 14 lakh of sewer dues from the panchayat: an administrative recovery step between two local bodies, not a grievance or a rebuke. Matches The Savera Times row 611.",
+  "rule": "Lesson 21"
+ },
+ {
+  "story_id": 909,
+  "final": "Not about AAP/Govt",
+  "reason": "Same subject as row 787: a rise in coughs and colds with the changing weather, counted from hospital patients; no shortage or lapse of the health service is reported.",
+  "rule": "new case",
+  "theme_group": "",
+  "detailed_theme": "Weather (not govt)"
+ },
+ {
+  "story_id": 920,
+  "final": "Not about AAP/Govt",
+  "reason": "The caption says the anti-drug marathon in Abohar was organised by the Jakhar Trust, a private trust; no government or police role. Matches The Savera Times row 160.",
+  "rule": "Lesson 5",
+  "theme_group": "",
+  "detailed_theme": "Others"
+ },
+ {
+  "story_id": 952,
+  "final": "Neutral",
+  "reason": "Same judgment as row 829 (Amritsar sessions court, 10 years each for a knifepoint robbery): relevant as a Punjab Police case, Neutral as a routine court outcome.",
+  "rule": "new case",
+  "theme_group": "Crime & law and order",
+  "detailed_theme": "Law & order / crime"
+ }
+]

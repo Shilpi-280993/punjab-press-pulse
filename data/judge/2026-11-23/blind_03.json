@@ -1,0 +1,302 @@
+[
+ {
+  "story_id": 17,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "CM lays foundation of Rs 39.20 crore sports complex: delivery."
+ },
+ {
+  "story_id": 18,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "CM at Lok Milni says AAP aims at welfare and number one Punjab, hits opposition: scheme/outreach lead."
+ },
+ {
+  "story_id": 23,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "ED widens Bhullar probe, summons 7 Punjab officers: Lesson 13 Negative."
+ },
+ {
+  "story_id": 24,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "Punjab minister rebukes BJP-led Bihar government over bridge name: counter-attack on BJP side."
+ },
+ {
+  "story_id": 165,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Congress chief accuses government of misusing buses and machinery: opposition attack."
+ },
+ {
+  "story_id": 166,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Congress leader's own strategy meeting: Lesson 12 Opposition internal."
+ },
+ {
+  "story_id": 197,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "BJP's own rally slogan leads the headline: Lesson 17 Opposition internal."
+ },
+ {
+  "story_id": 199,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "BJP internal joining committee: Opposition internal."
+ },
+ {
+  "story_id": 71,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "Punjab minister rebukes BJP-led Bihar government over bridge name."
+ },
+ {
+  "story_id": 72,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "Body says BSF acted jointly with police and a minor was arrested with heroin: Lesson 1, police role present."
+ },
+ {
+  "story_id": 73,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Amritsar Police recover 1210 phones and return them: police delivery."
+ },
+ {
+  "story_id": 176,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Seer visits Congress leader's home: opposition internal."
+ },
+ {
+  "story_id": 177,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Congress leaders' meeting strategy: Lesson 12 Opposition internal."
+ },
+ {
+  "story_id": 214,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "BJP booth workers' meet slogan leads: Lesson 17."
+ },
+ {
+  "story_id": 216,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "BJP joining committee: Opposition internal."
+ },
+ {
+  "story_id": 217,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "medium",
+  "reason": "Headline is BJP's own claim of public hope; attack on government only in body: Lesson 17."
+ },
+ {
+  "story_id": 245,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "low",
+  "reason": "Photo of MP being taken to Dibrugarh airport; no Punjab government role stated."
+ },
+ {
+  "story_id": 39,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "ED summons seven more officials in Bhullar bribery case: Lesson 13 Negative."
+ },
+ {
+  "story_id": 41,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Headline leads with a demand on the government to finish recruitment: Lesson 22 grievance."
+ },
+ {
+  "story_id": 45,
+  "sentiment": "Neutral",
+  "confidence": "high",
+  "reason": "Routine transfers of DSP rank officers: Lesson 21 routine administration."
+ },
+ {
+  "story_id": 207,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "BJP leader's Ravidass message: opposition event."
+ },
+ {
+  "story_id": 208,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "medium",
+  "reason": "BJP show of strength leads the headline: Lesson 17 Opposition internal."
+ },
+ {
+  "story_id": 715,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Opposition leader says murder is a big question on law and order: crime plus attack."
+ },
+ {
+  "story_id": 720,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "Police arrest man with drugs: Lesson 1."
+ },
+ {
+  "story_id": 725,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "Police recover weapons from a dhol: recovery under Lesson 1."
+ },
+ {
+  "story_id": 728,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "Finance minister says people want Mann as CM again: AAP outreach, Lesson 3."
+ },
+ {
+  "story_id": 733,
+  "sentiment": "Negative",
+  "confidence": "low",
+  "reason": "Police embarrassed by rumour of 600 sacks of poppy husk; farcical failure."
+ },
+ {
+  "story_id": 735,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "medium",
+  "reason": "Road accidents with no government angle in the headline: Lesson 24."
+ },
+ {
+  "story_id": 737,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "26 arms licence holders arrested after dope test positive: arrests, Lesson 1."
+ },
+ {
+  "story_id": 738,
+  "sentiment": "Positive",
+  "confidence": "low",
+  "reason": "Police announce special nakas four nights a week: police action, Lesson 1 style."
+ },
+ {
+  "story_id": 739,
+  "sentiment": "Negative",
+  "confidence": "low",
+  "reason": "Hoarding net on Patiala-Devigarh road reads as civic nuisance."
+ },
+ {
+  "story_id": 742,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "Arrest of shooter and robbery accused sent to jail: arrests lead."
+ },
+ {
+  "story_id": 746,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Court asks police for status report in a hearing: Neutral, procedural."
+ },
+ {
+  "story_id": 748,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Four named for murderous attack: Lesson 16 crime report."
+ },
+ {
+  "story_id": 749,
+  "sentiment": "Neutral",
+  "confidence": "high",
+  "reason": "Routine transfer of 46 inspectors: Lesson 21."
+ },
+ {
+  "story_id": 750,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Demand for full irrigation power supply: grievance, Lesson 22."
+ },
+ {
+  "story_id": 757,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Concern over polluted water into Sutlej, demand for action: civic failure."
+ },
+ {
+  "story_id": 758,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Court declares SHO proclaimed offender: court rebuke."
+ },
+ {
+  "story_id": 761,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Labour inspectors given monthly inspection target: routine directive, Lesson 21."
+ },
+ {
+  "story_id": 762,
+  "sentiment": "Neutral",
+  "confidence": "low",
+  "reason": "Gurdwara arrangements for Prakash Purab: no clear tilt for the government."
+ },
+ {
+  "story_id": 769,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Sand-laden trolley recovered on illegal mining suspicion: seizure, Lesson 1."
+ },
+ {
+  "story_id": 770,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Routine food safety checks: Lesson 21."
+ },
+ {
+  "story_id": 773,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "low",
+  "reason": "Buffaloes die from live wires with no recorded state failure: Lesson 24."
+ },
+ {
+  "story_id": 774,
+  "sentiment": "Neutral",
+  "confidence": "low",
+  "reason": "Analysis of local political equations among AAP and rival camps."
+ },
+ {
+  "story_id": 780,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Administrative ban order on stubble burning, no action yet: Neutral."
+ },
+ {
+  "story_id": 784,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Student's death case new revelation: crime report, Lesson 16."
+ },
+ {
+  "story_id": 787,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Viral diseases raise worries: health service concern."
+ },
+ {
+  "story_id": 795,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Cases against 19 stubble burners, no arrest: Lesson 15."
+ },
+ {
+  "story_id": 801,
+  "sentiment": "Neutral",
+  "confidence": "low",
+  "reason": "Teachers' front holds a state meeting: no stated attack or demand in the headline."
+ },
+ {
+  "story_id": 802,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Routine exam held successfully: Lesson 11 routine administration."
+ }
+]

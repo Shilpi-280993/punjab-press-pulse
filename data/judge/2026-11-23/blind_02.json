@@ -1,0 +1,218 @@
+[
+ {
+  "story_id": 957,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "Arrests in the lead (Lesson 1)."
+ },
+ {
+  "story_id": 102,
+  "sentiment": "Neutral",
+  "confidence": "low",
+  "reason": "Engineers' association levy for legal aid, no govt action or failure."
+ },
+ {
+  "story_id": 226,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "medium",
+  "reason": "Headline is BJP's own claim (Lesson 17), opposition internal."
+ },
+ {
+  "story_id": 251,
+  "sentiment": "Negative",
+  "confidence": "low",
+  "reason": "Column says every department is corrupt up to the top."
+ },
+ {
+  "story_id": 256,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Drug overdose death with sales openly allowed, civic/law failure."
+ },
+ {
+  "story_id": 269,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "low",
+  "reason": "Headline reports RMPI's own meeting, no attack on govt in headline (Lesson 17)."
+ },
+ {
+  "story_id": 300,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "RTI statistics on drug FIRs, no clear tilt."
+ },
+ {
+  "story_id": 301,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "AAP outreach meeting on CM's pro-people policies (Lesson 3)."
+ },
+ {
+  "story_id": 310,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Proclaimed offender arrested (Lesson 1)."
+ },
+ {
+  "story_id": 313,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "Health department polio drive delivery, 26,089 children covered."
+ },
+ {
+  "story_id": 318,
+  "sentiment": "Neutral",
+  "confidence": "high",
+  "reason": "Minister attends religious function, courtesy (Lesson 21)."
+ },
+ {
+  "story_id": 362,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "Government war-on-drugs campaign camps held."
+ },
+ {
+  "story_id": 379,
+  "sentiment": "Positive",
+  "confidence": "low",
+  "reason": "CM announces grants at Lok Milni though villagers' demands lead the headline."
+ },
+ {
+  "story_id": 387,
+  "sentiment": "Neutral",
+  "confidence": "low",
+  "reason": "Jailed AAP candidate's letter to voters, no delivery or attack."
+ },
+ {
+  "story_id": 449,
+  "sentiment": "Neutral",
+  "confidence": "low",
+  "reason": "Christian leader's complaint against parties generally, govt not named in headline."
+ },
+ {
+  "story_id": 463,
+  "sentiment": "Neutral",
+  "confidence": "high",
+  "reason": "Election Commission roll observer inspection."
+ },
+ {
+  "story_id": 465,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Case on forest staff's own complaint, no arrest (Lesson 15)."
+ },
+ {
+  "story_id": 492,
+  "sentiment": "Neutral",
+  "confidence": "high",
+  "reason": "Census appeal by official, routine (Lessons 21, 23)."
+ },
+ {
+  "story_id": 120,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Pind clinics record just 8 patients a day, scheme underperforming."
+ },
+ {
+  "story_id": 122,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Autonomous vet university product news, no govt delivery (Lesson 11)."
+ },
+ {
+  "story_id": 123,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Guest column on governance fault lines in Punjab."
+ },
+ {
+  "story_id": 124,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Dera head meeting leaders, no govt angle."
+ },
+ {
+  "story_id": 125,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "BJP internal rift."
+ },
+ {
+  "story_id": 126,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "ED summons 12 bureaucrats, PUDA work halts (Lesson 13)."
+ },
+ {
+  "story_id": 127,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Key CM post vacant 54 days."
+ },
+ {
+  "story_id": 128,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Water resources staff face 3,000 chargesheets, civic/employee grievance."
+ },
+ {
+  "story_id": 130,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Rajasthan panchayat poll, no Punjab govt role."
+ },
+ {
+  "story_id": 182,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Congress internal reaching out (Lesson 4)."
+ },
+ {
+  "story_id": 144,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "CM says govt committed to transforming Punjab, attacks past govts at Lok Milni."
+ },
+ {
+  "story_id": 146,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Extra power centre around AAP leader's relative."
+ },
+ {
+  "story_id": 147,
+  "sentiment": "Negative",
+  "confidence": "low",
+  "reason": "Stubble burning kills 2 in the lead, arrests follow."
+ },
+ {
+  "story_id": 148,
+  "sentiment": "Neutral",
+  "confidence": "low",
+  "reason": "Jailed minister's message to voters, no tilt."
+ },
+ {
+  "story_id": 185,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Punjab Congress chief accuses AAP of misusing buses."
+ },
+ {
+  "story_id": 234,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "BJP yatra welcome, opposition event."
+ },
+ {
+  "story_id": 235,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "BJP manifesto outreach, opposition event."
+ },
+ {
+  "story_id": 250,
+  "sentiment": "Neutral",
+  "confidence": "low",
+  "reason": "Opinion on Amritpal's parole, administration only watched."
+ }
+]

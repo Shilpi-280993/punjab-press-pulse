@@ -104,6 +104,15 @@ From the sentiment judge, 22 Nov 2026:
 28. Lesson 3 covers AAP's own party-promotion events: announcements and preparations for AAP's Foundation Day rally in Moga, and an AAP leader's public meeting to mobilise workers for it, are Positive (`AAP organisation & outreach`), as on 16, 17 and 20 Nov. Lesson 21 keeps internal courtesies (felicitations, nominations, courtesy calls) Neutral. Seen 3 times (Neutral changed to Positive).
 29. Lesson 25 is decided by who acted, not by the intro: a BSF recovery described as "joint action" stays `Not about AAP/Govt` when the body shows the BSF handing the haul to Punjab Police, who only weighed it and registered the FIR. Seen 3 times (Positive changed to Not about).
 
+From the sentiment judge, 23 Nov 2026:
+
+30. Lessons 11 and 21 again: a minister attending a kabaddi cup, an AAP leader's visit to a saint, a police plan for nakas and a doctor's health advice that only mentions a scheme are Neutral, not Positive. Seen 5 times (3 coder and 2 blind-check Positives).
+31. A private or union event (a trust's marathon, a union's own meeting) and an accident with no state failure in the item are `Not about AAP/Govt`, even when an MLA or officials attend or the police register the case (Lessons 5 and 24). Seen 3 times (Neutral or Negative changed to Not about).
+32. A health drive that is under way and reaching people (pulse polio drops being given, "N children given drops", a drive launched with drops administered) is Positive under `Schools, health & employees`, `Health services`; only a notice of a future drive is Neutral. 13 copies were aligned to this ruling.
+33. New case: when a court raps a central body (BBMB) in a case where the Punjab government is a party and owns the project (the Kharar sarovar), but the hearing gives Punjab neither a rebuke nor a ruling in its favour, the row is relevant and Neutral under the subject's group (`Punjab's rights: water, PU, Chandigarh`), in every paper.
+34. New case: a seasonal illness or health-advice feature (viral fever, coughs and colds as the weather changes) that reports no shortage, failure or new service of the state health system is `Not about AAP/Govt` (`Weather (not govt)`), even when government hospital doctors are quoted.
+35. New case: a trial court's conviction or sentence in an ordinary Punjab Police case (robbery, snatching) is relevant and Neutral under `Crime & law and order`, neither `Not about AAP/Govt` nor a Lesson 1 Positive.
+
 From the merge, 19 Nov 2026:
 
 20. Dainik Savera's PDF can print the same district page twice (19 Nov: Bathinda 1 to Malwa 6 and Moga 4 to Moga 8 each appeared on two PDF pages). Rows from the second copy of a page are `Duplicate`, as for repeated deck clippings.

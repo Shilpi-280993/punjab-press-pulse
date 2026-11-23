@@ -1,0 +1,302 @@
+[
+ {
+  "story_id": 3,
+  "sentiment": "Neutral",
+  "confidence": "low",
+  "reason": "Central export curb plan with Punjab price worry; no state action (L5 borderline)."
+ },
+ {
+  "story_id": 5,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Teachers' protest clash with police outside minister's house."
+ },
+ {
+  "story_id": 6,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Centre withholding CCL approval strains Punjab procurement."
+ },
+ {
+  "story_id": 16,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Crowds besiege DSP office demanding arrests (Lesson 22)."
+ },
+ {
+  "story_id": 163,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "medium",
+  "reason": "Congress leader's own slogan leads headline (Lesson 17)."
+ },
+ {
+  "story_id": 164,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "30 families leave AAP for Congress: defection."
+ },
+ {
+  "story_id": 192,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "BJP leader's goal to defeat AAP leads the headline."
+ },
+ {
+  "story_id": 196,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "BJP wing appointments: opposition internal."
+ },
+ {
+  "story_id": 240,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "medium",
+  "reason": "Amritpal back in Assam jail: central custody, no Punjab govt role."
+ },
+ {
+  "story_id": 90,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "Minister orders new BPEO promotion formula: government delivery."
+ },
+ {
+  "story_id": 91,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "CM dedicates Rs 8 crore astro-turf: delivery."
+ },
+ {
+  "story_id": 92,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "ATM thefts in Khanna: crime, no arrest."
+ },
+ {
+  "story_id": 94,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Stubble burning incidents cross 7,000 despite harvest end."
+ },
+ {
+  "story_id": 96,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "Heroin recovery after Punjab Police ADS tip-off and search."
+ },
+ {
+  "story_id": 97,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "AAP minister attacks Bihar BJP government (aap_voice)."
+ },
+ {
+  "story_id": 221,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "BJP's own campaign drive: opposition internal."
+ },
+ {
+  "story_id": 79,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Bridge collapse questions with NHAI and PWD blame game: civic failure."
+ },
+ {
+  "story_id": 80,
+  "sentiment": "Neutral",
+  "confidence": "low",
+  "reason": "High Court raps BBMB over Kharar lake project funded by Centre; no state failure or delivery."
+ },
+ {
+  "story_id": 82,
+  "sentiment": "Negative",
+  "confidence": "low",
+  "reason": "Employee group demands quota, alleging injustice."
+ },
+ {
+  "story_id": 178,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Channi attacks Punjab government."
+ },
+ {
+  "story_id": 844,
+  "sentiment": "Neutral",
+  "confidence": "high",
+  "reason": "Routine DSP transfers and postings."
+ },
+ {
+  "story_id": 846,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "medium",
+  "reason": "Private transporters' rivalry and a false report."
+ },
+ {
+  "story_id": 848,
+  "sentiment": "Neutral",
+  "confidence": "low",
+  "reason": "Civic election contest preview, no government tilt."
+ },
+ {
+  "story_id": 849,
+  "sentiment": "Neutral",
+  "confidence": "high",
+  "reason": "Routine election candidate count."
+ },
+ {
+  "story_id": 851,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Private tragedy at a school, no government angle."
+ },
+ {
+  "story_id": 853,
+  "sentiment": "Positive",
+  "confidence": "low",
+  "reason": "Shooting with an arrest; Lesson 1 arrest rule."
+ },
+ {
+  "story_id": 856,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Local body head's routine Census self-enumeration (Lesson 21/23)."
+ },
+ {
+  "story_id": 862,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "SMO's advice cites Mukh Mantri Sehat Yojana benefit."
+ },
+ {
+  "story_id": 867,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Youth found dead in forest: crime report."
+ },
+ {
+  "story_id": 873,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Moga rally preparations and smart ration cards launch (Lesson 28)."
+ },
+ {
+  "story_id": 877,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "medium",
+  "reason": "Employee union election, no government decision."
+ },
+ {
+  "story_id": 890,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "AAP outreach: people eager for Mann as CM again."
+ },
+ {
+  "story_id": 894,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Council notice to panchayat, routine administrative step."
+ },
+ {
+  "story_id": 898,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Routine holiday notice for Prakashotsav."
+ },
+ {
+  "story_id": 909,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "medium",
+  "reason": "Seasonal illness from weather, no government angle."
+ },
+ {
+  "story_id": 911,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "medium",
+  "reason": "Rail-track blast arrest with no Punjab govt role shown (Lesson 9)."
+ },
+ {
+  "story_id": 913,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Police combing records, no arrest (Lesson 15)."
+ },
+ {
+  "story_id": 918,
+  "sentiment": "Neutral",
+  "confidence": "high",
+  "reason": "Routine counselling schedule notice."
+ },
+ {
+  "story_id": 920,
+  "sentiment": "Positive",
+  "confidence": "low",
+  "reason": "Anti-drug run event; campaign outreach."
+ },
+ {
+  "story_id": 927,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Potholed road, civic failure."
+ },
+ {
+  "story_id": 939,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Case against farmers with no arrest (Lesson 15)."
+ },
+ {
+  "story_id": 941,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Routine traffic challans figure."
+ },
+ {
+  "story_id": 943,
+  "sentiment": "Neutral",
+  "confidence": "high",
+  "reason": "Election Commission roll meeting."
+ },
+ {
+  "story_id": 944,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "MLA's speech on women, no delivery (Lesson 21)."
+ },
+ {
+  "story_id": 945,
+  "sentiment": "Neutral",
+  "confidence": "low",
+  "reason": "Scheduled power cut notice."
+ },
+ {
+  "story_id": 947,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Youth dies after drug injection: drug death."
+ },
+ {
+  "story_id": 948,
+  "sentiment": "Neutral",
+  "confidence": "high",
+  "reason": "Routine police postings."
+ },
+ {
+  "story_id": 952,
+  "sentiment": "Neutral",
+  "confidence": "low",
+  "reason": "Court sentence in robbery case, no government tilt."
+ },
+ {
+  "story_id": 954,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Kidnap attempt allegation, crime report (Lesson 16)."
+ },
+ {
+  "story_id": 956,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Municipal corporation strike continues, civic disruption."
+ }
+]

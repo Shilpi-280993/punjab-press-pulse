@@ -1,0 +1,212 @@
+[
+ {
+  "story_id": 153,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Drug death with family alleging open drug sales near a police station."
+ },
+ {
+  "story_id": 161,
+  "sentiment": "Positive",
+  "confidence": "low",
+  "reason": "Punjab minister defends Sikh sentiment against Bihar govt over bridge name; rebuttal of another state's govt."
+ },
+ {
+  "story_id": 237,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "BJP chief's attack on AAP govt (decline, drugs, gangsterism) leads the item."
+ },
+ {
+  "story_id": 568,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Crime report by FIR on complaint, no arrest (Lesson 16)."
+ },
+ {
+  "story_id": 569,
+  "sentiment": "Neutral",
+  "confidence": "low",
+  "reason": "Dismissed DSP's wedding ruckus; police only investigating, no clear tilt."
+ },
+ {
+  "story_id": 572,
+  "sentiment": "Neutral",
+  "confidence": "high",
+  "reason": "DC's routine census appeal (Lessons 21, 23)."
+ },
+ {
+  "story_id": 574,
+  "sentiment": "Neutral",
+  "confidence": "high",
+  "reason": "DC's routine inspection of offices (Lesson 21)."
+ },
+ {
+  "story_id": 581,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Family's appeal alleging injustice after police FIR over PCS recruitment protest."
+ },
+ {
+  "story_id": 586,
+  "sentiment": "Neutral",
+  "confidence": "high",
+  "reason": "Routine PAU training course (Lesson 11)."
+ },
+ {
+  "story_id": 591,
+  "sentiment": "Neutral",
+  "confidence": "high",
+  "reason": "Routine DSP posting."
+ },
+ {
+  "story_id": 597,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Congress leader backs employees' pending dues against govt."
+ },
+ {
+  "story_id": 598,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "Police camps delivering on-the-spot grievance redress."
+ },
+ {
+  "story_id": 602,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "medium",
+  "reason": "Chandigarh civic body's STP violation; not a Punjab govt matter."
+ },
+ {
+  "story_id": 608,
+  "sentiment": "Neutral",
+  "confidence": "high",
+  "reason": "Routine police awareness appeal on stubble burning."
+ },
+ {
+  "story_id": 611,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Local council's dues notice to a panchayat; no clear tilt."
+ },
+ {
+  "story_id": 612,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "BJP's own yatra reception (Lessons 4, 17)."
+ },
+ {
+  "story_id": 107,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "CAQM report flags Punjab missing stubble-use targets."
+ },
+ {
+  "story_id": 109,
+  "sentiment": "Neutral",
+  "confidence": "high",
+  "reason": "Family's own stance on elections (Lesson 6)."
+ },
+ {
+  "story_id": 111,
+  "sentiment": "Neutral",
+  "confidence": "low",
+  "reason": "HC raps BBMB, not the Punjab govt; no govt action or failure in lead."
+ },
+ {
+  "story_id": 112,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "PIL over Sangrur's failure to set up waste facility."
+ },
+ {
+  "story_id": 115,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "ED summons to Chief Secretary over JCT deal (Lesson 13)."
+ },
+ {
+  "story_id": 116,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Election seat feature with no tilt."
+ },
+ {
+  "story_id": 181,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Congress alleges misuse of public funds for AAP rallies."
+ },
+ {
+  "story_id": 229,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "BJP's own manifesto campaign (Lesson 4)."
+ },
+ {
+  "story_id": 230,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "BJP MP's party meeting (Lesson 4)."
+ },
+ {
+  "story_id": 248,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "low",
+  "reason": "SAD rebel's disqualification petition; opposition internal."
+ },
+ {
+  "story_id": 133,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "ED summons Punjab officers in Bhullar case (Lesson 13)."
+ },
+ {
+  "story_id": 134,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "CM lays foundation and inaugurates sports facilities."
+ },
+ {
+  "story_id": 135,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Farm fires up 37%."
+ },
+ {
+  "story_id": 136,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "Police recovered and returned 1,210 phones (Lesson 1)."
+ },
+ {
+  "story_id": 138,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Mixed health data, 8% decline but postpartum concern."
+ },
+ {
+  "story_id": 139,
+  "sentiment": "Neutral",
+  "confidence": "low",
+  "reason": "HC raps BBMB, not the Punjab govt."
+ },
+ {
+  "story_id": 140,
+  "sentiment": "Neutral",
+  "confidence": "high",
+  "reason": "Routine police transfers."
+ },
+ {
+  "story_id": 143,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "Forest department digs trenches to stop off-roaders."
+ },
+ {
+  "story_id": 233,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "BJP's own manifesto campaign (Lesson 4)."
+ }
+]

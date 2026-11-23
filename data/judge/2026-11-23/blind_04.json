@@ -1,0 +1,285 @@
+[
+ {
+  "story_id": 803,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Police cordon-and-search drive against smugglers (Lesson 1)."
+ },
+ {
+  "story_id": 806,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "medium",
+  "reason": "Farmers' toll plaza protest concerns a central NHAI toll, no state role."
+ },
+ {
+  "story_id": 808,
+  "sentiment": "Neutral",
+  "confidence": "high",
+  "reason": "Election roll observer meeting parties, routine EC business."
+ },
+ {
+  "story_id": 811,
+  "sentiment": "Neutral",
+  "confidence": "low",
+  "reason": "Awareness speech at a school function, no government delivery in the lead."
+ },
+ {
+  "story_id": 814,
+  "sentiment": "Neutral",
+  "confidence": "low",
+  "reason": "AAP leader house-arrested by Chandigarh (UT) police; no Punjab government role, no attack statement."
+ },
+ {
+  "story_id": 817,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Warning of sharp struggle over demands, a protest grievance (Lesson 22)."
+ },
+ {
+  "story_id": 819,
+  "sentiment": "Neutral",
+  "confidence": "low",
+  "reason": "Teachers' delegation meets education officers, routine meeting."
+ },
+ {
+  "story_id": 821,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "FIRs on dope-test failures with no arrest or seizure (Lesson 15)."
+ },
+ {
+  "story_id": 823,
+  "sentiment": "Negative",
+  "confidence": "low",
+  "reason": "Body found, a crime/death report with no government angle in the lead."
+ },
+ {
+  "story_id": 827,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Routine pulse polio drive start, no clear tilt (Lesson 11)."
+ },
+ {
+  "story_id": 829,
+  "sentiment": "Neutral",
+  "confidence": "low",
+  "reason": "Court conviction in a snatching case, routine court outcome."
+ },
+ {
+  "story_id": 834,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Routine conduct of scholarship exams, no tilt."
+ },
+ {
+  "story_id": 837,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Alleged kidnapping attempt on a child, crime report (Lesson 16)."
+ },
+ {
+  "story_id": 26,
+  "sentiment": "Neutral",
+  "confidence": "low",
+  "reason": "Villagers' own boycott of bail-givers to smugglers; no government action in the lead."
+ },
+ {
+  "story_id": 27,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Central air quality commission's report card, no Punjab government role (Lesson 5)."
+ },
+ {
+  "story_id": 36,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Mera Ghar Mere Naam scheme cards given to 200 beneficiaries."
+ },
+ {
+  "story_id": 168,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Congress leader's own event, opposition internal (Lessons 12, 17)."
+ },
+ {
+  "story_id": 169,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Congress MLA detained in Sirsa, Haryana; no Punjab angle."
+ },
+ {
+  "story_id": 202,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "BJP leader claims many AAP MLAs will defect, opposition attack/defection claim."
+ },
+ {
+  "story_id": 203,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "BJP president's call for municipal polls, opposition's own event (Lesson 17)."
+ },
+ {
+  "story_id": 243,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Speaker's disqualification proceedings against SAD MLA, routine Assembly business."
+ },
+ {
+  "story_id": 632,
+  "sentiment": "Neutral",
+  "confidence": "high",
+  "reason": "MP's inspection of hall work, routine inspection (Lesson 21)."
+ },
+ {
+  "story_id": 635,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Struggle announced over ownership rights, grievance against state inaction (Lesson 22)."
+ },
+ {
+  "story_id": 638,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Union struggle needed to open paddy purchase, implies procurement failure (Lesson 22)."
+ },
+ {
+  "story_id": 640,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Farmer rally pressing Centre and Punjab government on demands, protest."
+ },
+ {
+  "story_id": 642,
+  "sentiment": "Neutral",
+  "confidence": "low",
+  "reason": "Case against SAD leader over nomination episode, no arrest (Lesson 15)."
+ },
+ {
+  "story_id": 644,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Union demands release of arrested workers, protest against government."
+ },
+ {
+  "story_id": 50,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "CM lays foundation stone of sports complex, a launch."
+ },
+ {
+  "story_id": 51,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "MLA starts Rs 1.13 crore road repair, delivery."
+ },
+ {
+  "story_id": 57,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "BSF recovery; police only joined the search afterwards (Lessons 25, 29)."
+ },
+ {
+  "story_id": 652,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "Government pensioners' service fair delivering services, third day successful."
+ },
+ {
+  "story_id": 653,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Routine pulse polio drive start (Lesson 11)."
+ },
+ {
+  "story_id": 656,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Employees' and pensioners' pakka dharna, protest against government."
+ },
+ {
+  "story_id": 661,
+  "sentiment": "Neutral",
+  "confidence": "high",
+  "reason": "DC's routine visit to SDM complex (Lesson 21)."
+ },
+ {
+  "story_id": 670,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Routine pulse polio drops, no tilt."
+ },
+ {
+  "story_id": 671,
+  "sentiment": "Neutral",
+  "confidence": "low",
+  "reason": "Minister attends a kabaddi cup with an assurance on playgrounds, no delivery (Lessons 11, 21)."
+ },
+ {
+  "story_id": 673,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Cultural performances at a festival, event report with no delivery."
+ },
+ {
+  "story_id": 675,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "AAP leader's statement on youth and grounds, no delivery or action."
+ },
+ {
+  "story_id": 676,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "People join AAP at Plata, party outreach (Lesson 3)."
+ },
+ {
+  "story_id": 692,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Routine pulse polio drops, no tilt."
+ },
+ {
+  "story_id": 696,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Mann government's school education praised, Punjabi Varnmala video views."
+ },
+ {
+  "story_id": 697,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Routine notice of free dairy training batch (Lesson 11).",
+  "headline_fix": "New batch of free dairy training from 30 Nov; interview on 23 Nov"
+ },
+ {
+  "story_id": 698,
+  "sentiment": "Neutral",
+  "confidence": "high",
+  "reason": "AAP leader's courtesy meeting with a saint (Lesson 21)."
+ },
+ {
+  "story_id": 702,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Railway hospital programme, central body (Lesson 5)."
+ },
+ {
+  "story_id": 707,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "Mobile phones recovered from jail and heroin recoveries by police (Lesson 1)."
+ },
+ {
+  "story_id": 708,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Routine pulse polio launch by a health officer."
+ },
+ {
+  "story_id": 711,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Private group's donation grant to organisations, no government role (Lesson 5)."
+ }
+]

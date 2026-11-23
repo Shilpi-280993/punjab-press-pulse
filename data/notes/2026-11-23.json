@@ -1,0 +1,33 @@
+{
+ "validation": "Sentiment checked blind by a second model (Sonnet) on a sample of 218 stories (every low-confidence row plus 100 at random), with Claude Fable 5.2 ruling on every disagreement: the check agreed with the coding on 182 (83%, and 94 of the 100 random rows); after review 20 labels were changed, and 17 more copies of the same events were aligned with those rulings.",
+ "sources": "The monitoring deck's 250 clippings (slides 18 to 260), plus 648 stories the deck missed from every page of Dainik Savera (including its district pages), The Savera Times (including its district editions) and the District Front Page file (Punjabi Tribune, Rozana Spokesman, Punjabi Jagran and Dainik Jagran district pages); 60 repeated copies (mostly Dainik Savera district pages printed twice in its PDF) are marked as duplicates. The other papers' main editions are covered by the deck only; all 14 papers arrived (files taken from the Downloads folder). Relevant = about AAP, the Punjab government or a state matter.",
+ "takeaway": "{positive_share} of the {relevant} relevant stories were positive and {negative_share} negative. The CM laying the foundation of a Rs 39.20 crore sports complex in Dhuri led the good news (11 papers, 8 front pages, all positive), with 20 stories on AAP's 26 November Moga rally and 53 positive pulse polio reports. The ED summoning seven serving and retired Punjab officers in the DIG Bhullar case was the main negative (13 papers, 6 front pages, all 15 rows negative).",
+ "well": [
+  [
+   "Sports and the CM's outreach led the front pages.",
+   "The Dhuri sports complex ran in 11 papers with 8 front pages, all positive; the CM's Lok Milni line that earlier governments ruined Punjab's youth ran in 9 papers, all 10 rows positive."
+  ],
+  [
+   "AAP held the agenda on its own issues.",
+   "20 positive stories in 8 papers on the 26 November Moga rally, and minister Harbhajan ETO's objection to Bihar naming a Ganga bridge 'Nitish Setu' in 10 papers, all positive."
+  ],
+  [
+   "Police and health delivery travelled.",
+   "126 police action stories, 125 positive, including Amritsar police returning 1,210 lost phones (8 papers); 53 positive pulse polio stories in 6 papers."
+  ]
+ ],
+ "improve": [
+  [
+   "The ED's widening Bhullar probe dominated the negatives.",
+   "Summons to seven serving and retired IAS and IPS officers ran in 13 papers on 6 front pages, all 15 rows negative."
+  ],
+  [
+   "Congress made the Moga rally a misuse charge.",
+   "Pargat Singh's claim that AAP is misusing 2,500 government buses for the rally ran in 7 papers, all negative; 36 opposition attacks in all (Congress 18, BJP 11, SAD 5, others 2) against 19 AAP rebuttals."
+  ],
+  [
+   "Crime and employee protests kept district pages negative.",
+   "141 crime stories, 105 negative; 29 employee-protest stories in 8 papers, 27 negative, including teachers clashing with police outside Finance Minister Cheema's Sangrur residence (4 papers)."
+  ]
+ ]
+}

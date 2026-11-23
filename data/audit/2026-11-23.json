@@ -1,0 +1,122 @@
+{
+ "date": "2026-11-23",
+ "judge": "Claude Fable 5.2",
+ "rows_judged": 218,
+ "blind_agreement": 182,
+ "agreement_rate": 0.8349,
+ "disagreements": 36,
+ "sentiment_changed": 20,
+ "coder_kept": 16,
+ "patterns": [
+  {
+   "before": "Not about AAP/Govt",
+   "after": "Neutral",
+   "rule": "new case",
+   "count": 3
+  },
+  {
+   "before": "Neutral",
+   "after": "Positive",
+   "rule": "Sentiment: Positive",
+   "count": 2
+  },
+  {
+   "before": "Positive",
+   "after": "Neutral",
+   "rule": "Lesson 21",
+   "count": 2
+  },
+  {
+   "before": "Neutral",
+   "after": "Not about AAP/Govt",
+   "rule": "new case",
+   "count": 2
+  },
+  {
+   "before": "Neutral",
+   "after": "Not about AAP/Govt",
+   "rule": "Lesson 5",
+   "count": 2
+  },
+  {
+   "before": "Positive",
+   "after": "Not about AAP/Govt",
+   "rule": "Lesson 25",
+   "count": 1
+  },
+  {
+   "before": "Positive",
+   "after": "Neutral",
+   "rule": "new case",
+   "count": 1
+  },
+  {
+   "before": "Not about AAP/Govt",
+   "after": "Neutral",
+   "rule": "Lesson 11",
+   "count": 1
+  },
+  {
+   "before": "Neutral",
+   "after": "Negative",
+   "rule": "Sentiment: Negative",
+   "count": 1
+  },
+  {
+   "before": "Negative",
+   "after": "Neutral",
+   "rule": "Lesson 6",
+   "count": 1
+  },
+  {
+   "before": "Negative",
+   "after": "Neutral",
+   "rule": "Lesson 15",
+   "count": 1
+  },
+  {
+   "before": "Neutral",
+   "after": "Negative",
+   "rule": "Lesson 22",
+   "count": 1
+  },
+  {
+   "before": "Negative",
+   "after": "Not about AAP/Govt",
+   "rule": "Lesson 24",
+   "count": 1
+  },
+  {
+   "before": "Negative",
+   "after": "Neutral",
+   "rule": "Lesson 21",
+   "count": 1
+  }
+ ],
+ "new_cases": [
+  {
+   "story_id": 80,
+   "reason": "The High Court raps BBMB, a central board, in a petition where Punjab, the Mohali DC and Kharar council are respondents on the sarovar. Punjab is neither rebuked nor handed a ruling; the matter is adjourned to 25 Nov. When a court raps a central body (BBMB) in a case where the Punjab government is a party and owns the project, but the hearing gives Punjab neither a rebuke nor a ruling in its favour, the row is relevant and Neutral under the subject's group, in every paper."
+  },
+  {
+   "story_id": 111,
+   "reason": "Same hearing as row 80: the rebuke is for BBMB, the petition itself is against Punjab authorities over sewage in the sarovar, and Punjab only sought time to file a roadmap. No win secured by the government, so not Positive. When a court raps a central body (BBMB) in a case where the Punjab government is a party and owns the project, but the hearing gives Punjab neither a rebuke nor a ruling in its favour, the row is relevant and Neutral under the subject's group, in every paper."
+  },
+  {
+   "story_id": 787,
+   "reason": "A seasonal feature on viral illness after the change in weather with doctors' advice; no shortage, lapse or new step of the health service is reported. A seasonal illness or health advice feature that reports no shortage, failure or new service of the state health system is Not about AAP/Govt (weather), even when government hospital doctors are quoted."
+  },
+  {
+   "story_id": 829,
+   "reason": "A sessions court sentences two men in a robbery case investigated by Punjab Police and run by the state's prosecution: a law-and-order matter the state owns, so relevant, but a routine court outcome with no government action in the lead. A trial court's conviction or sentence in an ordinary Punjab Police case is relevant and Neutral under Crime & law and order."
+  },
+  {
+   "story_id": 909,
+   "reason": "Same subject as row 787: a rise in coughs and colds with the changing weather, counted from hospital patients; no shortage or lapse of the health service is reported."
+  },
+  {
+   "story_id": 952,
+   "reason": "Same judgment as row 829 (Amritsar sessions court, 10 years each for a knifepoint robbery): relevant as a Punjab Police case, Neutral as a routine court outcome."
+  }
+ ]
+}
