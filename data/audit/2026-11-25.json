@@ -1,0 +1,72 @@
+{
+ "date": "2026-11-25",
+ "judge": "Claude Fable 5.2",
+ "rows_judged": 203,
+ "blind_agreement": 184,
+ "agreement_rate": 0.9064,
+ "disagreements": 19,
+ "sentiment_changed": 9,
+ "coder_kept": 10,
+ "patterns": [
+  {
+   "before": "Neutral",
+   "after": "Not about AAP/Govt",
+   "rule": "Lesson 17",
+   "count": 2
+  },
+  {
+   "before": "Neutral",
+   "after": "Positive",
+   "rule": "new case",
+   "count": 2
+  },
+  {
+   "before": "Not about AAP/Govt",
+   "after": "Positive",
+   "rule": "new case",
+   "count": 1
+  },
+  {
+   "before": "Positive",
+   "after": "Negative",
+   "rule": "Judge by the headline's lead (Lessons 1 and 15 need the arrest in the lead)",
+   "count": 1
+  },
+  {
+   "before": "Neutral",
+   "after": "Negative",
+   "rule": "Lesson 13 (subject is Punjab's own officials) and court rebukes are Negative",
+   "count": 1
+  },
+  {
+   "before": "Positive",
+   "after": "Neutral",
+   "rule": "Lesson 21",
+   "count": 1
+  },
+  {
+   "before": "Neutral",
+   "after": "Negative",
+   "rule": "Sentiment: Negative (protests against the government)",
+   "count": 1
+  }
+ ],
+ "new_cases": [
+  {
+   "story_id": 22,
+   "reason": "Printed headline is a speaker-less round-up line ('Politics heats up in Punjab after Akali-BJP alliance'), not an opposition event or slogan, so Lessons 12 and 17 do not apply. The strap ('Akali-BJP responsible for farmers' deaths, sacrilege and drugs: Cheema'), the only photo (Harpal Cheema) and the body lead are the AAP finance minister's attack on the alliance, followed by AAP's Baltej Pannu. When a headline has no tilt and no speaker, the strap and photo decide: an AAP minister's attack on the opposition is Positive with aap_voice true, as in the other papers' Cheema rows (6, 18, 33, 42, 54, 65)."
+  },
+  {
+   "story_id": 588,
+   "reason": "Headline and body report the state government's own games being held: 'State-level judo and softball competitions under Khedan Watan Punjab Diyan 2026 concluded with fanfare' in Fatehgarh Sahib, 17 to 23 Nov, with the District Sports Officer giving results. A government programme that is under way and reaching people is delivery, as Lesson 32 holds for health drives, and as Khedan Watan reports were coded on 19, 20, 22 and 23 Nov. Rule to write: a report of events held or results under Khedan Watan Punjab Diyan, where the headline names the games, is Positive under Hockey & sports; a notice of future fixtures is Neutral; a protest or complaint at the games is Negative (20 Nov story 901)."
+  },
+  {
+   "story_id": 802,
+   "reason": "Headline 'Challans for use of plastic bags'; body: under the Municipal Corporation's checking drive to keep Patiala clean and plastic-free, inspectors raided markets and issued more than 30 challans to shopkeepers and vendors. Completed enforcement is in the lead, unlike the meetings, inspections and directions of Lesson 21, and it matches 19 Nov (Nawanshahr plastic challans) and the overloaded-vehicle challan rows of 15, 20, 22 and 23 Nov. Rule to write: an enforcement drive by a civic body, the administration or traffic police that reports challans or fines actually issued is Positive (Civic services & infrastructure, or Police action when by police); a planned drive, a warning or an appeal alone is Neutral."
+  },
+  {
+   "story_id": 912,
+   "reason": "Headline 'Leopard terror: goat and two pet dogs made prey'. The photos and sidebar show Wildlife Department staff setting a cage in the village and the SDM Nangal and tehsildar taking stock. Relevant, not a Lesson 24 item, because the state department is acting in the item; but a wild animal straying from the forest is not a civic failure like the stray dogs of Lesson 19, and no resident complains of inaction (Lesson 22). Rule to write: a wild animal incident is relevant when the wildlife or forest department or the administration responds in the item; Neutral when the headline leads with the animal's attacks and the response is under way (cage set, inspection); Positive when the headline carries a completed capture or rescue (482, 592); Negative only when the lead is a complaint that the department has not acted."
+  }
+ ]
+}

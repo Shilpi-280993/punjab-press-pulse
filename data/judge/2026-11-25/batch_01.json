@@ -1,0 +1,402 @@
+[
+ {
+  "story_id": 3,
+  "newspaper": "Ajit",
+  "page": "3",
+  "headline": "Ruling AAP, Congress and BSP to stage show of strength on Constitution Day",
+  "ref": "deck slide 20",
+  "source": "Monitoring deck"
+ },
+ {
+  "story_id": 4,
+  "newspaper": "Ajit",
+  "page": "3",
+  "headline": "Plot to kill police officer in Mohali foiled",
+  "ref": "deck slide 21",
+  "source": "Monitoring deck"
+ },
+ {
+  "story_id": 5,
+  "newspaper": "Ajit",
+  "page": "3",
+  "headline": "Case against then-Tehsildar in Rs 54 crore land scam to proceed; appearance today",
+  "ref": "deck slide 22",
+  "source": "Monitoring deck"
+ },
+ {
+  "story_id": 8,
+  "newspaper": "Ajit",
+  "page": "3",
+  "headline": "Two motorcycle-borne attackers fire in Chheharta, woman killed; accused injured in encounter",
+  "ref": "deck slide 25",
+  "source": "Monitoring deck"
+ },
+ {
+  "story_id": 9,
+  "newspaper": "Ajit",
+  "page": "11",
+  "headline": "Due to lower demand, Powercom returning 1,200 to 1,300 MW of power to other states",
+  "ref": "deck slide 26",
+  "source": "Monitoring deck"
+ },
+ {
+  "story_id": 13,
+  "newspaper": "Ajit",
+  "page": "E1",
+  "headline": "New road to be built from Shahkot to Nawan Qila; Pala Jalalpur took stock",
+  "ref": "deck slide 30",
+  "source": "Monitoring deck"
+ },
+ {
+  "story_id": 191,
+  "newspaper": "Ajit",
+  "page": "8",
+  "headline": "The opposition is rattled by the Akali-BJP alliance: Dhillon",
+  "ref": "deck slide 195",
+  "source": "Monitoring deck"
+ },
+ {
+  "story_id": 251,
+  "newspaper": "Ajit",
+  "page": "1",
+  "headline": "BJP and Akali Dal will contest 2027 elections together: Amit Shah",
+  "ref": "deck slide 247",
+  "source": "Monitoring deck"
+ },
+ {
+  "story_id": 374,
+  "newspaper": "Ajit",
+  "page": "3",
+  "headline": "Akali Dal (Waris Punjab De) releases app and helpline number for membership",
+  "ref": "deck slide 357",
+  "source": "Monitoring deck"
+ },
+ {
+  "story_id": 376,
+  "newspaper": "Ajit",
+  "page": "11",
+  "headline": "BJP-Badal Dal agreement is dangerous for Punjab, Punjabis and Sikh community - Mann",
+  "ref": "deck slide 359",
+  "source": "Monitoring deck"
+ },
+ {
+  "story_id": 67,
+  "newspaper": "Dainik Bhaskar",
+  "page": "",
+  "headline": "CM Bhagwant Mann: our alliance is with 3.25 crore Punjabis; 'thug jod' to save political families and chairs",
+  "ref": "deck slide 83",
+  "source": "Monitoring deck"
+ },
+ {
+  "story_id": 71,
+  "newspaper": "Dainik Bhaskar",
+  "page": "J2",
+  "headline": "Both parties forgot old allegations for the election: Pilot (Congress)",
+  "ref": "deck slide 86",
+  "source": "Monitoring deck"
+ },
+ {
+  "story_id": 74,
+  "newspaper": "Dainik Bhaskar",
+  "page": "J2",
+  "headline": "Akali Dal sold Punjab's interests for political selfishness: Cheema",
+  "ref": "deck slide 86",
+  "source": "Monitoring deck"
+ },
+ {
+  "story_id": 76,
+  "newspaper": "Dainik Bhaskar",
+  "page": "J2",
+  "headline": "Punjab AAP in-charge and 3 ministers attend Dhirendra Shastri's darbar; Ramdev's criticism also a blessing: Dhirendra",
+  "ref": "deck slide 87",
+  "source": "Monitoring deck"
+ },
+ {
+  "story_id": 166,
+  "newspaper": "Dainik Bhaskar",
+  "page": "J2",
+  "headline": "Four more Akali Dal leaders and one AAP leader among 8 who join Congress in Jalalabad",
+  "ref": "deck slide 170",
+  "source": "Monitoring deck"
+ },
+ {
+  "story_id": 221,
+  "newspaper": "Dainik Bhaskar",
+  "page": "J2",
+  "headline": "People have not forgotten farmers' martyrdom and betrayal: Sisodia",
+  "ref": "deck slide 222",
+  "source": "Monitoring deck"
+ },
+ {
+  "story_id": 224,
+  "newspaper": "Dainik Bhaskar",
+  "page": "J2",
+  "headline": "Breaching AAP's fortress not easy; rural network and urban mail will change vote equation, AAP-Congress tension up; farmers' trust and seat sharing biggest test for Akali-BJP",
+  "ref": "deck slide 223",
+  "source": "Monitoring deck"
+ },
+ {
+  "story_id": 318,
+  "newspaper": "Dainik Bhaskar",
+  "page": "J1",
+  "headline": "PM Modi writes: happy at SAD's return to NDA, welfare of Punjab and Punjabis foremost",
+  "ref": "deck slide 310",
+  "source": "Monitoring deck"
+ },
+ {
+  "story_id": 319,
+  "newspaper": "Dainik Bhaskar",
+  "page": "J2",
+  "headline": "Winning farmers' trust and seat sharing biggest challenge for Akali-BJP; AAP's stronghold not easy to breach",
+  "ref": "deck slide 311",
+  "source": "Monitoring deck"
+ },
+ {
+  "story_id": 390,
+  "newspaper": "Dainik Bhaskar",
+  "page": "3",
+  "headline": "SKM anniversary: farmers' protest at Delhi Jantar Mantar tomorrow, 4 rallies in Punjab",
+  "ref": "deck slide 373",
+  "source": "Monitoring deck"
+ },
+ {
+  "story_id": 60,
+  "newspaper": "Dainik Jagran",
+  "page": "2",
+  "headline": "Bike-borne men shoot in Amritsar, woman dies; both shooters arrested within six hours",
+  "ref": "deck slide 76",
+  "source": "Monitoring deck"
+ },
+ {
+  "story_id": 64,
+  "newspaper": "Dainik Jagran",
+  "page": "3",
+  "headline": "Dhirendra Shastri happy to see Punjab govt's initiative for Sanatan, pilgrim sites and religious events",
+  "ref": "deck slide 80",
+  "source": "Monitoring deck"
+ },
+ {
+  "story_id": 66,
+  "newspaper": "Dainik Jagran",
+  "page": "5",
+  "headline": "Then tehsildar in Jhurhedi land scam will also face trial (court rejects Vigilance closure report)",
+  "ref": "deck slide 82",
+  "source": "Monitoring deck"
+ },
+ {
+  "story_id": 316,
+  "newspaper": "Dainik Jagran",
+  "page": "5",
+  "headline": "Booh Haveli village showed the country the way in stubble management: Shivraj Chouhan",
+  "ref": "deck slide 308",
+  "source": "Monitoring deck"
+ },
+ {
+  "story_id": 952,
+  "newspaper": "Dainik Jagran",
+  "page": "Patiala 1",
+  "headline": "Provocative speech: Bittu Chatta files anticipatory bail plea",
+  "ref": "file_065042.pdf p.32",
+  "source": "Full edition"
+ },
+ {
+  "story_id": 953,
+  "newspaper": "Dainik Jagran",
+  "page": "Patiala 1",
+  "headline": "Code of conduct: Mayor will not hear problems in office (Patiala)",
+  "ref": "file_065042.pdf p.32",
+  "source": "Full edition"
+ },
+ {
+  "story_id": 954,
+  "newspaper": "Dainik Jagran",
+  "page": "Patiala 1",
+  "headline": "Fight between police employee and conductor over ticket, nose bone broken",
+  "ref": "file_065042.pdf p.32",
+  "source": "Full edition"
+ },
+ {
+  "story_id": 962,
+  "newspaper": "Dainik Jagran",
+  "page": "Pathankot 1",
+  "headline": "Action on rule-breakers: 35 challans (Pathankot traffic police)",
+  "ref": "file_065042.pdf p.33",
+  "source": "Full edition"
+ },
+ {
+  "story_id": 963,
+  "newspaper": "Dainik Jagran",
+  "page": "Pathankot 1",
+  "headline": "Seven routes closed due to highway construction, people angry",
+  "ref": "file_065042.pdf p.33",
+  "source": "Full edition"
+ },
+ {
+  "story_id": 967,
+  "newspaper": "Dainik Jagran",
+  "page": "Nawanshahr 1",
+  "headline": "Several families including Asron sarpanch and panches join AAP; MLA Sant Kataria welcomes them",
+  "ref": "file_065042.pdf p.34",
+  "source": "Full edition"
+ },
+ {
+  "story_id": 969,
+  "newspaper": "Dainik Jagran",
+  "page": "Nawanshahr 1",
+  "headline": "Case against farmer for stubble burning",
+  "ref": "file_065042.pdf p.34",
+  "source": "Full edition"
+ },
+ {
+  "story_id": 974,
+  "newspaper": "Dainik Jagran",
+  "page": "Nawanshahr 1",
+  "headline": "Had they joined hands, alliance would have had Balachaur seat",
+  "ref": "file_065042.pdf p.34",
+  "source": "Full edition"
+ },
+ {
+  "story_id": 977,
+  "newspaper": "Dainik Jagran",
+  "page": "Mohali 1",
+  "headline": "Jhurheri land scam: then tehsildar Kuldeep Singh must also face trial (Mohali)",
+  "ref": "file_065042.pdf p.35",
+  "source": "Full edition"
+ },
+ {
+  "story_id": 985,
+  "newspaper": "Dainik Jagran",
+  "page": "Sangrur 1",
+  "headline": "SAD-BJP alliance: political equations to change on seven seats",
+  "ref": "file_065042.pdf p.37",
+  "source": "Full edition"
+ },
+ {
+  "story_id": 989,
+  "newspaper": "Dainik Jagran",
+  "page": "Sangrur 1",
+  "headline": "Rajya Sabha MP Rajinder Gupta meets Union Home Minister, discusses Punjab's development",
+  "ref": "file_065042.pdf p.37",
+  "source": "Full edition"
+ },
+ {
+  "story_id": 990,
+  "newspaper": "Dainik Jagran",
+  "page": "Sangrur 1",
+  "headline": "Political parties to get electoral roll (Election Commission)",
+  "ref": "file_065042.pdf p.37",
+  "source": "Full edition"
+ },
+ {
+  "story_id": 991,
+  "newspaper": "Dainik Jagran",
+  "page": "Sangrur 1",
+  "headline": "Special financial services camp to be held in Sangrur today",
+  "ref": "file_065042.pdf p.37",
+  "source": "Full edition"
+ },
+ {
+  "story_id": 992,
+  "newspaper": "Dainik Jagran",
+  "page": "Sangrur 1",
+  "headline": "Will get Dirba developed on all fronts: Harpal Cheema",
+  "ref": "file_065042.pdf p.37",
+  "source": "Full edition"
+ },
+ {
+  "story_id": 993,
+  "newspaper": "Dainik Jagran",
+  "page": "Sangrur 1",
+  "headline": "Civil defence mock drill on 27th",
+  "ref": "file_065042.pdf p.37",
+  "source": "Full edition"
+ },
+ {
+  "story_id": 996,
+  "newspaper": "Dainik Jagran",
+  "page": "Ludhiana 1",
+  "headline": "Peace and development will gather pace in Punjab: BJP's Modgil",
+  "ref": "file_065042.pdf p.38",
+  "source": "Full edition"
+ },
+ {
+  "story_id": 1000,
+  "newspaper": "Dainik Jagran",
+  "page": "Ludhiana 1",
+  "headline": "4,534 arms licences issued in city in four years, speed up four-fold in two years",
+  "ref": "file_065042.pdf p.38",
+  "source": "Full edition"
+ },
+ {
+  "story_id": 1021,
+  "newspaper": "Dainik Jagran",
+  "page": "Hoshiarpur 1",
+  "headline": "PM Rahat Yojana: Hoshiarpur first in Punjab, 100 cases approved",
+  "ref": "file_065042.pdf p.41",
+  "source": "Full edition"
+ },
+ {
+  "story_id": 1026,
+  "newspaper": "Dainik Jagran",
+  "page": "Gurdaspur 1",
+  "headline": "DLEd counselling: candidates of rank 1 to 940 to attend today",
+  "ref": "file_065042.pdf p.42",
+  "source": "Full edition"
+ },
+ {
+  "story_id": 1029,
+  "newspaper": "Dainik Jagran",
+  "page": "Faridkot 1",
+  "headline": "Attack with sharp weapons in Mahni Khera, two injured, case of attempt to murder against five",
+  "ref": "file_065042.pdf p.44",
+  "source": "Full edition"
+ },
+ {
+  "story_id": 1031,
+  "newspaper": "Dainik Jagran",
+  "page": "Faridkot 1",
+  "headline": "1500 jobs promised, 264 selected (employment fair)",
+  "ref": "file_065042.pdf p.44",
+  "source": "Full edition"
+ },
+ {
+  "story_id": 1033,
+  "newspaper": "Dainik Jagran",
+  "page": "Faridkot 1",
+  "headline": "Farmers booked for burning stubble (Faridkot)",
+  "ref": "file_065042.pdf p.44",
+  "source": "Full edition"
+ },
+ {
+  "story_id": 1036,
+  "newspaper": "Dainik Jagran",
+  "page": "Rupnagar 1",
+  "headline": "Minister Bains welcomes Prabhat Pheri at his residence",
+  "ref": "file_065042.pdf p.45",
+  "source": "Full edition"
+ },
+ {
+  "story_id": 1037,
+  "newspaper": "Dainik Jagran",
+  "page": "Rupnagar 1",
+  "headline": "BJP govt in Punjab is need of the hour: Mukesh Nadda (Ropar BJP leader)",
+  "ref": "file_065042.pdf p.45",
+  "source": "Full edition"
+ },
+ {
+  "story_id": 1040,
+  "newspaper": "Dainik Jagran",
+  "page": "Rupnagar 1",
+  "headline": "Civil Surgeon reviews health services and arrangements",
+  "ref": "file_065042.pdf p.45",
+  "source": "Full edition"
+ },
+ {
+  "story_id": 1051,
+  "newspaper": "Dainik Jagran",
+  "page": "Jalandhar 1",
+  "headline": "Youths accuse liquor-selling Shiv Sena leader's two sons in attack",
+  "ref": "file_065042.pdf p.48",
+  "source": "Full edition"
+ }
+]

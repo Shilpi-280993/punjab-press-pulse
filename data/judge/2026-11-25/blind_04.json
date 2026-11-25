@@ -1,0 +1,207 @@
+[
+ {
+  "story_id": 21,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Lesson 2: CM attacks Akali-BJP alliance as thag-jod."
+ },
+ {
+  "story_id": 22,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "Cheema's attack on the alliance (strap) leads; AAP counter-attack under Lesson 2, though the headline itself is on alliance politics."
+ },
+ {
+  "story_id": 23,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Headline says the alliance clouds the Kotkapura and Behbal sacrilege-firing cases the government is pursuing."
+ },
+ {
+  "story_id": 28,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "AAP Chandigarh chief attacks the BJP-Akali alliance; Lesson 2."
+ },
+ {
+  "story_id": 202,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Lessons 4 and 17: Akali-BJP workers celebrate their alliance, opposition's own event."
+ },
+ {
+  "story_id": 384,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "medium",
+  "reason": "Lesson 17: headline carries only an ex-minister's claim for the alliance; AAP gain is in the strap."
+ },
+ {
+  "story_id": 785,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Lesson 1: gang member arrested in extortion-call case."
+ },
+ {
+  "story_id": 787,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Lesson 16: attack at civil hospital gate, crime report with no arrest."
+ },
+ {
+  "story_id": 789,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Result report of state rowing at Khedan Watan Punjab Diyan, no delivery or failure in lead (Lessons 11, 30)."
+ },
+ {
+  "story_id": 793,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Labour union preparing permanent morcha in front of leaders' houses, protest against the government."
+ },
+ {
+  "story_id": 794,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Police route plan for the Moga rally, a police plan (Lesson 30)."
+ },
+ {
+  "story_id": 797,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Lesson 16: bank fraud case, crime report with no arrest."
+ },
+ {
+  "story_id": 802,
+  "sentiment": "Positive",
+  "confidence": "low",
+  "reason": "Challans issued on plastic bags by the civic body, enforcement action in the lead; could be routine (Lesson 21)."
+ },
+ {
+  "story_id": 804,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Headline leads with opposition to the AAP mega rally over 2,900 buses taken."
+ },
+ {
+  "story_id": 806,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Youth Congress leader says government cannot suppress his voice over police case, opposition attack in the lead."
+ },
+ {
+  "story_id": 40,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Lesson 2: CM attacks BJP-Akali alliance as thag jod."
+ },
+ {
+  "story_id": 44,
+  "sentiment": "Negative",
+  "confidence": "low",
+  "reason": "Mass fish deaths in the hydel canal with pollution board probe, civic or environmental failure (Lesson 19 style), no blame quoted."
+ },
+ {
+  "story_id": 48,
+  "sentiment": "Neutral",
+  "confidence": "high",
+  "reason": "Notice of a Civil Defence mock drill on 27 Nov, routine administration."
+ },
+ {
+  "story_id": 151,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Congress leaders get bail and are released in PPSC office case, procedural court step (Lesson 11)."
+ },
+ {
+  "story_id": 386,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Lessons 4 and 17: SGPC chief welcomes Akali-BJP alliance, opposition's own event."
+ },
+ {
+  "story_id": 809,
+  "sentiment": "Neutral",
+  "confidence": "high",
+  "reason": "Lesson 21: district police chief joins Census training, routine."
+ },
+ {
+  "story_id": 810,
+  "sentiment": "Positive",
+  "confidence": "low",
+  "reason": "Yudh Nashian Virudh anti-drug march under way (govt campaign outreach); could be Neutral as a routine event."
+ },
+ {
+  "story_id": 819,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Lessons 11 and 30: minister merely attends a religious Katha."
+ },
+ {
+  "story_id": 824,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Defection from AAP: block president joins Akali Dal."
+ },
+ {
+  "story_id": 831,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "SAD leader accuses government of leaking papers and playing with students' future."
+ },
+ {
+  "story_id": 832,
+  "sentiment": "Neutral",
+  "confidence": "low",
+  "reason": "Finance Minister repeats assurance to unemployed (Lesson 21); the 335-day Sangrur morcha could make it Negative."
+ },
+ {
+  "story_id": 841,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "SSP's statement of intent against criminals, no seizure or arrest in the lead (Lessons 15, 21)."
+ },
+ {
+  "story_id": 848,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Lesson 16: crime digest of theft, fights, drugs and road accident cases registered."
+ },
+ {
+  "story_id": 850,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "Hoshiarpur first district to sanction 100 homes under Surya Ghar, delivery led by district officials (Lesson 23)."
+ },
+ {
+  "story_id": 851,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Councillors make serious allegations against a cabinet minister in council president election row."
+ },
+ {
+  "story_id": 852,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Employees' rally at minister Aman Arora's house on 29 Nov for old pension, protest.",
+  "headline_fix": "Rally in front of minister Aman Arora's residence on 29 Nov for old pension restoration"
+ },
+ {
+  "story_id": 855,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Lesson 16: share-market fraud case registered, no arrest."
+ },
+ {
+  "story_id": 860,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Lesson 30: police and anti-sabotage team security plan."
+ },
+ {
+  "story_id": 862,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Lesson 21: ADC routine visit to a parali dump."
+ }
+]

@@ -1,0 +1,302 @@
+[
+ {
+  "story_id": 114,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Mann attacks SAD-BJP reunion: Lesson 2 counter-attack"
+ },
+ {
+  "story_id": 115,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Family launches jailed AAP minister's poll campaign; no delivery or attack in lead"
+ },
+ {
+  "story_id": 238,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "medium",
+  "reason": "SAD-BJP alliance announcement is the opposition's own event (Lesson 4/17)"
+ },
+ {
+  "story_id": 240,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "medium",
+  "reason": "Analysis of the SAD-BJP alliance's road; opposition internal"
+ },
+ {
+  "story_id": 242,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Photo of BJP and SAD leaders celebrating tie-up; opposition internal"
+ },
+ {
+  "story_id": 244,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "medium",
+  "reason": "Feature on SAD-BJP alliance's Sikh vote task; opposition internal"
+ },
+ {
+  "story_id": 245,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Feature on SAD and Moga politics; opposition internal"
+ },
+ {
+  "story_id": 247,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "medium",
+  "reason": "Editorial on SAD-BJP reunion; headline carries only opposition's event"
+ },
+ {
+  "story_id": 20,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "Dhirendra Shastri praises Punjab government's pilgrimage initiative"
+ },
+ {
+  "story_id": 131,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Congress's Warring on SAD-BJP alliance; opposition versus opposition"
+ },
+ {
+  "story_id": 134,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Congress's Randhawa attacks Sukhbir; opposition versus opposition"
+ },
+ {
+  "story_id": 135,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Congress's Singla calls alliance opportunistic; opposition versus opposition"
+ },
+ {
+  "story_id": 259,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "BJP's Dhillon hails alliance; opposition's own event"
+ },
+ {
+  "story_id": 266,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "BJP's Ashwani Sharma welcomes alliance; opposition's own event"
+ },
+ {
+  "story_id": 267,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "BJP's Malik welcomes alliance; opposition's own event"
+ },
+ {
+  "story_id": 269,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "BJP manifesto consultation with traders; opposition internal"
+ },
+ {
+  "story_id": 379,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "SGPC chief welcomes SAD-BJP alliance; opposition event"
+ },
+ {
+  "story_id": 54,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Finance minister Cheema attacks SAD-BJP alliance: Lesson 2 counter-attack"
+ },
+ {
+  "story_id": 56,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "Dhirendra Shastri praises Punjab government's initiatives"
+ },
+ {
+  "story_id": 211,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "SAD-BJP alliance announcement; opposition's own event"
+ },
+ {
+  "story_id": 295,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Modi's post on SAD return to NDA; opposition's own event"
+ },
+ {
+  "story_id": 297,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "BJP's Dhillon on alliance; opposition's own event"
+ },
+ {
+  "story_id": 298,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Central minister Shivraj on alliance; opposition's own event"
+ },
+ {
+  "story_id": 303,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Central minister's gurdwara visit, no Punjab government angle"
+ },
+ {
+  "story_id": 307,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "BJP's Malik on alliance; opposition's own event"
+ },
+ {
+  "story_id": 35,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Daytime shooting kills woman: crime report"
+ },
+ {
+  "story_id": 866,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "FIR against financiers in doctor's suicide, no arrest: Lesson 16 crime report"
+ },
+ {
+  "story_id": 868,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "SAD candidate joins AAP: defection to AAP"
+ },
+ {
+  "story_id": 870,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Heroin smugglers held: Lesson 1"
+ },
+ {
+  "story_id": 871,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Petrol pump employee beaten: crime report"
+ },
+ {
+  "story_id": 872,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Demand for state action on jhuggi mafia: grievance of inaction (Lesson 22)"
+ },
+ {
+  "story_id": 873,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Khair trees cut near forest, accused flee: crime report"
+ },
+ {
+  "story_id": 880,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Councillors not sworn in for three months: grievance of inaction (Lesson 22)"
+ },
+ {
+  "story_id": 884,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Dozens of families join AAP: Lesson 3 outreach"
+ },
+ {
+  "story_id": 885,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Fraud case registered on complaint, no arrest: Lesson 16"
+ },
+ {
+  "story_id": 887,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Five held with heroin: Lesson 1"
+ },
+ {
+  "story_id": 889,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Firing outside hotel: crime report"
+ },
+ {
+  "story_id": 891,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Case for beating couple, no arrest: Lesson 16"
+ },
+ {
+  "story_id": 893,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Small farmers deprived of subsidised facilities: grievance"
+ },
+ {
+  "story_id": 894,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Notice of a placement camp today: routine (Lesson 11)"
+ },
+ {
+  "story_id": 899,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "One accused arrested in woman's death case: Lesson 1 arrest"
+ },
+ {
+  "story_id": 909,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Civil Surgeon's surprise visit: routine inspection (Lesson 21)"
+ },
+ {
+  "story_id": 910,
+  "sentiment": "Negative",
+  "confidence": "low",
+  "reason": "Fish and wild animals dead in hydel canal: civic/environment failure"
+ },
+ {
+  "story_id": 912,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "low",
+  "reason": "Leopard attack with no state failure recorded: Lesson 24 analogue"
+ },
+ {
+  "story_id": 913,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Akali-BJP workers' joy over alliance; opposition's own event"
+ },
+ {
+  "story_id": 917,
+  "sentiment": "Neutral",
+  "confidence": "low",
+  "reason": "Court says land-scam accused face trial: procedural step"
+ },
+ {
+  "story_id": 921,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Routine power-shutdown notice for maintenance"
+ },
+ {
+  "story_id": 927,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Dharna decision outside CM's residence: protest against government"
+ },
+ {
+  "story_id": 929,
+  "sentiment": "Negative",
+  "confidence": "low",
+  "reason": "Dowry harassment case: crime report (Lesson 16)"
+ },
+ {
+  "story_id": 947,
+  "sentiment": "Neutral",
+  "confidence": "low",
+  "reason": "Uproar likely at Nigam House meeting: anticipatory, no clear tilt"
+ }
+]

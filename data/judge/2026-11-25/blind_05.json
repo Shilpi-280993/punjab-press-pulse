@@ -1,0 +1,200 @@
+[
+ {
+  "story_id": 119,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Seer praises govt's religious development initiatives."
+ },
+ {
+  "story_id": 123,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Lesson 28: AAP Moga rally announcement and achievements."
+ },
+ {
+  "story_id": 371,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "BJP chief accuses govt of denying 7th pay commission."
+ },
+ {
+  "story_id": 679,
+  "sentiment": "Govt ad",
+  "confidence": "high",
+  "reason": "DIPR Punjab advertisement."
+ },
+ {
+  "story_id": 683,
+  "sentiment": "Positive",
+  "confidence": "low",
+  "reason": "Arrests in headline (Lesson 1), though murder leads."
+ },
+ {
+  "story_id": 684,
+  "sentiment": "Neutral",
+  "confidence": "low",
+  "reason": "Citizen overpowers robber; routine arrest, no clear tilt."
+ },
+ {
+  "story_id": 690,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Lesson 22: chemists protest Drug Department interference."
+ },
+ {
+  "story_id": 695,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "RTI data shows persistent drug trafficking despite police operations."
+ },
+ {
+  "story_id": 748,
+  "sentiment": "Positive",
+  "confidence": "low",
+  "reason": "Arrests in headline (Lesson 1), though killing leads."
+ },
+ {
+  "story_id": 753,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Youth Congress targets AAP govt."
+ },
+ {
+  "story_id": 755,
+  "sentiment": "Neutral",
+  "confidence": "high",
+  "reason": "Lesson 21: ADC routine review."
+ },
+ {
+  "story_id": 756,
+  "sentiment": "Positive",
+  "confidence": "low",
+  "reason": "Govt campaign walk under Yudh Nashian Virudh reaching people."
+ },
+ {
+  "story_id": 778,
+  "sentiment": "Neutral",
+  "confidence": "high",
+  "reason": "Routine charge-taking by DSP."
+ },
+ {
+  "story_id": 89,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Lesson 2: CM attacks BJP-SAD alliance."
+ },
+ {
+  "story_id": 92,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Lesson 16: shooting, no arrest, crime report."
+ },
+ {
+  "story_id": 94,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Governor at private society event, no govt angle."
+ },
+ {
+  "story_id": 176,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Congress reaction to SAD-BJP alliance, opposition internal."
+ },
+ {
+  "story_id": 178,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Civic woes and AAP MLA failing to deliver."
+ },
+ {
+  "story_id": 230,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "medium",
+  "reason": "SAD-BJP alliance feature, opposition internal."
+ },
+ {
+  "story_id": 333,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "low",
+  "reason": "Lesson 17: lead is alliance box; Mann reaction only one of three."
+ },
+ {
+  "story_id": 334,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Analysis of BJP-Akali alliance."
+ },
+ {
+  "story_id": 338,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "BJP internal, Amarinder absence."
+ },
+ {
+  "story_id": 339,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Union minister praising farmers, no state role (Lesson 5)."
+ },
+ {
+  "story_id": 340,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "medium",
+  "reason": "Lesson 17: headline carries alliance event; Vij attack in separate box."
+ },
+ {
+  "story_id": 110,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Lesson 28: AAP steps up Moga rally preparations."
+ },
+ {
+  "story_id": 112,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Court rejects Vigilance closure report, a rebuke."
+ },
+ {
+  "story_id": 113,
+  "sentiment": "Negative",
+  "confidence": "low",
+  "reason": "Residents' grievance on civic funds, Lesson 22."
+ },
+ {
+  "story_id": 184,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "medium",
+  "reason": "Congress quotes on SAD-BJP reunion, opposition internal."
+ },
+ {
+  "story_id": 235,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "SAD-BJP alliance announcement."
+ },
+ {
+  "story_id": 236,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "BJP-SAD alliance analysis."
+ },
+ {
+  "story_id": 237,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "BJP and SAD candidates in Patiala repolls, opposition internal."
+ },
+ {
+  "story_id": 349,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Alliance seat analysis, opposition internal."
+ },
+ {
+  "story_id": 350,
+  "sentiment": "Positive",
+  "confidence": "low",
+  "reason": "Reactions box where CM Mann attacks the alliance (Lesson 2); lead is alliance reactions."
+ }
+]

@@ -1,0 +1,33 @@
+{
+ "validation": "Sentiment checked blind by a second model (Sonnet) on a sample of 203 stories (every low-confidence row plus 100 at random), with Claude Fable 5.2 ruling on every disagreement: the check agreed with the coding on 184 (91%, and 95 of the 100 random rows); after review 9 labels were changed, 3 more copies of the same events were aligned with those rulings and 6 repeated clippings were marked as duplicates.",
+ "sources": "The monitoring deck's 345 clippings (slides 18 to 377), plus 543 stories the deck missed from every page of Dainik Savera (including its district pages), The Savera Times (including its district editions) and the District Front Page file (Punjabi Tribune, Rozana Spokesman, Punjabi Jagran and Dainik Jagran district pages); 163 repeated copies (the deck carried many alliance clippings in more than one section, Dainik Savera printed 13 district pages twice and The Savera Times' district editions share pages) are marked as duplicates. All of the day's files arrived; the other papers' main editions are covered by the deck. Relevant = about AAP, the Punjab government or a state matter.",
+ "takeaway": "{positive_share} of the {relevant} relevant stories were positive and {negative_share} negative. The revival of the SAD-BJP alliance, announced by Amit Shah, led all 14 papers on their front pages, but as the opposition's own event its 199 announcement and reaction rows are coded not about the government. AAP's 'thug jod' rebuttals from Mann, Kejriwal and Cheema answered it in all 14 papers (53 stories, 19 of them on the front pages of 12 papers, all positive), while crime stayed the main negative (103 of 127 crime stories).",
+ "well": [
+  [
+   "AAP answered the alliance everywhere.",
+   "53 stories in all 14 papers carried AAP leaders calling the SAD-BJP tie-up a 'thug jod', 19 of them on the front pages of 12 papers, all positive."
+  ],
+  [
+   "The Moga rally build-up kept going.",
+   "32 stories in 6 papers covered preparations for AAP's 26 Nov 'Khushhal Punjab' rally in Moga, 31 of them positive."
+  ],
+  [
+   "Police action stayed positive.",
+   "129 of 131 police action stories were positive, including the Gurdaspur-Batala search drive with 248 arrests (3 papers); Dhirendra Shastri's praise of the government's work on pilgrim sites ran in 6 papers."
+  ]
+ ],
+ "improve": [
+  [
+   "The opposition owned the day's biggest story.",
+   "The alliance filled 207 rows in 14 papers, against AAP's 53 rebuttals; the BJP's charge that the government has not set up the 7th Pay Commission ran in 5 papers, and 20 opposition attacks were recorded in all."
+  ],
+  [
+   "Crime coverage stayed negative.",
+   "103 of 127 crime stories were negative; the shooting of an AAP sarpanch's husband in Tarn Taran for opposing drug smuggling ran in 5 papers and the Amritsar daylight firing that killed a woman in 5."
+  ],
+  [
+   "Civic and employee grievances persisted.",
+   "24 of 54 civic stories and 18 of 55 schools, health and employee stories were negative, including PRTC buses diverted for the Moga rally (2 papers) and the court rejecting the Vigilance closure report in the Jhurheri land scam (front page of the Times of India)."
+  ]
+ ]
+}

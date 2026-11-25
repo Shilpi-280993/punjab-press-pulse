@@ -1,0 +1,303 @@
+[
+ {
+  "story_id": 3,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Headline gives equal billing to three parties' Constitution Day rallies, no clear tilt."
+ },
+ {
+  "story_id": 4,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Lesson 1: SSOC foiled plot and arrested three men."
+ },
+ {
+  "story_id": 5,
+  "sentiment": "Neutral",
+  "confidence": "low",
+  "reason": "Court hearing: case proceeds against then-tehsildar after Vigilance closure report rejected; no clear tilt."
+ },
+ {
+  "story_id": 8,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Headline leads with a woman killed in firing (crime); encounter is secondary."
+ },
+ {
+  "story_id": 9,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Factual power-demand item, no shortage or delivery."
+ },
+ {
+  "story_id": 13,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Lesson 21: halqa in-charge takes stock of a road, plan only."
+ },
+ {
+  "story_id": 191,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Lesson 4/17: SAD leader welcoming the alliance is opposition's own event."
+ },
+ {
+  "story_id": 251,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Lesson 4: BJP-SAD alliance announcement, opposition internal."
+ },
+ {
+  "story_id": 374,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Lesson 4: Waris Punjab De party membership app, opposition internal."
+ },
+ {
+  "story_id": 376,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Simranjit Singh Mann (SAD Amritsar) on BJP-SAD pact, opposition internal; not the CM.",
+  "headline_fix": "BJP-Badal Dal agreement is dangerous for Punjab, Punjabis and the Sikh community: Simranjit Singh Mann (SAD Amritsar)"
+ },
+ {
+  "story_id": 67,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Lesson 2: CM attacks SAD-BJP 'thug jod' (aap_voice)."
+ },
+ {
+  "story_id": 71,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "medium",
+  "reason": "Lesson 4/12: Congress leader on BJP-SAD pact, opposition's own comment."
+ },
+ {
+  "story_id": 74,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Lesson 2: Finance minister Cheema attacks SAD for selling Punjab's interests."
+ },
+ {
+  "story_id": 76,
+  "sentiment": "Neutral",
+  "confidence": "high",
+  "reason": "Lesson 30: AAP in-charge and ministers attend a preacher's darbar."
+ },
+ {
+  "story_id": 166,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Defections to Congress including an AAP leader (Defections from AAP)."
+ },
+ {
+  "story_id": 221,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Lesson 2: AAP in-charge Sisodia attacks BJP/SAD on farmers' betrayal."
+ },
+ {
+  "story_id": 224,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Analysis piece, headline says AAP stronghold hard to breach but also AAP-Congress tension; no delivery."
+ },
+ {
+  "story_id": 318,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Lesson 4: PM Modi's note on SAD return to NDA."
+ },
+ {
+  "story_id": 319,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Same clipping as 224: analysis, no delivery."
+ },
+ {
+  "story_id": 390,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "medium",
+  "reason": "SKM protest at Delhi against Centre, no Punjab government role."
+ },
+ {
+  "story_id": 60,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Headline leads with woman killed in firing; arrests are in the strap."
+ },
+ {
+  "story_id": 64,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Preacher praises Punjab govt's Sanatan and pilgrim-site initiatives."
+ },
+ {
+  "story_id": 66,
+  "sentiment": "Neutral",
+  "confidence": "low",
+  "reason": "Court hearing: tehsildar to face trial, Vigilance closure report rejected."
+ },
+ {
+  "story_id": 316,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "medium",
+  "reason": "Lesson 5: Union minister praises village stubble management, no Punjab govt role."
+ },
+ {
+  "story_id": 952,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Anticipatory bail plea in a provocative speech case, procedural."
+ },
+ {
+  "story_id": 953,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Mayor's office routine under code of conduct."
+ },
+ {
+  "story_id": 954,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Police employee in brawl with conductor, nose bone broken."
+ },
+ {
+  "story_id": 962,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Lesson 21: routine traffic challans, no seizure or arrest."
+ },
+ {
+  "story_id": 963,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "medium",
+  "reason": "Lesson 5: highway construction (NHAI) road closures, no state role."
+ },
+ {
+  "story_id": 967,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Lesson 3: families join AAP, MLA welcomes."
+ },
+ {
+  "story_id": 969,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Lesson 15: stubble case registered, no arrest."
+ },
+ {
+  "story_id": 974,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Lesson 4: analysis of SAD-BJP alliance seat chances."
+ },
+ {
+  "story_id": 977,
+  "sentiment": "Neutral",
+  "confidence": "low",
+  "reason": "Same event as 66: court hearing, tehsildar to face trial."
+ },
+ {
+  "story_id": 985,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Lesson 4: SAD-BJP alliance equations."
+ },
+ {
+  "story_id": 989,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Lesson 11: AAP MP meets Union Home Minister, only a meeting."
+ },
+ {
+  "story_id": 990,
+  "sentiment": "Neutral",
+  "confidence": "high",
+  "reason": "Election Commission electoral roll item."
+ },
+ {
+  "story_id": 991,
+  "sentiment": "Neutral",
+  "confidence": "low",
+  "reason": "Notice of a future camp (Lesson 11)."
+ },
+ {
+  "story_id": 992,
+  "sentiment": "Neutral",
+  "confidence": "high",
+  "reason": "Lesson 21: minister's assurance about future work."
+ },
+ {
+  "story_id": 993,
+  "sentiment": "Neutral",
+  "confidence": "high",
+  "reason": "Notice of a future civil defence mock drill."
+ },
+ {
+  "story_id": 996,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "medium",
+  "reason": "Lesson 4/17: BJP leader's own reaction to alliance."
+ },
+ {
+  "story_id": 1000,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Factual arms licence figures, no tilt."
+ },
+ {
+  "story_id": 1021,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "Scheme reaching people: Hoshiarpur first in Punjab with 100 cases approved."
+ },
+ {
+  "story_id": 1026,
+  "sentiment": "Neutral",
+  "confidence": "high",
+  "reason": "Routine counselling schedule notice."
+ },
+ {
+  "story_id": 1029,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Lesson 16: attack and attempt-to-murder FIR, no arrest."
+ },
+ {
+  "story_id": 1031,
+  "sentiment": "Negative",
+  "confidence": "low",
+  "reason": "Headline frames jobs promised against few selected, a shortfall."
+ },
+ {
+  "story_id": 1033,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Lesson 15: stubble cases registered, no arrest."
+ },
+ {
+  "story_id": 1036,
+  "sentiment": "Neutral",
+  "confidence": "high",
+  "reason": "Lesson 21/30: minister welcomes a procession at residence."
+ },
+ {
+  "story_id": 1037,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "medium",
+  "reason": "Lesson 17: BJP leader's own statement, attack is not the lead."
+ },
+ {
+  "story_id": 1040,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Lesson 21: civil surgeon's routine review."
+ },
+ {
+  "story_id": 1051,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Lesson 16: attack complaint against a Shiv Sena leader's sons, crime report."
+ }
+]

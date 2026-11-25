@@ -113,7 +113,18 @@ From the sentiment judge, 23 Nov 2026:
 34. New case: a seasonal illness or health-advice feature (viral fever, coughs and colds as the weather changes) that reports no shortage, failure or new service of the state health system is `Not about AAP/Govt` (`Weather (not govt)`), even when government hospital doctors are quoted.
 35. New case: a trial court's conviction or sentence in an ordinary Punjab Police case (robbery, snatching) is relevant and Neutral under `Crime & law and order`, neither `Not about AAP/Govt` nor a Lesson 1 Positive.
 
-From the merge, 19 Nov 2026:
+From the sentiment judge, 25 Nov 2026:
+
+36. New case: when the printed headline has no tilt and no speaker (a round-up line such as "Politics heats up in Punjab after Akali-BJP alliance"), the strap, photo and lead decide; if they are an AAP minister's attack on the opposition, the row is Positive, `AAP leaders' counter-attacks`, aap_voice true. The reverse does not hold: a main headline with its own tilt (a woman shot dead) is not overridden by a strap (shooters arrested); that row stays Negative under Lesson 1's "in the lead" test.
+37. New case: a report of events held or results under the state's own games (Khedan Watan Punjab Diyan), with the games named in the headline, is Positive under `Hockey & sports`; a notice of future fixtures is Neutral; a protest or complaint at the games is Negative. 3 more copies were aligned.
+38. New case: an enforcement drive by a civic body, the administration or traffic police that reports challans or fines actually issued (more than 30 challans for plastic bags in Patiala) is Positive (`Civic services & infrastructure`, or `Police action` when by police); a planned drive, warning or appeal alone stays Neutral under Lesson 21.
+39. New case: a wild animal incident is relevant when the wildlife or forest department or the administration responds in the item. It is Neutral when the headline leads with the animal's attacks and the response is under way (cage set, SDM visit); Positive when the headline carries a completed capture or rescue; Negative only when the lead is a complaint that the department has not acted.
+
+From the merge, 25 Nov 2026:
+
+40. The deck repeats the same clipping in more than one section (on 25 Nov the AAP, BJP and SAD sections each carried the same front-page alliance stories and AAP reaction boxes). Before coding, match deck rows across all slides by paper, page and headline, and mark every later copy `Duplicate`, including multi-quote reaction boxes whose quotes are already rows. The District Front Page file can also include a page the deck already covers (25 Nov: Punjabi Tribune page 8); rows for stories already on a deck slide are `Duplicate`.
+
+From the merge, 19 Nov 2026 (seen again 25 Nov, when PDF pages 66 to 78 repeated pages 19 to 24 and 45 to 51):
 
 20. Dainik Savera's PDF can print the same district page twice (19 Nov: Bathinda 1 to Malwa 6 and Moga 4 to Moga 8 each appeared on two PDF pages). Rows from the second copy of a page are `Duplicate`, as for repeated deck clippings.
 

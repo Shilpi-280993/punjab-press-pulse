@@ -1,0 +1,218 @@
+[
+ {
+  "story_id": 81,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Spiritual leader praises AAP govt's religious-site initiatives in the headline lead."
+ },
+ {
+  "story_id": 329,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "medium",
+  "reason": "BJP committee member meets Amit Shah; opposition internal (Lesson 4)."
+ },
+ {
+  "story_id": 330,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "medium",
+  "reason": "Union minister's farm visit with no Punjab govt role (Lesson 5)."
+ },
+ {
+  "story_id": 402,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "medium",
+  "reason": "BSF recovery; police only arrived afterwards (Lessons 25, 29)."
+ },
+ {
+  "story_id": 412,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Minister hands Rs 5 lakh cheque to bereaved family; delivery in the lead."
+ },
+ {
+  "story_id": 420,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Arrest under NDPS Act (Lesson 1)."
+ },
+ {
+  "story_id": 428,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Heroin trader arrested (Lesson 1)."
+ },
+ {
+  "story_id": 430,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "One snatcher caught by police in the lead (Lesson 1), though crime-led."
+ },
+ {
+  "story_id": 432,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "Both accused killed in police encounter hours after murder; police action leads."
+ },
+ {
+  "story_id": 436,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Chemists' association serious over health dept problems; grievance (Lesson 22)."
+ },
+ {
+  "story_id": 482,
+  "sentiment": "Neutral",
+  "confidence": "low",
+  "reason": "Forest dept captures stray sambar; routine, no tilt."
+ },
+ {
+  "story_id": 497,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Doctor's health advice at awareness event (Lesson 30)."
+ },
+ {
+  "story_id": 520,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Minister's family invited to Rath Yatra; incidental (Lessons 11, 21)."
+ },
+ {
+  "story_id": 536,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Villagers protest against AAP MLA."
+ },
+ {
+  "story_id": 540,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Civil Surgeon's awareness advice under the drug campaign; no delivery (Lesson 21)."
+ },
+ {
+  "story_id": 556,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Two held with heroin (Lesson 1)."
+ },
+ {
+  "story_id": 559,
+  "sentiment": "Positive",
+  "confidence": "low",
+  "reason": "Govt school students win medals in state games; sports delivery, weak."
+ },
+ {
+  "story_id": 567,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Youth held with heroin (Lesson 1)."
+ },
+ {
+  "story_id": 570,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "AAP leader's visit to a saint, welcomed by workers (Lesson 30)."
+ },
+ {
+  "story_id": 572,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Demand for govt to ensure safety of preachers after attacks on churches."
+ },
+ {
+  "story_id": 587,
+  "sentiment": "Neutral",
+  "confidence": "high",
+  "reason": "Routine officer taking charge (Lesson 21)."
+ },
+ {
+  "story_id": 588,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "State-level Khedan Watan Punjab Diyan competitions concluded; sports delivery."
+ },
+ {
+  "story_id": 593,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "low",
+  "reason": "Body found, no state failure or govt angle (Lesson 24)."
+ },
+ {
+  "story_id": 594,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Industry demands govt solve its difficulties; grievance (Lesson 22)."
+ },
+ {
+  "story_id": 595,
+  "sentiment": "Negative",
+  "confidence": "low",
+  "reason": "Leader says free schemes made Punjabis beggars; criticism of govt policy."
+ },
+ {
+  "story_id": 666,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Question over municipal corporation sealing same property twice (Lesson 22)."
+ },
+ {
+  "story_id": 97,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "medium",
+  "reason": "SAD-BJP alliance headline; opposition event (Lesson 17)."
+ },
+ {
+  "story_id": 99,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "CM Mann slams SAD-BJP tie-up (Lesson 2)."
+ },
+ {
+  "story_id": 101,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "Two accused held within hours by police (Lesson 1), though a woman was killed."
+ },
+ {
+  "story_id": 102,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "low",
+  "reason": "HC directs NHAI on land compensation data; central body leads (Lesson 5)."
+ },
+ {
+  "story_id": 103,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Photo of Kejriwal's prayers on Parkash Purb; incidental (Lesson 11)."
+ },
+ {
+  "story_id": 104,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "State admits 42 LMT legacy waste unprocessed before NGT."
+ },
+ {
+  "story_id": 180,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Congress leader's pull quote on SAD-BJP; opposition internal."
+ },
+ {
+  "story_id": 181,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Congress reaction to SAD-BJP alliance; opposition internal."
+ },
+ {
+  "story_id": 182,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Congress candidate list announcement; opposition internal (Lesson 4)."
+ },
+ {
+  "story_id": 233,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Analysis of SAD-BJP reunion; opposition internal."
+ }
+]

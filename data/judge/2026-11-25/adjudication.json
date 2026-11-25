@@ -1,0 +1,126 @@
+[
+ {
+  "story_id": 22,
+  "final": "Positive",
+  "reason": "Printed headline is a speaker-less round-up line ('Politics heats up in Punjab after Akali-BJP alliance'), not an opposition event or slogan, so Lessons 12 and 17 do not apply. The strap ('Akali-BJP responsible for farmers' deaths, sacrilege and drugs: Cheema'), the only photo (Harpal Cheema) and the body lead are the AAP finance minister's attack on the alliance, followed by AAP's Baltej Pannu. When a headline has no tilt and no speaker, the strap and photo decide: an AAP minister's attack on the opposition is Positive with aap_voice true, as in the other papers' Cheema rows (6, 18, 33, 42, 54, 65).",
+  "rule": "new case",
+  "theme_group": "AAP leaders' counter-attacks",
+  "detailed_theme": "AAP attack on opposition (BJP-SAD alliance)"
+ },
+ {
+  "story_id": 23,
+  "final": "Neutral",
+  "reason": "Headline says the alliance casts clouds over the Kotkapura and Behbal firing cases, with the sub-head that BJP leader Kunwar Vijay Pratap Singh is the main witness in both while SAD's Sukhbir Badal is an accused. The awkwardness is the alliance's; the item quotes a lawyer on the possible effect and records no criticism, failure or rebuke of the government or its prosecution. Relevant because the cases are state prosecutions, but no tilt, so Lesson 22 is not met.",
+  "rule": "Sentiment: Neutral (no clear tilt)"
+ },
+ {
+  "story_id": 60,
+  "final": "Negative",
+  "reason": "Printed main headline is only the crime: 'Bike riders fire in Amritsar; bullet passes through youth's stomach and hits woman, dies'. The arrest of both shooters within six hours after an encounter is in the strap. The rules judge by the headline's lead, and a headline with its own tilt is not overridden by the strap (20 Nov story 901). Hindustan Times (101) and Dainik Savera (432) keep Positive because their headlines themselves carry the arrests or encounter.",
+  "rule": "Judge by the headline's lead (Lessons 1 and 15 need the arrest in the lead)",
+  "theme_group": "Crime & law and order",
+  "detailed_theme": "Murder"
+ },
+ {
+  "story_id": 102,
+  "final": "Negative",
+  "reason": "Lesson 5 does not apply: the wrongdoing is by the state's own land acquisition officers (CALA), not NHAI. The kicker reads 'Land acquisition compensation doubled illegally' and the displayed pull quote is the High Court bench saying 'the state authorities appear to be either intentionally or unintentionally trying to extend undue advantage to landowners'; the court set aside the supplementary awards, warned of corruption and sent the order to the Chief Secretary. The main headline (HC asks NHAI for six years of data) has no tilt, so the kicker and pull quote decide: a court rebuke of state authorities. Unlike Lesson 33, Punjab's officials do receive the rebuke.",
+  "rule": "Lesson 13 (subject is Punjab's own officials) and court rebukes are Negative"
+ },
+ {
+  "story_id": 333,
+  "final": "Not about AAP/Govt",
+  "reason": "Three-quote reactions box beside the alliance lead story; its first and lead quote is PM Modi's 'will emerge as people's choice', with CM Mann and Pargat Singh after it. The lead is the alliance's own voice, so the box as a unit is Opposition internal. Mann's quote from this same box is already coded Positive as row 88 (deck slide 98) and Pargat Singh's as row 175, so keeping this row relevant would count the same clipping twice.",
+  "rule": "Lesson 17",
+  "theme_group": "",
+  "detailed_theme": "Opposition internal"
+ },
+ {
+  "story_id": 350,
+  "final": "Not about AAP/Govt",
+  "reason": "Seven-quote 'Alliance sparks war' box led by Modi, Amit Shah and Sukhbir Badal; CM Mann is the fourth of seven voices. The box's lead is the alliance's own leaders, so as a unit it is Opposition internal, the same as the Tribune box (333). Mann's 'Thag Jod' quote from this box is already coded Positive as row 109 (deck slide 115), so it is not lost.",
+  "rule": "Lesson 17",
+  "theme_group": "",
+  "detailed_theme": "Opposition internal"
+ },
+ {
+  "story_id": 376,
+  "final": "Not about AAP/Govt",
+  "reason": "The 'Mann' in the headline is Simranjit Singh Mann, president of SAD (Amritsar), speaking at Fatehgarh Sahib against the BJP-Badal Dal pact and calling for Panthic unity; it is not the Chief Minister. One opposition party on another's alliance. Both labels agree; only the headline needs the judge's fix naming Simranjit Singh Mann (SAD Amritsar).",
+  "rule": "Lesson 4"
+ },
+ {
+  "story_id": 482,
+  "final": "Positive",
+  "reason": "Printed headline: 'Wild sambar enters residential area, panic in village; Wildlife Department catches it after hours of effort'. The headline itself carries a completed rescue by a state department, which is action in the lead (Lesson 11 satisfied), not a routine meeting or inspection (Lesson 21). Same as the Ropar-Nawanshahr copy (592).",
+  "rule": "Lesson 11 (state action completed in the headline)"
+ },
+ {
+  "story_id": 559,
+  "final": "Neutral",
+  "reason": "Headline is the pupils' own achievement (special-needs students of a government school win four medals at state-level games) with a strap on the principal honouring them. No government scheme, launch or delivery is in the lead and it does not name the state's own games; a school felicitation is an internal courtesy. Same as the Moga 8 copy (647).",
+  "rule": "Lessons 11 and 21"
+ },
+ {
+  "story_id": 588,
+  "final": "Positive",
+  "reason": "Headline and body report the state government's own games being held: 'State-level judo and softball competitions under Khedan Watan Punjab Diyan 2026 concluded with fanfare' in Fatehgarh Sahib, 17 to 23 Nov, with the District Sports Officer giving results. A government programme that is under way and reaching people is delivery, as Lesson 32 holds for health drives, and as Khedan Watan reports were coded on 19, 20, 22 and 23 Nov. Rule to write: a report of events held or results under Khedan Watan Punjab Diyan, where the headline names the games, is Positive under Hockey & sports; a notice of future fixtures is Neutral; a protest or complaint at the games is Negative (20 Nov story 901).",
+  "rule": "new case",
+  "theme_group": "Hockey & sports",
+  "detailed_theme": "Khedan Watan Punjab Diyan"
+ },
+ {
+  "story_id": 593,
+  "final": "Negative",
+  "reason": "An unidentified young woman's body found near Bhangi Choe, taken to the Civil Hospital mortuary by passers-by in an e-rickshaw, police investigating. Lesson 24 is about accidents and fires; an unexplained body is a law and order report and has been Negative every day (15, 22 and 23 Nov) and in today's copies (1017, 911, 680).",
+  "rule": "Sentiment: Negative (crime); consistency with copies"
+ },
+ {
+  "story_id": 666,
+  "final": "Neutral",
+  "reason": "Headline is a question, 'Why did the Municipal Corporation have to seal the same property twice?'. The body's answer is the owners' conduct: construction in Basant Bagh is stayed by the High Court, the December seal was lifted on an undertaking, the owners built at night and tore down the notice, and the Commissioner and building branch re-sealed at once. A passing line says the first seal was lifted 'under political pressure', but no resident or party complains of inaction, so Lesson 22 is not met; the enforcement and the hint of pressure balance out.",
+  "rule": "Lesson 22 not met; Neutral (no clear tilt)"
+ },
+ {
+  "story_id": 755,
+  "final": "Neutral",
+  "reason": "Headline states a stock figure at a dump set up by a private company (Sangrur RNG Private Limited); the only government act is in the strap, 'ADC reviews collection and lifting arrangements', a visit on the DC's directions. A routine review or inspection is Neutral, as in Dainik Savera's copy (449).",
+  "rule": "Lesson 21"
+ },
+ {
+  "story_id": 789,
+  "final": "Positive",
+  "reason": "Results of the state rowing championship held under the government's Khedan Watan Punjab Diyan at Rupnagar ('Rowing: Rupnagar overall champion with 21 gold medals'). Same ruling as story 588: the state's own games being held and producing results is delivery of a government programme.",
+  "rule": "new case (same ruling as story 588)"
+ },
+ {
+  "story_id": 802,
+  "final": "Positive",
+  "reason": "Headline 'Challans for use of plastic bags'; body: under the Municipal Corporation's checking drive to keep Patiala clean and plastic-free, inspectors raided markets and issued more than 30 challans to shopkeepers and vendors. Completed enforcement is in the lead, unlike the meetings, inspections and directions of Lesson 21, and it matches 19 Nov (Nawanshahr plastic challans) and the overloaded-vehicle challan rows of 15, 20, 22 and 23 Nov. Rule to write: an enforcement drive by a civic body, the administration or traffic police that reports challans or fines actually issued is Positive (Civic services & infrastructure, or Police action when by police); a planned drive, a warning or an appeal alone is Neutral.",
+  "rule": "new case"
+ },
+ {
+  "story_id": 852,
+  "final": "Negative",
+  "reason": "Printed headline: 'Protest rally in front of Aman Arora's residence on the 29th for restoration of old pension'. It is a protest, not a meeting: the Purani Pension Bahali Sanjha Morcha says AAP promised the old pension scheme before coming to power and only issued an incomplete notification. A protest against the government leads; same as Punjabi Jagran's copy (938). Headline should be corrected as the judge suggests.",
+  "rule": "Sentiment: Negative (protests against the government)"
+ },
+ {
+  "story_id": 912,
+  "final": "Neutral",
+  "reason": "Headline 'Leopard terror: goat and two pet dogs made prey'. The photos and sidebar show Wildlife Department staff setting a cage in the village and the SDM Nangal and tehsildar taking stock. Relevant, not a Lesson 24 item, because the state department is acting in the item; but a wild animal straying from the forest is not a civic failure like the stray dogs of Lesson 19, and no resident complains of inaction (Lesson 22). Rule to write: a wild animal incident is relevant when the wildlife or forest department or the administration responds in the item; Neutral when the headline leads with the animal's attacks and the response is under way (cage set, inspection); Positive when the headline carries a completed capture or rescue (482, 592); Negative only when the lead is a complaint that the department has not acted.",
+  "rule": "new case"
+ },
+ {
+  "story_id": 962,
+  "final": "Positive",
+  "reason": "Printed headline: 'Noose tightens on those ignoring rules, 35 challaned'; traffic police set up nakas on the Pathankot-Himachal road, checked documents and issued 35 challans. Completed enforcement in the headline's lead, same ruling as story 802. No arrest or seizure, so it is not a Lesson 1 item; the theme stays where the coder put it.",
+  "rule": "new case (same ruling as story 802)"
+ },
+ {
+  "story_id": 992,
+  "final": "Positive",
+  "reason": "Headline is the minister's pledge ('Will get Dirba developed on all fronts: Harpal Cheema'), which alone would be a Lesson 21 Neutral, but the first strap and the photo are a completed delivery: 'Inaugurated the Dr Ambedkar Community Hall built for Rs 2 crore'. The pledge has no contrary tilt, so the strap decides, and the item is the same inauguration that Dainik Savera's copy (437) reports as Positive.",
+  "rule": "Sentiment: Positive (delivery); consistency with copy 437"
+ }
+]
