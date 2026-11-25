@@ -1,7 +1,7 @@
 {
  "validation": "Sentiment checked blind by a second model (Sonnet) on a sample of 203 stories (every low-confidence row plus 100 at random), with Claude Fable 5.2 ruling on every disagreement: the check agreed with the coding on 184 (91%, and 95 of the 100 random rows); after review 9 labels were changed, 3 more copies of the same events were aligned with those rulings and 6 repeated clippings were marked as duplicates.",
- "sources": "The monitoring deck's 345 clippings (slides 18 to 377), plus 543 stories the deck missed from every page of Dainik Savera (including its district pages), The Savera Times (including its district editions) and the District Front Page file (Punjabi Tribune, Rozana Spokesman, Punjabi Jagran and Dainik Jagran district pages); 163 repeated copies (the deck carried many alliance clippings in more than one section, Dainik Savera printed 13 district pages twice and The Savera Times' district editions share pages) are marked as duplicates. All of the day's files arrived; the other papers' main editions are covered by the deck. Relevant = about AAP, the Punjab government or a state matter.",
- "takeaway": "{positive_share} of the {relevant} relevant stories were positive and {negative_share} negative. The revival of the SAD-BJP alliance, announced by Amit Shah, led all 14 papers on their front pages, but as the opposition's own event its 199 announcement and reaction rows are coded not about the government. AAP's 'thug jod' rebuttals from Mann, Kejriwal and Cheema answered it in all 14 papers (53 stories, 19 of them on the front pages of 12 papers, all positive), while crime stayed the main negative (103 of 127 crime stories).",
+ "sources": "The monitoring deck's 345 clippings (slides 18 to 377), plus 543 stories the deck missed from every page of Dainik Savera (including its district pages), The Savera Times (including its district editions) and the District Front Page file (Punjabi Tribune, Rozana Spokesman, Punjabi Jagran and Dainik Jagran district pages); 163 repeated copies (the deck carried many alliance clippings in more than one section, Dainik Savera printed 13 district pages twice and The Savera Times' district editions share pages) are marked as duplicates. All of the day's files arrived; the other papers' main editions are covered by the deck. Relevant = about AAP, the Punjab government or a state matter; for this day only, coverage of the SAD-BJP alliance's revival is counted as a negative for the government (an owner decision), while rival parties' reactions to it are not counted.",
+ "takeaway": "{negative_share} of the {relevant} relevant stories were negative and {positive_share} positive. The revival of the SAD-BJP alliance, announced by Amit Shah, led the front pages of all 14 papers and, counted for this day as a negative for the government, made up 157 of the negative stories. AAP's 'thug jod' rebuttals from Mann, Kejriwal and Cheema answered it in all 14 papers (53 stories, 19 of them on the front pages of 12 papers, all positive), while crime stayed negative (103 of 127 crime stories).",
  "well": [
   [
    "AAP answered the alliance everywhere.",
@@ -19,7 +19,7 @@
  "improve": [
   [
    "The opposition owned the day's biggest story.",
-   "The alliance filled 207 rows in 14 papers, against AAP's 53 rebuttals; the BJP's charge that the government has not set up the 7th Pay Commission ran in 5 papers, and 20 opposition attacks were recorded in all."
+   "The alliance ran as 157 negative stories in all 14 papers, 39 of them on front pages, against AAP's 53 rebuttals; the BJP's charge that the government has not set up the 7th Pay Commission ran in 5 papers."
   ],
   [
    "Crime coverage stayed negative.",
