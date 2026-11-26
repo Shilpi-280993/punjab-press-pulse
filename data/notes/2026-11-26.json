@@ -1,0 +1,33 @@
+{
+ "validation": "Sentiment checked blind by a second model (Sonnet) on a sample of 185 of the 1,047 stories (every low-confidence row plus 100 at random), with Claude Fable 5.2 ruling on every disagreement: the check agreed with the coding on 157 (84.9%, just under the 85% mark, because the low-confidence rows split; 98 of the 100 random rows agreed); after review 11 labels were changed and 2 more copies of the same story were aligned with those rulings.",
+ "sources": "The monitoring deck's 350 clippings (slides 18 to 350), plus 847 stories the deck missed from every page of Dainik Savera (including its district pages), The Savera Times (including its district editions) and the District Front Page file (Punjabi Tribune, Rozana Spokesman, Punjabi Jagran and Dainik Jagran district pages); 150 repeated copies (the deck carried some clippings in two sections, Dainik Savera printed 12 district pages twice and The Savera Times' district editions share pages) are marked as duplicates. All of the day's files arrived; the other papers' main editions are covered by the deck. Relevant = about AAP, the Punjab government or a state matter; news of the SAD-BJP alliance itself is counted as opposition news (the 25 Nov owner decision applied to that day only).",
+ "takeaway": "{negative_share} of the {relevant} relevant stories were negative and {positive_share} positive. The rise in the sugarcane price to Rs 431 a quintal ran in all 14 papers, on the front page of 12, all positive, and the build-up to AAP's Moga rally added 21 positive stories in 11 papers. The SAD-BJP alliance was again the most covered political story (160 stories in 14 papers) but counted as opposition news, while BJP attacks, led by Sunil Jakhar's mining charge in 11 papers, and crime (90 of 109 stories negative) kept the negatives close.",
+ "well": [
+  [
+   "The cane price hike led the day.",
+   "All 14 papers carried the rise to Rs 431 a quintal, 12 of them on the front page, and all 14 stories were positive; 9 positive stories in 8 papers covered PRTC outsourced staff being brought on contract."
+  ],
+  [
+   "The Moga rally build-up stayed positive.",
+   "21 of 23 stories in 11 papers on AAP's Khushhal Punjab rally were positive, and 33 of 38 AAP organisation and outreach stories were positive."
+  ],
+  [
+   "Police action stayed positive.",
+   "129 of 133 police action stories were positive, including the Amritsar bust of four arms and heroin networks with 7 arrests (7 stories in 6 papers)."
+  ]
+ ],
+ "improve": [
+  [
+   "The BJP led the opposition's attacks.",
+   "56 opposition attack stories ran, 35 of them from the BJP; Sunil Jakhar's charge that 150 acres of panchayat land went to the mining mafia ran in 11 papers."
+  ],
+  [
+   "Crime coverage stayed negative.",
+   "90 of 109 crime stories were negative; the firing on an AAP sarpanch's husband in Tarn Taran and the reactions to it drew 7 negative stories in 6 papers."
+  ],
+  [
+   "Courts and grievances weighed in.",
+   "All 18 court rebuke stories were negative, and the row over buses diverted for the Moga rally, which reached the High Court, drew 5 negative stories in 4 papers; 40 of 96 civic stories and 27 of 81 schools, health and employee stories were negative."
+  ]
+ ]
+}

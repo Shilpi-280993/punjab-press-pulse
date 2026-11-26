@@ -1,0 +1,182 @@
+[
+ {
+  "story_id": 229,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "medium",
+  "reason": "Headline is Congress's own pledge; attack on AAP only in body (Lesson 17)."
+ },
+ {
+  "story_id": 230,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Headline leads with leaders leaving AAP (and others) for Congress: defections."
+ },
+ {
+  "story_id": 392,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "SAD-BJP joint stage in Bathinda: opposition internal."
+ },
+ {
+  "story_id": 403,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Chemists' association resumes sale of regulated medicines; no tilt for govt."
+ },
+ {
+  "story_id": 469,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Akali-BJP alliance praise: opposition internal."
+ },
+ {
+  "story_id": 489,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Headline leads with complaint of poor basic facilities in industrial areas (Lesson 22)."
+ },
+ {
+  "story_id": 513,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "Heroin recovered in joint search by BSF and police (Lesson 25 police role)."
+ },
+ {
+  "story_id": 549,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Chemists to boycott elections over narcotic sale rules: protest against govt."
+ },
+ {
+  "story_id": 555,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "FIR on victim's complaint, no arrest (Lesson 16)."
+ },
+ {
+  "story_id": 591,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Census awareness van by administration: routine (Lessons 21, 23)."
+ },
+ {
+  "story_id": 632,
+  "sentiment": "Neutral",
+  "confidence": "high",
+  "reason": "ADC's assurance on pending cases: routine administration (Lesson 21)."
+ },
+ {
+  "story_id": 642,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "BJP/SAD leader welcoming their alliance: opposition internal."
+ },
+ {
+  "story_id": 662,
+  "sentiment": "Neutral",
+  "confidence": "high",
+  "reason": "MLA takes blessings at a dera: incidental (Lesson 30)."
+ },
+ {
+  "story_id": 776,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Akali-BJP alliance claims: opposition internal."
+ },
+ {
+  "story_id": 156,
+  "sentiment": "Neutral",
+  "confidence": "high",
+  "reason": "Routine police transfers ordered per Election Commission directive."
+ },
+ {
+  "story_id": 158,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Explainer on Moga as rally venue; no tilt."
+ },
+ {
+  "story_id": 159,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "High Court questions govt's diversion of buses: court rebuke."
+ },
+ {
+  "story_id": 163,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Police bust networks, 7 arrested with pistols and heroin (Lesson 1)."
+ },
+ {
+  "story_id": 166,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Notice of future Khelo India trials by Punjab sports directorate (Lesson 37)."
+ },
+ {
+  "story_id": 234,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Congress-Left tie-up talks: opposition internal."
+ },
+ {
+  "story_id": 273,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "BJP seat target in alliance: opposition internal."
+ },
+ {
+  "story_id": 187,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "MLA hands over property cards under govt scheme: delivery."
+ },
+ {
+  "story_id": 188,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "medium",
+  "reason": "Trauma training by a private hospital's initiative; no govt decision or delivery."
+ },
+ {
+  "story_id": 191,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Firing on AAP sarpanch: crime, with BJP attack in body."
+ },
+ {
+  "story_id": 192,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Leaders' visit to jailed minister's family; courtesy, though jailed minister is awkward (Lesson 21)."
+ },
+ {
+  "story_id": 195,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Farmer's memorial to Delhi stir: no govt angle."
+ },
+ {
+  "story_id": 236,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Congress outreach to Left: opposition internal."
+ },
+ {
+  "story_id": 237,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Channi questions Akali-BJP re-alliance: opposition vs opposition."
+ },
+ {
+  "story_id": 278,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "medium",
+  "reason": "ED search of a SAD leader in central case: Lesson 5, opposition affair."
+ },
+ {
+  "story_id": 330,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "BJP groundwork before alliance: opposition internal."
+ }
+]

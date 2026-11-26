@@ -1,0 +1,94 @@
+{
+ "date": "2026-11-26",
+ "judge": "Claude Fable 5.2",
+ "rows_judged": 185,
+ "blind_agreement": 157,
+ "agreement_rate": 0.8486,
+ "disagreements": 28,
+ "sentiment_changed": 11,
+ "coder_kept": 17,
+ "patterns": [
+  {
+   "before": "Neutral",
+   "after": "Negative",
+   "rule": "Lesson 22",
+   "count": 2
+  },
+  {
+   "before": "Neutral",
+   "after": "Negative",
+   "rule": "Sentiment: court rebukes are Negative",
+   "count": 1
+  },
+  {
+   "before": "Not about AAP/Govt",
+   "after": "Neutral",
+   "rule": "new case",
+   "count": 1
+  },
+  {
+   "before": "Neutral",
+   "after": "Not about AAP/Govt",
+   "rule": "Lesson 31",
+   "count": 1
+  },
+  {
+   "before": "Neutral",
+   "after": "Positive",
+   "rule": "Sentiment: delivery and launches are Positive (Lesson 11)",
+   "count": 1
+  },
+  {
+   "before": "Neutral",
+   "after": "Negative",
+   "rule": "new case",
+   "count": 1
+  },
+  {
+   "before": "Neutral",
+   "after": "Positive",
+   "rule": "Lesson 3 / Lesson 28",
+   "count": 1
+  },
+  {
+   "before": "Negative",
+   "after": "Positive",
+   "rule": "Lesson 1",
+   "count": 1
+  },
+  {
+   "before": "Neutral",
+   "after": "Positive",
+   "rule": "Lesson 1",
+   "count": 1
+  },
+  {
+   "before": "Not about AAP/Govt",
+   "after": "Negative",
+   "rule": "Sentiment: defections from AAP are Negative",
+   "count": 1
+  }
+ ],
+ "new_cases": [
+  {
+   "story_id": 39,
+   "reason": "The High Court dismissed a retired assistant engineer's petition and upheld a 10 per cent pension cut. The ruling goes the state's way, but the headline states a service-law principle and reports no government delivery or enforcement, so it is not Positive. Same ruling as row 103."
+  },
+  {
+   "story_id": 100,
+   "reason": "Relevant, not Lesson 5 or 24: this is a sabotage bid, not an accident, and the clipping gives Punjab's Government Railway Police the case (FIR at GRP Sirhind, AIG GRP on the spot, suspects being questioned). The headline leads with the accident averted by the train guard, with no arrest and no blame, so Neutral, as in The Tribune (152) and Dainik Bhaskar (122). Punjabi Tribune (920) differs because its headline leads with the miscreants' act."
+  },
+  {
+   "story_id": 103,
+   "reason": "Judged as the side box 'Pension can be cut even without actual financial loss'. The blind judge's reason describes the lead item on the slide (row 102), not this box. The box is the same ruling as row 39: petition dismissed, state's pension cut upheld, no rebuke and no delivery."
+  },
+  {
+   "story_id": 152,
+   "reason": "Relevant because GRP, a Punjab Police wing, removed the pillars and is probing. Headline pairs pillars found with tragedy averted and the body reports timely action; no arrest and no blame. Same ruling as row 100."
+  },
+  {
+   "story_id": 349,
+   "reason": "Editorial whose strap lists what is broken in Punjab (unemployment, debt, drugs) and whose text adds gangs, extortion and targeted killings and says three dispensations have failed. The lead is the state's failings, with no balancing credit to the government."
+  }
+ ]
+}

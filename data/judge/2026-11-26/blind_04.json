@@ -1,0 +1,302 @@
+[
+ {
+  "story_id": 39,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "High Court upholds pension cut for a retired power engineer; ruling in govt's favour (Lesson 8)."
+ },
+ {
+  "story_id": 40,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "ED raids on an Akali leader and private firms in a Panjab-National-case style probe; no Punjab govt role (Lesson 5)."
+ },
+ {
+  "story_id": 41,
+  "sentiment": "Neutral",
+  "confidence": "high",
+  "reason": "Routine govt holiday order for local body polls."
+ },
+ {
+  "story_id": 51,
+  "sentiment": "Neutral",
+  "confidence": "low",
+  "reason": "Event at a university for Amritsar's foundation year; no clear govt delivery or tilt."
+ },
+ {
+  "story_id": 213,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Warring's yatra with strap attacking AAP govt on law and order; attack is part of printed headline."
+ },
+ {
+  "story_id": 215,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Headline says setback for AAP: leaders defect to Congress (defections)."
+ },
+ {
+  "story_id": 299,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "medium",
+  "reason": "BJP leader Manpreet Badal on manifesto and central pool; opposition internal (Lesson 12/17)."
+ },
+ {
+  "story_id": 920,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "low",
+  "reason": "Miscreants' pillar on a railway track; central railways, no state failure (Lessons 5, 24)."
+ },
+ {
+  "story_id": 921,
+  "sentiment": "Positive",
+  "confidence": "low",
+  "reason": "Sarpanch and panches suspended: govt action in the lead."
+ },
+ {
+  "story_id": 922,
+  "sentiment": "Negative",
+  "confidence": "low",
+  "reason": "Wetland dries up, demand for water management: grievance (Lesson 22)."
+ },
+ {
+  "story_id": 924,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Sukhbir Badal's seat plans; opposition internal."
+ },
+ {
+  "story_id": 926,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Congress leader questions Sukhbir; opposition versus opposition."
+ },
+ {
+  "story_id": 933,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Morcha against power department privatisation: protest against the govt."
+ },
+ {
+  "story_id": 935,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Broken roads and potholes: civic failure."
+ },
+ {
+  "story_id": 937,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Demand to clean sewer pipes: civic grievance (Lesson 22)."
+ },
+ {
+  "story_id": 74,
+  "sentiment": "Neutral",
+  "confidence": "high",
+  "reason": "Hearing step: SIT report filed, next date set."
+ },
+ {
+  "story_id": 86,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "AAP district president mobilises for the Moga rally (Lesson 28)."
+ },
+ {
+  "story_id": 255,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "MLA inaugurates a health and wellness centre: delivery."
+ },
+ {
+  "story_id": 344,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Farm union leader on Akali-BJP alliance; opposition internal."
+ },
+ {
+  "story_id": 939,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "medium",
+  "reason": "Chemists' association's own decision on medicine sales, no govt action in the lead."
+ },
+ {
+  "story_id": 944,
+  "sentiment": "Neutral",
+  "confidence": "low",
+  "reason": "Routine school tour, no tilt (Lesson 11)."
+ },
+ {
+  "story_id": 946,
+  "sentiment": "Neutral",
+  "confidence": "high",
+  "reason": "Minister pays obeisance at a shrine (Lesson 30)."
+ },
+ {
+  "story_id": 950,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Questions raised on sewer project cost and opposition to higher charges."
+ },
+ {
+  "story_id": 953,
+  "sentiment": "Positive",
+  "confidence": "low",
+  "reason": "Halqa outreach and campaign buzz for the AAP side (Lesson 3), reading is uncertain."
+ },
+ {
+  "story_id": 956,
+  "sentiment": "Positive",
+  "confidence": "low",
+  "reason": "Halqa campaign support for the AAP MLA (Lesson 3), reading is uncertain."
+ },
+ {
+  "story_id": 966,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "MLA inaugurates a clock tower: development work."
+ },
+ {
+  "story_id": 967,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Uproar between shopkeepers and municipal staff: civic clash."
+ },
+ {
+  "story_id": 968,
+  "sentiment": "Positive",
+  "confidence": "low",
+  "reason": "Ruined govt buildings cleared with police help: action taken."
+ },
+ {
+  "story_id": 969,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Premix road construction begins: development delivery."
+ },
+ {
+  "story_id": 973,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Kite string injury shows ban not enforced: civic safety failure."
+ },
+ {
+  "story_id": 975,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Yudh Nashian Virudh: addicts admitted to de-addiction centre."
+ },
+ {
+  "story_id": 977,
+  "sentiment": "Neutral",
+  "confidence": "high",
+  "reason": "SDM's routine meeting with parties on elections (Lesson 21)."
+ },
+ {
+  "story_id": 978,
+  "sentiment": "Neutral",
+  "confidence": "high",
+  "reason": "Routine police transfers."
+ },
+ {
+  "story_id": 981,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Families join AAP in a village (AAP outreach)."
+ },
+ {
+  "story_id": 985,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "Person caught taking drugs: police action (Lesson 1)."
+ },
+ {
+  "story_id": 990,
+  "sentiment": "Negative",
+  "confidence": "low",
+  "reason": "Case against unknown persons over injury: crime report (Lesson 16)."
+ },
+ {
+  "story_id": 996,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "Phones recovered from jail inmates: recovery (Lesson 1)."
+ },
+ {
+  "story_id": 997,
+  "sentiment": "Neutral",
+  "confidence": "high",
+  "reason": "SDM routine meeting on traders' complaints (Lesson 21)."
+ },
+ {
+  "story_id": 998,
+  "sentiment": "Neutral",
+  "confidence": "high",
+  "reason": "Police routine meeting with school vehicle drivers."
+ },
+ {
+  "story_id": 1002,
+  "sentiment": "Neutral",
+  "confidence": "high",
+  "reason": "Notice of a placement camp, future event."
+ },
+ {
+  "story_id": 1003,
+  "sentiment": "Neutral",
+  "confidence": "high",
+  "reason": "Pensioners meet ADGP, assurance only (Lesson 21)."
+ },
+ {
+  "story_id": 1016,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "Four smugglers held with heroin; arrest in the lead (Lesson 1)."
+ },
+ {
+  "story_id": 1017,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "FIR over fake signatures with no arrest (Lesson 16)."
+ },
+ {
+  "story_id": 1019,
+  "sentiment": "Neutral",
+  "confidence": "high",
+  "reason": "School awareness on stubble burning, no tilt."
+ },
+ {
+  "story_id": 1023,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Purse snatched, case registered with no arrest (Lesson 16)."
+ },
+ {
+  "story_id": 1024,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Man booked for beating wife, crime report (Lesson 16)."
+ },
+ {
+  "story_id": 1026,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Health awareness camp, advice only (Lesson 30)."
+ },
+ {
+  "story_id": 1031,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Inspection of an Aam Aadmi Clinic (Lesson 21)."
+ },
+ {
+  "story_id": 1033,
+  "sentiment": "Neutral",
+  "confidence": "high",
+  "reason": "Administration's warning on visa fraud (Lesson 21)."
+ },
+ {
+  "story_id": 1034,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Opposition leader attacks Congress and AAP over alliances; attack leads the headline."
+ }
+]

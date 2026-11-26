@@ -128,6 +128,15 @@ From the merge, 19 Nov 2026 (seen again 25 Nov, when PDF pages 66 to 78 repeated
 
 20. Dainik Savera's PDF can print the same district page twice (19 Nov: Bathinda 1 to Malwa 6 and Moga 4 to Moga 8 each appeared on two PDF pages). Rows from the second copy of a page are `Duplicate`, as for repeated deck clippings.
 
+From the sentiment judge, 26 Nov 2026:
+
+41. A headline or boxed sub-head that leads with a court questioning a state process (the High Court asking why the paper-leak pharmacy officer recruitment was not cancelled), a clash between residents and a state body's staff, or a protest aimed at the administration's inaction is Negative even when the main line reads as a plain event. An editorial whose headline and strap list the state's failings (debt, unemployment, drugs) with no credit to the government is also Negative (`Governance, Assembly & politics`). Seen 4 times (Neutral changed to Negative); 2 more copies of the recruitment story were aligned.
+42. A completed act in the headline's lead is Positive, not Neutral: an MLA inaugurating a new health centre, a jail search that recovers phones, a drug haunt in ruined government buildings razed with police help, an AAP campaign piece on a halqa candidate. Lessons 11 and 21 cover only reviews, plans, assurances and courtesies. Seen 4 times (Neutral or Negative changed to Positive).
+43. These stay Neutral, not Positive: a statement that a future candidate list will be released, a service-law ruling that upholds the state's own pension cut on an employee, a routine suspension order on a sarpanch, and an arrest that appears only in the strap under a death or crime headline. Seen 4 times (blind-check Positives rejected).
+44. New case: sabotage on railway property (cement pillars on the track near Sirhind) is relevant when the clipping shows the GRP (a Punjab Police wing) registering the case and probing. It is Neutral when the headline carries the accident averted, Negative when it leads only with the miscreants' act; not Lesson 5 or 24.
+45. New case: leaders joining an opposition party are `Defections from AAP` (Negative) only when the clipping itself prints the AAP link, in the headline or sub-head or as the item's sole subject (a former AAP candidate joining Congress); copies that name no AAP link are `Opposition internal` (Lesson 4).
+46. New case: when the main headline is a noun phrase that the strap completes into one sentence (ruined buildings that became addicts' haunts / razed with police help), read the two together. Lesson 36's "main headline with its own tilt" test does not apply because the main line has no complete statement of its own.
+
 ## Daily commentary (data/notes/<date>.json)
 
 ```

@@ -1,0 +1,176 @@
+[
+ {
+  "story_id": 239,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Opposition leader Bajwa blames AAP govt for drugs and law and order."
+ },
+ {
+  "story_id": 240,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "medium",
+  "reason": "Congress's own induction event (Lesson 17); AAP defector is only one of four parties named."
+ },
+ {
+  "story_id": 795,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Assault outside govt hospital raising security concerns (Lesson 16)."
+ },
+ {
+  "story_id": 799,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "medium",
+  "reason": "Headline is about the SAD-BJP alliance, an opposition matter (Lessons 4, 17)."
+ },
+ {
+  "story_id": 808,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Schools have labs but lack teachers: shortage in govt schools."
+ },
+ {
+  "story_id": 814,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "medium",
+  "reason": "Alliance aspirants' ticket race is opposition internal (Lesson 4)."
+ },
+ {
+  "story_id": 857,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Govt playground land encroached: civic failure, complaint lodged."
+ },
+ {
+  "story_id": 876,
+  "sentiment": "Neutral",
+  "confidence": "low",
+  "reason": "Stubble burning rise with fines issued; lead mixes failure and enforcement."
+ },
+ {
+  "story_id": 891,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Development works launched (delivery)."
+ },
+ {
+  "story_id": 141,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Courtesy meeting with jailed minister's family; no delivery or attack (Lesson 21)."
+ },
+ {
+  "story_id": 149,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Central approval of NFL plant, claimed by BJP; no state role (Lesson 5)."
+ },
+ {
+  "story_id": 150,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Appointment letters to PRTC employees under contract: delivery."
+ },
+ {
+  "story_id": 151,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "CM announces highest cane SAP in India."
+ },
+ {
+  "story_id": 152,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "low",
+  "reason": "Railway track obstruction handled by GRP/RPF, no state govt angle (Lesson 24)."
+ },
+ {
+  "story_id": 232,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "medium",
+  "reason": "Congress alliance talk is the headline; opposition internal (Lesson 17)."
+ },
+ {
+  "story_id": 270,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "SAD-BJP history feature; opposition internal."
+ },
+ {
+  "story_id": 346,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "medium",
+  "reason": "Allegations about gangster and MP Amritpal's supporters; no govt role."
+ },
+ {
+  "story_id": 169,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Delhi HC on Centre's Kartarpur closure; no Punjab govt role (Lesson 5)."
+ },
+ {
+  "story_id": 171,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "AAP rally and Mann govt's 5-year report card (Lesson 28)."
+ },
+ {
+  "story_id": 172,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "Leads with AAP rally preparations (Lesson 28); Dhillon's questions are in a box."
+ },
+ {
+  "story_id": 174,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Drugs issue turned against AAP, lapsed deadlines: opposition-flavoured attack."
+ },
+ {
+  "story_id": 175,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "SAD strategy story; opposition internal."
+ },
+ {
+  "story_id": 180,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Firing on AAP sarpanch, crime report with no arrest (Lesson 16)."
+ },
+ {
+  "story_id": 184,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Akal Takht panel accuses govt committee of misleading: standoff lead (Lesson 18)."
+ },
+ {
+  "story_id": 186,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Court rejects Vigilance Bureau closure report: judicial rebuke of state agency."
+ },
+ {
+  "story_id": 235,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "medium",
+  "reason": "Congress leaders' event with attack on BJP-SAD; AAP not the lead (Lesson 17)."
+ },
+ {
+  "story_id": 277,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "SAD strategy analysis; opposition internal."
+ },
+ {
+  "story_id": 347,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "Six arrested for murder within 12 hours: arrests in lead (Lesson 1)."
+ },
+ {
+  "story_id": 349,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Editorial on debt, unemployment and drugs awaiting the winner."
+ }
+]

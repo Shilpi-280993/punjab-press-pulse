@@ -1,0 +1,225 @@
+[
+ {
+  "story_id": 5,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "HC statement on duty to protect religious properties; no tilt for or against govt (L11)."
+ },
+ {
+  "story_id": 7,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "AAP candidate list announcement by Cheema is party-promotion outreach (L3, L28)."
+ },
+ {
+  "story_id": 8,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "HC questions recruitment after paper leak; court rebuke (negative)."
+ },
+ {
+  "story_id": 10,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "low",
+  "reason": "ED raids on an Akali leader and a private builder, no Punjab govt role named (L5, L13 not met)."
+ },
+ {
+  "story_id": 13,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Union thanks govt for accepting demands; delivery."
+ },
+ {
+  "story_id": 19,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Meri Rasoi ration kits reaching 32 lakh families; scheme delivery."
+ },
+ {
+  "story_id": 20,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Use of govt buses for rally challenged in High Court."
+ },
+ {
+  "story_id": 208,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Congress councillors allege opposition suppressed in Jalandhar MC house; opposition attack."
+ },
+ {
+  "story_id": 209,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Leaders of AAP among those joining Congress; defection headline."
+ },
+ {
+  "story_id": 290,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Jakhar accuses Mann govt of favouring mining mafia; opposition attack."
+ },
+ {
+  "story_id": 339,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Farmer leaders call sugarcane price rise a cruel joke; attack on govt decision."
+ },
+ {
+  "story_id": 112,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "New silt management policy notified with GPS and drone monitoring; govt launch."
+ },
+ {
+  "story_id": 115,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "medium",
+  "reason": "Banking committee report on nominee-less accounts; banks, no govt role."
+ },
+ {
+  "story_id": 118,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "Kejriwal and Mann meet candidate's family, Kejriwal to lead campaign; AAP outreach (L3, L28); jail mention is secondary."
+ },
+ {
+  "story_id": 119,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "CM's advice to probationer IPS officers is a courtesy meeting (L21)."
+ },
+ {
+  "story_id": 120,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "PRTC outsourced staff being brought on contract, letters issued; delivery."
+ },
+ {
+  "story_id": 121,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Headline reports only a scheduled meeting with health workers (L18, L21)."
+ },
+ {
+  "story_id": 122,
+  "sentiment": "Neutral",
+  "confidence": "low",
+  "reason": "Foiled rail sabotage with police on alert; no tilt, no arrest (L24-style, Crime & law and order)."
+ },
+ {
+  "story_id": 125,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "HC hints at CBI probe, asks why recruitment not cancelled; court rebuke."
+ },
+ {
+  "story_id": 126,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Honorarium workers announce protest near CM residence."
+ },
+ {
+  "story_id": 95,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Mann govt raises sugarcane price to highest in country; delivery for farmers."
+ },
+ {
+  "story_id": 100,
+  "sentiment": "Neutral",
+  "confidence": "low",
+  "reason": "Train guard averts accident; no govt tilt, probe by police and railways."
+ },
+ {
+  "story_id": 103,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "HC says sanction delay no excuse, interest due on delayed pension in state body case; rebuke.",
+  "headline_fix": "Interest must be paid on delayed pension, excuse of delay in sanction will not work: High Court"
+ },
+ {
+  "story_id": 108,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Arrest of three with five pistols (L1)."
+ },
+ {
+  "story_id": 110,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "HC says protecting religious properties is govt duty; no tilt."
+ },
+ {
+  "story_id": 111,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "HC says police personnel cannot be denied salary; court rebuke of the department."
+ },
+ {
+  "story_id": 1124,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Protest outside DC residence over distribution of suits; protest against administration."
+ },
+ {
+  "story_id": 1138,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "Police issue challans at hi-tech naka; enforcement with challans issued (L38)."
+ },
+ {
+  "story_id": 1143,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "low",
+  "reason": "ED raid on private builder and Akali leader, no Punjab official or authority role (L5, L13 not met)."
+ },
+ {
+  "story_id": 1149,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Leaders of BJP and Akali Dal pleased with their own alliance (L4, L17)."
+ },
+ {
+  "story_id": 1150,
+  "sentiment": "Positive",
+  "confidence": "low",
+  "reason": "Allotment letters handed to successful bidders by trust; delivery."
+ },
+ {
+  "story_id": 1165,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "Ownership papers given to residents; delivery."
+ },
+ {
+  "story_id": 1176,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "Foundation stone laid for works including medical college; development."
+ },
+ {
+  "story_id": 1179,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "medium",
+  "reason": "Congress leaders react to SAD-BJP alliance; opposition versus opposition (L4, L12)."
+ },
+ {
+  "story_id": 1185,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Gang selling stolen bikes busted; arrests (L1)."
+ },
+ {
+  "story_id": 1187,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Shop theft with no arrest; crime report (L16)."
+ },
+ {
+  "story_id": 1192,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "SAD leader Cheema on SAD-BJP alliance; opposition internal (L4, L17)."
+ }
+]

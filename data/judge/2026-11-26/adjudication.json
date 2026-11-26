@@ -1,0 +1,184 @@
+[
+ {
+  "story_id": 5,
+  "final": "Negative",
+  "reason": "Ajit's headline carries a boxed sub-head 'Government cannot occupy lands in the name of better use or public interest'; the body shows the High Court ruling against the state over the Sunam dera land. A ruling against the government is a court rebuke. Same ruling as row 110.",
+  "rule": "Sentiment: court rebukes are Negative (Lesson 8)"
+ },
+ {
+  "story_id": 7,
+  "final": "Neutral",
+  "reason": "Cheema only says when AAP's third candidate list will come out. It is a statement about future party business, not a rally, public meeting or other outreach event, so Lessons 3 and 28 do not apply.",
+  "rule": "Lesson 21 / Lesson 28"
+ },
+ {
+  "story_id": 8,
+  "final": "Negative",
+  "reason": "Headline says the recruitment may be cancelled and the boxed sub-head has the High Court asking why the whole selection should not be scrapped after paper leak and cheating charges. A court questioning the state's recruitment is a rebuke; Dainik Jagran (105) and Dainik Bhaskar (125) copies are already Negative under the same group.",
+  "rule": "Sentiment: court rebukes are Negative",
+  "theme_group": "Court rebukes & govt finances",
+  "detailed_theme": "Court rebuke"
+ },
+ {
+  "story_id": 39,
+  "final": "Neutral",
+  "reason": "The High Court dismissed a retired assistant engineer's petition and upheld a 10 per cent pension cut. The ruling goes the state's way, but the headline states a service-law principle and reports no government delivery or enforcement, so it is not Positive. Same ruling as row 103.",
+  "rule": "new case"
+ },
+ {
+  "story_id": 100,
+  "final": "Neutral",
+  "reason": "Relevant, not Lesson 5 or 24: this is a sabotage bid, not an accident, and the clipping gives Punjab's Government Railway Police the case (FIR at GRP Sirhind, AIG GRP on the spot, suspects being questioned). The headline leads with the accident averted by the train guard, with no arrest and no blame, so Neutral, as in The Tribune (152) and Dainik Bhaskar (122). Punjabi Tribune (920) differs because its headline leads with the miscreants' act.",
+  "rule": "new case",
+  "theme_group": "Crime & law and order",
+  "detailed_theme": "Law & order / crime"
+ },
+ {
+  "story_id": 103,
+  "final": "Neutral",
+  "reason": "Judged as the side box 'Pension can be cut even without actual financial loss'. The blind judge's reason describes the lead item on the slide (row 102), not this box. The box is the same ruling as row 39: petition dismissed, state's pension cut upheld, no rebuke and no delivery.",
+  "rule": "new case"
+ },
+ {
+  "story_id": 110,
+  "final": "Negative",
+  "reason": "Bullets under the headline say the government cannot take such land citing better use or public interest and that land cannot go in the government's name without legal acquisition; the body shows the High Court quashing the mutation in the Punjab government's name. A ruling against the state, same as row 5.",
+  "rule": "Sentiment: court rebukes are Negative (Lesson 8)"
+ },
+ {
+  "story_id": 152,
+  "final": "Neutral",
+  "reason": "Relevant because GRP, a Punjab Police wing, removed the pillars and is probing. Headline pairs pillars found with tragedy averted and the body reports timely action; no arrest and no blame. Same ruling as row 100.",
+  "rule": "new case"
+ },
+ {
+  "story_id": 188,
+  "final": "Not about AAP/Govt",
+  "reason": "The trauma-care training is Fortis Hospital Mohali's own SURAKSHA initiative. The item reports no decision, programme or delivery by the Punjab government or police; policemen are only the trainees.",
+  "rule": "Lesson 31",
+  "theme_group": "",
+  "detailed_theme": "Others"
+ },
+ {
+  "story_id": 210,
+  "final": "Not about AAP/Govt",
+  "reason": "The printed headline names Sidhwan, Bibi Roop Kaur and Captain Pathania joining Congress and never mentions AAP; the body calls her only 'Bibi Roop Kaur with her family'. With no AAP link printed in the clipping, it is Congress's own induction event. The Savera Times copy (240) differs because it prints AAP.",
+  "rule": "Lesson 17"
+ },
+ {
+  "story_id": 213,
+  "final": "Not about AAP/Govt",
+  "reason": "The headline is only Warring's own event ('Insaaf Yatra' in Goniana Mandi). The attack on the AAP government over law and order is in the strap and body, which Lesson 17 says does not make the row Negative.",
+  "rule": "Lesson 17"
+ },
+ {
+  "story_id": 223,
+  "final": "Not about AAP/Govt",
+  "reason": "Same event and same wording as Jagbani (210): headline names the individuals, and neither headline nor body identifies anyone as an AAP leader.",
+  "rule": "Lesson 17"
+ },
+ {
+  "story_id": 240,
+  "final": "Negative",
+  "reason": "Here the printed sub-head reads 'Former Akali, AAP and BJP leaders join Congress ahead of 2027 polls' and the body names Bibi Roop Kaur of the AAP. AAP's loss is in the printed headline, as in today's rows 209, 216 and 230, so it is a defection from AAP. Headline genuinely differs from Jagbani and Punjab Kesari.",
+  "rule": "Sentiment: defections from AAP are Negative"
+ },
+ {
+  "story_id": 255,
+  "final": "Positive",
+  "reason": "An AAP MLA inaugurating a newly built Health and Wellness Centre is completed delivery in the headline's lead, not routine administration. Dainik Jagran's copy (1140) is already Positive.",
+  "rule": "Sentiment: delivery and launches are Positive (Lesson 11)"
+ },
+ {
+  "story_id": 349,
+  "final": "Negative",
+  "reason": "Editorial whose strap lists what is broken in Punjab (unemployment, debt, drugs) and whose text adds gangs, extortion and targeted killings and says three dispensations have failed. The lead is the state's failings, with no balancing credit to the government.",
+  "rule": "new case"
+ },
+ {
+  "story_id": 876,
+  "final": "Negative",
+  "reason": "Headline leads with stubble burning cases rising in Ludhiana (383 against 219 last year). The fines and FIRs are in the strap only, so the failure, not the enforcement, is the lead.",
+  "rule": "Sentiment: judge by the headline's lead (Lesson 36)"
+ },
+ {
+  "story_id": 920,
+  "final": "Negative",
+  "reason": "Relevant because GRP (Punjab Police) is investigating. This headline leads with miscreants placing the pillar, an unsolved crime with no arrest; the averted accident is only in the strap. Matches Jagbani (29). Rows 100 and 152 are Neutral because their headlines carry the averted tragedy.",
+  "rule": "Lesson 16"
+ },
+ {
+  "story_id": 921,
+  "final": "Neutral",
+  "reason": "The Director, Rural Development and Panchayats, suspended the sarpanch and four panches on an inquiry into a former sarpanch's complaint. A routine disciplinary order with no recovery, arrest or delivery, as with earlier suspension rows (principal, SHOs).",
+  "rule": "Lesson 21"
+ },
+ {
+  "story_id": 939,
+  "final": "Neutral",
+  "reason": "Relevant: the chemists stopped and have now resumed sale after assurances from the administration and the health minister, and the item links their political support to their demands on drug policy. The headline only reports sale restored, with no blame and no government delivery. Same as Dainik Savera (403).",
+  "rule": "Lesson 11"
+ },
+ {
+  "story_id": 953,
+  "final": "Positive",
+  "reason": "Headline and strap ('Dalbir UK getting big support from people, AAP wave building') are a campaign piece for the AAP halqa leader in Ghanaur, with the body praising the Mann government's work. AAP party promotion, like the sister row 952.",
+  "rule": "Lesson 3 / Lesson 28"
+ },
+ {
+  "story_id": 967,
+  "final": "Negative",
+  "reason": "Headline leads with the uproar and the red sub-head says shopkeepers and council staff came face to face; the body has slapping allegations and shopkeepers raising slogans against the council and administration. A protest against a state body, not a reported enforcement result. Punjabi Jagran's copy (1110) is already Negative.",
+  "rule": "Lesson 22"
+ },
+ {
+  "story_id": 968,
+  "final": "Positive",
+  "reason": "Headline and strap read as one sentence: the ruined government buildings that had become addicts' haunts were razed with police help. The photo is the JCB at work and the body reports the demolition on the SSP's directions, with villagers praising it. Completed police action against drugs is the lead.",
+  "rule": "Lesson 1",
+  "theme_group": "Police action on gangs, arms & drugs",
+  "detailed_theme": "Police action vs drugs"
+ },
+ {
+  "story_id": 996,
+  "final": "Positive",
+  "reason": "A recovery of five mobile phones from six undertrials in a jail search is the headline's lead. Jail recoveries have been coded Positive on earlier days and The Savera Times copy of this event (852) is Positive.",
+  "rule": "Lesson 1",
+  "theme_group": "Police action on gangs, arms & drugs",
+  "detailed_theme": "Police action vs crime"
+ },
+ {
+  "story_id": 1016,
+  "final": "Neutral",
+  "reason": "The main headline is 'After two youths' deaths from drug overdose, police step up vigilance' (Machhiwara Sahib): overdose deaths plus a general police response. The arrest of four with 35 g heroin is in the side strap only, so Lesson 1's 'in the lead' test is not met. Headline should say two youths, Machhiwara.",
+  "rule": "Lesson 15 / Lesson 36"
+ },
+ {
+  "story_id": 1049,
+  "final": "Neutral",
+  "reason": "Headline says the suit, watch and purse distribution matter has heated up in Ward 40 and the strap puts the BJP and AAP candidates face to face. Each accuses the other, the AAP candidate's reply has its own box, and the administration says both complaints will be probed. No tilt. Dainik Jagran (1124) differs because its headline is the BJP protest.",
+  "rule": "Sentiment: Neutral, no clear tilt"
+ },
+ {
+  "story_id": 1112,
+  "final": "Negative",
+  "reason": "The headline does not name AAP, but the whole item is about one man: AAP's 2017 Bathinda Rural candidate and former Lok Sabha in-charge, who says the party left its ideology. There is no other party's leader in it, so it is a defection from AAP, not Congress internal news.",
+  "rule": "Sentiment: defections from AAP are Negative",
+  "theme_group": "Governance, Assembly & politics",
+  "detailed_theme": "Defections from AAP"
+ },
+ {
+  "story_id": 1117,
+  "final": "Negative",
+  "reason": "The chemists' body announces an election boycott over its grievances against the health and drug department, with a side item on psychiatric patients not getting medicines. A grievance against a state body is the lead. Same as rows 182 and 549.",
+  "rule": "Lesson 22"
+ },
+ {
+  "story_id": 1124,
+  "final": "Negative",
+  "reason": "This headline leads with a protest outside the DC's residence: the BJP candidate, angry that no action was taken on his complaint that the AAP candidate gave suits to voters. An opposition attack on AAP and on administration inaction. Punjabi Jagran (1049) printed a two-sided headline and stays Neutral.",
+  "rule": "Lesson 22",
+  "theme_group": "Opposition attacks on the govt",
+  "detailed_theme": "Opposition attack: BJP"
+ }
+]

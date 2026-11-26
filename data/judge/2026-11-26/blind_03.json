@@ -1,0 +1,236 @@
+[
+ {
+  "story_id": 24,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Arrests and recovery of pistols and heroin in the lead (Lesson 1)."
+ },
+ {
+  "story_id": 28,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Delhi HC on the Centre's Kartarpur closure; no Punjab government role (Lesson 5)."
+ },
+ {
+  "story_id": 31,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Minister hands appointment letters to 104 employees: delivery."
+ },
+ {
+  "story_id": 33,
+  "sentiment": "Neutral",
+  "confidence": "high",
+  "reason": "Expert committee only summons government committee for talks (Lesson 18)."
+ },
+ {
+  "story_id": 34,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "AAP leader promotes Moga Foundation Day rally and government's 5-year record (Lesson 28)."
+ },
+ {
+  "story_id": 210,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Leaders including AAP's Roop Kaur join Congress: defection from AAP."
+ },
+ {
+  "story_id": 243,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Akali-BJP alliance remark by a SAD leader; opposition's own event (Lesson 12)."
+ },
+ {
+  "story_id": 244,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "ED raid on Akali leader's house; central agency, no government role (Lesson 5)."
+ },
+ {
+  "story_id": 246,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Majithia on alliance; headline carries no attack on AAP (Lesson 17)."
+ },
+ {
+  "story_id": 89,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Sugarcane price raised: delivery announced by the CM."
+ },
+ {
+  "story_id": 90,
+  "sentiment": "Neutral",
+  "confidence": "high",
+  "reason": "Routine police transfers, no tilt."
+ },
+ {
+  "story_id": 91,
+  "sentiment": "Neutral",
+  "confidence": "high",
+  "reason": "Expert committee invites coordination committee for talks (Lesson 18)."
+ },
+ {
+  "story_id": 92,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Networks busted, 7 arrested, weapons and heroin recovered (Lesson 1)."
+ },
+ {
+  "story_id": 94,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Appointment letters handed to 104 outsourced employees, process for 1,719 begins."
+ },
+ {
+  "story_id": 223,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Defections to Congress including AAP's Roop Kaur; coded as Jagbani copy (Defections from AAP)."
+ },
+ {
+  "story_id": 256,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "ED raid on Akali leader; central agency, no government role (Lesson 5)."
+ },
+ {
+  "story_id": 257,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "ED summons Punjab IAS officer and an AAP MLA's husband (Lesson 13)."
+ },
+ {
+  "story_id": 308,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Haryana CM welcomes Akali-BJP alliance; opposition's own event (Lesson 12)."
+ },
+ {
+  "story_id": 59,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "High Court rules government cannot seize religious properties: court rebuke."
+ },
+ {
+  "story_id": 216,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Three leaders from Akali, AAP and BJP join Congress; includes AAP defection."
+ },
+ {
+  "story_id": 1041,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Four arrested with heroin and drug money (Lesson 1)."
+ },
+ {
+  "story_id": 1049,
+  "sentiment": "Negative",
+  "confidence": "low",
+  "reason": "Allegation of gift distribution by AAP candidate in municipal poll, BJP candidate attacking."
+ },
+ {
+  "story_id": 1056,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Announced protest burning effigies of MLAs: protest against government side."
+ },
+ {
+  "story_id": 1057,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Appointment of a welfare board chairman, routine and incidental (Lesson 21)."
+ },
+ {
+  "story_id": 1059,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Family says no help despite eligibility: grievance against state inaction (Lesson 22)."
+ },
+ {
+  "story_id": 1062,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Akali-BJP seat sharing challenge; opposition internal (Lesson 12)."
+ },
+ {
+  "story_id": 1064,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Labourer's throat slit: crime report (Lesson 16)."
+ },
+ {
+  "story_id": 1066,
+  "sentiment": "Negative",
+  "confidence": "low",
+  "reason": "Workers confined inside a factory: crime report (Lesson 16); could be Not about as private dispute."
+ },
+ {
+  "story_id": 1067,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Demand to re-verify arms licences; no tilt."
+ },
+ {
+  "story_id": 1073,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Thefts of motor wires from farms: crime report (Lesson 16)."
+ },
+ {
+  "story_id": 1074,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Workers' joy after Akali-BJP alliance; opposition's own event (Lesson 12)."
+ },
+ {
+  "story_id": 1089,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Overloaded tractor-trolleys endanger people: civic/road safety failure (Lesson 19)."
+ },
+ {
+  "story_id": 1093,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "Action actually taken against property tax defaulters (Lesson 38)."
+ },
+ {
+  "story_id": 1100,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "Council's garbage collection firm praised: civic service delivery."
+ },
+ {
+  "story_id": 1102,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Opposition councillors corner council president and EO in stormy meeting."
+ },
+ {
+  "story_id": 1104,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Forest workers' patience breaks, permanent morcha: employee protest."
+ },
+ {
+  "story_id": 1105,
+  "sentiment": "Negative",
+  "confidence": "low",
+  "reason": "Protest at police station over a truck union dispute (Lesson 22), cause unclear."
+ },
+ {
+  "story_id": 1112,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Former AAP leader Deepak Bansal quits AAP for Congress: defection."
+ },
+ {
+  "story_id": 1117,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "low",
+  "reason": "Chemists' trade body announces election boycott over its own demands (Lesson 31)."
+ }
+]
