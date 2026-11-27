@@ -1,0 +1,225 @@
+[
+ {
+  "story_id": 35,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Court challenge to AAP convener Kejriwal's acquittal in excise case is an adverse legal item for AAP."
+ },
+ {
+  "story_id": 39,
+  "sentiment": "Neutral",
+  "confidence": "low",
+  "reason": "Congress and AAP oppose a Chandigarh (UT) Election Commission order; headline has no tilt and no Punjab govt role."
+ },
+ {
+  "story_id": 41,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "medium",
+  "reason": "Overloaded trolley accident risk with no state failure in the item (Lesson 24)."
+ },
+ {
+  "story_id": 926,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Farmers' grievance and demand letter to a state authority (GMADA) over land (Lesson 22)."
+ },
+ {
+  "story_id": 929,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Haryana electricity corporation dues; no Punjab govt role."
+ },
+ {
+  "story_id": 931,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Congress MLA attacking Akali Dal is opposition versus opposition (Lesson 4)."
+ },
+ {
+  "story_id": 932,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Theft FIR with no arrest is a crime report (Lesson 16)."
+ },
+ {
+  "story_id": 935,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Congress ticket claimants: opposition internal."
+ },
+ {
+  "story_id": 937,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Adarsh school staff dharna against the state government."
+ },
+ {
+  "story_id": 938,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Headline leads with people stranded because govt took buses for rally."
+ },
+ {
+  "story_id": 939,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Police house arrest of teachers' union leader ahead of AAP rally; protest against govt."
+ },
+ {
+  "story_id": 941,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "BSF recovery; Punjab Police only registered the case (Lessons 25, 29)."
+ },
+ {
+  "story_id": 949,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Congress-led Constitution Day march is an opposition event (Lesson 12)."
+ },
+ {
+  "story_id": 952,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "low",
+  "reason": "Civic poll candidates' poster war; no govt decision or AAP lead."
+ },
+ {
+  "story_id": 62,
+  "sentiment": "Neutral",
+  "confidence": "high",
+  "reason": "Notice of a future event a minister will inaugurate (Lessons 21, 37)."
+ },
+ {
+  "story_id": 954,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Convoy for AAP Moga rally is AAP organisation and outreach (Lesson 28)."
+ },
+ {
+  "story_id": 955,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "AAP halqa in-charge's convoy to Moga rally (Lessons 3, 28)."
+ },
+ {
+  "story_id": 958,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "medium",
+  "reason": "Akali Dal (Waris Punjab De) leaders attacking SAD-BJP pact: opposition versus opposition."
+ },
+ {
+  "story_id": 960,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "AAP MLA's convoy to Moga rally (Lesson 28)."
+ },
+ {
+  "story_id": 966,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Congress district chief on Akali-BJP alliance: opposition internal (Lesson 4)."
+ },
+ {
+  "story_id": 970,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Union extends ultimatum after meeting with health directorate; no tilt in headline."
+ },
+ {
+  "story_id": 975,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Notice of civil defence mock drill; routine administration."
+ },
+ {
+  "story_id": 977,
+  "sentiment": "Neutral",
+  "confidence": "low",
+  "reason": "Routine voter awareness message by an official (Lesson 21)."
+ },
+ {
+  "story_id": 979,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "medium",
+  "reason": "Opposition leader's poll promise 'on forming govt' in Sangrur ward meeting; opposition event (Lesson 17)."
+ },
+ {
+  "story_id": 981,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Foundation stones of Rs 10.19 crore projects laid by minister (Lesson 42)."
+ },
+ {
+  "story_id": 988,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "Pothole-free Bathinda drive gathers pace and premix road work started (Lesson 42).",
+  "headline_fix": "Mayor Padamjit Mehta's 'Pothole-free Bathinda' drive gathers pace; PCA president Amarjit Mehta starts premix work"
+ },
+ {
+  "story_id": 990,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "DC planting saplings is routine administration (Lesson 21)."
+ },
+ {
+  "story_id": 991,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "AAP leader's workers leaving for Moga rally (Lesson 28)."
+ },
+ {
+  "story_id": 1005,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Rights commission committee's visit to Civil Hospital; no rebuke in headline."
+ },
+ {
+  "story_id": 1009,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "Outsourced staff reinstated and strike withdrawn is a govt resolution delivered."
+ },
+ {
+  "story_id": 1014,
+  "sentiment": "Neutral",
+  "confidence": "low",
+  "reason": "Farmer union's own anniversary gathering; stance against 'governments' mostly Centre (Lessons 6, 31)."
+ },
+ {
+  "story_id": 1016,
+  "sentiment": "Positive",
+  "confidence": "low",
+  "reason": "Report of state school games beginning (Lesson 37 by analogy)."
+ },
+ {
+  "story_id": 1023,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Congress press conference on vote theft: opposition internal."
+ },
+ {
+  "story_id": 1024,
+  "sentiment": "Neutral",
+  "confidence": "low",
+  "reason": "Language Department memorial function; routine, no tilt."
+ },
+ {
+  "story_id": 1033,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Akali Dal (Waris Punjab De) membership campaign: opposition internal."
+ },
+ {
+  "story_id": 1040,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Protest at municipal council over unpaid dues (Lessons 22, 41)."
+ },
+ {
+  "story_id": 1050,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "BJP-Akali meeting on civic poll seats: opposition internal."
+ }
+]

@@ -137,6 +137,12 @@ From the sentiment judge, 26 Nov 2026:
 45. New case: leaders joining an opposition party are `Defections from AAP` (Negative) only when the clipping itself prints the AAP link, in the headline or sub-head or as the item's sole subject (a former AAP candidate joining Congress); copies that name no AAP link are `Opposition internal` (Lesson 4).
 46. New case: when the main headline is a noun phrase that the strap completes into one sentence (ruined buildings that became addicts' haunts / razed with police help), read the two together. Lesson 36's "main headline with its own tilt" test does not apply because the main line has no complete statement of its own.
 
+From the sentiment judge, 27 Nov 2026:
+
+47. New case: a fatal mishap at AAP's own rally or a government event ground (the coffee machine that burst at a stall set up by the event's contractor at the Moga rally, killing a worker) is relevant and Negative, `AAP organisation & outreach`, detailed theme `Rally accident`, in every paper's copy, whether or not the headline names the rally. The organiser owns the event, so Lessons 24 and 31 do not apply.
+48. New case: an FIR for a speech offence (a singer's remarks on deities, hurting religious sentiments) registered on a complaint with no arrest is Neutral under `Crime & law and order` (Lesson 15), not a Lesson 16 crime report. Seen 3 times (Negative changed to Neutral, one per paper's copy).
+49. New case: a rival party's headline stance toward AAP with no attack in it (Congress saying there will be no pact with AAP, Waris Punjab De naming AAP and Congress as its rivals) is relevant and Neutral, `Governance, Assembly & politics`, detailed theme `Election politics`, by analogy with Lesson 6. It is Negative only when the headline also attacks AAP or the government (Pargat Singh: Punjab's conditions ruined, no alliance with AAP).
+
 ## Daily commentary (data/notes/<date>.json)
 
 ```

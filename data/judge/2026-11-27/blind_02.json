@@ -1,0 +1,302 @@
+[
+ {
+  "story_id": 287,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Court ruling on mortgaged land, state's appeals partly accepted; no rebuke or win in the lead."
+ },
+ {
+  "story_id": 308,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "Pistol recovered and case registered on BSF input, Punjab Police acting (Lesson 1, 25)."
+ },
+ {
+  "story_id": 329,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Bajwa's 'fixed match' attack on AAP leads the headline."
+ },
+ {
+  "story_id": 345,
+  "sentiment": "Neutral",
+  "confidence": "low",
+  "reason": "Census awareness at a college, routine (Lessons 21, 23)."
+ },
+ {
+  "story_id": 348,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Slow road widening troubling shopkeepers is a civic failure."
+ },
+ {
+  "story_id": 365,
+  "sentiment": "Neutral",
+  "confidence": "low",
+  "reason": "KVK awareness camp for farmers, routine notice (Lesson 11)."
+ },
+ {
+  "story_id": 366,
+  "sentiment": "Positive",
+  "confidence": "low",
+  "reason": "Anti-drug activity held under the government's Yudh Nashian Virudh campaign."
+ },
+ {
+  "story_id": 367,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Congress leader attacks Akali-BJP alliance, no AAP angle (Lesson 4)."
+ },
+ {
+  "story_id": 377,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Arrest and heroin recovery (Lesson 1)."
+ },
+ {
+  "story_id": 391,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Grievance that governments' promises to martyr's family are unfulfilled (Lesson 22)."
+ },
+ {
+  "story_id": 397,
+  "sentiment": "Neutral",
+  "confidence": "low",
+  "reason": "Individual professor's appointment, games only incidental."
+ },
+ {
+  "story_id": 404,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "BJP leader on the Modi government and Constitution, no Punjab govt angle."
+ },
+ {
+  "story_id": 408,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "low",
+  "reason": "Lead is a Congress organisational appointment (Lesson 17); attack is secondary."
+ },
+ {
+  "story_id": 412,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Minister attends a religious function (Lesson 30)."
+ },
+ {
+  "story_id": 415,
+  "sentiment": "Govt ad",
+  "confidence": "medium",
+  "reason": "Jalandhar Development Authority public notice is a government notice/ad."
+ },
+ {
+  "story_id": 426,
+  "sentiment": "Positive",
+  "confidence": "low",
+  "reason": "Pulse polio drive under way and reaching children (Lesson 32)."
+ },
+ {
+  "story_id": 427,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "PSPCL staff pledge on cleanliness, routine."
+ },
+ {
+  "story_id": 430,
+  "sentiment": "Positive",
+  "confidence": "low",
+  "reason": "Recovery from a youth with case registered (Lesson 1)."
+ },
+ {
+  "story_id": 437,
+  "sentiment": "Neutral",
+  "confidence": "low",
+  "reason": "SVEEP voter awareness, routine election activity."
+ },
+ {
+  "story_id": 442,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "medium",
+  "reason": "Legal services authority advice on fraud calls, no state decision (Lesson 27)."
+ },
+ {
+  "story_id": 445,
+  "sentiment": "Neutral",
+  "confidence": "low",
+  "reason": "Census awareness drive, routine (Lesson 23)."
+ },
+ {
+  "story_id": 446,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Guest faculty dharna at state university into tenth day."
+ },
+ {
+  "story_id": 453,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "low",
+  "reason": "University honours its faculty; no government role."
+ },
+ {
+  "story_id": 458,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Three arrested by police (Lesson 1)."
+ },
+ {
+  "story_id": 459,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Appeal to the Union External Affairs Minister about Greece, no state role."
+ },
+ {
+  "story_id": 470,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Case registered over stubble fire with no arrest (Lesson 15)."
+ },
+ {
+  "story_id": 471,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "Three held with banned items at jail (Lesson 1)."
+ },
+ {
+  "story_id": 475,
+  "sentiment": "Neutral",
+  "confidence": "low",
+  "reason": "FIR on complaint against singer, no arrest (Lesson 15)."
+ },
+ {
+  "story_id": 478,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "Arrest of the accused is in the headline's own sentence (Lesson 1)."
+ },
+ {
+  "story_id": 482,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "Same story as 478, arrest in the headline."
+ },
+ {
+  "story_id": 484,
+  "sentiment": "Neutral",
+  "confidence": "low",
+  "reason": "Same story as 475, FIR with no arrest."
+ },
+ {
+  "story_id": 491,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Congress yatra is the opposition's own event (Lessons 12, 17)."
+ },
+ {
+  "story_id": 494,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Union denies joining a strike and hands letter to PSPCL, no tilt."
+ },
+ {
+  "story_id": 499,
+  "sentiment": "Negative",
+  "confidence": "low",
+  "reason": "Missing girl report is a crime report (Lesson 16)."
+ },
+ {
+  "story_id": 500,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Fraud case at police station on complaint, no arrest (Lesson 16)."
+ },
+ {
+  "story_id": 515,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "High Court petition forces administration to act on tender rules (Lesson 41)."
+ },
+ {
+  "story_id": 521,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "low",
+  "reason": "Accident with a private machine and no state failure (Lessons 24, 31)."
+ },
+ {
+  "story_id": 533,
+  "sentiment": "Positive",
+  "confidence": "low",
+  "reason": "Anti-drug activity held under Yudh Nashian Virudh."
+ },
+ {
+  "story_id": 534,
+  "sentiment": "Neutral",
+  "confidence": "low",
+  "reason": "KVK awareness camp, routine (Lesson 11)."
+ },
+ {
+  "story_id": 535,
+  "sentiment": "Neutral",
+  "confidence": "low",
+  "reason": "Seminar under a central awareness campaign, routine."
+ },
+ {
+  "story_id": 545,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Association warns of struggle if training not started, protest at inaction (Lesson 22)."
+ },
+ {
+  "story_id": 549,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Demand put to BJP manifesto committee, opposition event."
+ },
+ {
+  "story_id": 550,
+  "sentiment": "Neutral",
+  "confidence": "low",
+  "reason": "Census awareness van, routine (Lesson 23)."
+ },
+ {
+  "story_id": 553,
+  "sentiment": "Neutral",
+  "confidence": "low",
+  "reason": "MLA's courtesy to a family (Lessons 21, 30)."
+ },
+ {
+  "story_id": 561,
+  "sentiment": "Negative",
+  "confidence": "low",
+  "reason": "Theft report with no arrest (Lesson 16)."
+ },
+ {
+  "story_id": 562,
+  "sentiment": "Neutral",
+  "confidence": "low",
+  "reason": "Voter awareness drive at a school, routine."
+ },
+ {
+  "story_id": 570,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "low",
+  "reason": "Worker's fall with no state service failure recorded (Lesson 24)."
+ },
+ {
+  "story_id": 581,
+  "sentiment": "Neutral",
+  "confidence": "low",
+  "reason": "Voter registration seminar, routine."
+ },
+ {
+  "story_id": 600,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "low",
+  "reason": "University honours its faculty; no government role."
+ },
+ {
+  "story_id": 602,
+  "sentiment": "Positive",
+  "confidence": "low",
+  "reason": "AAP leader gains panchayat support, party outreach (Lesson 3)."
+ }
+]

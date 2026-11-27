@@ -1,0 +1,188 @@
+[
+ {
+  "story_id": 615,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "AAP trust chairman attending Gurpurb programmes is a courtesy/attendance item (L21, L30)."
+ },
+ {
+  "story_id": 633,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Congress leader's own pledge, opposition internal (L17)."
+ },
+ {
+  "story_id": 642,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Lead is corruption probe of 100+ senior govt officers, a failing of the state machinery."
+ },
+ {
+  "story_id": 745,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Column's lead criticises govt reshuffling officers before elections."
+ },
+ {
+  "story_id": 768,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Sant Seechewal's letter to the Union minister about Greece murders has no state govt role."
+ },
+ {
+  "story_id": 770,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "DSP's routine remark on law and order at a felicitation, no action in the lead (L21)."
+ },
+ {
+  "story_id": 121,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "State Information Commission observing Constitution Day, routine with no tilt."
+ },
+ {
+  "story_id": 122,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Sikh Vidayak Board's private educational event."
+ },
+ {
+  "story_id": 123,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Routine appointment at state utility PSTCL, no tilt."
+ },
+ {
+  "story_id": 124,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "ED attachment of a private firm's assets, central agency (L5)."
+ },
+ {
+  "story_id": 203,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Harsimrat accuses AAP of using PRTC buses and stranding commuters."
+ },
+ {
+  "story_id": 204,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Sukhbir's own promises, opposition event in the headline (L17)."
+ },
+ {
+  "story_id": 278,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Warris Punjab De's own induction campaign leads; attack on AAP only in body (L17)."
+ },
+ {
+  "story_id": 279,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "low",
+  "reason": "Feature on farmer unions' strength, no government action or failure in the lead."
+ },
+ {
+  "story_id": 137,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "AAP's women-voter poll pitch and Kejriwal outreach (L3, AAP organisation & outreach)."
+ },
+ {
+  "story_id": 138,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "Continuation of the Moga rally women's scheme outreach."
+ },
+ {
+  "story_id": 139,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "AAP slams last-minute certificate rule in Chandigarh polls, an AAP attack on its rivals (L2)."
+ },
+ {
+  "story_id": 140,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Kejriwal claims 2 lakh at AAP's Moga rally (L28)."
+ },
+ {
+  "story_id": 141,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "CM Mann tears into Akali-BJP alliance, AAP counter-attack (L2), aap_voice true."
+ },
+ {
+  "story_id": 142,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Mann launches Smart Ration Card scheme, delivery."
+ },
+ {
+  "story_id": 182,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Opposition accuses AAP of misusing public funds and state machinery."
+ },
+ {
+  "story_id": 248,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "BJP's own manifesto feedback vans (L12)."
+ },
+ {
+  "story_id": 281,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "low",
+  "reason": "Farmer unions' statement about all parties, no govt action in the lead."
+ },
+ {
+  "story_id": 27,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Mann says 2 lakh gathered at AAP's Moga rally (L28)."
+ },
+ {
+  "story_id": 30,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Tarn Taran police recovered heroin and pistols, seizure by Punjab Police (L1)."
+ },
+ {
+  "story_id": 31,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Accused escaping police custody is a policing failure."
+ },
+ {
+  "story_id": 161,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Congress leader Pargat Singh's own constitution speech, opposition internal."
+ },
+ {
+  "story_id": 189,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Alliance leader's praise of Akali-BJP alliance, opposition's own event (L17)."
+ },
+ {
+  "story_id": 215,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "BJP's Sarin leads with rally giving nothing to farmers, youth and employees."
+ },
+ {
+  "story_id": 216,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "BJP's own manifesto process (L17)."
+ },
+ {
+  "story_id": 262,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "medium",
+  "reason": "BSP's own claim to form government; attack on drugs and debt is not the headline's lead (L17)."
+ }
+]

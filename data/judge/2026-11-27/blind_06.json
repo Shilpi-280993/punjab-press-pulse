@@ -1,0 +1,200 @@
+[
+ {
+  "story_id": 144,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Mann's rally with attack on SAD, Congress, BJP (Lesson 2/28)."
+ },
+ {
+  "story_id": 151,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Fatal mishap at AAP's own rally reflects badly on the event."
+ },
+ {
+  "story_id": 282,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Farmers' union rally criticising Centre; headline states its stance only (Lesson 6)."
+ },
+ {
+  "story_id": 783,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Crash headline carries Congress blaming govt over mining trucks."
+ },
+ {
+  "story_id": 785,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "General opinion piece on women's tickets, no govt angle."
+ },
+ {
+  "story_id": 801,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "medium",
+  "reason": "BSF recovery with no Punjab Police role (Lesson 25)."
+ },
+ {
+  "story_id": 804,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Police arrest and seizure of tablets (Lesson 1)."
+ },
+ {
+  "story_id": 811,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "AAP MLA's courtesy support for a family, Lesson 21."
+ },
+ {
+  "story_id": 812,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Planned civil defence drill notice, Lesson 21."
+ },
+ {
+  "story_id": 818,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Police advisory only, no action."
+ },
+ {
+  "story_id": 819,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Headline leads with villagers' claim over credit, not the seizure."
+ },
+ {
+  "story_id": 834,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Complaint of slow police action (Lesson 22)."
+ },
+ {
+  "story_id": 835,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Crime report with no arrest (Lesson 16)."
+ },
+ {
+  "story_id": 837,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "State inter-district games held and reported (Lesson 37)."
+ },
+ {
+  "story_id": 859,
+  "sentiment": "Neutral",
+  "confidence": "low",
+  "reason": "Farmers' protest anniversary notice, no stated target in headline."
+ },
+ {
+  "story_id": 112,
+  "sentiment": "Neutral",
+  "confidence": "high",
+  "reason": "EC order and routine transfers."
+ },
+ {
+  "story_id": 113,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Centre's appointment of its own counsel, no Punjab govt role."
+ },
+ {
+  "story_id": 114,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Court rejects CM's wife's suit, a setback for the CM's family."
+ },
+ {
+  "story_id": 115,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "HC ruling on a UPSC candidate's medical exam, no Punjab govt role."
+ },
+ {
+  "story_id": 116,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "ED attachment in a Noida-based fraud case, no Punjab link (Lesson 5)."
+ },
+ {
+  "story_id": 117,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "ED questions Punjab officials in Bhullar case (Lesson 13)."
+ },
+ {
+  "story_id": 177,
+  "sentiment": "Neutral",
+  "confidence": "low",
+  "reason": "Congress statement ruling out an AAP pact, no tilt."
+ },
+ {
+  "story_id": 202,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "BJP seat demand, opposition internal (Lesson 4)."
+ },
+ {
+  "story_id": 275,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Party's own stance, attack not the headline's lead (Lesson 6)."
+ },
+ {
+  "story_id": 125,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "AAP campaign launch with promises kept (Lesson 28)."
+ },
+ {
+  "story_id": 126,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Fatal mishap at AAP's rally."
+ },
+ {
+  "story_id": 127,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Fatal mishap at AAP's event."
+ },
+ {
+  "story_id": 128,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Mann attacks BJP on farm laws, AAP counter-attack (Lesson 2)."
+ },
+ {
+  "story_id": 129,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "MLA summoned by ED, Lesson 13."
+ },
+ {
+  "story_id": 134,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Drug seizure from chemist (Lesson 1)."
+ },
+ {
+  "story_id": 135,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Drug dealer's property razed (Lesson 1)."
+ },
+ {
+  "story_id": 136,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "GMADA plan to acquire land, no delivery yet."
+ },
+ {
+  "story_id": 181,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Opposition questions govt's claim."
+ }
+]

@@ -1,0 +1,218 @@
+[
+ {
+  "story_id": 65,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Mann's development claim at AAP's Moga rally is delivery/campaign claim, Lesson 3/28."
+ },
+ {
+  "story_id": 68,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "CM launches Smart Ration Card scheme for 10 lakh beneficiaries: delivery."
+ },
+ {
+  "story_id": 168,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Channi (Congress) says Punjab worse than terrorism: opposition attack."
+ },
+ {
+  "story_id": 170,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "medium",
+  "reason": "Headline is a Congress leader praising Capt Amarinder: Opposition internal (Lesson 17)."
+ },
+ {
+  "story_id": 172,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Congress's Khaira attacking Akali-BJP alliance is opposition-versus-opposition (Lesson 4)."
+ },
+ {
+  "story_id": 231,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "BJP's Sarin says Mann and Kejriwal silent on questions: opposition attack."
+ },
+ {
+  "story_id": 232,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "BJP leader's family wedding, no government angle."
+ },
+ {
+  "story_id": 1057,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "Police recovered two pistols and cartridges: recovery (Lesson 1)."
+ },
+ {
+  "story_id": 1058,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "BJP leader Bhaowal meeting Chouhan: opposition internal."
+ },
+ {
+  "story_id": 1062,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "District effort to promote census self-enumeration is routine administration (Lesson 21/23)."
+ },
+ {
+  "story_id": 1066,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Last accused arrested in overdose death case: arrest (Lesson 1)."
+ },
+ {
+  "story_id": 1067,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Farmer union's own anniversary event (Lesson 31)."
+ },
+ {
+  "story_id": 1069,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "SSP's advisory on fake job traps is an appeal, no action (Lesson 21)."
+ },
+ {
+  "story_id": 1071,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Theft arrest and 11 bottles liquor recovered: Lesson 1."
+ },
+ {
+  "story_id": 1073,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "Snatching accused arrested: arrest in the lead."
+ },
+ {
+  "story_id": 1077,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "low",
+  "reason": "Generic civic-poll campaign talk about candidates, no AAP or government role."
+ },
+ {
+  "story_id": 1085,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "FIR on a land fraud complaint, no arrest: crime report (Lesson 16)."
+ },
+ {
+  "story_id": 1088,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "medium",
+  "reason": "Congress leaders taunting Akali-BJP alliance: opposition versus opposition."
+ },
+ {
+  "story_id": 1090,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "AAP leader joins AAP's Moga rally: party mobilisation (Lesson 28)."
+ },
+ {
+  "story_id": 1092,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Congress leaders condemn Akali-BJP alliance: opposition versus opposition."
+ },
+ {
+  "story_id": 1096,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Planned highway drive only (Lesson 21/38)."
+ },
+ {
+  "story_id": 1098,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Commissioner's directive/warning to chemists, no action reported."
+ },
+ {
+  "story_id": 1099,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Sukhbir Badal's own traders' event, opposition internal."
+ },
+ {
+  "story_id": 1101,
+  "sentiment": "Neutral",
+  "confidence": "low",
+  "reason": "Farmer union announces its strategy; headline states own stance without naming govt (Lesson 6/17)."
+ },
+ {
+  "story_id": 1102,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Power connection cut at driving test centre over unpaid bill: civic failure of a state facility."
+ },
+ {
+  "story_id": 1105,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "BJP's own election preparations: opposition internal."
+ },
+ {
+  "story_id": 1109,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Nodal officer's routine meeting with officials (Lesson 21)."
+ },
+ {
+  "story_id": 1114,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "medium",
+  "reason": "Cracks in an NHAI highway flyover with no Punjab govt role (Lesson 5)."
+ },
+ {
+  "story_id": 1122,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "SSP inaugurates control room: completed act (Lesson 42)."
+ },
+ {
+  "story_id": 1125,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Notice of planned maintenance power cut, no failure."
+ },
+ {
+  "story_id": 1126,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "low",
+  "reason": "Parties' ticket aspirants in Ferozepur: party affairs, not government."
+ },
+ {
+  "story_id": 1137,
+  "sentiment": "Neutral",
+  "confidence": "low",
+  "reason": "Association's demand for free Mela Maghi tickets, no stated govt failure."
+ },
+ {
+  "story_id": 1144,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "medium",
+  "reason": "Railway employees' protest against a central employer (Lesson 5)."
+ },
+ {
+  "story_id": 1145,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Kabaddi player's personal achievement."
+ },
+ {
+  "story_id": 1155,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "Authorities cancel immigration firm's licence: enforcement action completed."
+ },
+ {
+  "story_id": 1174,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Sukhbir Badal targets AAP's Moga rally and public money waste in the headline."
+ }
+]

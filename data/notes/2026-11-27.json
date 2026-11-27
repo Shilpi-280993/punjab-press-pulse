@@ -1,0 +1,33 @@
+{
+ "validation": "Sentiment checked blind by a second model (Sonnet) on a sample of 224 of the 1,147 stories (every low-confidence row plus 100 at random), with Claude Fable 5.2 ruling on every disagreement: the check agreed with the coding on 185 (82.6%, under the 85% mark, because the low-confidence rows split; 97 of the 100 random rows agreed); after review 20 labels were changed and 3 more copies of the same stories were aligned with those rulings.",
+ "sources": "The monitoring deck's 283 clippings (slides 18 to 294), plus 1,031 stories the deck missed from every page of Dainik Savera (including its district pages), The Savera Times (including its district editions) and the District Front Page file (Punjabi Tribune, Rozana Spokesman, Punjabi Jagran and Dainik Jagran district pages); 167 repeated copies (the deck carried some clippings in two or three sections, Dainik Savera printed 14 district pages twice and The Savera Times' district editions share pages) are marked as duplicates. WhatsApp's folder could not be read on the Mac today, so the files were taken from Downloads, where all of the day's editions had arrived; the other papers' main editions are covered by the deck. Relevant = about AAP, the Punjab government or a state matter; news of the SAD-BJP alliance itself is counted as opposition news.",
+ "takeaway": "{negative_share} of the {relevant} relevant stories were negative and {positive_share} positive. AAP's Khushhaal Punjab rally in Moga led the day with 75 stories in all 14 papers, on the front page of 13, 71 of them positive, and the Smart Ration Card launch there was positive in 9 papers. Against it, 37 negative stories in 13 papers attacked the rally's cost, the buses diverted for it and the detention of protesting employees and jobless youth, while crime (103 of 130 stories negative) and employee protests kept the negatives level with the positives.",
+ "well": [
+  [
+   "The Moga rally dominated the front pages.",
+   "75 stories in all 14 papers covered the rally, 18 of them on the front pages of 13 papers, and 71 were positive; all 9 AAP counter-attack stories, led by Mann's 'alliance for the chair' attack on the SAD-BJP pact, were positive."
+  ],
+  [
+   "The Smart Ration Card launch reached 9 papers.",
+   "All 9 stories on the scheme for 10 lakh new beneficiaries were positive, and 14 of 16 welfare scheme stories were positive."
+  ],
+  [
+   "Police action stayed positive.",
+   "134 of 139 police action stories in 11 papers were positive, including the Gangsters te Var day 310 tally of 505 raids and 158 arrests in 5 papers."
+  ]
+ ],
+ "improve": [
+  [
+   "The rally's cost and logistics drew fire.",
+   "37 negative stories in 13 papers attacked the rally: public money spent on it, buses diverted and passengers stranded (7 stories in 7 papers), and employees and jobless youth detained to keep them away (6 stories in 4 papers); a coffee machine blast that killed a worker at the rally ground added 6 negative stories in 5 papers."
+  ],
+  [
+   "The BJP led the opposition's attacks.",
+   "51 opposition attack stories ran in 14 papers, 25 of them from the BJP, 15 from Congress and 7 from SAD; Sunil Jakhar's attacks drew 5 negative stories in 5 papers."
+  ],
+  [
+   "Crime and protests stayed negative.",
+   "103 of 130 crime stories were negative, 38 of 43 employee protest stories were negative (in 6 papers), and 51 of 85 civic stories were negative."
+  ]
+ ]
+}

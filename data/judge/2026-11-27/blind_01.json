@@ -1,0 +1,225 @@
+[
+ {
+  "story_id": 2,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Lesson 28: AAP Moga rally promotion, AAP organisation & outreach."
+ },
+ {
+  "story_id": 5,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Sisodia credits the Punjab government's health and education work, a campaign claim at AAP's rally."
+ },
+ {
+  "story_id": 8,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Cheema says five guarantees were fulfilled; government delivery claim."
+ },
+ {
+  "story_id": 10,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Lesson 31: a union's own national meeting, no government decision."
+ },
+ {
+  "story_id": 11,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Murder by a drug-addicted son leads; crime report under Lesson 16, no arrest in lead."
+ },
+ {
+  "story_id": 22,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Lesson 21: a party appointment (block president) is an internal courtesy, not outreach."
+ },
+ {
+  "story_id": 208,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Lesson 4: analysis of Akali-BJP alliance equations, opposition internal."
+ },
+ {
+  "story_id": 210,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Lesson 4: a BJP leader meets Sukhbir Badal, opposition internal."
+ },
+ {
+  "story_id": 87,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Routine SCERT schedule for pre-primary assessment, Lesson 21."
+ },
+ {
+  "story_id": 90,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Lesson 1: 505 raids and 158 arrests."
+ },
+ {
+  "story_id": 92,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Plan and order for digital verification of schools, a future measure under Lesson 21."
+ },
+ {
+  "story_id": 93,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Mann announces 55 lakh health cards issued, scheme delivery."
+ },
+ {
+  "story_id": 95,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "medium",
+  "reason": "Lesson 24: a coffee machine accident at the rally with no state failure recorded."
+ },
+ {
+  "story_id": 97,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Lesson 13: ED questioning of a Punjab SSP in the Bhullar case."
+ },
+ {
+  "story_id": 98,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Demolition of a drug smuggler's property is always Positive."
+ },
+ {
+  "story_id": 234,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "BJP chief Dhillon attacks the Moga rally and AAP government; opposition attack in the lead."
+ },
+ {
+  "story_id": 235,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Lesson 4: Captain Amarinder's standing in BJP, opposition internal."
+ },
+ {
+  "story_id": 75,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "High Court land-possession ruling, with the state as a party but no tilt (Lesson 43 style)."
+ },
+ {
+  "story_id": 82,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Lesson 41: High Court seeks DGP report on 256 recoveries in a state jail."
+ },
+ {
+  "story_id": 1185,
+  "sentiment": "Neutral",
+  "confidence": "low",
+  "reason": "Court reserves bail verdict at a hearing, Lesson 11."
+ },
+ {
+  "story_id": 1191,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "medium",
+  "reason": "Lesson 17: headline carries the Akali-BJP workers' event; the attack on AAP is only in the strap.",
+  "headline_fix": "Akali Dal and BJP workers seen together for first time after alliance; Ashwani Sharma welcomes Akali leaders, corners AAP govt on drugs and law and order"
+ },
+ {
+  "story_id": 1199,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "medium",
+  "reason": "Lesson 24: lineman fell while working on a transformer, no state failure stated."
+ },
+ {
+  "story_id": 1208,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Routine written exam for police recruitment begins, Lesson 21."
+ },
+ {
+  "story_id": 1215,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "Administration cancels an immigration firm's licence after a probe, completed action in the lead."
+ },
+ {
+  "story_id": 1222,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "medium",
+  "reason": "Lesson 24: rally machine accident with no state service failure, same as the Bhaskar copy."
+ },
+ {
+  "story_id": 1230,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Lesson 37: result at Khedan Watan Punjab Diyan named in the headline."
+ },
+ {
+  "story_id": 1236,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "Lesson 42: jail recovery of heroin from an inmate is a completed act."
+ },
+ {
+  "story_id": 1245,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "high",
+  "reason": "Lesson 24: a fire in straw bales with no state failure."
+ },
+ {
+  "story_id": 1247,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "medium",
+  "reason": "A national handball championship is a sports body's event, no state action stated."
+ },
+ {
+  "story_id": 1251,
+  "sentiment": "Neutral",
+  "confidence": "low",
+  "reason": "FIR over hurt sentiments with no arrest or state failure; Lesson 15 style."
+ },
+ {
+  "story_id": 1263,
+  "sentiment": "Negative",
+  "confidence": "medium",
+  "reason": "Highway called a death trap with overloaded vehicles; civic failure, Lesson 22."
+ },
+ {
+  "story_id": 1264,
+  "sentiment": "Positive",
+  "confidence": "medium",
+  "reason": "A government hospital (PIMS) now lists all insurance companies, new service reaching patients."
+ },
+ {
+  "story_id": 1266,
+  "sentiment": "Positive",
+  "confidence": "high",
+  "reason": "Lesson 32: drug drive under way with 133 users admitted."
+ },
+ {
+  "story_id": 1270,
+  "sentiment": "Negative",
+  "confidence": "high",
+  "reason": "Power cuts of three hours, a civic or service failure."
+ },
+ {
+  "story_id": 1280,
+  "sentiment": "Not about AAP/Govt",
+  "confidence": "medium",
+  "reason": "Lesson 5: national highway flyover repair, no Punjab government role in the headline."
+ },
+ {
+  "story_id": 1281,
+  "sentiment": "Neutral",
+  "confidence": "medium",
+  "reason": "Routine civil defence mock drill notice, Lesson 21."
+ },
+ {
+  "story_id": 1302,
+  "sentiment": "Neutral",
+  "confidence": "low",
+  "reason": "Cases registered against farmers for stubble burning, no arrest or seizure, Lesson 15."
+ }
+]

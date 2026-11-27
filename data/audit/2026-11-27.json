@@ -1,0 +1,146 @@
+{
+ "date": "2026-11-27",
+ "judge": "Claude Fable 5.2",
+ "rows_judged": 224,
+ "blind_agreement": 185,
+ "agreement_rate": 0.8259,
+ "disagreements": 39,
+ "sentiment_changed": 20,
+ "coder_kept": 19,
+ "patterns": [
+  {
+   "before": "Negative",
+   "after": "Neutral",
+   "rule": "new case",
+   "count": 3
+  },
+  {
+   "before": "Not about AAP/Govt",
+   "after": "Negative",
+   "rule": "new case",
+   "count": 2
+  },
+  {
+   "before": "Not about AAP/Govt",
+   "after": "Neutral",
+   "rule": "new case",
+   "count": 2
+  },
+  {
+   "before": "Not about AAP/Govt",
+   "after": "Neutral",
+   "rule": "Lesson 36",
+   "count": 1
+  },
+  {
+   "before": "Positive",
+   "after": "Neutral",
+   "rule": "Lesson 11",
+   "count": 1
+  },
+  {
+   "before": "Negative",
+   "after": "Not about AAP/Govt",
+   "rule": "Lesson 4",
+   "count": 1
+  },
+  {
+   "before": "Neutral",
+   "after": "Negative",
+   "rule": "Lesson 41",
+   "count": 1
+  },
+  {
+   "before": "Negative",
+   "after": "Not about AAP/Govt",
+   "rule": "Lesson 17",
+   "count": 1
+  },
+  {
+   "before": "Neutral",
+   "after": "Not about AAP/Govt",
+   "rule": "Relevance",
+   "count": 1
+  },
+  {
+   "before": "Positive",
+   "after": "Neutral",
+   "rule": "Lesson 15",
+   "count": 1
+  },
+  {
+   "before": "Neutral",
+   "after": "Not about AAP/Govt",
+   "rule": "Lesson 9",
+   "count": 1
+  },
+  {
+   "before": "Positive",
+   "after": "Not about AAP/Govt",
+   "rule": "Lesson 4",
+   "count": 1
+  },
+  {
+   "before": "Neutral",
+   "after": "Positive",
+   "rule": "Lesson 42",
+   "count": 1
+  },
+  {
+   "before": "Negative",
+   "after": "Neutral",
+   "rule": "Lesson 6",
+   "count": 1
+  },
+  {
+   "before": "Negative",
+   "after": "Neutral",
+   "rule": "Lesson 22",
+   "count": 1
+  },
+  {
+   "before": "Negative",
+   "after": "Not about AAP/Govt",
+   "rule": "Lesson 24",
+   "count": 1
+  }
+ ],
+ "new_cases": [
+  {
+   "story_id": 126,
+   "reason": "One ruling for every copy of the Moga coffee-machine explosion (rows 95, 126, 127, 151, 521, 1222 and any other copy): Negative. The blast killed a catering worker at a stall the event's own contractor set up at the AAP rally / Punjab govt ration-card event ground, so the organiser owns the mishap; it is not a stray private accident under Lessons 24 and 31. Code alike whether or not the headline names the rally. TOI page 1 brief: worker died at a food stall set up for media ahead of the Punjab govt smart ration card event."
+  },
+  {
+   "story_id": 127,
+   "reason": "One ruling for every copy of the Moga coffee-machine explosion (rows 95, 126, 127, 151, 521, 1222 and any other copy): Negative. The blast killed a catering worker at a stall the event's own contractor set up at the AAP rally / Punjab govt ration-card event ground, so the organiser owns the mishap; it is not a stray private accident under Lessons 24 and 31. Code alike whether or not the headline names the rally. TOI page 2: worker hired by the event contractor died; tent ripped, forensic team called."
+  },
+  {
+   "story_id": 177,
+   "reason": "Headline's subject is AAP (Congress rules out a pact with it) and carries no attack; not only the opposition's own event, so Lesson 17 does not remove it. A rival party's headline stance toward AAP with no attack is relevant and Neutral, by analogy with Lesson 6."
+  },
+  {
+   "story_id": 275,
+   "reason": "Same test as row 177: the headline names AAP as the party's main rival but makes no attack; Tarsem Singh's drug charge against the AAP govt is only in the last paragraph."
+  },
+  {
+   "story_id": 475,
+   "reason": "One ruling for all three copies (475, 484, 1251): the FIR is for a speech offence (a singer's remarks on deities in a live show video) lodged on an organisation leader's complaint, with no arrest. It is not a street-crime report of the Lesson 16 kind and not a Lesson 1 Positive; a case registered with no arrest is Neutral (Lesson 15). "
+  },
+  {
+   "story_id": 484,
+   "reason": "One ruling for all three copies (475, 484, 1251): the FIR is for a speech offence (a singer's remarks on deities in a live show video) lodged on an organisation leader's complaint, with no arrest. It is not a street-crime report of the Lesson 16 kind and not a Lesson 1 Positive; a case registered with no arrest is Neutral (Lesson 15). Same item as row 475."
+  },
+  {
+   "story_id": 521,
+   "reason": "One ruling for every copy of the Moga coffee-machine explosion (rows 95, 126, 127, 151, 521, 1222 and any other copy): Negative. The blast killed a catering worker at a stall the event's own contractor set up at the AAP rally / Punjab govt ration-card event ground, so the organiser owns the mishap; it is not a stray private accident under Lessons 24 and 31. Code alike whether or not the headline names the rally. Savera's body places it at the AAP Khushhaal Punjab rally site in Moga."
+  },
+  {
+   "story_id": 1222,
+   "reason": "One ruling for every copy of the Moga coffee-machine explosion (rows 95, 126, 127, 151, 521, 1222 and any other copy): Negative. The blast killed a catering worker at a stall the event's own contractor set up at the AAP rally / Punjab govt ration-card event ground, so the organiser owns the mishap; it is not a stray private accident under Lessons 24 and 31. Code alike whether or not the headline names the rally. Jagran's headline names the rally site."
+  },
+  {
+   "story_id": 1251,
+   "reason": "One ruling for all three copies (475, 484, 1251): the FIR is for a speech offence (a singer's remarks on deities in a live show video) lodged on an organisation leader's complaint, with no arrest. It is not a street-crime report of the Lesson 16 kind and not a Lesson 1 Positive; a case registered with no arrest is Neutral (Lesson 15). Same story as rows 475 and 484."
+  }
+ ]
+}

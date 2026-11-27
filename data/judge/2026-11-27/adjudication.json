@@ -1,0 +1,266 @@
+[
+ {
+  "story_id": 39,
+  "final": "Neutral",
+  "reason": "Headline has no tilt or speaker; strap is Congress moving the High Court, photo and box are AAP's press conference (Vijay Pal). AAP is a principal actor so the row is relevant, but strap and lead are mixed, so Lesson 36 does not make it a Positive counter-attack.",
+  "rule": "Lesson 36",
+  "theme_group": "Governance, Assembly & politics",
+  "detailed_theme": "Election Commission"
+ },
+ {
+  "story_id": 114,
+  "final": "Neutral",
+  "reason": "Civil court rejects the CM's wife's private defamation plaint against a retired judge as disclosing no cause of action. A procedural ruling in a private suit, not a rebuke of the government.",
+  "rule": "Lesson 11"
+ },
+ {
+  "story_id": 126,
+  "final": "Negative",
+  "reason": "One ruling for every copy of the Moga coffee-machine explosion (rows 95, 126, 127, 151, 521, 1222 and any other copy): Negative. The blast killed a catering worker at a stall the event's own contractor set up at the AAP rally / Punjab govt ration-card event ground, so the organiser owns the mishap; it is not a stray private accident under Lessons 24 and 31. Code alike whether or not the headline names the rally. TOI page 1 brief: worker died at a food stall set up for media ahead of the Punjab govt smart ration card event.",
+  "rule": "new case",
+  "theme_group": "AAP organisation & outreach",
+  "detailed_theme": "Rally accident"
+ },
+ {
+  "story_id": 127,
+  "final": "Negative",
+  "reason": "One ruling for every copy of the Moga coffee-machine explosion (rows 95, 126, 127, 151, 521, 1222 and any other copy): Negative. The blast killed a catering worker at a stall the event's own contractor set up at the AAP rally / Punjab govt ration-card event ground, so the organiser owns the mishap; it is not a stray private accident under Lessons 24 and 31. Code alike whether or not the headline names the rally. TOI page 2: worker hired by the event contractor died; tent ripped, forensic team called.",
+  "rule": "new case",
+  "theme_group": "AAP organisation & outreach",
+  "detailed_theme": "Rally accident"
+ },
+ {
+  "story_id": 177,
+  "final": "Neutral",
+  "reason": "Headline's subject is AAP (Congress rules out a pact with it) and carries no attack; not only the opposition's own event, so Lesson 17 does not remove it. A rival party's headline stance toward AAP with no attack is relevant and Neutral, by analogy with Lesson 6.",
+  "rule": "new case",
+  "theme_group": "Governance, Assembly & politics",
+  "detailed_theme": "Election politics"
+ },
+ {
+  "story_id": 275,
+  "final": "Neutral",
+  "reason": "Same test as row 177: the headline names AAP as the party's main rival but makes no attack; Tarsem Singh's drug charge against the AAP govt is only in the last paragraph.",
+  "rule": "new case",
+  "theme_group": "Governance, Assembly & politics",
+  "detailed_theme": "Election politics"
+ },
+ {
+  "story_id": 281,
+  "final": "Neutral",
+  "reason": "SKM farmer unions (a non-party front) state their own stance: they will question all parties, AAP included. Criticism of the AAP govt is in the body, not the headline's lead.",
+  "rule": "Lesson 6"
+ },
+ {
+  "story_id": 308,
+  "final": "Not about AAP/Govt",
+  "reason": "Body shows BSF jawans handed the packet to the Rajatal police post by letter; police only opened it and registered the FIR. Row 468 (same item on Kapurthala 2) should match.",
+  "rule": "Lesson 29"
+ },
+ {
+  "story_id": 365,
+  "final": "Neutral",
+  "reason": "Awareness camp by PAU's Krishi Vigyan Kendra, an autonomous university body; routine extension activity with no state government delivery in the lead.",
+  "rule": "Lesson 11"
+ },
+ {
+  "story_id": 367,
+  "final": "Not about AAP/Govt",
+  "reason": "Congress leader attacks the Akali-BJP alliance; opposition versus opposition, no AAP angle in the headline.",
+  "rule": "Lesson 4",
+  "theme_group": "",
+  "detailed_theme": "Opposition internal"
+ },
+ {
+  "story_id": 391,
+  "final": "Negative",
+  "reason": "Main line is a tribute, but the boxed sub-head leads with governments' promises (school naming, stadium) unfulfilled 20 years on; the family built the memorial at its own cost.",
+  "rule": "Lesson 41"
+ },
+ {
+  "story_id": 408,
+  "final": "Not about AAP/Govt",
+  "reason": "Headline and strap carry only the Congress organisational expansion and appointment letters; Gilzian's attack on the AAP govt is in the body.",
+  "rule": "Lesson 17",
+  "theme_group": "",
+  "detailed_theme": "Opposition internal"
+ },
+ {
+  "story_id": 426,
+  "final": "Not about AAP/Govt",
+  "reason": "A Rotary Club drive under Rotary's own End Polio Now campaign, run by club volunteers; the item credits no health department role, so Lesson 32 does not apply.",
+  "rule": "Lesson 31"
+ },
+ {
+  "story_id": 470,
+  "final": "Negative",
+  "reason": "FIR on the victim's complaint against a named man and an unknown person for torching his stubble bundles and threatening him; no arrest.",
+  "rule": "Lesson 16"
+ },
+ {
+  "story_id": 475,
+  "final": "Neutral",
+  "reason": "One ruling for all three copies (475, 484, 1251): the FIR is for a speech offence (a singer's remarks on deities in a live show video) lodged on an organisation leader's complaint, with no arrest. It is not a street-crime report of the Lesson 16 kind and not a Lesson 1 Positive; a case registered with no arrest is Neutral (Lesson 15). ",
+  "rule": "new case"
+ },
+ {
+  "story_id": 484,
+  "final": "Neutral",
+  "reason": "One ruling for all three copies (475, 484, 1251): the FIR is for a speech offence (a singer's remarks on deities in a live show video) lodged on an organisation leader's complaint, with no arrest. It is not a street-crime report of the Lesson 16 kind and not a Lesson 1 Positive; a case registered with no arrest is Neutral (Lesson 15). Same item as row 475.",
+  "rule": "new case"
+ },
+ {
+  "story_id": 521,
+  "final": "Negative",
+  "reason": "One ruling for every copy of the Moga coffee-machine explosion (rows 95, 126, 127, 151, 521, 1222 and any other copy): Negative. The blast killed a catering worker at a stall the event's own contractor set up at the AAP rally / Punjab govt ration-card event ground, so the organiser owns the mishap; it is not a stray private accident under Lessons 24 and 31. Code alike whether or not the headline names the rally. Savera's body places it at the AAP Khushhaal Punjab rally site in Moga.",
+  "rule": "new case",
+  "theme_group": "AAP organisation & outreach",
+  "detailed_theme": "Rally accident"
+ },
+ {
+  "story_id": 600,
+  "final": "Neutral",
+  "reason": "A state university honouring its own faculty; relevant as a state institution but no government delivery in the lead.",
+  "rule": "Lesson 11"
+ },
+ {
+  "story_id": 602,
+  "final": "Neutral",
+  "reason": "A panchayat garlands an AAP ticket aspirant and pledges support if he gets the ticket: an internal felicitation, not a party outreach meeting.",
+  "rule": "Lesson 21"
+ },
+ {
+  "story_id": 745,
+  "final": "Neutral",
+  "reason": "The column says every government reshuffles officers before elections and goes on to praise the new Jalandhar officers; no criticism in headline or body.",
+  "rule": "Lesson 41"
+ },
+ {
+  "story_id": 785,
+  "final": "Not about AAP/Govt",
+  "reason": "General opinion piece on parties' tickets to women; no government decision, delivery or failure. (Ruled on headline and both classifiers' notes.)",
+  "rule": "Relevance",
+  "theme_group": "",
+  "detailed_theme": "Others"
+ },
+ {
+  "story_id": 819,
+  "final": "Neutral",
+  "reason": "Headline leads with villagers disputing the police account; the box says the FIR omits their alleged role. The seizure is not the lead, so not a Lesson 1 Positive.",
+  "rule": "Lesson 15",
+  "theme_group": "Crime & law and order",
+  "detailed_theme": "Law & order / crime"
+ },
+ {
+  "story_id": 929,
+  "final": "Not about AAP/Govt",
+  "reason": "Panchkula dateline: Haryana power utility dues to be recovered through tehsildars; no Punjab government role.",
+  "rule": "Lesson 9",
+  "theme_group": "",
+  "detailed_theme": "Others"
+ },
+ {
+  "story_id": 952,
+  "final": "Neutral",
+  "reason": "Patiala municipal corporation poll campaign colour piece; code like the other Patiala civic poll rows (854, 945), which are Neutral.",
+  "rule": "Lesson 21"
+ },
+ {
+  "story_id": 958,
+  "final": "Not about AAP/Govt",
+  "reason": "Speakers are Akali Dal Waris Punjab De leaders, not AAP, attacking the SAD-BJP pact: opposition versus opposition.",
+  "rule": "Lesson 4",
+  "theme_group": "",
+  "detailed_theme": "Opposition internal"
+ },
+ {
+  "story_id": 988,
+  "final": "Positive",
+  "reason": "Both classifiers agree: pothole-free drive under way with premix work started.",
+  "rule": "Lesson 42"
+ },
+ {
+  "story_id": 1009,
+  "final": "Positive",
+  "reason": "Headline carries a completed act: about 2,000 PRTC outsourced staff appointed on contract and the strike withdrawn. The body's 'government forced to bow' framing is not the lead.",
+  "rule": "Lesson 42"
+ },
+ {
+  "story_id": 1067,
+  "final": "Neutral",
+  "reason": "Farmer union's anniversary gathering; headline states only the event. Matches row 1014 (same event, Neutral) and row 281.",
+  "rule": "Lesson 6"
+ },
+ {
+  "story_id": 1077,
+  "final": "Neutral",
+  "reason": "Patiala civic poll campaign feature; code like rows 854, 945 and 952. (Ruled on headline for consistency.)",
+  "rule": "Lesson 21"
+ },
+ {
+  "story_id": 1101,
+  "final": "Neutral",
+  "reason": "Headline announces the union's own strategy against unnamed promise-breakers; the body blames both the Centre and the Punjab government. Same SKM event as row 281.",
+  "rule": "Lesson 6"
+ },
+ {
+  "story_id": 1126,
+  "final": "Neutral",
+  "reason": "The item is about AAP's own ticket race in Ferozepur (15 claimants including the sitting MLA), so it is relevant; no tilt in the headline.",
+  "rule": "Lesson 21"
+ },
+ {
+  "story_id": 1137,
+  "final": "Neutral",
+  "reason": "A standing demand for free Mela Maghi tickets; the item records no government decision, refusal or failure.",
+  "rule": "Lesson 22"
+ },
+ {
+  "story_id": 1174,
+  "final": "Not about AAP/Govt",
+  "reason": "Main headline is Sukhbir Badal's own remark at Makkar's home; the dig at the Moga rally is only in the strap.",
+  "rule": "Lesson 17",
+  "theme_group": "",
+  "detailed_theme": "Opposition internal"
+ },
+ {
+  "story_id": 1191,
+  "final": "Not about AAP/Govt",
+  "reason": "Both classifiers agree: headline is the SAD-BJP workers' event; the attack on AAP is in the strap.",
+  "rule": "Lesson 17",
+  "theme_group": "",
+  "detailed_theme": "Opposition internal"
+ },
+ {
+  "story_id": 1199,
+  "final": "Not about AAP/Govt",
+  "reason": "Lineman fell while working on a transformer; this copy records no failure of a state service. Matches row 570; row 375 stays Negative because it raises the safety gear question.",
+  "rule": "Lesson 24",
+  "theme_group": "",
+  "detailed_theme": "Others"
+ },
+ {
+  "story_id": 1222,
+  "final": "Negative",
+  "reason": "One ruling for every copy of the Moga coffee-machine explosion (rows 95, 126, 127, 151, 521, 1222 and any other copy): Negative. The blast killed a catering worker at a stall the event's own contractor set up at the AAP rally / Punjab govt ration-card event ground, so the organiser owns the mishap; it is not a stray private accident under Lessons 24 and 31. Code alike whether or not the headline names the rally. Jagran's headline names the rally site.",
+  "rule": "new case"
+ },
+ {
+  "story_id": 1251,
+  "final": "Neutral",
+  "reason": "One ruling for all three copies (475, 484, 1251): the FIR is for a speech offence (a singer's remarks on deities in a live show video) lodged on an organisation leader's complaint, with no arrest. It is not a street-crime report of the Lesson 16 kind and not a Lesson 1 Positive; a case registered with no arrest is Neutral (Lesson 15). Same story as rows 475 and 484.",
+  "rule": "new case"
+ },
+ {
+  "story_id": 1263,
+  "final": "Not about AAP/Govt",
+  "reason": "Photo feature on an illegal divider cut on the Amritsar-Delhi National Highway where no service lane was built; an NHAI road, no state body named.",
+  "rule": "Lesson 5"
+ },
+ {
+  "story_id": 1264,
+  "final": "Neutral",
+  "reason": "PIMS's own director announces insurance empanelment; an institute notice with no state government delivery in the lead.",
+  "rule": "Lesson 11"
+ }
+]
